@@ -1,45 +1,10 @@
 [
   {
-    "id": "f257fa92-9904-414f-ae9d-ea01c990a0a7",
-    "name": "",
-    "description": ".",
-    "categories": [],
-    "developer": "Rockstar North, Rockstar Games",
-    "publisher": "Rockstar Games",
-    "release_date": "17 Eyl 2013",
-    "cover_image": "",
-    "banner_image": "",
-    "library_hero_image": "",
-    "rating": 9,
-    "size_gb": 0,
-    "tags": [
-      "Action",
-      "Singleplayer",
-      "Steam Achievements",
-      "Multiplayer",
-      "Atmospheric",
-      "First-Person"
-    ],
-    "added_date": "2026-06-22T01:26:20.835994",
-    "first_added_date": "2026-06-22T03:38:51.283696",
-    "cover_image_url": "",
-    "banner_image_url": "",
-    "library_hero_image_url": "",
-    "_last_synced": ""
-  },
-  {
-    "id": "f59e6519-d36f-4110-8794-7dd689ee505d",
-    "title": "Grand Theft Auto: San Andreas",
+    "name": "Grand Theft Auto: San Andreas",
     "description": "Grand Theft Auto - San Andreas is the seventh entry in the series in the GTA franchise, but only second big title after GTA - Vice City. Setting up in fictional state San Andreas, you follow the story of CJ, a member of one of the multiple gangs in the city. CJ's family is being attacked in drive shooting which resulted in the death of CJ's mother, so he returns to home from Liberty City. Meeting the rest of the family at his mom's funeral, he decides to rebuild the gang and gain control of the state.\n\nThe game makes a brilliant connection with missions and open world actions that you are able to do around the cities. You can steal cars, buy guns, hunt for collectables and do some side quests, while different characters give you specific missions in order to push the plot forward. Streets are filled with people as well as plenty of vehicles to steal. Fictional brands of cars, tanks, bikes are available to be stolen from any place around the city. Armoury contains pistols, rifles, hand-machine guns or a rocket launcher as well as melee weapons giving player freedom in anything he's doing in GTA.",
-    "category": "",
     "developer": "Rockstar North, War Drum Studios",
     "publisher": "Capcom, Rockstar Games, 1C-SoftClub",
     "release_date": "26 Eki 2004",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/library_hero.png",
-    "rating": 9.0,
-    "size_gb": 0.0,
     "tags": [
       "Action",
       "Singleplayer",
@@ -48,9 +13,40 @@
       "Funny",
       "Story Rich"
     ],
-    "is_active": true,
-    "raw_data": "{\"name\": \"Grand Theft Auto: San Andreas\", \"description\": \"Grand Theft Auto - San Andreas is the seventh entry in the series in the GTA franchise, but only second big title after GTA - Vice City. Setting up in fictional state San Andreas, you follow the story of CJ, a member of one of the multiple gangs in the city. CJ's family is being attacked in drive shooting which resulted in the death of CJ's mother, so he returns to home from Liberty City. Meeting the rest of the family at his mom's funeral, he decides to rebuild the gang and gain control of the state.\\n\\nThe game makes a brilliant connection with missions and open world actions that you are able to do around the cities. You can steal cars, buy guns, hunt for collectables and do some side quests, while different characters give you specific missions in order to push the plot forward. Streets are filled with people as well as plenty of vehicles to steal. Fictional brands of cars, tanks, bikes are available to be stolen from any place around the city. Armoury contains pistols, rifles, hand-machine guns or a rocket launcher as well as melee weapons giving player freedom in anything he's doing in GTA.\", \"developer\": \"Rockstar North, War Drum Studios\", \"publisher\": \"Capcom, Rockstar Games, 1C-SoftClub\", \"release_date\": \"26 Eki 2004\", \"tags\": [\"Action\", \"Singleplayer\", \"Multiplayer\", \"Atmospheric\", \"Funny\", \"Story Rich\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"2\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Microsoft® Windows® 2000/XP\\nİşlemci: 1Ghz Pentium III or AMD Athlon Processor\\nBellek: 256MB of RAM\\nEkran Kartı: 64MB Video Card (Geforce 3 veya üstü)\\nHard Drive: 3.6GB of free hard disk space (minimal install)\\nOther Requirements: Software installations required including DirectX and Sony DADC SecuROM\\nPartner Requirements: Please check the terms of service of this site before purchasing this software.\", \"sys_recommended\": \"İşlemci: Intel Pentium 4 or AMD Athlon XP Processor\\nBellek: 384MB of RAM (the more the better!)\\nEkran Kartı: 128MB (or greater) Video Card (Geforce 6 Series Recommended)\\nHard Drive: 4.7GB of free hard disk space (full install)\\nSes Kartı: DirectX 9 compatible Sound Card (Sound Blaster Auidgy 2 Recommended)\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_06.jpg\"], \"download_links\": [], \"info_items\": [], \"id\": \"f59e6519-d36f-4110-8794-7dd689ee505d\", \"added_date\": \"2026-06-22T03:39:34.143309\", \"first_added_date\": \"2026-06-22T03:39:34.143309\"}",
-    "added_at": "2026-06-22T00:40:01.017385",
-    "last_updated": "2026-06-22T00:40:01.017385"
+    "cover_image": "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f59e6519-d36f-4110-8794-7dd689ee505d\\cover.png",
+    "banner_image": "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f59e6519-d36f-4110-8794-7dd689ee505d\\banner.jpg",
+    "library_hero_image": "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f59e6519-d36f-4110-8794-7dd689ee505d\\library_hero.png",
+    "screenshots": [
+      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f59e6519-d36f-4110-8794-7dd689ee505d\\screenshots\\ss_01.jpg",
+      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f59e6519-d36f-4110-8794-7dd689ee505d\\screenshots\\ss_02.jpg",
+      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f59e6519-d36f-4110-8794-7dd689ee505d\\screenshots\\ss_03.jpg",
+      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f59e6519-d36f-4110-8794-7dd689ee505d\\screenshots\\ss_04.jpg",
+      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f59e6519-d36f-4110-8794-7dd689ee505d\\screenshots\\ss_05.jpg",
+      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f59e6519-d36f-4110-8794-7dd689ee505d\\screenshots\\ss_06.jpg"
+    ],
+    "note": "",
+    "rating": 9,
+    "hltb_hours": "2",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Microsoft® Windows® 2000/XP\nİşlemci: 1Ghz Pentium III or AMD Athlon Processor\nBellek: 256MB of RAM\nEkran Kartı: 64MB Video Card (Geforce 3 veya üstü)\nHard Drive: 3.6GB of free hard disk space (minimal install)\nOther Requirements: Software installations required including DirectX and Sony DADC SecuROM\nPartner Requirements: Please check the terms of service of this site before purchasing this software.",
+    "sys_recommended": "İşlemci: Intel Pentium 4 or AMD Athlon XP Processor\nBellek: 384MB of RAM (the more the better!)\nEkran Kartı: 128MB (or greater) Video Card (Geforce 6 Series Recommended)\nHard Drive: 4.7GB of free hard disk space (full install)\nSes Kartı: DirectX 9 compatible Sound Card (Sound Blaster Auidgy 2 Recommended)",
+    "game_size_gb": "",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/cover.png",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/library_hero.png",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f59e6519-d36f-4110-8794-7dd689ee505d/screenshots/ss_06.jpg"
+    ],
+    "download_links": [],
+    "info_items": [],
+    "id": "f59e6519-d36f-4110-8794-7dd689ee505d",
+    "added_date": "2026-06-22T03:39:34.143309",
+    "first_added_date": "2026-06-22T03:39:34.143309",
+    "_last_synced": "2026-06-22T00:40:01.017385"
   }
 ]
