@@ -1,10 +1,17 @@
 [
   {
-    "name": "Grand Theft Auto V",
+    "id": "f257fa92-9904-414f-ae9d-ea01c990a0a7",
+    "title": "Grand Theft Auto V",
     "description": ".",
+    "category": "",
     "developer": "Rockstar North, Rockstar Games",
     "publisher": "Rockstar Games",
     "release_date": "17 Eyl 2013",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/library_hero.png",
+    "rating": 9.0,
+    "size_gb": 0.0,
     "tags": [
       "Action",
       "Singleplayer",
@@ -13,49 +20,54 @@
       "Atmospheric",
       "First-Person"
     ],
-    "cover_image": "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f257fa92-9904-414f-ae9d-ea01c990a0a7\\cover.jpg",
-    "banner_image": "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f257fa92-9904-414f-ae9d-ea01c990a0a7\\banner.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f257fa92-9904-414f-ae9d-ea01c990a0a7\\library_hero.png",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f257fa92-9904-414f-ae9d-ea01c990a0a7\\screenshots\\ss_01.jpg",
-      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f257fa92-9904-414f-ae9d-ea01c990a0a7\\screenshots\\ss_02.jpg",
-      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f257fa92-9904-414f-ae9d-ea01c990a0a7\\screenshots\\ss_03.jpg",
-      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f257fa92-9904-414f-ae9d-ea01c990a0a7\\screenshots\\ss_04.jpg",
-      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f257fa92-9904-414f-ae9d-ea01c990a0a7\\screenshots\\ss_05.jpg",
-      "C:\\Users\\Seljuk\\Desktop\\GameLauncher\\assets\\games\\f257fa92-9904-414f-ae9d-ea01c990a0a7\\screenshots\\ss_06.jpg"
+    "is_active": true,
+    "raw_data": "{\"name\": \"Grand Theft Auto V\", \"description\": \".\", \"developer\": \"Rockstar North, Rockstar Games\", \"publisher\": \"Rockstar Games\", \"release_date\": \"17 Eyl 2013\", \"tags\": [\"Action\", \"Singleplayer\", \"Steam Achievements\", \"Multiplayer\", \"Atmospheric\", \"First-Person\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"74\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)İşlemci: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHzBellek: 4 GB RAMEkran Kartı: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)Depolama: 72 GB kullanılabilir alanSes Kartı: 100% DirectX 10 compatibleEk Notlar: Over time downloadable content and programming changes will change the system requirements for this game.  Please refer to your hardware manufacturer and www.rockstargames.com/support for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.     Other requirements:  Installation and online play requires log-in to Rockstar Games Social Club (13+) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Social Club platform, DirectX , Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication software that recognizes certain hardware attributes for entitlement, digital rights management, system, and other support purposes.     SINGLE USE SERIAL CODE REGISTRATION VIA INTERNET REQUIRED; REGISTRATION IS LIMITED TO ONE ROCKSTAR GAMES SOCIAL CLUB ACCOUNT (13+) PER SERIAL CODE; ONLY ONE PC LOG-IN ALLOWED PER SOCIAL CLUB ACCOUNT AT ANY TIME; SERIAL CODE(S) ARE NON-TRANSFERABLE ONCE USED; SOCIAL CLUB ACCOUNTS ARE NON-TRANSFERABLE.  Partner Requirements:  Please check the terms of service of this site before purchasing this software.\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1İşlemci: Intel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs)Bellek: 8 GB RAMEkran Kartı: NVIDIA GTX 660 2GB / AMD HD 7870 2GBDepolama: 72 GB kullanılabilir alanSes Kartı: 100% DirectX 10 compatibleEk Notlar:\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/torrents/Stranded.Deep.v0.90.11-OFME.torrent\", \"label\": \"AEW.Fight.Forever-oyunindir.vip\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"f257fa92-9904-414f-ae9d-ea01c990a0a7\", \"added_date\": \"2026-06-22T01:26:20.835994\", \"categories\": [], \"first_added_date\": \"2026-06-22T01:26:20.835994\"}",
+    "added_at": "2026-06-21T22:26:48.448241",
+    "last_updated": "2026-06-22T00:22:22.452699"
+  },
+  {
+    "id": "13c497e8-3b39-4e54-8a91-7294fbad0647",
+    "title": "Grand Theft Auto: San Andreas",
+    "description": "Grand Theft Auto - San Andreas is the seventh entry in the series in the GTA franchise, but only second big title after GTA - Vice City. Setting up in fictional state San Andreas, you follow the story of CJ, a member of one of the multiple gangs in the city. CJ's family is being attacked in drive shooting which resulted in the death of CJ's mother, so he returns to home from Liberty City. Meeting the rest of the family at his mom's funeral, he decides to rebuild the gang and gain control of the state.\n\nThe game makes a brilliant connection with missions and open world actions that you are able to do around the cities. You can steal cars, buy guns, hunt for collectables and do some side quests, while different characters give you specific missions in order to push the plot forward. Streets are filled with people as well as plenty of vehicles to steal. Fictional brands of cars, tanks, bikes are available to be stolen from any place around the city. Armoury contains pistols, rifles, hand-machine guns or a rocket launcher as well as melee weapons giving player freedom in anything he's doing in GTA.",
+    "category": "",
+    "developer": "Rockstar North, War Drum Studios",
+    "publisher": "Capcom, Rockstar Games, 1C-SoftClub",
+    "release_date": "26 Eki 2004",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/library_hero.png",
+    "rating": 9.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Action",
+      "Singleplayer",
+      "Multiplayer",
+      "Atmospheric",
+      "Funny",
+      "Story Rich"
     ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "74",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)İşlemci: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHzBellek: 4 GB RAMEkran Kartı: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)Depolama: 72 GB kullanılabilir alanSes Kartı: 100% DirectX 10 compatibleEk Notlar: Over time downloadable content and programming changes will change the system requirements for this game.  Please refer to your hardware manufacturer and www.rockstargames.com/support for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.     Other requirements:  Installation and online play requires log-in to Rockstar Games Social Club (13+) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Social Club platform, DirectX , Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication software that recognizes certain hardware attributes for entitlement, digital rights management, system, and other support purposes.     SINGLE USE SERIAL CODE REGISTRATION VIA INTERNET REQUIRED; REGISTRATION IS LIMITED TO ONE ROCKSTAR GAMES SOCIAL CLUB ACCOUNT (13+) PER SERIAL CODE; ONLY ONE PC LOG-IN ALLOWED PER SOCIAL CLUB ACCOUNT AT ANY TIME; SERIAL CODE(S) ARE NON-TRANSFERABLE ONCE USED; SOCIAL CLUB ACCOUNTS ARE NON-TRANSFERABLE.  Partner Requirements:  Please check the terms of service of this site before purchasing this software.",
-    "sys_recommended": "İşletim Sistemi: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1İşlemci: Intel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs)Bellek: 8 GB RAMEkran Kartı: NVIDIA GTX 660 2GB / AMD HD 7870 2GBDepolama: 72 GB kullanılabilir alanSes Kartı: 100% DirectX 10 compatibleEk Notlar:",
-    "game_size_gb": "",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f257fa92-9904-414f-ae9d-ea01c990a0a7/torrents/Stranded.Deep.v0.90.11-OFME.torrent",
-        "label": "AEW.Fight.Forever-oyunindir.vip",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "f257fa92-9904-414f-ae9d-ea01c990a0a7",
-    "added_date": "2026-06-22T01:26:20.835994",
-    "categories": [],
-    "first_added_date": "2026-06-22T01:26:20.835994",
-    "_last_synced": "2026-06-22T00:22:22.452699"
+    "is_active": true,
+    "raw_data": "{\"name\": \"Grand Theft Auto: San Andreas\", \"description\": \"Grand Theft Auto - San Andreas is the seventh entry in the series in the GTA franchise, but only second big title after GTA - Vice City. Setting up in fictional state San Andreas, you follow the story of CJ, a member of one of the multiple gangs in the city. CJ's family is being attacked in drive shooting which resulted in the death of CJ's mother, so he returns to home from Liberty City. Meeting the rest of the family at his mom's funeral, he decides to rebuild the gang and gain control of the state.\\n\\nThe game makes a brilliant connection with missions and open world actions that you are able to do around the cities. You can steal cars, buy guns, hunt for collectables and do some side quests, while different characters give you specific missions in order to push the plot forward. Streets are filled with people as well as plenty of vehicles to steal. Fictional brands of cars, tanks, bikes are available to be stolen from any place around the city. Armoury contains pistols, rifles, hand-machine guns or a rocket launcher as well as melee weapons giving player freedom in anything he's doing in GTA.\", \"developer\": \"Rockstar North, War Drum Studios\", \"publisher\": \"Capcom, Rockstar Games, 1C-SoftClub\", \"release_date\": \"26 Eki 2004\", \"tags\": [\"Action\", \"Singleplayer\", \"Multiplayer\", \"Atmospheric\", \"Funny\", \"Story Rich\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"2\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Microsoft® Windows® 2000/XP\\nİşlemci: 1Ghz Pentium III or AMD Athlon Processor\\nBellek: 256MB of RAM\\nEkran Kartı: 64MB Video Card (Geforce 3 veya üstü)\\nHard Drive: 3.6GB of free hard disk space (minimal install)\\nOther Requirements: Software installations required including DirectX and Sony DADC SecuROM\\nPartner Requirements: Please check the terms of service of this site before purchasing this software.\", \"sys_recommended\": \"İşlemci: Intel Pentium 4 or AMD Athlon XP Processor\\nBellek: 384MB of RAM (the more the better!)\\nEkran Kartı: 128MB (or greater) Video Card (Geforce 6 Series Recommended)\\nHard Drive: 4.7GB of free hard disk space (full install)\\nSes Kartı: DirectX 9 compatible Sound Card (Sound Blaster Auidgy 2 Recommended)\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/13c497e8-3b39-4e54-8a91-7294fbad0647/torrents/AEW.Fight.Forever-EMPRESS (1).torrent\", \"label\": \"AEW.Fight.Forever-EMPRESS (1)\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"13c497e8-3b39-4e54-8a91-7294fbad0647\", \"added_date\": \"2026-06-22T03:03:12.937753\", \"first_added_date\": \"2026-06-22T03:03:12.937753\", \"categories\": []}",
+    "added_at": "2026-06-22T00:03:39.627383",
+    "last_updated": "2026-06-22T00:18:21.927199"
+  },
+  {
+    "id": "12795b5c-7a91-4fde-97a1-8a9d182ac2e4",
+    "title": "s",
+    "description": "",
+    "category": "",
+    "developer": "",
+    "publisher": "",
+    "release_date": "",
+    "image_url": "",
+    "background_url": "",
+    "logo_url": "",
+    "rating": 0.0,
+    "size_gb": 0.0,
+    "tags": [],
+    "is_active": true,
+    "raw_data": "{\"name\": \"s\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/12795b5c-7a91-4fde-97a1-8a9d182ac2e4/torrents/Stranded.Deep.v0.90.11-OFME_1.torrent\", \"label\": \"Stranded.Deep.v0.90.11-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"12795b5c-7a91-4fde-97a1-8a9d182ac2e4\", \"added_date\": \"2026-06-22T03:29:47.525572\", \"first_added_date\": \"2026-06-22T03:29:47.525572\"}",
+    "added_at": "2026-06-22T00:29:50.820979",
+    "last_updated": "2026-06-22T00:29:50.820979"
   }
 ]
