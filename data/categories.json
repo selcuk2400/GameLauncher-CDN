@@ -1,0 +1,240 @@
+[
+  {
+    "id": "all",
+    "name": "Tüm Oyunlar",
+    "icon": "🎮",
+    "is_default": true,
+    "parent_id": null
+  },
+  {
+    "id": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f",
+    "name": "FIFA",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
+  },
+  {
+    "id": "b53fc043-1aeb-409b-b320-ff1463463533",
+    "name": "Online Oyunlar",
+    "icon": "🌍",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "9986f431-f500-470a-80d8-c2a6c8f35f4c",
+    "name": "Pro Evolution Soccer",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
+  },
+  {
+    "id": "563941bf-f212-4e05-a461-b2b887c5021e",
+    "name": "Futbol Oyunları",
+    "icon": "⚽",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "3b4b4781-566a-481e-acc7-1b49baf6609a",
+    "name": "Grand Theft Auto",
+    "icon": "🏙️",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "accd1184-24d0-4772-8f72-91e9fe779b4f",
+    "name": "Hayatta Kalma Oyunları",
+    "icon": "🧟",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "d5552220-74ec-41ac-a756-aabe6724cb3c",
+    "name": "Farming Simulator",
+    "icon": "🚜",
+    "is_default": false,
+    "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+  },
+  {
+    "id": "865c7c8e-a508-46de-b942-8c80ef06a506",
+    "name": "GTA Modları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "3b4b4781-566a-481e-acc7-1b49baf6609a"
+  },
+  {
+    "id": "5c112b26-4d14-49b5-9aef-1a97232e8456",
+    "name": "Hikaye Oyunları",
+    "icon": "📖",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "name": "Simulator Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "6df7eba0-256d-4958-a151-92037d8cbbca",
+    "name": "Spor Oyunları",
+    "icon": "🏆",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "4f8fc1e0-cc71-4e4e-9291-abe2f87430c9",
+    "name": "Yarış Oyunları",
+    "icon": "🚗",
+    "is_default": false,
+    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+  },
+  {
+    "id": "f2d5cfc1-e7dd-4a0e-b08b-91dfc73c32ef",
+    "name": "GTA Definitive Edition",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "3b4b4781-566a-481e-acc7-1b49baf6609a"
+  },
+  {
+    "id": "0349d051-5c55-441c-8af3-5732989d57b7",
+    "name": "Yaptığım Oyunlar",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "4d6e17bb-fba0-4812-946b-09eca3e63644",
+    "name": "Split Screen Oyunlar",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "966ebbf8-8998-4d32-9671-6914c9d9d1e1",
+    "name": "Türkçe Dublaj Oyunlar",
+    "icon": "🇹🇷",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "5f38c3a3-44d1-488e-a5de-a4d95c742ab5",
+    "name": "Dövüş Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "6cebfd27-8136-4cb7-b25e-9200533b6b0b",
+    "name": "Resident Evil",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "name": "Araç Oyunları",
+    "icon": "🚗",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "2feab174-e7dd-4241-8407-9e7f73ad3bb5",
+    "name": "Remastered Oyunlar",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "0281a3a2-71c1-49f6-ad0f-4332043a5ab2",
+    "name": "Crysis",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "287a90c1-a897-45a6-8964-e0175590c3d5",
+    "name": "Coop Oyunlar",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "b53fc043-1aeb-409b-b320-ff1463463533"
+  },
+  {
+    "id": "8b3139fa-3b16-4639-81c3-c8a34c013636",
+    "name": "Korku Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
+  },
+  {
+    "id": "6572dfce-4409-4eda-b0da-63be697847e4",
+    "name": "Need For Speed",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+  },
+  {
+    "id": "e9253e77-65b4-45c3-b39e-8376cd25987c",
+    "name": "Outlast",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "8b3139fa-3b16-4639-81c3-c8a34c013636"
+  },
+  {
+    "id": "2deb0e31-36e9-4146-a6b0-d00b11924f02",
+    "name": "The Last Of Us",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "e25dfaf4-98e4-48ac-a47a-c7cf96bee34f",
+    "name": "Mortal Kombat",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5f38c3a3-44d1-488e-a5de-a4d95c742ab5"
+  },
+  {
+    "id": "02e9d389-5fcc-45ee-8a43-c5ec9df732fb",
+    "name": "WWE",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5f38c3a3-44d1-488e-a5de-a4d95c742ab5"
+  },
+  {
+    "id": "30d9d6e7-a63e-44ba-a73e-19df0b3729ea",
+    "name": "Dying Light",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "6c9e3bf0-e7ee-4d67-ac97-cd14f891e85c",
+    "name": "God of War",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "13004081-52cd-4b51-a35f-c8d7ba014db4",
+    "name": "Mafia",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "1b371b9c-e072-458d-b077-4d8bd34b4896",
+    "name": "Red Dead Redemption",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "e65bfdfb-337d-40db-8c89-3fd8252bbc37",
+    "name": "d",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
+  }
+]
