@@ -17,5 +17,26 @@
     "raw_data": "{\"name\": \"s\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"0b69a1c2-9f55-438a-85ac-6a53a31352e4\", \"added_date\": \"2026-06-22T03:54:04.137585\", \"first_added_date\": \"2026-06-22T03:54:04.137585\"}",
     "added_at": "2026-06-22T00:54:04.158586",
     "last_updated": "2026-06-22T00:54:04.158586"
+  },
+  {
+    "id": "20d9b644-855f-4d9f-8331-7cd43764f194",
+    "title": "GTA-bankrob",
+    "description": "This is a simple game in which a thief escapes from bank after theft",
+    "category": "",
+    "developer": "Tech clippers",
+    "publisher": "",
+    "release_date": "10 Nis 2017",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/library_hero.png",
+    "rating": 0.0,
+    "size_gb": 0.0,
+    "tags": [
+      "simple"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"GTA-bankrob\", \"description\": \"This is a simple game in which a thief escapes from bank after theft\", \"developer\": \"Tech clippers\", \"publisher\": \"\", \"release_date\": \"10 Nis 2017\", \"tags\": [\"simple\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/screenshots/ss_01.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/20d9b644-855f-4d9f-8331-7cd43764f194/screenshots/ss_01.jpg\"], \"download_links\": [], \"info_items\": [], \"id\": \"20d9b644-855f-4d9f-8331-7cd43764f194\", \"added_date\": \"2026-06-22T03:54:25.964762\", \"first_added_date\": \"2026-06-22T03:54:25.964762\"}",
+    "added_at": "2026-06-22T00:54:36.965620",
+    "last_updated": "2026-06-22T00:54:36.965620"
   }
 ]
