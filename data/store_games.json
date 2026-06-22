@@ -74,9 +74,9 @@
     "is_active": true,
     "raw_data": "{\"name\": \"sa\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"6c036d24-67a5-4ee5-b098-c0c987c10559\", \"added_date\": \"2026-06-22T10:58:31.722917\", \"first_added_date\": \"2026-06-22T10:58:31.722917\"}",
     "added_at": "2026-06-22T07:58:31.726993",
-    "last_updated": "2026-06-22T07:58:41.057734",
+    "last_updated": "2026-06-22T08:02:38.959144",
     "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+      "e65bfdfb-337d-40db-8c89-3fd8252bbc37"
     ]
   }
 ]
