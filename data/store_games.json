@@ -1535,5 +1535,32 @@
       "6cebfd27-8136-4cb7-b25e-9200533b6b0b",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
+  },
+  {
+    "id": "8b1447ed-a2e9-4266-b504-6b464c8160d6",
+    "title": "Split Fiction",
+    "description": "Bir televizyon şovunda geçen, etraftaki binaları ve köprüleri patlatarak rakiplerinizi yoldan çıkardığınız aşırı aksiyonlu bir yarış oyunudur. Patlamalar pistin rotasını anlık olarak değiştirir.",
+    "category": "",
+    "developer": "Hazelight",
+    "publisher": "Electronic Arts",
+    "release_date": "6 Mar 2025",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/library_hero.png",
+    "rating": 9.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Multiplayer",
+      "Fantasy",
+      "Story Rich",
+      "Steam Cloud",
+      "Sci-fi"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Split Fiction\", \"description\": \"Bir televizyon şovunda geçen, etraftaki binaları ve köprüleri patlatarak rakiplerinizi yoldan çıkardığınız aşırı aksiyonlu bir yarış oyunudur. Patlamalar pistin rotasını anlık olarak değiştirir.\", \"developer\": \"Hazelight\", \"publisher\": \"Electronic Arts\", \"release_date\": \"6 Mar 2025\", \"tags\": [\"Action\", \"Adventure\", \"Multiplayer\", \"Fantasy\", \"Story Rich\", \"Steam Cloud\", \"Sci-fi\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"10\", \"show_hltb\": true, \"sys_min\": \"Minimale :\\nSystème d'exploitation et processeur 64 bits nécessaires\\nSystème d'exploitation : 64 bit Windows 10/11\\nProcesseur : Intel Core i5-6600K or AMD Ryzen 5 2600X\\nMémoire vive : 16 GB de mémoire\\nGraphiques : NVIDIA GeForce GTX 970 - 4GB or Radeon RX 470 - 4GB\\nDirectX : Version 12\\nRéseau : connexion internet haut débit\\nEspace disque : 85 GB d'espace disque disponible\\nNotes supplémentaires : Resolution: 1920x1080 Native FPS: 30 Graphics Settings Preset: Low\", \"sys_recommended\": \"Recommandée :\\nSystème d'exploitation et processeur 64 bits nécessaires\\nSystème d'exploitation : 64 bit Windows 10/11\\nProcesseur : Intel Core i7-11700k or AMD Ryzen 7 5800X\\nMémoire vive : 16 GB de mémoire\\nGraphiques : NVIDIA GeForce RTX 3070 - 8GB or AMD Radeon 6700 XT - 12GB\\nDirectX : Version 12\\nRéseau : connexion internet haut débit\\nEspace disque : 85 GB d'espace disque disponible\\nNotes supplémentaires : Resolution: 2560x1440 Native FPS: 60 Graphics Settings Preset: High\", \"game_size_gb\": \"88\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b1447ed-a2e9-4266-b504-6b464c8160d6/torrents/Split Fiction.torrent\", \"label\": \"Split Fiction\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"8b1447ed-a2e9-4266-b504-6b464c8160d6\", \"added_date\": \"2026-06-22T19:44:34.199568\", \"first_added_date\": \"2026-06-22T19:44:34.199568\"}",
+    "added_at": "2026-06-22T16:45:17.315461",
+    "last_updated": "2026-06-22T16:45:17.315461"
   }
 ]
