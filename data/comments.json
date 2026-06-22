@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "99391e88",
+    "game_id": "4acbf636-de11-4750-9af5-18b283006532",
+    "username": "ADMİN",
+    "text": "def _build_comment_form(self):\n        \"\"\"Yorum yazma formu — admin ise isim alanı gizli, ADMİN kırmızı gösterilir\"\"\"\n        form = QFrame()\n        form.setStyleSheet(\"\"\"\n            QFrame {\n                background-color: #16202d;\n                border: 1px solid #2a475e;\n                border-radius: 6px;\n            }\n        \"\"\")\n        f_layout = QVBoxLayout(form)\n        f_layout.setContentsMargins(12, 10, 12, 10)\n        f_layout.setSpacing(8)\n\n        form_title = QLabel(\"✍️ Yoru",
+    "date": "2026-06-22T14:16:23.517321",
+    "replies": []
+  }
+]
