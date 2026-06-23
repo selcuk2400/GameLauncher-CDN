@@ -8,19 +8,7 @@
     "icon_url": "",
     "is_active": true,
     "raw_data": "{\"name\": \"s\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"download_links\": [], \"id\": \"28874f13-c0b1-4e67-918c-8b0913f535c3\", \"added_date\": \"2026-06-23T18:16:35.107152\", \"first_added_date\": \"2026-06-23T18:16:35.107152\", \"screenshot_urls\": []}",
-    "added_at": "2026-06-23T15:16:35.109155",
-    "last_updated": "2026-06-23T15:16:35.109155"
-  },
-  {
-    "id": "e06df09d-9a07-4349-ab73-6c1044a23729",
-    "title": "ss",
-    "description": "",
-    "developer": "",
-    "version": "",
-    "icon_url": "",
-    "is_active": true,
-    "raw_data": "{\"name\": \"ss\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"download_links\": [], \"id\": \"e06df09d-9a07-4349-ab73-6c1044a23729\", \"added_date\": \"2026-06-23T18:16:41.109648\", \"first_added_date\": \"2026-06-23T18:16:41.109648\", \"screenshot_urls\": []}",
-    "added_at": "2026-06-23T15:16:41.112648",
-    "last_updated": "2026-06-23T15:16:41.112648"
+    "added_at": "2026-06-23T18:16:35.107152",
+    "last_updated": "2026-06-23T15:16:46.391849"
   }
 ]
