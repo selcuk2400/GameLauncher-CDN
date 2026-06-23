@@ -10,5 +10,17 @@
     "raw_data": "{\"name\": \"Capcut\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/2cd7c814-7a8b-4262-863b-d054e0494a8a/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/2cd7c814-7a8b-4262-863b-d054e0494a8a/icon.png\", \"screenshots\": [], \"download_links\": [], \"id\": \"2cd7c814-7a8b-4262-863b-d054e0494a8a\", \"added_date\": \"2026-06-23T17:54:04.695717\", \"first_added_date\": \"2026-06-23T17:54:04.695717\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-23T14:54:04.698717",
     "last_updated": "2026-06-23T14:54:17.798495"
+  },
+  {
+    "id": "ad134c8f-aca6-4f2c-bb33-1dd8ab0c0ddc",
+    "title": "t",
+    "description": "",
+    "developer": "",
+    "version": "",
+    "icon_url": "",
+    "is_active": true,
+    "raw_data": "{\"name\": \"t\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"download_links\": [], \"id\": \"ad134c8f-aca6-4f2c-bb33-1dd8ab0c0ddc\", \"added_date\": \"2026-06-23T17:55:05.869154\", \"first_added_date\": \"2026-06-23T17:55:05.869154\", \"screenshot_urls\": []}",
+    "added_at": "2026-06-23T14:55:05.872168",
+    "last_updated": "2026-06-23T14:55:05.872168"
   }
 ]
