@@ -10,5 +10,17 @@
     "raw_data": "{\"name\": \"silinecek\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"download_links\": [], \"id\": \"010fd313-11b2-4355-834c-b11842da55a1\", \"added_date\": \"2026-06-23T18:11:54.073323\", \"first_added_date\": \"2026-06-23T18:11:54.073323\", \"screenshot_urls\": []}",
     "added_at": "2026-06-23T15:11:54.076164",
     "last_updated": "2026-06-23T15:11:54.076164"
+  },
+  {
+    "id": "4d66b4e5-a712-4031-98c5-ffe747a2cc5f",
+    "title": "kalacak",
+    "description": "",
+    "developer": "",
+    "version": "",
+    "icon_url": "",
+    "is_active": true,
+    "raw_data": "{\"name\": \"kalacak\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"download_links\": [], \"id\": \"4d66b4e5-a712-4031-98c5-ffe747a2cc5f\", \"added_date\": \"2026-06-23T18:12:04.083150\", \"first_added_date\": \"2026-06-23T18:12:04.083150\", \"screenshot_urls\": []}",
+    "added_at": "2026-06-23T15:12:04.085150",
+    "last_updated": "2026-06-23T15:12:04.085150"
   }
 ]
