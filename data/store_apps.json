@@ -1,28 +1,16 @@
 [
   {
-    "name": "Capcut PRO",
+    "name": "cc",
     "developer": "",
     "version": "",
     "description": "",
-    "icon_image": "",
-    "icon_image_url": "",
+    "icon_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/9f1ec373-44ea-45bc-9f74-984612cbc033/icon.png",
+    "icon_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/9f1ec373-44ea-45bc-9f74-984612cbc033/icon.png",
     "screenshots": [],
     "download_links": [],
-    "id": "cfa12dec-e49c-416b-96b4-f825839e6681",
-    "added_date": "2026-06-23T18:03:46.563646",
-    "first_added_date": "2026-06-23T18:03:46.563646",
-    "screenshot_urls": []
-  },
-  {
     "id": "9f1ec373-44ea-45bc-9f74-984612cbc033",
-    "title": "cc",
-    "description": "",
-    "developer": "",
-    "version": "",
-    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/9f1ec373-44ea-45bc-9f74-984612cbc033/icon.png",
-    "is_active": true,
-    "raw_data": "{\"name\": \"cc\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/9f1ec373-44ea-45bc-9f74-984612cbc033/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/9f1ec373-44ea-45bc-9f74-984612cbc033/icon.png\", \"screenshots\": [], \"download_links\": [], \"id\": \"9f1ec373-44ea-45bc-9f74-984612cbc033\", \"added_date\": \"2026-06-23T18:05:31.718480\", \"first_added_date\": \"2026-06-23T18:05:31.718480\", \"screenshot_urls\": []}",
-    "added_at": "2026-06-23T15:05:34.023899",
-    "last_updated": "2026-06-23T15:05:34.023899"
+    "added_date": "2026-06-23T18:05:31.718480",
+    "first_added_date": "2026-06-23T18:05:31.718480",
+    "screenshot_urls": []
   }
 ]
