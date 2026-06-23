@@ -17,10 +17,10 @@
     "description": "",
     "developer": "",
     "version": "",
-    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.ico",
+    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.png",
     "is_active": true,
-    "raw_data": "{\"name\": \"Photopshop\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.ico\", \"screenshots\": [], \"download_links\": [], \"id\": \"1826a487-cb0b-4834-b214-751f5742a11a\", \"added_date\": \"2026-06-23T13:46:56.412548\", \"first_added_date\": \"2026-06-23T13:46:56.412548\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.ico\", \"screenshot_urls\": []}",
+    "raw_data": "{\"name\": \"Photopshop\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.png\", \"screenshots\": [], \"download_links\": [], \"id\": \"1826a487-cb0b-4834-b214-751f5742a11a\", \"added_date\": \"2026-06-23T13:46:56.412548\", \"first_added_date\": \"2026-06-23T13:46:56.412548\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.png\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-23T10:46:59.051985",
-    "last_updated": "2026-06-23T10:46:59.051985"
+    "last_updated": "2026-06-23T10:48:03.243309"
   }
 ]
