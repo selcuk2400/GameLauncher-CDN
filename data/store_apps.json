@@ -1,26 +1,17 @@
 [
   {
+    "name": "Capcut PRO",
+    "developer": "",
+    "version": "",
+    "description": "",
+    "icon_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/08579be9-b104-429f-9811-ff5e06ff1555/icon.png",
+    "icon_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/08579be9-b104-429f-9811-ff5e06ff1555/icon.png",
+    "screenshots": [],
+    "download_links": [],
     "id": "08579be9-b104-429f-9811-ff5e06ff1555",
-    "title": "Capcut PRO",
-    "description": "",
-    "developer": "",
-    "version": "",
-    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/08579be9-b104-429f-9811-ff5e06ff1555/icon.png",
-    "is_active": true,
-    "raw_data": "{\"name\": \"Capcut PRO\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/08579be9-b104-429f-9811-ff5e06ff1555/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/08579be9-b104-429f-9811-ff5e06ff1555/icon.png\", \"screenshots\": [], \"download_links\": [], \"id\": \"08579be9-b104-429f-9811-ff5e06ff1555\", \"added_date\": \"2026-06-23T17:46:07.548578\", \"first_added_date\": \"2026-06-23T17:46:07.548578\", \"banner_image\": \"\", \"screenshot_urls\": []}",
-    "added_at": "2026-06-23T14:46:07.550577",
-    "last_updated": "2026-06-23T14:51:45.206553"
-  },
-  {
-    "id": "fb7b7e75-4a38-4647-8892-f681ac698dd1",
-    "title": "d",
-    "description": "",
-    "developer": "",
-    "version": "",
-    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/fb7b7e75-4a38-4647-8892-f681ac698dd1/icon.png",
-    "is_active": true,
-    "raw_data": "{\"name\": \"d\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/fb7b7e75-4a38-4647-8892-f681ac698dd1/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/fb7b7e75-4a38-4647-8892-f681ac698dd1/icon.png\", \"screenshots\": [], \"download_links\": [], \"id\": \"fb7b7e75-4a38-4647-8892-f681ac698dd1\", \"added_date\": \"2026-06-23T17:52:23.890988\", \"first_added_date\": \"2026-06-23T17:52:23.890988\", \"screenshot_urls\": []}",
-    "added_at": "2026-06-23T14:52:26.896393",
-    "last_updated": "2026-06-23T14:52:26.896393"
+    "added_date": "2026-06-23T17:46:07.548578",
+    "first_added_date": "2026-06-23T17:46:07.548578",
+    "banner_image": "",
+    "screenshot_urls": []
   }
 ]
