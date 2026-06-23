@@ -285,5 +285,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "7a262466-884d-40a7-b8f3-1c46c3e54d48",
+    "name": "Tomb Raider",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
