@@ -271,5 +271,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": null
+  },
+  {
+    "id": "ad1cda5b-cfcb-4905-a8a8-ce29a71dcfd7",
+    "name": "Mount and Blade",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "de8a7bfc-7023-4d9a-ab14-f495c198ad64"
   }
 ]
