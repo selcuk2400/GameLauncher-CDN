@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "28874f13-c0b1-4e67-918c-8b0913f535c3",
+    "title": "s",
+    "description": "",
+    "developer": "",
+    "version": "",
+    "icon_url": "",
+    "is_active": true,
+    "raw_data": "{\"name\": \"s\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"download_links\": [], \"id\": \"28874f13-c0b1-4e67-918c-8b0913f535c3\", \"added_date\": \"2026-06-23T18:16:35.107152\", \"first_added_date\": \"2026-06-23T18:16:35.107152\", \"screenshot_urls\": []}",
+    "added_at": "2026-06-23T15:16:35.109155",
+    "last_updated": "2026-06-23T15:16:35.109155"
+  }
+]
