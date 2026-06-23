@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "5d8e60cf-05b1-4b0f-9fb9-e2d3f5a1646b",
+    "title": "ddd",
+    "description": "",
+    "developer": "",
+    "version": "",
+    "icon_url": "",
+    "is_active": true,
+    "raw_data": "{\"name\": \"ddd\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"download_links\": [], \"id\": \"5d8e60cf-05b1-4b0f-9fb9-e2d3f5a1646b\", \"added_date\": \"2026-06-23T18:03:36.013426\", \"first_added_date\": \"2026-06-23T18:03:36.013426\", \"screenshot_urls\": []}",
+    "added_at": "2026-06-23T15:03:36.016451",
+    "last_updated": "2026-06-23T15:03:36.016451"
+  }
+]
