@@ -17,10 +17,10 @@
     "description": "",
     "developer": "",
     "version": "",
-    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.webp",
+    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.png",
     "is_active": true,
-    "raw_data": "{\"name\": \"Photopshop\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.webp\", \"screenshots\": [], \"download_links\": [{\"url\": \"https://chatgpt.com/c/6a393200-4434-83eb-91ff-24cac3c50150\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\"}], \"id\": \"1826a487-cb0b-4834-b214-751f5742a11a\", \"added_date\": \"2026-06-23T13:46:56.412548\", \"first_added_date\": \"2026-06-23T13:46:56.412548\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.webp\", \"banner_image\": \"\", \"screenshot_urls\": []}",
+    "raw_data": "{\"name\": \"Photopshop\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.png\", \"screenshots\": [], \"download_links\": [{\"url\": \"https://chatgpt.com/c/6a393200-4434-83eb-91ff-24cac3c50150\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\"}], \"id\": \"1826a487-cb0b-4834-b214-751f5742a11a\", \"added_date\": \"2026-06-23T13:46:56.412548\", \"first_added_date\": \"2026-06-23T13:46:56.412548\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.png\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-23T10:46:59.051985",
-    "last_updated": "2026-06-23T11:49:24.132647"
+    "last_updated": "2026-06-23T12:02:11.261979"
   }
 ]
