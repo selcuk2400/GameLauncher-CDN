@@ -278,5 +278,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "de8a7bfc-7023-4d9a-ab14-f495c198ad64"
+  },
+  {
+    "id": "46368e6d-9063-49cb-a75a-3c0377d9eb0d",
+    "name": "Prototype",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
