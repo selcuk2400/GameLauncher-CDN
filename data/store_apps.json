@@ -1,39 +1,22 @@
 [
   {
-    "name": "Capcut",
+    "id": "87e51a3e-cef2-4f63-8333-b40cd34bdc33",
+    "name": "",
+    "description": "",
     "developer": "",
     "version": "",
-    "description": "",
-    "icon_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/87e51a3e-cef2-4f63-8333-b40cd34bdc33/icon.webp",
-    "screenshots": [],
-    "download_links": [],
-    "id": "87e51a3e-cef2-4f63-8333-b40cd34bdc33",
-    "added_date": "2026-06-22T13:54:23.841858",
-    "first_added_date": "2026-06-22T13:54:23.841858",
-    "icon_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/87e51a3e-cef2-4f63-8333-b40cd34bdc33/icon.webp",
-    "banner_image": "",
-    "screenshot_urls": []
+    "added_date": "2026-06-23T17:19:15.347134",
+    "first_added_date": "2026-06-23T17:19:15.347134",
+    "icon_image_url": ""
   },
   {
-    "name": "Photopshop",
+    "id": "1826a487-cb0b-4834-b214-751f5742a11a",
+    "name": "",
+    "description": "",
     "developer": "",
     "version": "",
-    "description": "",
-    "icon_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.png",
-    "screenshots": [],
-    "download_links": [
-      {
-        "url": "https://chatgpt.com/c/6a393200-4434-83eb-91ff-24cac3c50150",
-        "label": "🔗 Doğrudan Link",
-        "type": "direct",
-        "description": ""
-      }
-    ],
-    "id": "1826a487-cb0b-4834-b214-751f5742a11a",
-    "added_date": "2026-06-23T13:46:56.412548",
-    "first_added_date": "2026-06-23T13:46:56.412548",
-    "icon_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1826a487-cb0b-4834-b214-751f5742a11a/icon.png",
-    "banner_image": "",
-    "screenshot_urls": []
+    "added_date": "2026-06-23T17:19:15.347134",
+    "first_added_date": "2026-06-23T17:19:15.347134",
+    "icon_image_url": ""
   }
 ]
