@@ -17,10 +17,10 @@
     "description": "",
     "developer": "",
     "version": "",
-    "icon_url": "",
+    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/ba373ef2-016d-4d01-8b14-0bc1fd589c62/icon.png",
     "is_active": true,
-    "raw_data": "{\"name\": \"a\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"download_links\": [], \"id\": \"ba373ef2-016d-4d01-8b14-0bc1fd589c62\", \"added_date\": \"2026-06-23T18:01:24.680439\", \"first_added_date\": \"2026-06-23T18:01:24.680439\", \"screenshot_urls\": []}",
+    "raw_data": "{\"name\": \"a\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/ba373ef2-016d-4d01-8b14-0bc1fd589c62/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/ba373ef2-016d-4d01-8b14-0bc1fd589c62/icon.png\", \"screenshots\": [], \"download_links\": [], \"id\": \"ba373ef2-016d-4d01-8b14-0bc1fd589c62\", \"added_date\": \"2026-06-23T18:01:24.680439\", \"first_added_date\": \"2026-06-23T18:01:24.680439\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-23T15:01:24.682440",
-    "last_updated": "2026-06-23T15:01:24.682440"
+    "last_updated": "2026-06-23T15:01:39.753973"
   }
 ]
