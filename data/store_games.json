@@ -3988,5 +3988,28 @@
       "46368e6d-9063-49cb-a75a-3c0377d9eb0d",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
+  },
+  {
+    "id": "37a6a054-d7a9-4dbb-893b-3ce09a825135",
+    "title": "Grand Theft Auto Advance Türkçe",
+    "description": "Resmî bir oyundur. Sadece Game Boy Advance konsolu için çıkmıştır ancak günümüzde PC'de emülatör (VisualBoyAdvance vb.) ile oynanabilmektedir. Kuşbakışı 2D kamera açısıyla oynanır ve GTA 3'ün bir yıl öncesini anlatır.",
+    "category": "",
+    "developer": "Digital Eclipse",
+    "publisher": "Rockstar Games",
+    "release_date": "26 Eki 2004",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/library_hero.png",
+    "rating": 7.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Action",
+      "exclusive",
+      "true exclusive"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Grand Theft Auto Advance Türkçe\", \"description\": \"Resmî bir oyundur. Sadece Game Boy Advance konsolu için çıkmıştır ancak günümüzde PC'de emülatör (VisualBoyAdvance vb.) ile oynanabilmektedir. Kuşbakışı 2D kamera açısıyla oynanır ve GTA 3'ün bir yıl öncesini anlatır.\", \"developer\": \"Digital Eclipse\", \"publisher\": \"Rockstar Games\", \"release_date\": \"26 Eki 2004\", \"tags\": [\"Action\", \"exclusive\", \"true exclusive\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"9\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/37a6a054-d7a9-4dbb-893b-3ce09a825135/screenshots/ss_05.jpg\"], \"download_links\": [], \"info_items\": [], \"id\": \"37a6a054-d7a9-4dbb-893b-3ce09a825135\", \"added_date\": \"2026-06-24T05:48:00.451428\", \"first_added_date\": \"2026-06-24T05:48:00.451428\"}",
+    "added_at": "2026-06-24T02:48:18.834622",
+    "last_updated": "2026-06-24T02:48:18.834622"
   }
 ]
