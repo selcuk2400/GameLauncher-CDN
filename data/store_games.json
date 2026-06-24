@@ -4848,8 +4848,8 @@
     "size_gb": 0.0,
     "tags": [],
     "is_active": true,
-    "raw_data": "{\"name\": \"a\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1b86c99d-0ff7-4cc4-9fc4-836ed7880e92/torrents/Pes 2013.rar.torrent\", \"label\": \"Pes 2013.rar\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"1b86c99d-0ff7-4cc4-9fc4-836ed7880e92\", \"added_date\": \"2026-06-24T10:04:55.282350\", \"first_added_date\": \"2026-06-24T10:04:55.282350\"}",
+    "raw_data": "{\"name\": \"a\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1b86c99d-0ff7-4cc4-9fc4-836ed7880e92/torrents/rld-pes2013.torrent\", \"label\": \"Pes 2013.rar\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"1b86c99d-0ff7-4cc4-9fc4-836ed7880e92\", \"added_date\": \"2026-06-24T10:04:55.282350\", \"first_added_date\": \"2026-06-24T10:04:55.282350\", \"categories\": []}",
     "added_at": "2026-06-24T07:04:57.578550",
-    "last_updated": "2026-06-24T07:04:57.578550"
+    "last_updated": "2026-06-24T07:21:18.664757"
   }
 ]
