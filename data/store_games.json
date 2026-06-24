@@ -4916,5 +4916,33 @@
       "4d6e17bb-fba0-4812-946b-09eca3e63644",
       "6df7eba0-256d-4958-a151-92037d8cbbca"
     ]
+  },
+  {
+    "id": "e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa",
+    "title": "Supermarket Simulator",
+    "description": "Supermarket Simulator, kendi süpermarketini sıfırdan kurup yönetmeni sağlayan birinci şahıs simülasyon oyunudur. Ürün sipariş etme, fiyat belirleme, rafları doldurma, kasada müşterilere hizmet etme ve marketini büyütme gibi gerçekçi mekanikler sunar. Rahatlatıcı atmosferi ve detaylı yönetim sistemiyle hem yeni başlayanlara hem de simülasyon severlere hitap eder.",
+    "category": "",
+    "developer": "Nokta Games",
+    "publisher": "Nokta Games",
+    "release_date": "20 Şub 2024",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/library_hero.jpg",
+    "rating": 7.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Simulation",
+      "Casual",
+      "Indie",
+      "Singleplayer",
+      "3D",
+      "Steam Achievements",
+      "First-Person",
+      "Early Access"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Supermarket Simulator\", \"description\": \"Supermarket Simulator, kendi süpermarketini sıfırdan kurup yönetmeni sağlayan birinci şahıs simülasyon oyunudur. Ürün sipariş etme, fiyat belirleme, rafları doldurma, kasada müşterilere hizmet etme ve marketini büyütme gibi gerçekçi mekanikler sunar. Rahatlatıcı atmosferi ve detaylı yönetim sistemiyle hem yeni başlayanlara hem de simülasyon severlere hitap eder.\", \"developer\": \"Nokta Games\", \"publisher\": \"Nokta Games\", \"release_date\": \"20 Şub 2024\", \"tags\": [\"Simulation\", \"Casual\", \"Indie\", \"Singleplayer\", \"3D\", \"Steam Achievements\", \"First-Person\", \"Early Access\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows (64-bit) 10\\nİşlemci: i5 3550 / RYZEN 5 2500X\\nBellek: 4 GB RAM\\nEkran Kartı: NVIDIA GTX 1050 / AMD R9 270X\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows (64-bit) 10\\nİşlemci: i5 7600K / Ryzen 5 2600x\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GTX 1060 / AMD RX 480\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\", \"game_size_gb\": \"1\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa/torrents/Supermarket.Simulator.v1.1.7.torrent\", \"label\": \"Supermarket.Simulator.v1.1.7\", \"type\": \"GoFile\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"e3795cc0-6b36-4c50-97d6-6c5fbacbd0aa\", \"added_date\": \"2026-06-24T13:52:54.136647\", \"first_added_date\": \"2026-06-24T13:52:54.136647\"}",
+    "added_at": "2026-06-24T10:53:18.893731",
+    "last_updated": "2026-06-24T10:53:18.893731"
   }
 ]
