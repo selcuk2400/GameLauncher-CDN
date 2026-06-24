@@ -362,12 +362,5 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
-  },
-  {
-    "id": "9f85388e-82a1-4760-89c7-39da2fce73e4",
-    "name": "Ghostrunner",
-    "icon": "📁",
-    "is_default": false,
-    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
