@@ -5229,24 +5229,5 @@
     "added_at": "2026-06-24T11:27:42.756025",
     "last_updated": "2026-06-24T13:32:10.886287",
     "categories": []
-  },
-  {
-    "id": "853c2659-b4cd-4509-9e48-b1c21081415d",
-    "title": "adw",
-    "description": "",
-    "category": "",
-    "developer": "",
-    "publisher": "",
-    "release_date": "",
-    "image_url": "",
-    "background_url": "",
-    "logo_url": "",
-    "rating": 0.0,
-    "size_gb": 0.0,
-    "tags": [],
-    "is_active": true,
-    "raw_data": "{\"name\": \"adw\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"853c2659-b4cd-4509-9e48-b1c21081415d\", \"added_date\": \"2026-06-24T15:39:10.704868\", \"first_added_date\": \"2026-06-24T15:39:10.704868\"}",
-    "added_at": "2026-06-24T12:39:10.746868",
-    "last_updated": "2026-06-24T12:39:10.746868"
   }
 ]
