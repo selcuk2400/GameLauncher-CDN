@@ -34,5 +34,17 @@
     "raw_data": "{\"name\": \"Cheat Engine Türkçe\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1782296854\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1782296854\", \"screenshots\": [], \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=1Vttrh5pv2HD9R3nuL4HM2ykd-7N-bFQ1&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"a8ada764-51e0-440b-919d-1b2da3dabd6b\", \"added_date\": \"2026-06-24T13:27:12.011345\", \"first_added_date\": \"2026-06-24T13:27:12.011345\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-24T10:27:14.054436",
     "last_updated": "2026-06-24T10:27:35.599465"
+  },
+  {
+    "id": "48fb51ad-cb9c-4a9a-a7c8-df3c1c34a1fc",
+    "title": "d",
+    "description": "",
+    "developer": "",
+    "version": "",
+    "icon_url": "",
+    "is_active": true,
+    "raw_data": "{\"name\": \"d\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"download_links\": [], \"id\": \"48fb51ad-cb9c-4a9a-a7c8-df3c1c34a1fc\", \"added_date\": \"2026-06-24T15:31:39.252949\", \"first_added_date\": \"2026-06-24T15:31:39.252949\", \"screenshot_urls\": []}",
+    "added_at": "2026-06-24T12:31:39.263949",
+    "last_updated": "2026-06-24T12:31:39.263949"
   }
 ]
