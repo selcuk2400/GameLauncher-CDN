@@ -4370,5 +4370,35 @@
     "categories": [
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
+  },
+  {
+    "id": "02a3ff83-1a68-489d-b85d-6e3343f03354",
+    "title": "Youtubers Life 2",
+    "description": "İlk oyunun aksine sadece odanızda kalmadığınız, \"NewTube Şehri\"nde dışarı çıkıp dolaşabildiğiniz, PewDiePie ve Rubius gibi gerçek YouTuber'larla tanıştığınız kapsamlı bir yayıncı olma simülasyonudur.",
+    "category": "",
+    "developer": "Uplay Online",
+    "publisher": "🚀 Raiser Games",
+    "release_date": "19 Eki 2021",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/library_hero.jpg",
+    "rating": 6.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Adventure",
+      "Strategy",
+      "Simulation",
+      "Casual",
+      "Indie",
+      "Singleplayer",
+      "Steam Achievements",
+      "Cute",
+      "Atmospheric",
+      "Funny"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Youtubers Life 2\", \"description\": \"İlk oyunun aksine sadece odanızda kalmadığınız, \\\"NewTube Şehri\\\"nde dışarı çıkıp dolaşabildiğiniz, PewDiePie ve Rubius gibi gerçek YouTuber'larla tanıştığınız kapsamlı bir yayıncı olma simülasyonudur.\", \"developer\": \"Uplay Online\", \"publisher\": \"🚀 Raiser Games\", \"release_date\": \"19 Eki 2021\", \"tags\": [\"Adventure\", \"Strategy\", \"Simulation\", \"Casual\", \"Indie\", \"Singleplayer\", \"Steam Achievements\", \"Cute\", \"Atmospheric\", \"Funny\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"20\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 7 64bits\\nİşlemci: Intel Core 2 Duo E8400 3.00GHz | AMD FX-4350\\nBellek: 4 GB RAM\\nEkran Kartı: NVIDIA Geforce GT 1030 2GB | AMD RX550 2GB | Intel HD Graphics 630\\nDirectX: Version 11\\nDepolama: 10 GB kullanılabilir alan\", \"sys_recommended\": \"Win 10 | İşlemci: Intel Core i5-4670K / AMD Ryzen 5 1500X | Bellek: 6 GB RAM | Ekran Kartı: Nvidia GTX 970 / AMD Radeon RX 570 | Depolama: 10 GB\", \"game_size_gb\": \"3\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/02a3ff83-1a68-489d-b85d-6e3343f03354/torrents/Youtubers.Life.2-DOGE.torrent\", \"label\": \"Youtubers.Life.2-DOGE\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"02a3ff83-1a68-489d-b85d-6e3343f03354\", \"added_date\": \"2026-06-24T07:55:23.428154\", \"first_added_date\": \"2026-06-24T07:55:23.428154\"}",
+    "added_at": "2026-06-24T04:55:48.509260",
+    "last_updated": "2026-06-24T04:55:48.509260"
   }
 ]
