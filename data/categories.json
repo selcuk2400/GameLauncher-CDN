@@ -306,5 +306,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+  },
+  {
+    "id": "b72dd35f-c308-48fc-a188-d70d3519200f",
+    "name": "İnternet Cafe Simulator",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
   }
 ]
