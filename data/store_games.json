@@ -4776,5 +4776,32 @@
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
       "0370afa3-cfef-4e81-8b95-3b3aa9618f86"
     ]
+  },
+  {
+    "id": "a95b2036-b468-4d4a-99bb-f798de55b26f",
+    "title": "Gears of War 4",
+    "description": "Siper alma (cover) tabanlı nişancı türünün babası sayılan efsanevi Microsoft serisinin dördüncü oyunudur. Efsanevi Marcus Fenix'in oğlu JD Fenix'i yöneterek, Locust kalıntılarından doğan yeni \"Swarm\" tehdidine karşı savaşıyoruz.",
+    "category": "",
+    "developer": "The Coalition",
+    "publisher": "Microsoft Studios",
+    "release_date": "11 Eki 2016",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/library_hero.png",
+    "rating": 8.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Action",
+      "Shooter",
+      "Singleplayer",
+      "Multiplayer",
+      "Sci-fi",
+      "Violent",
+      "Aliens"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Gears of War 4\", \"description\": \"Siper alma (cover) tabanlı nişancı türünün babası sayılan efsanevi Microsoft serisinin dördüncü oyunudur. Efsanevi Marcus Fenix'in oğlu JD Fenix'i yöneterek, Locust kalıntılarından doğan yeni \\\"Swarm\\\" tehdidine karşı savaşıyoruz.\", \"developer\": \"The Coalition\", \"publisher\": \"Microsoft Studios\", \"release_date\": \"11 Eki 2016\", \"tags\": [\"Action\", \"Shooter\", \"Singleplayer\", \"Multiplayer\", \"Sci-fi\", \"Violent\", \"Aliens\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"9\", \"show_hltb\": true, \"sys_min\": \"Win 10 | İşlemci: Intel Core i5-3470 / AMD FX-6300 | Bellek: 8 GB RAM | Ekran Kartı: Nvidia GTX 750 Ti / AMD Radeon R7 260X | Depolama: 80 GB\", \"sys_recommended\": \"Win 10 | İşlemci: Intel Core i5-4690 / AMD FX-8350 | Bellek: 8 GB RAM | Ekran Kartı: Nvidia GTX 970 / AMD Radeon R9 290X | Depolama: 80 GB\", \"game_size_gb\": \"111\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a95b2036-b468-4d4a-99bb-f798de55b26f/torrents/Gears.of.War.4-CODEX.torrent\", \"label\": \"Gears.of.War.4-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"a95b2036-b468-4d4a-99bb-f798de55b26f\", \"added_date\": \"2026-06-24T08:45:53.253151\", \"first_added_date\": \"2026-06-24T08:45:53.253151\"}",
+    "added_at": "2026-06-24T05:46:26.664112",
+    "last_updated": "2026-06-24T05:46:26.664112"
   }
 ]
