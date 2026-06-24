@@ -1,14 +1,1 @@
-[
-  {
-    "id": "28874f13-c0b1-4e67-918c-8b0913f535c3",
-    "title": "Capcut PRO",
-    "description": "CapCut, ByteDance tarafından geliştirilen ücretsiz ve profesyonel bir video düzenleme uygulamasıdır. Kullanıcı dostu arayüzü, gelişmiş efektleri, geçişleri ve yapay zeka destekli araçlarıyla hem mobil hem masaüstünde içerik üreticilerinin tercih ettiği bir editördür. PRO sürümü ise premium efektlere, filtrelere ve gelişmiş özelliklere tam erişim sağlar.",
-    "developer": "Bytedance Pte. Ltd.",
-    "version": "v5.9.0",
-    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/28874f13-c0b1-4e67-918c-8b0913f535c3/icon.png?v=1782295394",
-    "is_active": true,
-    "raw_data": "{\"name\": \"Capcut PRO\", \"developer\": \"Bytedance Pte. Ltd.\", \"version\": \"v5.9.0\", \"description\": \"CapCut, ByteDance tarafından geliştirilen ücretsiz ve profesyonel bir video düzenleme uygulamasıdır. Kullanıcı dostu arayüzü, gelişmiş efektleri, geçişleri ve yapay zeka destekli araçlarıyla hem mobil hem masaüstünde içerik üreticilerinin tercih ettiği bir editördür. PRO sürümü ise premium efektlere, filtrelere ve gelişmiş özelliklere tam erişim sağlar.\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/28874f13-c0b1-4e67-918c-8b0913f535c3/icon.png?v=1782295394\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/28874f13-c0b1-4e67-918c-8b0913f535c3/icon.png?v=1782295394\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/28874f13-c0b1-4e67-918c-8b0913f535c3/screenshots/ss_01.png\"], \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=1xyLUKEGoYN6cSwRyDkAVUr0OLbCgibFV&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}, {\"url\": \"https://www.mediafire.com/folder/mx41qda3sgqlr/55\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Türkçe yama\"}], \"id\": \"28874f13-c0b1-4e67-918c-8b0913f535c3\", \"added_date\": \"2026-06-23T18:16:35.107152\", \"first_added_date\": \"2026-06-23T18:16:35.107152\", \"banner_image\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/28874f13-c0b1-4e67-918c-8b0913f535c3/screenshots/ss_01.png\"]}",
-    "added_at": "2026-06-23T18:16:35.107152",
-    "last_updated": "2026-06-24T10:03:15.190289"
-  }
-]
+[]
