@@ -313,5 +313,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+  },
+  {
+    "id": "0370afa3-cfef-4e81-8b95-3b3aa9618f86",
+    "name": "FlatOut",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
   }
 ]
