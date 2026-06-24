@@ -327,5 +327,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "cc7b9c63-fde3-4fff-9abf-a50d504a5a84",
+    "name": "Assassin's Creed",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
