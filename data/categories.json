@@ -292,5 +292,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "354c1f8b-bad0-44e3-8365-8515bda0dff2",
+    "name": "Max Payne",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
