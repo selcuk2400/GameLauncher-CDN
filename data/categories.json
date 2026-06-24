@@ -98,13 +98,6 @@
     "parent_id": "3b4b4781-566a-481e-acc7-1b49baf6609a"
   },
   {
-    "id": "0349d051-5c55-441c-8af3-5732989d57b7",
-    "name": "Yaptığım Oyunlar",
-    "icon": "📁",
-    "is_default": false,
-    "parent_id": null
-  },
-  {
     "id": "4d6e17bb-fba0-4812-946b-09eca3e63644",
     "name": "Split Screen Oyunlar",
     "icon": "📁",
