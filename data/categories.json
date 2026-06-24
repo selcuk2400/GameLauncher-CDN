@@ -341,5 +341,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "0e08efd7-a2b9-40d9-93ad-2324f3669a9e",
+    "name": "Alan Wake",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
