@@ -5259,23 +5259,4 @@
     "added_at": "2026-06-24T11:40:58.630426",
     "last_updated": "2026-06-24T11:40:58.630426"
   },
-  {
-    "id": "8edf019d-6393-4a4a-bf95-0f6316dda120",
-    "title": "a",
-    "description": "",
-    "category": "",
-    "developer": "",
-    "publisher": "",
-    "release_date": "",
-    "image_url": "",
-    "background_url": "",
-    "logo_url": "",
-    "rating": 0.0,
-    "size_gb": 0.0,
-    "tags": [],
-    "is_active": true,
-    "raw_data": "{\"name\": \"a\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"8edf019d-6393-4a4a-bf95-0f6316dda120\", \"added_date\": \"2026-06-24T15:18:02.396102\", \"first_added_date\": \"2026-06-24T15:18:02.396102\"}",
-    "added_at": "2026-06-24T12:18:02.425103",
-    "last_updated": "2026-06-24T12:18:02.425103"
-  }
-]
+ ]
