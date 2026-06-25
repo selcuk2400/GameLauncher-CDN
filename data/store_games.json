@@ -5252,10 +5252,7 @@
     "is_active": true,
     "raw_data": "{\"name\": \"GTA-bankrob\", \"description\": \"This is a simple game in which a thief escapes from bank after theft\", \"developer\": \"Tech clippers\", \"publisher\": \"\", \"release_date\": \"10 Nis 2017\", \"tags\": [\"simple\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/00143462-b6b3-498c-a044-9ed2af808a1c/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/00143462-b6b3-498c-a044-9ed2af808a1c/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/00143462-b6b3-498c-a044-9ed2af808a1c/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/00143462-b6b3-498c-a044-9ed2af808a1c/screenshots/ss_01.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/00143462-b6b3-498c-a044-9ed2af808a1c/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/00143462-b6b3-498c-a044-9ed2af808a1c/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/00143462-b6b3-498c-a044-9ed2af808a1c/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/00143462-b6b3-498c-a044-9ed2af808a1c/screenshots/ss_01.jpg\"], \"download_links\": [], \"info_items\": [], \"id\": \"00143462-b6b3-498c-a044-9ed2af808a1c\", \"added_date\": \"2026-06-25T06:14:02.260641\", \"first_added_date\": \"2026-06-25T06:14:02.260641\"}",
     "added_at": "2026-06-25T03:14:11.710197",
-    "last_updated": "2026-06-25T03:51:02.476567",
-    "categories": [
-      "5f38c3a3-44d1-488e-a5de-a4d95c742ab5",
-      "e25dfaf4-98e4-48ac-a47a-c7cf96bee34f"
-    ]
+    "last_updated": "2026-06-25T03:51:18.234254",
+    "categories": []
   }
 ]
