@@ -369,5 +369,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "accd1184-24d0-4772-8f72-91e9fe779b4f"
+  },
+  {
+    "id": "dcac5a8b-7e78-4740-9ac2-9b4c3eb8acfc",
+    "name": "GTA 3 Modları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "865c7c8e-a508-46de-b942-8c80ef06a506"
   }
 ]
