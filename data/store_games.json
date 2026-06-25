@@ -5240,24 +5240,5 @@
       "8debd52f-0888-46ea-a9a4-be2423508925",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
-  },
-  {
-    "id": "20c044d5-1d87-420f-845a-bc5a9f050fe2",
-    "title": "d",
-    "description": "",
-    "category": "",
-    "developer": "",
-    "publisher": "",
-    "release_date": "",
-    "image_url": "",
-    "background_url": "",
-    "logo_url": "",
-    "rating": 0.0,
-    "size_gb": 0.0,
-    "tags": [],
-    "is_active": true,
-    "raw_data": "{\"name\": \"d\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"20c044d5-1d87-420f-845a-bc5a9f050fe2\", \"added_date\": \"2026-06-25T08:36:06.204857\", \"first_added_date\": \"2026-06-25T08:36:06.204857\", \"_pending_cloud_upload\": true}",
-    "added_at": "2026-06-25T05:36:06.238857",
-    "last_updated": "2026-06-25T05:36:06.238857"
   }
 ]
