@@ -383,12 +383,5 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
-  },
-  {
-    "id": "2e341121-be36-4d89-92e8-090f054cfb28",
-    "name": "3",
-    "icon": "📁",
-    "is_default": false,
-    "parent_id": null
   }
 ]
