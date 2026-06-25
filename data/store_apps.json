@@ -9,7 +9,7 @@
     "is_active": true,
     "raw_data": "{\"name\": \"CapCut PRO\", \"developer\": \"Bytedance Pte. Ltd.\", \"version\": \"v5.9.0\", \"description\": \"CapCut, ByteDance tarafından geliştirilen ücretsiz ve profesyonel bir video düzenleme uygulamasıdır. Kullanıcı dostu arayüzü, gelişmiş efektleri, geçişleri ve yapay zeka destekli araçlarıyla hem mobil hem masaüstünde içerik üreticilerinin tercih ettiği bir editördür. PRO sürümü ise premium efektlere, filtrelere ve gelişmiş özelliklere tam erişim sağlar.\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/149df6db-2a69-439a-a0e4-fbb17ea40050/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/149df6db-2a69-439a-a0e4-fbb17ea40050/icon.png\", \"screenshots\": [], \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=1xyLUKEGoYN6cSwRyDkAVUr0OLbCgibFV&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}, {\"url\": \"https://www.mediafire.com/folder/mx41qda3sgqlr/55\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Türkçe Yama\"}], \"id\": \"149df6db-2a69-439a-a0e4-fbb17ea40050\", \"added_date\": \"2026-06-24T13:05:39.311211\", \"first_added_date\": \"2026-06-24T13:05:39.311211\", \"screenshot_urls\": []}",
     "added_at": "2026-06-24T13:05:39.311211",
-    "last_updated": "2026-06-24T12:31:49.249301"
+    "last_updated": "2026-06-25T05:28:54.268294"
   },
   {
     "id": "b35e6d19-a093-437a-8828-68687b134ec9",
@@ -21,7 +21,7 @@
     "is_active": true,
     "raw_data": "{\"name\": \"Movavi Video Editor Buniss\", \"developer\": \"Movavi Software Limited\", \"version\": \"v15.5.0\", \"description\": \"Movavi Video Editor Business 15.5.0, 2019 yılında yayınlanan ticari kullanıma uygun bir video düzenleme sürümüdür. Bu sürüm; geliştirilmiş zaman çizelgesi, yeni geçişler, başlık şablonları ve hızlı dışa aktarma özellikleriyle kullanıcı deneyimini iyileştirmiştir. İşletmeler için tanıtım, eğitim ve sunum videoları hazırlamada pratik araçlar sunar.\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/b35e6d19-a093-437a-8828-68687b134ec9/icon.png?v=1782296281\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/b35e6d19-a093-437a-8828-68687b134ec9/icon.png?v=1782296281\", \"screenshots\": [], \"download_links\": [{\"url\": \"https://www.mediafire.com/file/yo2iemc3heh1o9w/Movavi.Video.Editor.Business.15.5.0.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"\"}], \"id\": \"b35e6d19-a093-437a-8828-68687b134ec9\", \"added_date\": \"2026-06-24T13:16:35.384827\", \"first_added_date\": \"2026-06-24T13:16:35.384827\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-24T13:16:35.384827",
-    "last_updated": "2026-06-24T12:31:49.249301"
+    "last_updated": "2026-06-25T05:28:54.268294"
   },
   {
     "id": "a8ada764-51e0-440b-919d-1b2da3dabd6b",
@@ -33,18 +33,6 @@
     "is_active": true,
     "raw_data": "{\"name\": \"Cheat Engine Türkçe\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1782296854\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1782296854\", \"screenshots\": [], \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=1Vttrh5pv2HD9R3nuL4HM2ykd-7N-bFQ1&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"a8ada764-51e0-440b-919d-1b2da3dabd6b\", \"added_date\": \"2026-06-24T13:27:12.011345\", \"first_added_date\": \"2026-06-24T13:27:12.011345\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-24T13:27:12.011345",
-    "last_updated": "2026-06-24T12:31:49.249301"
-  },
-  {
-    "id": "fa832033-ce85-435a-8691-b1df00aa1397",
-    "title": "sa",
-    "description": "",
-    "developer": "",
-    "version": "",
-    "icon_url": "",
-    "is_active": true,
-    "raw_data": "{\"name\": \"sa\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"screenshot_urls\": [], \"download_links\": [], \"id\": \"fa832033-ce85-435a-8691-b1df00aa1397\", \"added_date\": \"2026-06-25T08:22:55.747481\", \"first_added_date\": \"2026-06-25T08:22:55.747481\", \"banner_image\": \"\"}",
-    "added_at": "2026-06-25T05:22:58.931151",
-    "last_updated": "2026-06-25T05:28:39.621886"
+    "last_updated": "2026-06-25T05:28:54.268294"
   }
 ]
