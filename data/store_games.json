@@ -5248,5 +5248,31 @@
       "8debd52f-0888-46ea-a9a4-be2423508925",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
+  },
+  {
+    "id": "e58d3712-b8cb-44ba-9064-0e17c1d0b41b",
+    "title": "Grand Theft Auto",
+    "description": "Grand Theft Auto, Grand Theft Auto serisinin ilk bölümü olan izometrik görünüme sahip bir aksiyon-macera oyunudur. ###Yer ve konu Oyun, her biri Miami, New York City ve San Francisco gibi gerçek hayattaki benzerlerine benzeyen 3 farklı şehirde geçiyor. Oyunun dünyası yalnızca bir şehirden diğerine seyahat etmekle sınırlıdır, şehirlerin kendisi de keşfetmekte özgürdür. Konu, oynanabilir karakterin bir telefon görüşmesi yoluyla veya başka bir şekilde genel talimatlar aldığı çeşitli görevler şeklinde ifade edilir. ###Oynanış Oyundaki her görevin, görev gereksinimlerinin başarılı bir şekilde tamamlanması karşılığında verilen ve bazen görev uğruna kargaşaya neden olan, oyun içi puanlardan oluşan belirlenmiş bir hedefi vardır.",
+    "category": "",
+    "developer": "DMA Design, Visual Sciences, Tarantula Studios",
+    "publisher": "Take Two Interactive, BMG Interactive, ASC Games",
+    "release_date": "21 Eki 1997",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/library_hero.png",
+    "rating": 8.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Action",
+      "Singleplayer",
+      "2D",
+      "Multiplayer",
+      "Top-Down",
+      "Open World"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Grand Theft Auto\", \"description\": \"Grand Theft Auto, Grand Theft Auto serisinin ilk bölümü olan izometrik görünüme sahip bir aksiyon-macera oyunudur. ###Yer ve konu Oyun, her biri Miami, New York City ve San Francisco gibi gerçek hayattaki benzerlerine benzeyen 3 farklı şehirde geçiyor. Oyunun dünyası yalnızca bir şehirden diğerine seyahat etmekle sınırlıdır, şehirlerin kendisi de keşfetmekte özgürdür. Konu, oynanabilir karakterin bir telefon görüşmesi yoluyla veya başka bir şekilde genel talimatlar aldığı çeşitli görevler şeklinde ifade edilir. ###Oynanış Oyundaki her görevin, görev gereksinimlerinin başarılı bir şekilde tamamlanması karşılığında verilen ve bazen görev uğruna kargaşaya neden olan, oyun içi puanlardan oluşan belirlenmiş bir hedefi vardır.\", \"developer\": \"DMA Design, Visual Sciences, Tarantula Studios\", \"publisher\": \"Take Two Interactive, BMG Interactive, ASC Games\", \"release_date\": \"21 Eki 1997\", \"tags\": [\"Action\", \"Singleplayer\", \"2D\", \"Multiplayer\", \"Top-Down\", \"Open World\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"1\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e58d3712-b8cb-44ba-9064-0e17c1d0b41b/screenshots/ss_06.jpg\"], \"download_links\": [], \"info_items\": [], \"id\": \"e58d3712-b8cb-44ba-9064-0e17c1d0b41b\", \"added_date\": \"2026-06-25T20:37:47.695196\", \"first_added_date\": \"2026-06-25T20:37:47.695196\", \"_pending_cloud_upload\": true}",
+    "added_at": "2026-06-25T17:38:09.980529",
+    "last_updated": "2026-06-25T17:38:09.980529"
   }
 ]
