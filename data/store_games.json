@@ -5264,5 +5264,33 @@
       "8debd52f-0888-46ea-a9a4-be2423508925",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
+  },
+  {
+    "id": "ce572df1-c548-4322-b776-4880633450e9",
+    "title": "Dead Island",
+    "description": "Dead Island, Techland tarafından geliştirilen ve tropikal Banoi adasında geçen birinci şahıs hayatta kalma-aksiyon RPG'sidir. Oyunda zombi salgınına karşı bağışıklığı olan dört karakterden birini seçerek, ada genelinde hayatta kalanlara yardım eder ve kaçış yolu arayışına çıkarsın. Yakın dövüş ağırlıklı oynanışı, silah modifikasyonları ve co-op desteğiyle zombi oyunları arasında klasikleşmiş bir yapımdır.",
+    "category": "",
+    "developer": "Techland",
+    "publisher": "Deep Silver",
+    "release_date": "6 Eyl 2011",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/library_hero.png",
+    "rating": 7.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Action",
+      "Shooter",
+      "RPG",
+      "friends",
+      "Zombies",
+      "character",
+      "room",
+      "island"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Dead Island\", \"description\": \"Dead Island, Techland tarafından geliştirilen ve tropikal Banoi adasında geçen birinci şahıs hayatta kalma-aksiyon RPG'sidir. Oyunda zombi salgınına karşı bağışıklığı olan dört karakterden birini seçerek, ada genelinde hayatta kalanlara yardım eder ve kaçış yolu arayışına çıkarsın. Yakın dövüş ağırlıklı oynanışı, silah modifikasyonları ve co-op desteğiyle zombi oyunları arasında klasikleşmiş bir yapımdır.\", \"developer\": \"Techland\", \"publisher\": \"Deep Silver\", \"release_date\": \"6 Eyl 2011\", \"tags\": [\"Action\", \"Shooter\", \"RPG\", \"friends\", \"Zombies\", \"character\", \"room\", \"island\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"18\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7 (64-bit)\\nİşlemci: Intel Core 2 Duo E6600 / AMD Athlon 64 X2 5200+\\nRAM: 4 GB\\nEkran Kartı: NVIDIA GTX 260 / AMD HD 5550 (1 GB VRAM)\\nDepolama: 15 GB HDD\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 (64-bit)\\nİşlemci: Intel Core i5-2400 / AMD FX-6300\\nRAM: 8 GB\\nEkran Kartı: NVIDIA GTX 560 / AMD HD 6850 (2 GB VRAM)\\nDepolama: 20 GB SSD\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ce572df1-c548-4322-b776-4880633450e9/torrents/Dead.Island-RELOADED.torrent\", \"label\": \"Dead.Island-RELOADED\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"ce572df1-c548-4322-b776-4880633450e9\", \"added_date\": \"2026-06-25T09:06:50.894052\", \"first_added_date\": \"2026-06-25T09:06:50.894052\", \"_pending_cloud_upload\": true}",
+    "added_at": "2026-06-25T06:07:19.729393",
+    "last_updated": "2026-06-25T06:07:19.729393"
   }
 ]
