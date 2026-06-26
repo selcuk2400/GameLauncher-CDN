@@ -5382,5 +5382,34 @@
       "4fef80e5-57dd-42ff-845e-badda62ec06f",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
+  },
+  {
+    "id": "5faec4a3-7f89-403f-9900-620ce3e95fbd",
+    "title": "Football Pitch Simulator",
+    "description": "Kendi Futbol Sahası Tesisinizi Yönetin Sahaları onarın, oyuncuları karşılayın ve işinizi yeni alanlarla genişletin. Arkadaşlarınızla Oynayın En fazla 4 arkadaşınızla çok oyunculu oynayın ve işinizi birlikte büyütün. Dinamik Futbol Sahaları Eskimiş sahaları onarın, yüzeyleri yenileyin ve temizleyin. Müşterilerinizi mutlu edin ve işinizin kalitesini artırın. İşbirliği yapın Görevleri arkadaşlarınızla paylaşın ve birlikte mükemmel bir iş kurun. Bir Market işletin Rafları stoklayın, fiyatları belirleyin ve kramponları kiralayın.",
+    "category": "",
+    "developer": "Incipient Day",
+    "publisher": "Incipient Day",
+    "release_date": "10 Eki 2025",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Simulation",
+      "Sports",
+      "Casual",
+      "Indie",
+      "Singleplayer",
+      "3D",
+      "Steam Achievements",
+      "Multiplayer",
+      "First-Person"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Football Pitch Simulator\", \"description\": \"Kendi Futbol Sahası Tesisinizi Yönetin Sahaları onarın, oyuncuları karşılayın ve işinizi yeni alanlarla genişletin. Arkadaşlarınızla Oynayın En fazla 4 arkadaşınızla çok oyunculu oynayın ve işinizi birlikte büyütün. Dinamik Futbol Sahaları Eskimiş sahaları onarın, yüzeyleri yenileyin ve temizleyin. Müşterilerinizi mutlu edin ve işinizin kalitesini artırın. İşbirliği yapın Görevleri arkadaşlarınızla paylaşın ve birlikte mükemmel bir iş kurun. Bir Market işletin Rafları stoklayın, fiyatları belirleyin ve kramponları kiralayın.\", \"developer\": \"Incipient Day\", \"publisher\": \"Incipient Day\", \"release_date\": \"10 Eki 2025\", \"tags\": [\"Simulation\", \"Sports\", \"Casual\", \"Indie\", \"Singleplayer\", \"3D\", \"Steam Achievements\", \"Multiplayer\", \"First-Person\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows (64-bit) 10\\nİşlemci: Intel Core i5-2500 @ 3,3 GHz (4 CPUs)\\nBellek: 8 GB RAM\\nEkran Kartı: NVidia GeForce GTX 1050\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows (64-bit) 11\\nİşlemci: Intel Core i5-6500 @ 3,2 GHz (4 CPUs)\\nBellek: 16 GB RAM\\nEkran Kartı: NVidia GeForce GTX 1060\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\", \"game_size_gb\": \"2\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5faec4a3-7f89-403f-9900-620ce3e95fbd/torrents/Football.Pitch.Simulator.v0.1.torrent\", \"label\": \"Football.Pitch.Simulator.v0.1\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"5faec4a3-7f89-403f-9900-620ce3e95fbd\", \"added_date\": \"2026-06-26T19:06:50.963035\", \"first_added_date\": \"2026-06-26T19:06:50.963035\", \"_pending_cloud_upload\": true}",
+    "added_at": "2026-06-26T16:07:19.449736",
+    "last_updated": "2026-06-26T16:07:19.449736"
   }
 ]
