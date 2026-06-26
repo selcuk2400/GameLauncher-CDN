@@ -5571,31 +5571,33 @@
     "last_updated": "2026-06-26T16:56:05.056956"
   },
   {
-    "id": "6fb7976e-9804-4646-bdc0-36763c52343c",
-    "title": "Car Dealership Simulator",
-    "description": "Araba Bayiliği Simülatörü, son derece kapsamlı ve ayrıntılı bir araba bayiliği iş simülasyon oyunudur. Araba Bayiliği Simülatörü ayrıntılı araba alım satım mekaniğini içerir. Arabalarınızı satın alın, fiyatlandırın, temizleyin ve satın.",
+    "id": "a953006e-5cf0-44c2-aab8-f680f1b481c6",
+    "title": "Pacify",
+    "description": "HİKAYE PAH Inc. Paranormal Activity Helpers Incorporated ile yeni sözleşme imzaladınız, evet kulağa bayat geliyor ama maaşınız harika. Hiçbir zaman gerçek bir tehlike altında olmayacağınızı söylediler ve şu anda tonlarca işleri var.",
     "category": "",
-    "developer": "Quadfix Games, THE BARONATOR",
-    "publisher": "Quadfix Games",
-    "release_date": "24 Oca 2022",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/library_hero.jpg",
-    "rating": 0.0,
+    "developer": "Shawn Hitchcock",
+    "publisher": "SKH Apps",
+    "release_date": "",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/library_hero.jpg",
+    "rating": 5.0,
     "size_gb": 0.0,
     "tags": [
-      "Simulation",
+      "Action",
+      "Adventure",
+      "Strategy",
       "Casual",
       "Indie",
       "Singleplayer",
-      "3D",
-      "Short",
       "Steam Achievements",
-      "First-Person"
+      "Horror",
+      "Multiplayer",
+      "Full controller support"
     ],
     "is_active": true,
-    "raw_data": "{\"name\": \"Car Dealership Simulator\", \"description\": \"Araba Bayiliği Simülatörü, son derece kapsamlı ve ayrıntılı bir araba bayiliği iş simülasyon oyunudur. Araba Bayiliği Simülatörü ayrıntılı araba alım satım mekaniğini içerir. Arabalarınızı satın alın, fiyatlandırın, temizleyin ve satın.\", \"developer\": \"Quadfix Games, THE BARONATOR\", \"publisher\": \"Quadfix Games\", \"release_date\": \"24 Oca 2022\", \"tags\": [\"Simulation\", \"Casual\", \"Indie\", \"Singleplayer\", \"3D\", \"Short\", \"Steam Achievements\", \"First-Person\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/screenshots/ss_01.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i5 3.0 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1050ti 4 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i7 3.5 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1660ti 6 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"game_size_gb\": \"1\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/screenshots/ss_01.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/torrents/9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B.torrent\", \"label\": \"9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"6fb7976e-9804-4646-bdc0-36763c52343c\", \"added_date\": \"2026-06-26T19:59:53.304736\", \"first_added_date\": \"2026-06-26T19:59:53.304736\", \"_pending_cloud_upload\": true}",
-    "added_at": "2026-06-26T17:00:04.038615",
-    "last_updated": "2026-06-26T17:00:04.038615"
+    "raw_data": "{\"name\": \"Pacify\", \"description\": \"HİKAYE PAH Inc. Paranormal Activity Helpers Incorporated ile yeni sözleşme imzaladınız, evet kulağa bayat geliyor ama maaşınız harika. Hiçbir zaman gerçek bir tehlike altında olmayacağınızı söylediler ve şu anda tonlarca işleri var.\", \"developer\": \"Shawn Hitchcock\", \"publisher\": \"SKH Apps\", \"release_date\": \"\", \"tags\": [\"Action\", \"Adventure\", \"Strategy\", \"Casual\", \"Indie\", \"Singleplayer\", \"Steam Achievements\", \"Horror\", \"Multiplayer\", \"Full controller support\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 5, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 7 - 64 bit\\nİşlemci: Intel i5 or AMD equivalent (AMD FX 8500+ Series)\\nBellek: 4 GB RAM\\nEkran Kartı: 1GB Video RAM\\nDirectX: Version 10\\nDepolama: 2 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 - 64 bit\\nİşlemci: Intel i7 or AMD equivalent (AMD FX 9500+ Series)\\nBellek: 8 GB RAM\\nEkran Kartı: 4GB Video RAM\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 2 GB kullanılabilir alan\", \"game_size_gb\": \"1\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/torrents/Pacify-PLAZA.torrent\", \"label\": \"Pacify-PLAZA\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"a953006e-5cf0-44c2-aab8-f680f1b481c6\", \"added_date\": \"2026-06-26T20:01:37.197182\", \"first_added_date\": \"2026-06-26T20:01:37.197182\", \"_pending_cloud_upload\": true}",
+    "added_at": "2026-06-26T17:02:02.159302",
+    "last_updated": "2026-06-26T17:02:02.159302"
   }
 ]
