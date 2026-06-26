@@ -425,5 +425,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": null
+  },
+  {
+    "id": "d3d5e4bc-8ee8-49e4-88b4-be461d7b550b",
+    "name": "Football Manager",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
   }
 ]
