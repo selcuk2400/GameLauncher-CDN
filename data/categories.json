@@ -404,12 +404,5 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
-  },
-  {
-    "id": "f2339a39-fdfb-4760-a7ee-e67a630f9891",
-    "name": "1",
-    "icon": "📁",
-    "is_default": false,
-    "parent_id": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f"
   }
 ]
