@@ -418,5 +418,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+  },
+  {
+    "id": "9dd91c55-483b-4d29-87ee-822d406b3e06",
+    "name": "Garip Futbol Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
   }
 ]
