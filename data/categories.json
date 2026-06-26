@@ -418,5 +418,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+  },
+  {
+    "id": "9636a52e-5f7d-4904-964b-e01210eb77ed",
+    "name": "Date Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
   }
 ]
