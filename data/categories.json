@@ -404,5 +404,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
+    "name": "Düşük Boyutlu Oyunlar",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
   }
 ]
