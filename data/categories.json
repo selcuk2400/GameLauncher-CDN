@@ -446,5 +446,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "accd1184-24d0-4772-8f72-91e9fe779b4f"
+  },
+  {
+    "id": "141280b4-dfa5-4a70-97f1-039f907cd036",
+    "name": "Fallout",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
