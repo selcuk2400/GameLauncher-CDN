@@ -432,5 +432,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
+  },
+  {
+    "id": "28fc976a-525c-42cb-99c7-93e60549add6",
+    "name": "Spider Man",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
