@@ -453,5 +453,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "aed285b5-9871-4ca3-a244-eb174b6cde2a",
+    "name": "Bulmaca Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
   }
 ]
