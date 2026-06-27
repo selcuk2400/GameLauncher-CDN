@@ -460,5 +460,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": null
+  },
+  {
+    "id": "beb95ec2-33ed-4a69-bd49-f573830c402c",
+    "name": "Streamer Life Simulator",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
   }
 ]
