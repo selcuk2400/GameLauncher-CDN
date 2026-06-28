@@ -617,5 +617,32 @@
       "0e08efd7-a2b9-40d9-93ad-2324f3669a9e",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
+  },
+  {
+    "id": "858c00ed-8427-44e0-aec5-00a6596e68ea",
+    "title": "Back 4 Blood",
+    "description": "Back 4 Blood, eleştirmenlerce beğenilen Left 4 Dead serisinin yaratıcılarının imzasını taşıyan, heyecan verici, işbirlikçi bir birinci şahıs nişancı oyunudur. Ridden'a karşı verilen bir savaşın merkezindesiniz. Ölümcül bir parazitin bir zamanlar insan olan bu konakçıları, medeniyetten geriye kalanları yok etmeye kararlı korkunç yaratıklara dönüştü.",
+    "category": "",
+    "developer": "Turtle Rock Studios",
+    "publisher": "Warner Bros. Interactive",
+    "release_date": "7 Eki 2021",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/library_hero.jpg",
+    "rating": 6.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Action",
+      "Shooter",
+      "Singleplayer",
+      "Horror",
+      "Multiplayer",
+      "First-Person",
+      "Full controller support"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Back 4 Blood\", \"description\": \"Back 4 Blood, eleştirmenlerce beğenilen Left 4 Dead serisinin yaratıcılarının imzasını taşıyan, heyecan verici, işbirlikçi bir birinci şahıs nişancı oyunudur. Ridden'a karşı verilen bir savaşın merkezindesiniz. Ölümcül bir parazitin bir zamanlar insan olan bu konakçıları, medeniyetten geriye kalanları yok etmeye kararlı korkunç yaratıklara dönüştü.\", \"developer\": \"Turtle Rock Studios\", \"publisher\": \"Warner Bros. Interactive\", \"release_date\": \"7 Eki 2021\", \"tags\": [\"Action\", \"Shooter\", \"Singleplayer\", \"Horror\", \"Multiplayer\", \"First-Person\", \"Full controller support\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"12\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: 64-bit Windows 10\\nİşlemci: Intel Core i5-6600 (3.3 GHz) OR AMD Ryzen 5 2600 (3.4 GHz)\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 1050 Ti OR AMD Radeon RX 570\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 40 GB kullanılabilir alan\\nEk Notlar: 1080p / 60fps / Low Quality Settings\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: 64-bit Windows 10\\nİşlemci: Intel Core i5-8400 (2.8 GHz) OR AMD Ryzen 7 1800X (3.6 GHz)\\nBellek: 12 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 970 OR AMD Radeon RX 590\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 40 GB kullanılabilir alan\\nEk Notlar: 1080p / 60fps / High Quality Settings\", \"game_size_gb\": \"42.65\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/858c00ed-8427-44e0-aec5-00a6596e68ea/torrents/Back 4 Blood [FitGirl Repack].torrent\", \"label\": \"Back 4 Blood [FitGirl Repack]\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"858c00ed-8427-44e0-aec5-00a6596e68ea\", \"added_date\": \"2026-06-29T00:21:14.499164\", \"first_added_date\": \"2026-06-29T00:21:14.499164\", \"_pending_cloud_upload\": true}",
+    "added_at": "2026-06-28T21:21:40.050849",
+    "last_updated": "2026-06-28T21:21:40.050849"
   }
 ]
