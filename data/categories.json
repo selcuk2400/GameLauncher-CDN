@@ -474,5 +474,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "2e933453-5af6-42cd-afd8-f80c7ce20091",
+    "name": "The Crew",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
   }
 ]
