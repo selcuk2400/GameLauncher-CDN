@@ -488,5 +488,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "3381f2f4-8b2a-483f-b3a7-8a637ff47083",
+    "name": "Zombi Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
   }
 ]
