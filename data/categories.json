@@ -488,5 +488,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "7782d46a-43ad-4c61-9f2e-76b7466c279d",
+    "name": "GTA Vice City Modları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "865c7c8e-a508-46de-b942-8c80ef06a506"
   }
 ]
