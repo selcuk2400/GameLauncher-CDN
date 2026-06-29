@@ -34,5 +34,17 @@
     "raw_data": "{\"name\": \"Cheat Engine Türkçe\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1782296854\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1782296854\", \"screenshots\": [], \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=1Vttrh5pv2HD9R3nuL4HM2ykd-7N-bFQ1&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"a8ada764-51e0-440b-919d-1b2da3dabd6b\", \"added_date\": \"2026-06-24T13:27:12.011345\", \"first_added_date\": \"2026-06-24T13:27:12.011345\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-24T13:27:12.011345",
     "last_updated": "2026-06-25T05:28:54.268294"
+  },
+  {
+    "id": "1667b871-cbe8-48bd-b88b-e48fccc6345d",
+    "title": "Kaspersky Total Security 2021",
+    "description": "Lisans Anahtarı:\n3M3K9-5R92S-ZDH5Y-NA944",
+    "developer": "",
+    "version": "",
+    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1667b871-cbe8-48bd-b88b-e48fccc6345d/icon.png",
+    "is_active": true,
+    "raw_data": "{\"name\": \"Kaspersky Total Security 2021\", \"developer\": \"\", \"version\": \"\", \"description\": \"Lisans Anahtarı:\\n3M3K9-5R92S-ZDH5Y-NA944\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1667b871-cbe8-48bd-b88b-e48fccc6345d/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1667b871-cbe8-48bd-b88b-e48fccc6345d/icon.png\", \"screenshots\": [], \"screenshot_urls\": [], \"_screenshots_cleared_by_user\": true, \"download_links\": [{\"url\": \"https://www.mediafire.com/folder/aob2lbe7vavj8/Music\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Şifre:12345\"}], \"id\": \"1667b871-cbe8-48bd-b88b-e48fccc6345d\", \"added_date\": \"2026-06-29T14:06:37.568651\", \"first_added_date\": \"2026-06-29T14:06:37.568651\"}",
+    "added_at": "2026-06-29T11:06:39.619223",
+    "last_updated": "2026-06-29T11:06:39.619223"
   }
 ]
