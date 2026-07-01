@@ -788,31 +788,5 @@
     "raw_data": "{\"name\": \"Ë\", \"description\": \"Ë, kemx tarafından geliştirilen bir oyundur. 17-03-2019'da çıktı. Ë PC ve macOS'ta kullanılabilir. Oyun itch.io üzerinden satılmaktadır.\", \"developer\": \"kemx\", \"publisher\": \"\", \"release_date\": \"17 Mar 2019\", \"tags\": [], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/214545da-46d4-4e19-84ed-0b3a7ab22930/cover.jpg?v=1782933249\", \"banner_image\": \"https://media.rawg.io/media/screenshots/e21/e2145beff8e537649ac17f69a8d87a9d.jpg?v=1782933249\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/214545da-46d4-4e19-84ed-0b3a7ab22930/library_hero.jpg?v=1782933249\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/214545da-46d4-4e19-84ed-0b3a7ab22930/cover.jpg?v=1782933249\", \"banner_image_url\": \"https://media.rawg.io/media/screenshots/e21/e2145beff8e537649ac17f69a8d87a9d.jpg?v=1782933249\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/214545da-46d4-4e19-84ed-0b3a7ab22930/library_hero.jpg?v=1782933249\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"214545da-46d4-4e19-84ed-0b3a7ab22930\", \"added_date\": \"2026-07-01T22:12:39.389523\", \"first_added_date\": \"2026-07-01T22:12:39.389523\", \"categories\": []}",
     "added_at": "2026-07-01T19:12:43.309655",
     "last_updated": "2026-07-01T19:14:11.266524"
-  },
-  {
-    "id": "1317dcde-361e-4c1e-87a7-1632431136f9",
-    "title": "San Andreas Multiplayer (SA-MP)",
-    "description": "SA-MP (San Andreas Multiplayer), Rockstar Games Grand Theft Auto: San Andreas'ın PC sürümü için ücretsiz bir Devasa Çok Oyunculu Çevrimiçi oyun modudur.",
-    "category": "",
-    "developer": "",
-    "publisher": "",
-    "release_date": "9 May 2006",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1317dcde-361e-4c1e-87a7-1632431136f9/cover.png?v=1782933499",
-    "background_url": "https://media.rawg.io/media/screenshots/d90/d903b92cd2c9c020e80776f014c65522.jpg?v=1782933499",
-    "logo_url": "https://cdn2.steamgriddb.com/hero/a215c3439968170d0649dc73b81b5fb4.png?v=1782933499",
-    "rating": 7.0,
-    "size_gb": 0.0,
-    "tags": [
-      "Action",
-      "Shooter",
-      "RPG",
-      "sa-mp",
-      "san andreas multiplayer",
-      "samp"
-    ],
-    "is_active": true,
-    "raw_data": "{\"name\": \"San Andreas Multiplayer (SA-MP)\", \"description\": \"SA-MP (San Andreas Multiplayer), Rockstar Games Grand Theft Auto: San Andreas'ın PC sürümü için ücretsiz bir Devasa Çok Oyunculu Çevrimiçi oyun modudur.\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"9 May 2006\", \"tags\": [\"Action\", \"Shooter\", \"RPG\", \"sa-mp\", \"san andreas multiplayer\", \"samp\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1317dcde-361e-4c1e-87a7-1632431136f9/cover.png?v=1782933499\", \"banner_image\": \"https://media.rawg.io/media/screenshots/d90/d903b92cd2c9c020e80776f014c65522.jpg?v=1782933499\", \"library_hero_image\": \"https://cdn2.steamgriddb.com/hero/a215c3439968170d0649dc73b81b5fb4.png?v=1782933499\", \"screenshots\": [], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1317dcde-361e-4c1e-87a7-1632431136f9/cover.png?v=1782933499\", \"banner_image_url\": \"https://media.rawg.io/media/screenshots/d90/d903b92cd2c9c020e80776f014c65522.jpg?v=1782933499\", \"library_hero_image_url\": \"https://cdn2.steamgriddb.com/hero/a215c3439968170d0649dc73b81b5fb4.png?v=1782933499\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"1317dcde-361e-4c1e-87a7-1632431136f9\", \"added_date\": \"2026-07-01T22:16:22.489601\", \"first_added_date\": \"2026-07-01T22:16:22.489601\", \"categories\": []}",
-    "added_at": "2026-07-01T19:16:28.348156",
-    "last_updated": "2026-07-01T19:18:21.646836"
   }
 ]
