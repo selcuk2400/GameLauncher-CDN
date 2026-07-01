@@ -495,5 +495,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "865c7c8e-a508-46de-b942-8c80ef06a506"
+  },
+  {
+    "id": "89f9aed1-b45b-4a63-9dd6-af945b58e4d8",
+    "name": "Gta San Andreas Modları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "865c7c8e-a508-46de-b942-8c80ef06a506"
   }
 ]
