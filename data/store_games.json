@@ -868,5 +868,33 @@
       "865c7c8e-a508-46de-b942-8c80ef06a506",
       "3b4b4781-566a-481e-acc7-1b49baf6609a"
     ]
+  },
+  {
+    "id": "6fb7976e-9804-4646-bdc0-36763c52343c",
+    "title": "Car Dealership Simulator",
+    "description": "Araba Bayiliği Simülatörü, son derece kapsamlı ve ayrıntılı bir araba bayiliği iş simülasyon oyunudur. Araba Bayiliği Simülatörü ayrıntılı araba alım satım mekaniğini içerir. Arabalarınızı satın alın, fiyatlandırın, temizleyin ve satın.",
+    "category": "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "developer": "Quadfix Games, THE BARONATOR",
+    "publisher": "Quadfix Games",
+    "release_date": "24 Oca 2022",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/cover.webp?v=1782945536",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/banner.jpg?v=1782945536",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/library_hero.webp?v=1782945536",
+    "rating": 0.0,
+    "size_gb": 0.0,
+    "tags": [
+      "Simulation",
+      "Casual",
+      "Indie",
+      "Singleplayer",
+      "3D",
+      "Short",
+      "Steam Achievements",
+      "First-Person"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"Car Dealership Simulator\", \"description\": \"Araba Bayiliği Simülatörü, son derece kapsamlı ve ayrıntılı bir araba bayiliği iş simülasyon oyunudur. Araba Bayiliği Simülatörü ayrıntılı araba alım satım mekaniğini içerir. Arabalarınızı satın alın, fiyatlandırın, temizleyin ve satın.\", \"developer\": \"Quadfix Games, THE BARONATOR\", \"publisher\": \"Quadfix Games\", \"release_date\": \"24 Oca 2022\", \"tags\": [\"Simulation\", \"Casual\", \"Indie\", \"Singleplayer\", \"3D\", \"Short\", \"Steam Achievements\", \"First-Person\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/cover.webp?v=1782945536\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/banner.jpg?v=1782945536\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/library_hero.webp?v=1782945536\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/screenshots/ss_01.jpg?v=1782945536\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i5 3.0 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1050ti 4 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i7 3.5 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1660ti 6 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"game_size_gb\": \"1\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/cover.webp?v=1782945536\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/banner.jpg?v=1782945536\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/library_hero.webp?v=1782945536\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/screenshots/ss_01.jpg?v=1782945536\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/torrents/9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B.torrent\", \"label\": \"9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"6fb7976e-9804-4646-bdc0-36763c52343c\", \"added_date\": \"2026-06-26T19:59:53.304736\", \"categories\": [\"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"first_added_date\": \"2026-06-26T19:59:53.304736\"}",
+    "added_at": "2026-07-01T22:38:58.290338",
+    "last_updated": "2026-07-01T22:38:58.290338"
   }
 ]
