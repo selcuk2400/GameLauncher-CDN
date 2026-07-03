@@ -1146,5 +1146,31 @@
       "3b4b4781-566a-481e-acc7-1b49baf6609a",
       "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1"
     ]
+  },
+  {
+    "id": "55b5b0ad-eded-4af8-92cf-bf1189846dd6",
+    "title": "FIFA 21",
+    "description": "\"Çevik Top Sürme\" (Agile Dribbling) sistemiyle dar alanlarda oyuncu geçmenin çok daha akıcı hale geldiği simülasyondur. Ayrıca Kariyer moduna interaktif maç simülasyonu gibi uzun zamandır beklenen yenilikler eklenmiştir.",
+    "category": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f,563941bf-f212-4e05-a461-b2b887c5021e",
+    "developer": "Electronic Arts Canada",
+    "publisher": "Electronic Arts",
+    "release_date": "6 Eki 2020",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/cover.jpg?v=1783116279",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/banner.jpg?v=1783116279",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/library_hero.jpg?v=1783116279",
+    "rating": 6.0,
+    "size_gb": 57.0,
+    "tags": [
+      "Sports",
+      "Singleplayer",
+      "Multiplayer",
+      "Full controller support",
+      "PvP",
+      "Realistic"
+    ],
+    "is_active": true,
+    "raw_data": "{\"name\": \"FIFA 21\", \"description\": \"\\\"Çevik Top Sürme\\\" (Agile Dribbling) sistemiyle dar alanlarda oyuncu geçmenin çok daha akıcı hale geldiği simülasyondur. Ayrıca Kariyer moduna interaktif maç simülasyonu gibi uzun zamandır beklenen yenilikler eklenmiştir.\", \"developer\": \"Electronic Arts Canada\", \"publisher\": \"Electronic Arts\", \"release_date\": \"6 Eki 2020\", \"tags\": [\"Sports\", \"Singleplayer\", \"Multiplayer\", \"Full controller support\", \"PvP\", \"Realistic\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/cover.jpg?v=1783116279\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/banner.jpg?v=1783116279\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/library_hero.jpg?v=1783116279\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_01.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_02.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_03.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_04.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_05.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_06.jpg?v=1783116279\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 7/8.1/10 64-Bit\\nİşlemci: Athlon X4 880K @4GHz  veya üstü/Core i3-6100 @3.7GHz veya üstü\\nBellek: 8 GB RAM\\nEkran Kartı: Radeon HD 7850 veya üstü/GeForce GTX 660 veya üstü\\nDepolama: 50 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-Bit\\nİşlemci: FX 8150 @3.6GHz veya üstü/Core i5-3550 @3.40GHz veya üstü\\nBellek: 8 GB RAM\\nEkran Kartı: Radeon R9 270x veya üstü/GeForce GTX 670 veya üstü\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 50 GB kullanılabilir alan\", \"game_size_gb\": \"57\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/cover.jpg?v=1783116279\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/banner.jpg?v=1783116279\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/library_hero.jpg?v=1783116279\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_01.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_02.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_03.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_04.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_05.jpg?v=1783116279\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/screenshots/ss_06.jpg?v=1783116279\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/55b5b0ad-eded-4af8-92cf-bf1189846dd6/torrents/FIFA.21-VOICES38.torrent\", \"label\": \"FIFA.21-VOICES38\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"55b5b0ad-eded-4af8-92cf-bf1189846dd6\", \"added_date\": \"2026-06-22T16:42:26.614450\", \"categories\": [\"7e568e8e-ecb1-4541-b82a-e3b0712ef20f\", \"563941bf-f212-4e05-a461-b2b887c5021e\"], \"first_added_date\": \"2026-06-22T16:42:26.614450\"}",
+    "added_at": "2026-07-03T22:04:40.084796",
+    "last_updated": "2026-07-03T22:04:40.084796"
   }
 ]
