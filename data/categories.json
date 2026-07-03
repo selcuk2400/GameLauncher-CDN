@@ -502,5 +502,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "865c7c8e-a508-46de-b942-8c80ef06a506"
+  },
+  {
+    "id": "028d795d-c6a3-4533-9ac3-9b37e89ba1aa",
+    "name": "s",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
   }
 ]
