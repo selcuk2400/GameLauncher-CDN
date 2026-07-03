@@ -161,13 +161,6 @@
     "parent_id": null
   },
   {
-    "id": "6572dfce-4409-4eda-b0da-63be697847e4",
-    "name": "Need For Speed",
-    "icon": "📁",
-    "is_default": false,
-    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
-  },
-  {
     "id": "e9253e77-65b4-45c3-b39e-8376cd25987c",
     "name": "Outlast",
     "icon": "📁",
