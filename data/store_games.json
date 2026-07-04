@@ -4126,13 +4126,15 @@
     "added_date": "2026-06-22T20:05:36.628259",
     "categories": [
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "8afd1f68-218f-4320-a2b9-8d9abf9d7944",
       "4f8fc1e0-cc71-4e4e-9291-abe2f87430c9",
-      "b53fc043-1aeb-409b-b320-ff1463463533"
+      "8afd1f68-218f-4320-a2b9-8d9abf9d7944",
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "6572dfce-4409-4eda-b0da-63be697847e4"
     ],
     "first_added_date": "2026-06-22T20:05:36.628259",
-    "last_updated": "2026-07-03T22:25:15.820143",
-    "_last_synced": "2026-07-03T22:25:15.844726"
+    "last_updated": "2026-07-04T15:48:10.325311",
+    "_last_synced": "2026-07-03T22:25:15.844726",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,4f8fc1e0-cc71-4e4e-9291-abe2f87430c9,8afd1f68-218f-4320-a2b9-8d9abf9d7944,b53fc043-1aeb-409b-b320-ff1463463533,6572dfce-4409-4eda-b0da-63be697847e4"
   },
   {
     "name": "Need For Speed: Most Wanted",
@@ -4212,15 +4214,17 @@
     "id": "7737d0c0-f5ea-401f-bcd5-7f7d682897ac",
     "added_date": "2026-06-22T20:07:06.468815",
     "categories": [
-      "966ebbf8-8998-4d32-9671-6914c9d9d1e1",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "8afd1f68-218f-4320-a2b9-8d9abf9d7944",
+      "966ebbf8-8998-4d32-9671-6914c9d9d1e1",
       "4f8fc1e0-cc71-4e4e-9291-abe2f87430c9",
-      "b53fc043-1aeb-409b-b320-ff1463463533"
+      "8afd1f68-218f-4320-a2b9-8d9abf9d7944",
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "6572dfce-4409-4eda-b0da-63be697847e4"
     ],
     "first_added_date": "2026-06-22T20:07:06.468815",
-    "last_updated": "2026-07-03T22:25:15.820143",
-    "_last_synced": "2026-07-03T22:25:15.844726"
+    "last_updated": "2026-07-04T15:48:10.325311",
+    "_last_synced": "2026-07-03T22:25:15.844726",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,966ebbf8-8998-4d32-9671-6914c9d9d1e1,4f8fc1e0-cc71-4e4e-9291-abe2f87430c9,8afd1f68-218f-4320-a2b9-8d9abf9d7944,b53fc043-1aeb-409b-b320-ff1463463533,6572dfce-4409-4eda-b0da-63be697847e4"
   },
   {
     "name": "Need for Speed Heat",
@@ -4282,11 +4286,13 @@
     "first_added_date": "2026-06-22T20:09:29.303190",
     "categories": [
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "4f8fc1e0-cc71-4e4e-9291-abe2f87430c9",
       "8afd1f68-218f-4320-a2b9-8d9abf9d7944",
-      "4f8fc1e0-cc71-4e4e-9291-abe2f87430c9"
+      "6572dfce-4409-4eda-b0da-63be697847e4"
     ],
-    "last_updated": "2026-07-03T22:25:15.821129",
-    "_last_synced": "2026-07-03T22:25:15.844726"
+    "last_updated": "2026-07-04T15:48:10.325311",
+    "_last_synced": "2026-07-03T22:25:15.844726",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,4f8fc1e0-cc71-4e4e-9291-abe2f87430c9,8afd1f68-218f-4320-a2b9-8d9abf9d7944,6572dfce-4409-4eda-b0da-63be697847e4"
   },
   {
     "name": "Reanimal",
