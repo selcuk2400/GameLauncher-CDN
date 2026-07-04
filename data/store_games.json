@@ -14939,18 +14939,11 @@
     "_last_synced": "2026-07-01T22:56:22.850846"
   },
   {
-    "id": "0ceaf33a-5004-465c-97d2-9c7299e156df",
-    "title": "Sunkenland",
+    "name": "Sunkenland",
     "description": "Sunkenland, suyun dünyanın çoğunu kapladığı yakın gelecekte geçen heyecan verici bir kıyamet sonrası hayatta kalma ve keşif oyunudur. Batık şehirleri keşfedin, kaynakları ve değerli teknolojileri temizleyin, üssünüzü inşa edin, ticaret yapın, savaşın ve hayatta kalın. Özellikler: Dalış Batık gökdelenleri, nükleer santralleri ve metro tünelini keşfedin.",
-    "category": "b53fc043-1aeb-409b-b320-ff1463463533,287a90c1-a897-45a6-8964-e0175590c3d5,accd1184-24d0-4772-8f72-91e9fe779b4f",
     "developer": "Vector3 Studio",
     "publisher": "Vector3 Studio",
     "release_date": "",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/library_hero.jpg",
-    "rating": 5.0,
-    "size_gb": 3.95,
     "tags": [
       "Action",
       "Indie",
@@ -14960,17 +14953,67 @@
       "Exploration",
       "Early Access"
     ],
-    "is_active": true,
-    "raw_data": "{\"name\": \"Sunkenland\", \"description\": \"Sunkenland, suyun dünyanın çoğunu kapladığı yakın gelecekte geçen heyecan verici bir kıyamet sonrası hayatta kalma ve keşif oyunudur. Batık şehirleri keşfedin, kaynakları ve değerli teknolojileri temizleyin, üssünüzü inşa edin, ticaret yapın, savaşın ve hayatta kalın. Özellikler: Dalış Batık gökdelenleri, nükleer santralleri ve metro tünelini keşfedin.\", \"developer\": \"Vector3 Studio\", \"publisher\": \"Vector3 Studio\", \"release_date\": \"\", \"tags\": [\"Action\", \"Indie\", \"Singleplayer\", \"3D\", \"Multiplayer\", \"Exploration\", \"Early Access\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 5, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7\\nİşlemci: Intel Dual-Core 2.4 GHz\\nBellek: 4 GB RAM\\nEkran Kartı: NVIDIA GeForce 8800GT\", \"sys_recommended\": \"İşletim Sistemi: Windows 7\\nİşlemci: Quad Core Processor\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 560\", \"game_size_gb\": \"3.95\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://pixeldrain.com/u/Pbx3gnSW\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\", \"browser_only\": true}], \"info_items\": [], \"id\": \"0ceaf33a-5004-465c-97d2-9c7299e156df\", \"added_date\": \"2026-07-04T00:47:25.716009\", \"first_added_date\": \"2026-07-04T00:47:25.716009\", \"_pending_cloud_upload\": true, \"categories\": [\"b53fc043-1aeb-409b-b320-ff1463463533\", \"287a90c1-a897-45a6-8964-e0175590c3d5\", \"accd1184-24d0-4772-8f72-91e9fe779b4f\"]}",
-    "added_at": "2026-07-04T14:56:39.041840",
-    "last_updated": "2026-07-04T14:56:39.041840"
+    "cover_image": "C:/Users/Seljuk/Desktop/library_600x900_2x.jpg",
+    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\28d39fcb8e368dcd9e3d9d982f7c6585.jpg",
+    "library_hero_image": "C:/Users/Seljuk/Desktop/400px-Sunkenland_title-screen.jpg",
+    "screenshots": [
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\f2889c1372f24aa32939c60a32ef7797.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\3b2ef1451048e5fd41eb0e2a46ad2c0f.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\c70c94f62e1c4278cf2337483c20d3d3.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\28d39fcb8e368dcd9e3d9d982f7c6585.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\18ba34b8d699ff208314b7fb60231d0f.jpg"
+    ],
+    "note": "",
+    "rating": 5,
+    "hltb_hours": "",
+    "show_hltb": false,
+    "sys_min": "İşletim Sistemi: Windows 7\nİşlemci: Intel Dual-Core 2.4 GHz\nBellek: 4 GB RAM\nEkran Kartı: NVIDIA GeForce 8800GT",
+    "sys_recommended": "İşletim Sistemi: Windows 7\nİşlemci: Quad Core Processor\nBellek: 8 GB RAM\nEkran Kartı: NVIDIA GeForce GTX 560",
+    "game_size_gb": "3.95",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/cover.jpg",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/library_hero.jpg",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0ceaf33a-5004-465c-97d2-9c7299e156df/screenshots/ss_05.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://pixeldrain.com/u/Pbx3gnSW",
+        "label": "🔗 Doğrudan Link",
+        "type": "direct",
+        "description": "",
+        "browser_only": true
+      }
+    ],
+    "info_items": [],
+    "id": "0ceaf33a-5004-465c-97d2-9c7299e156df",
+    "added_date": "2026-07-04T00:47:25.716009",
+    "first_added_date": "2026-07-04T00:47:25.716009",
+    "categories": [
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "287a90c1-a897-45a6-8964-e0175590c3d5",
+      "accd1184-24d0-4772-8f72-91e9fe779b4f"
+    ],
+    "last_updated": "2026-07-03T22:30:18.777848",
+    "_last_synced": "2026-07-03T22:30:18.777848"
   },
   {
-    "name": "Grand Theft Auto: Vice City",
+    "id": "2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0",
+    "title": "Grand Theft Auto: Vice City",
     "description": "Grand Theft Auto: Vice City, açık dünyaya sahip üçüncü şahıs nişancı oyunudur. Oyun 1980'lerde kurgusal bir şehirde geçiyor ve başta Miami, FL olmak üzere Vice City'nin gerçek dünyadaki benzerlerine benzeyen benzersiz bir konum, kişi ve nesne tasarımı sergiliyor. GTA: Vice City, Grand Theft Auto III'ün ardından serinin dördüncü oyunudur.",
+    "category": "3b4b4781-566a-481e-acc7-1b49baf6609a,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
     "developer": "Rockstar North",
     "publisher": "Rockstar Games",
     "release_date": "27 Eki 2002",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/banner.jpeg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/library_hero.jpg",
+    "rating": 9.0,
+    "size_gb": 0.197,
     "tags": [
       "Action",
       "Singleplayer",
@@ -14979,59 +15022,10 @@
       "Funny",
       "Third Person"
     ],
-    "cover_image": "D:/İNDİRİLENLER/ChatGPT Image 4 Tem 2026 00_54_03.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\e451c7be453f081d99143d2301d86f79.jpeg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\75291728e2d8458a104b6abd0b062b70.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\dfd73edec49df98ca9cd6736eeba1049.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\41bab662e69407ebdea4f9c2620ea964.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\8669e298a904fce58ba84ab0a9205c01.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\57946b3f520595bf96c77e9c36ea5a9a.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\8d84dcd621ea9cc54ffec9ab6040f799.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\bd2b4586b6acabf7ee39400d3ad5fa66.jpg"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "17",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Microsoft® Windows® 2000/XP\nİşlemci: 800 MHz Intel Pentium III or 800 MHz AMD Athlon or 1.2GHz Intel Celeron or 1.2 GHz AMD Duron processor\nBellek: 128 MB of RAM\nEkran Kartı: 32 MB video card with DirectX 9.0 compatible drivers (\"GeForce\" veya üstü)\nDirectX Version: Microsoft DirectX® 9.0\nHard Drive: 915 MB of free hard disk space (+ 635 MB if video card does NOT support DirectX Texture Compression)\nSes Kartı: Sound Card with DirectX 9.0Recommended:\nİşlemci: Intel Pentium IV or AMD Athlon XP processor 256(+) MB of RAM\nBellek: 1.55 GB of free hard disk space(+ 635 MB if video card does NOT support DirectX Texture Compression)\nEkran Kartı: 64(+) MB video card with DirectX 9.0 compatible drivers (\"GeForce 3\" / \"Radeon 8500\" veya üstü with DirectX Texture Compression support)",
-    "sys_recommended": "",
-    "game_size_gb": "0.197",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/banner.jpeg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://dosya.co/xomy03lczxwy/GTA_Vice_City.rar.html",
-        "label": "🔗 Doğrudan Link",
-        "type": "direct",
-        "description": "",
-        "browser_only": true
-      }
-    ],
-    "info_items": [
-      {
-        "key": "Şifre",
-        "value": "online-fix.me"
-      }
-    ],
-    "id": "2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0",
-    "added_date": "2026-07-04T00:54:26.932021",
-    "first_added_date": "2026-07-04T00:54:26.932021",
-    "categories": [
-      "3b4b4781-566a-481e-acc7-1b49baf6609a",
-      "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1"
-    ],
-    "last_updated": "2026-07-03T21:55:14.958435",
-    "_last_synced": "2026-07-03T21:55:14.958435"
+    "is_active": true,
+    "raw_data": "{\"name\": \"Grand Theft Auto: Vice City\", \"description\": \"Grand Theft Auto: Vice City, açık dünyaya sahip üçüncü şahıs nişancı oyunudur. Oyun 1980'lerde kurgusal bir şehirde geçiyor ve başta Miami, FL olmak üzere Vice City'nin gerçek dünyadaki benzerlerine benzeyen benzersiz bir konum, kişi ve nesne tasarımı sergiliyor. GTA: Vice City, Grand Theft Auto III'ün ardından serinin dördüncü oyunudur.\", \"developer\": \"Rockstar North\", \"publisher\": \"Rockstar Games\", \"release_date\": \"27 Eki 2002\", \"tags\": [\"Action\", \"Singleplayer\", \"Multiplayer\", \"Atmospheric\", \"Funny\", \"Third Person\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/banner.jpeg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"17\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Microsoft® Windows® 2000/XP\\nİşlemci: 800 MHz Intel Pentium III or 800 MHz AMD Athlon or 1.2GHz Intel Celeron or 1.2 GHz AMD Duron processor\\nBellek: 128 MB of RAM\\nEkran Kartı: 32 MB video card with DirectX 9.0 compatible drivers (\\\"GeForce\\\" veya üstü)\\nDirectX Version: Microsoft DirectX® 9.0\\nHard Drive: 915 MB of free hard disk space (+ 635 MB if video card does NOT support DirectX Texture Compression)\\nSes Kartı: Sound Card with DirectX 9.0Recommended:\\nİşlemci: Intel Pentium IV or AMD Athlon XP processor 256(+) MB of RAM\\nBellek: 1.55 GB of free hard disk space(+ 635 MB if video card does NOT support DirectX Texture Compression)\\nEkran Kartı: 64(+) MB video card with DirectX 9.0 compatible drivers (\\\"GeForce 3\\\" / \\\"Radeon 8500\\\" veya üstü with DirectX Texture Compression support)\", \"sys_recommended\": \"\", \"game_size_gb\": \"0.197\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/banner.jpeg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://dosya.co/xomy03lczxwy/GTA_Vice_City.rar.html\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\", \"browser_only\": true}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"id\": \"2c6e04e8-e9b6-4da1-8d0c-c9ec275a49d0\", \"added_date\": \"2026-07-04T00:54:26.932021\", \"first_added_date\": \"2026-07-04T00:54:26.932021\", \"_pending_cloud_upload\": true, \"categories\": [\"3b4b4781-566a-481e-acc7-1b49baf6609a\", \"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\"]}",
+    "added_at": "2026-07-04T14:56:44.216855",
+    "last_updated": "2026-07-04T14:56:44.216855"
   },
   {
     "name": "Once Alive",
