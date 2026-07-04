@@ -516,5 +516,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "4f8fc1e0-cc71-4e4e-9291-abe2f87430c9"
+  },
+  {
+    "id": "8985d147-3d2d-4c3a-97d1-730103e344d8",
+    "name": "The Witcher",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
