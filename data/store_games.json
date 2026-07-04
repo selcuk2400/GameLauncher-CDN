@@ -1278,8 +1278,8 @@
     "size_gb": 0.0,
     "tags": [],
     "is_active": true,
-    "raw_data": "{\"name\": \"deneme\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://www.youtube.com/watch?v=D5PxKUmvAJ4&t=2450s\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\", \"browser_only\": true}], \"info_items\": [], \"id\": \"a17b77b5-b57a-449f-9ecb-c923c0a90404\", \"added_date\": \"2026-07-04T13:13:38.159565\", \"first_added_date\": \"2026-07-04T13:13:38.159565\", \"_pending_cloud_upload\": true, \"categories\": []}",
+    "raw_data": "{\"name\": \"deneme\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://www.youtube.com/watch?v=D5PxKUmvAJ4&t=2450s\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"a17b77b5-b57a-449f-9ecb-c923c0a90404\", \"added_date\": \"2026-07-04T13:13:38.159565\", \"categories\": [], \"first_added_date\": \"2026-07-04T13:13:38.159565\"}",
     "added_at": "2026-07-04T10:13:38.206564",
-    "last_updated": "2026-07-04T10:13:38.206564"
+    "last_updated": "2026-07-04T10:19:40.281959"
   }
 ]
