@@ -14060,18 +14060,11 @@
     ]
   },
   {
-    "id": "89d8e933-0996-453c-bdba-8164b5d99bfd",
-    "title": "Assassin's Creed Mirage",
+    "name": "Assassin's Creed Mirage",
     "description": "Dokuzuncu yüzyıl Bağdat'ının hareketli sokaklarında gezinirken cevaplar ve adalet arayan kurnaz bir sokak hırsızı olan Basim'in hikayesini deneyimleyin. Assassin's Creed Mirage'da siz, kabus gibi vizyonlara sahip, cevaplar ve adalet arayan kurnaz bir sokak hırsızı olan Basim'siniz. Eski bir organizasyona katılın ve Basim'in kaderini asla hayal edemeyeceği şekillerde değiştirecek yeni bir inancı öğrenin.",
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,cc7b9c63-fde3-4fff-9abf-a50d504a5a84",
     "developer": "Ubisoft, Ubisoft Montreal, Ubisoft Bordeaux",
     "publisher": "Ubisoft Entertainment",
     "release_date": "5 Eki 2023",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/library_hero.jpg",
-    "rating": 7.0,
-    "size_gb": 59.61,
     "tags": [
       "Action",
       "Singleplayer",
@@ -14080,10 +14073,52 @@
       "RPG",
       "Action-Adventure"
     ],
-    "is_active": true,
-    "raw_data": "{\"name\": \"Assassin's Creed Mirage\", \"description\": \"Dokuzuncu yüzyıl Bağdat'ının hareketli sokaklarında gezinirken cevaplar ve adalet arayan kurnaz bir sokak hırsızı olan Basim'in hikayesini deneyimleyin. Assassin's Creed Mirage'da siz, kabus gibi vizyonlara sahip, cevaplar ve adalet arayan kurnaz bir sokak hırsızı olan Basim'siniz. Eski bir organizasyona katılın ve Basim'in kaderini asla hayal edemeyeceği şekillerde değiştirecek yeni bir inancı öğrenin.\", \"developer\": \"Ubisoft, Ubisoft Montreal, Ubisoft Bordeaux\", \"publisher\": \"Ubisoft Entertainment\", \"release_date\": \"5 Eki 2023\", \"tags\": [\"Action\", \"Singleplayer\", \"Horror\", \"Story Rich\", \"RPG\", \"Action-Adventure\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"16\", \"show_hltb\": true, \"sys_min\": \"最低配置:\\n需要 64 位处理器和操作系统\\n操作系统: Windows 10/11\\n处理器: INTEL® Core™ i7-4790K (INTEL® Core™ i5-8400 for Intel® ARC™ with Rebar) / Ryzen™ 5 1600\\n内存: 8 GB RAM\\n显卡: Intel® Arc™ A380 (6 GB) / NVIDIA® GeForce® GTX 1060 (6 GB) / AMD Radeon™ RX 570 (4 GB)\\nDirectX 版本: 12\\n存储空间: 需要 40 GB 可用空间\\n支持 VR: N/A\\n附注事项: Video Preset: Low / Target: 30 fps\", \"sys_recommended\": \"推荐配置:\\n需要 64 位处理器和操作系统\\n操作系统: Windows 10/11\\n处理器: Intel® Core™ i7-8700K / AMD Ryzen™ 5 3600\\n内存: 16 GB RAM\\n显卡: Intel® Arc™ A750 (8 GB) / NVIDIA® GeForce® GTX 1660 Ti (6 GB) / AMD Radeon™ RX 5600 XT (6 GB)\\nDirectX 版本: 12\\n存储空间: 需要 40 GB 可用空间\\n支持 VR: N/A\\n附注事项: Video Preset: High / Target: 60 fps\", \"game_size_gb\": \"59.61\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/torrents/Assassins.Creed_.Mirage.Valley.of_.Memory-VOICES38.torrent\", \"label\": \"Assassins.Creed_.Mirage.Valley.of_.Memory-VOICES38\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"89d8e933-0996-453c-bdba-8164b5d99bfd\", \"added_date\": \"2026-06-27T19:34:55.737791\", \"first_added_date\": \"2026-06-27T19:34:55.737791\", \"_pending_cloud_upload\": true, \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"cc7b9c63-fde3-4fff-9abf-a50d504a5a84\"], \"last_updated\": \"2026-07-03T22:23:35.607036\"}",
-    "added_at": "2026-07-04T14:42:45.349040",
-    "last_updated": "2026-07-04T14:42:45.349040"
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/cover.jpg",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/banner.jpg",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/library_hero.jpg",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_06.jpg"
+    ],
+    "note": "",
+    "rating": 7,
+    "hltb_hours": "16",
+    "show_hltb": true,
+    "sys_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10/11\n处理器: INTEL® Core™ i7-4790K (INTEL® Core™ i5-8400 for Intel® ARC™ with Rebar) / Ryzen™ 5 1600\n内存: 8 GB RAM\n显卡: Intel® Arc™ A380 (6 GB) / NVIDIA® GeForce® GTX 1060 (6 GB) / AMD Radeon™ RX 570 (4 GB)\nDirectX 版本: 12\n存储空间: 需要 40 GB 可用空间\n支持 VR: N/A\n附注事项: Video Preset: Low / Target: 30 fps",
+    "sys_recommended": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10/11\n处理器: Intel® Core™ i7-8700K / AMD Ryzen™ 5 3600\n内存: 16 GB RAM\n显卡: Intel® Arc™ A750 (8 GB) / NVIDIA® GeForce® GTX 1660 Ti (6 GB) / AMD Radeon™ RX 5600 XT (6 GB)\nDirectX 版本: 12\n存储空间: 需要 40 GB 可用空间\n支持 VR: N/A\n附注事项: Video Preset: High / Target: 60 fps",
+    "game_size_gb": "59.61",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/cover.jpg",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/library_hero.jpg",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/89d8e933-0996-453c-bdba-8164b5d99bfd/torrents/Assassins.Creed_.Mirage.Valley.of_.Memory-VOICES38.torrent",
+        "label": "Assassins.Creed_.Mirage.Valley.of_.Memory-VOICES38",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "89d8e933-0996-453c-bdba-8164b5d99bfd",
+    "added_date": "2026-06-27T19:34:55.737791",
+    "first_added_date": "2026-06-27T19:34:55.737791",
+    "categories": [
+      "5c112b26-4d14-49b5-9aef-1a97232e8456",
+      "cc7b9c63-fde3-4fff-9abf-a50d504a5a84"
+    ]
   },
   {
     "name": "Sekiro: Shadows Die Twice",
@@ -14146,11 +14181,18 @@
     "_last_synced": "2026-06-28T12:23:55.584105"
   },
   {
-    "name": "The Crew",
+    "id": "d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9",
+    "title": "The Crew",
     "description": "The Crew, Ivory Tower tarafından geliştirilen çevrimiçi bir sürüş simülatörüdür. 5-10 motor kulübü kurucusu Dayton'un kardeşi Alex Taylor, kardeşinin bazı ayak işlerini yapmasına yardım ediyor. Ancak Dayton öldürülünce işler planlandığı gibi gitmez.",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,2e933453-5af6-42cd-afd8-f80c7ce20091",
     "developer": "Ubisoft Reflections, Ivory Tower",
     "publisher": "Ubisoft Entertainment",
     "release_date": "1 Ara 2014",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/library_hero.jpg",
+    "rating": 5.0,
+    "size_gb": 12.87,
     "tags": [
       "Adventure",
       "Racing",
@@ -14161,52 +14203,10 @@
       "First-Person",
       "RPG"
     ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/cover.jpg",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/library_hero.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 5,
-    "hltb_hours": "19",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 SP1, Windows 8/8.1 (64bit versions)\nİşlemci: Intel Core2Quad Q9300 @ 2.5 GHz veya üstü AMD Phenom II X4 945 @ 3 GHz veya üstü\nBellek: 4 GB RAM\nEkran Kartı: nVidia GeForce GTX 460 or AMD Radeon HD5870 (1024MB VRAM with Shader Model 5.0 veya üstü)\nAğ: Geniş bant internet bağlantısı\nDepolama: 30 GB kullanılabilir alan\nSes Kartı: DirectX Compatible Sound Card with latest drivers\nEk Notlar: Keyboard required, XBOX 360 controller optional (or compatible controller)",
-    "sys_recommended": "İşletim Sistemi: Windows 8/8.1 (64bit)\nİşlemci: Intel Core2Quad Q9300 @ 2.5 GHz veya üstü AMD Phenom II X4 945 @ 3 GHz veya üstü\nBellek: 8 GB RAM\nEkran Kartı: NVIDIA GeForce GTX580 or AMD Radeon HD6950 (1024MB VRAM with Shader Model 5.0 veya üstü)\nAğ: Geniş bant internet bağlantısı\nDepolama: 30 GB kullanılabilir alan\nSes Kartı: DirectX-compatible\nEk Notlar: Peripherals Supported: Windows-compatible keyboard, mouse, racing wheel, headset, optional controller (Xbox One Controller or Xbox 360 Controller for Windows recommended) Multiplayer: 1024 kbps or faster broadband connection *Supported Video Cards at Time of Release: AMD Radeon™ HD 4870 / 5000 / 6000 / 7000 / R7 / R9 series, NVIDIA® GeForce® GTX 260 / 400 / 500 / 600 / 700 / TITAN series",
-    "game_size_gb": "12.87",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/torrents/The Crew [FitGirl Repack].torrent",
-        "label": "The Crew [FitGirl Repack]",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9",
-    "added_date": "2026-06-27T19:44:34.274549",
-    "first_added_date": "2026-06-27T19:44:34.274549",
-    "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "2e933453-5af6-42cd-afd8-f80c7ce20091"
-    ]
+    "is_active": true,
+    "raw_data": "{\"name\": \"The Crew\", \"description\": \"The Crew, Ivory Tower tarafından geliştirilen çevrimiçi bir sürüş simülatörüdür. 5-10 motor kulübü kurucusu Dayton'un kardeşi Alex Taylor, kardeşinin bazı ayak işlerini yapmasına yardım ediyor. Ancak Dayton öldürülünce işler planlandığı gibi gitmez.\", \"developer\": \"Ubisoft Reflections, Ivory Tower\", \"publisher\": \"Ubisoft Entertainment\", \"release_date\": \"1 Ara 2014\", \"tags\": [\"Adventure\", \"Racing\", \"Massively Multiplayer\", \"Singleplayer\", \"Multiplayer\", \"Atmospheric\", \"First-Person\", \"RPG\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 5, \"hltb_hours\": \"19\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7 SP1, Windows 8/8.1 (64bit versions)\\nİşlemci: Intel Core2Quad Q9300 @ 2.5 GHz veya üstü AMD Phenom II X4 945 @ 3 GHz veya üstü\\nBellek: 4 GB RAM\\nEkran Kartı: nVidia GeForce GTX 460 or AMD Radeon HD5870 (1024MB VRAM with Shader Model 5.0 veya üstü)\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 30 GB kullanılabilir alan\\nSes Kartı: DirectX Compatible Sound Card with latest drivers\\nEk Notlar: Keyboard required, XBOX 360 controller optional (or compatible controller)\", \"sys_recommended\": \"İşletim Sistemi: Windows 8/8.1 (64bit)\\nİşlemci: Intel Core2Quad Q9300 @ 2.5 GHz veya üstü AMD Phenom II X4 945 @ 3 GHz veya üstü\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX580 or AMD Radeon HD6950 (1024MB VRAM with Shader Model 5.0 veya üstü)\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 30 GB kullanılabilir alan\\nSes Kartı: DirectX-compatible\\nEk Notlar: Peripherals Supported: Windows-compatible keyboard, mouse, racing wheel, headset, optional controller (Xbox One Controller or Xbox 360 Controller for Windows recommended) Multiplayer: 1024 kbps or faster broadband connection *Supported Video Cards at Time of Release: AMD Radeon™ HD 4870 / 5000 / 6000 / 7000 / R7 / R9 series, NVIDIA® GeForce® GTX 260 / 400 / 500 / 600 / 700 / TITAN series\", \"game_size_gb\": \"12.87\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9/torrents/The Crew [FitGirl Repack].torrent\", \"label\": \"The Crew [FitGirl Repack]\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"d46de7ea-4a3c-424f-a93b-3b89ac7b9eb9\", \"added_date\": \"2026-06-27T19:44:34.274549\", \"first_added_date\": \"2026-06-27T19:44:34.274549\", \"_pending_cloud_upload\": true, \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"2e933453-5af6-42cd-afd8-f80c7ce20091\"], \"last_updated\": \"2026-07-03T22:23:35.607036\"}",
+    "added_at": "2026-07-04T14:42:45.406790",
+    "last_updated": "2026-07-04T14:42:45.406790"
   },
   {
     "name": "Resident Evil 9: Requiem",
