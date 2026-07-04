@@ -13875,11 +13875,18 @@
     ]
   },
   {
-    "name": "Kingdom Come: Deliverance",
+    "id": "d023904f-6d58-4d87-a032-59fb6e48b72a",
+    "title": "Kingdom Come: Deliverance",
     "description": "Sen bir demircinin oğlu Henry'sin. Şiddetli bir iç savaşa sürüklenirken, işgalcilerin köyünüze saldırıp arkadaşlarınızı ve ailenizi katletmesini çaresizce izliyorsunuz. Acımasız saldırıdan kıl payı kurtulurken karşılık vermek için kılıcınızı kaparsınız.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,1681e74f-864c-4d19-9ea8-db25f7c6d481",
     "developer": "Deep Silver, Warhorse Studios",
     "publisher": "Warhorse Studios",
     "release_date": "13 Şub 2018",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 73.41,
     "tags": [
       "Action",
       "Adventure",
@@ -13890,52 +13897,10 @@
       "First-Person",
       "Story Rich"
     ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/cover.jpg",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/library_hero.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "43",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: OS 64-bit Windows 7 or 64-bit Windows 8 (8.1)\nİşlemci: Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940\nBellek: 6 GB RAM\nEkran Kartı: Nvidia GPU GeForce GTX 660, AMD GPU Radeon HD 7870\nDirectX: Version 11\nDepolama: 30 GB kullanılabilir alan\nSes Kartı: Integrated\nEk Notlar: These are preliminary system specs and can change!",
-    "sys_recommended": "İşletim Sistemi: OS 64-bit Windows 7 or 64-bit Windows 8 (8.1)\nİşlemci: Intel CPU Core i7 3770 3,4 GHz, AMD CPU AMD FX-8350 4 GHz\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GPU GeForce GTX 1060, AMD GPU Radeon RX 580\nDirectX: Version 11\nDepolama: 30 GB kullanılabilir alan\nSes Kartı: Creative SOUND BLASTER Zx\nEk Notlar: These are preliminary system specs and can change!",
-    "game_size_gb": "73.41",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/torrents/Kingdom.Come.Deliverance-CODEX.torrent",
-        "label": "Kingdom.Come.Deliverance-CODEX",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "d023904f-6d58-4d87-a032-59fb6e48b72a",
-    "added_date": "2026-06-27T19:13:03.502252",
-    "first_added_date": "2026-06-27T19:13:03.502252",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456",
-      "1681e74f-864c-4d19-9ea8-db25f7c6d481"
-    ]
+    "is_active": true,
+    "raw_data": "{\"name\": \"Kingdom Come: Deliverance\", \"description\": \"Sen bir demircinin oğlu Henry'sin. Şiddetli bir iç savaşa sürüklenirken, işgalcilerin köyünüze saldırıp arkadaşlarınızı ve ailenizi katletmesini çaresizce izliyorsunuz. Acımasız saldırıdan kıl payı kurtulurken karşılık vermek için kılıcınızı kaparsınız.\", \"developer\": \"Deep Silver, Warhorse Studios\", \"publisher\": \"Warhorse Studios\", \"release_date\": \"13 Şub 2018\", \"tags\": [\"Action\", \"Adventure\", \"RPG\", \"Singleplayer\", \"Steam Achievements\", \"Atmospheric\", \"First-Person\", \"Story Rich\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"43\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: OS 64-bit Windows 7 or 64-bit Windows 8 (8.1)\\nİşlemci: Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940\\nBellek: 6 GB RAM\\nEkran Kartı: Nvidia GPU GeForce GTX 660, AMD GPU Radeon HD 7870\\nDirectX: Version 11\\nDepolama: 30 GB kullanılabilir alan\\nSes Kartı: Integrated\\nEk Notlar: These are preliminary system specs and can change!\", \"sys_recommended\": \"İşletim Sistemi: OS 64-bit Windows 7 or 64-bit Windows 8 (8.1)\\nİşlemci: Intel CPU Core i7 3770 3,4 GHz, AMD CPU AMD FX-8350 4 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GPU GeForce GTX 1060, AMD GPU Radeon RX 580\\nDirectX: Version 11\\nDepolama: 30 GB kullanılabilir alan\\nSes Kartı: Creative SOUND BLASTER Zx\\nEk Notlar: These are preliminary system specs and can change!\", \"game_size_gb\": \"73.41\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d023904f-6d58-4d87-a032-59fb6e48b72a/torrents/Kingdom.Come.Deliverance-CODEX.torrent\", \"label\": \"Kingdom.Come.Deliverance-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"d023904f-6d58-4d87-a032-59fb6e48b72a\", \"added_date\": \"2026-06-27T19:13:03.502252\", \"first_added_date\": \"2026-06-27T19:13:03.502252\", \"_pending_cloud_upload\": true, \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"1681e74f-864c-4d19-9ea8-db25f7c6d481\"], \"last_updated\": \"2026-07-03T22:23:35.607036\"}",
+    "added_at": "2026-07-04T14:42:27.697201",
+    "last_updated": "2026-07-04T14:42:27.697201"
   },
   {
     "name": "Kingdom Come: Deliverance II",
@@ -14001,18 +13966,11 @@
     ]
   },
   {
-    "id": "84997b26-e111-42cb-84de-061fe96ffc86",
-    "title": "Outer Wilds",
+    "name": "Outer Wilds",
     "description": "Outer Wilds, sonsuz bir zaman döngüsüne hapsolmuş bir güneş sistemini konu alan açık dünya gizemidir. Uzay Programına hoş geldiniz! Tuhaf, sürekli gelişen bir güneş sisteminde cevaplar arayan acemi bir uzay programı olan Outer Wilds Ventures'ın en yeni üyesisiniz.",
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Mobius Digital",
     "publisher": "Annapurna Interactive",
     "release_date": "29 May 2019",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/library_hero.jpg",
-    "rating": 9.0,
-    "size_gb": 2.35,
     "tags": [
       "Adventure",
       "Indie",
@@ -14022,10 +13980,49 @@
       "vr mod",
       "planetary"
     ],
-    "is_active": true,
-    "raw_data": "{\"name\": \"Outer Wilds\", \"description\": \"Outer Wilds, sonsuz bir zaman döngüsüne hapsolmuş bir güneş sistemini konu alan açık dünya gizemidir. Uzay Programına hoş geldiniz! Tuhaf, sürekli gelişen bir güneş sisteminde cevaplar arayan acemi bir uzay programı olan Outer Wilds Ventures'ın en yeni üyesisiniz.\", \"developer\": \"Mobius Digital\", \"publisher\": \"Annapurna Interactive\", \"release_date\": \"29 May 2019\", \"tags\": [\"Adventure\", \"Indie\", \"Puzzle\", \"Space\", \"Surreal\", \"vr mod\", \"planetary\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"17\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\", \"game_size_gb\": \"2.35\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/torrents/Outer.Wilds.1.0.7.torrent\", \"label\": \"Outer.Wilds.1.0.7\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"84997b26-e111-42cb-84de-061fe96ffc86\", \"added_date\": \"2026-06-27T19:21:29.678308\", \"first_added_date\": \"2026-06-27T19:21:29.678308\", \"_pending_cloud_upload\": true, \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"last_updated\": \"2026-07-03T22:23:35.607036\"}",
-    "added_at": "2026-07-04T14:42:24.746093",
-    "last_updated": "2026-07-04T14:42:24.746093"
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/cover.jpg",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/banner.jpg",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/library_hero.jpg",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_05.jpg"
+    ],
+    "note": "",
+    "rating": 9,
+    "hltb_hours": "17",
+    "show_hltb": true,
+    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10",
+    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir",
+    "game_size_gb": "2.35",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/cover.jpg",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/library_hero.jpg",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/screenshots/ss_05.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84997b26-e111-42cb-84de-061fe96ffc86/torrents/Outer.Wilds.1.0.7.torrent",
+        "label": "Outer.Wilds.1.0.7",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "84997b26-e111-42cb-84de-061fe96ffc86",
+    "added_date": "2026-06-27T19:21:29.678308",
+    "first_added_date": "2026-06-27T19:21:29.678308",
+    "categories": [
+      "5c112b26-4d14-49b5-9aef-1a97232e8456"
+    ]
   },
   {
     "name": "Assassin's Creed Mirage",
