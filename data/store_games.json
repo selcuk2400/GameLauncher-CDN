@@ -12188,11 +12188,18 @@
     "first_added_date": "2026-06-26T19:19:40.613844"
   },
   {
-    "name": "Ulukayın: Ertuğrull",
+    "id": "3054e216-5de3-4835-836d-ced84bda1c4c",
+    "title": "Ulukayın: Ertuğrul",
     "description": "⋅ Ulukayınlı Ertuğrul, Ahlat'ın muhteşem manzarası eşliğinde sizi Orta Çağ Türk döneminin kalbine götüren 3. şahıs aksiyon-macera oyunudur. Bu canlı dünyada gezinirken nefes kesici yerleri keşfedin ve komşu kabilelerle bağlantılar kurun.⋅ Masumlar için ayağa kalkın ve ülkeyi yozlaştırmaya çalışan gizli örgütle yüzleşin, Moğollarla ve gölgelerde gizlenen efsanevi canavarlarla savaşmaya hazır olun. Macera rüyalarınızda bile devam ediyor.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Tekden Studio",
     "publisher": "Tekden Studio, Tekden Film",
     "release_date": "12 Haz 2025",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/cover.webp?v=1783274838",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/banner.jpg?v=1783274838",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/library_hero.jpg?v=1783274838",
+    "rating": 0.0,
+    "size_gb": 8.0,
     "tags": [
       "Action",
       "Adventure",
@@ -12204,44 +12211,10 @@
       "Atmospheric",
       "Exploration"
     ],
-    "cover_image": "",
-    "banner_image": "",
-    "library_hero_image": "",
-    "screenshots": [],
-    "note": "",
-    "rating": 0,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64-bit\nİşlemci: Core i7-6700 or Ryzen 5 1600\nBellek: 16 GB RAM\nEkran Kartı: Nvidia® GeForce GTX™ 1070 8GB/AMD Radeon™ RX 5700 8GB/Intel® Arc™ A580 8GB\nDirectX: Version 12\nDepolama: 20 GB kullanılabilir alan",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 11 64-bit\nİşlemci: Core i7-12700 or Ryzen 7 7800X3D\nBellek: 32 GB RAM\nEkran Kartı: Nvidia® GeForce RTX™ 3060Ti 8GB/AMD Radeon™ RX 6700 XT 12GB/Intel® Arc™ B580 12GB\nDirectX: Version 12\nDepolama: 20 GB kullanılabilir alan",
-    "game_size_gb": "8",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/banner.jpg?v=1782491025",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/library_hero.jpg?v=1782491025",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_01.jpg?v=1782491025",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_02.jpg?v=1782491025",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_03.jpg?v=1782491025",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_04.jpg?v=1782491025",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_05.jpg?v=1782491025",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_06.jpg?v=1782491025"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/torrents/Ertugrul.of.Ulukayin.torrent",
-        "label": "Ertugrul.of.Ulukayin",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "3054e216-5de3-4835-836d-ced84bda1c4c",
-    "added_date": "2026-06-26T19:22:16.939147",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "first_added_date": "2026-06-26T19:22:16.939147"
+    "is_active": true,
+    "raw_data": "{\"name\": \"Ulukayın: Ertuğrul\", \"description\": \"⋅ Ulukayınlı Ertuğrul, Ahlat'ın muhteşem manzarası eşliğinde sizi Orta Çağ Türk döneminin kalbine götüren 3. şahıs aksiyon-macera oyunudur. Bu canlı dünyada gezinirken nefes kesici yerleri keşfedin ve komşu kabilelerle bağlantılar kurun.⋅ Masumlar için ayağa kalkın ve ülkeyi yozlaştırmaya çalışan gizli örgütle yüzleşin, Moğollarla ve gölgelerde gizlenen efsanevi canavarlarla savaşmaya hazır olun. Macera rüyalarınızda bile devam ediyor.\", \"developer\": \"Tekden Studio\", \"publisher\": \"Tekden Studio, Tekden Film\", \"release_date\": \"12 Haz 2025\", \"tags\": [\"Action\", \"Adventure\", \"RPG\", \"Indie\", \"Singleplayer\", \"3D\", \"Steam Achievements\", \"Atmospheric\", \"Exploration\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/cover.webp?v=1783274838\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/banner.jpg?v=1783274838\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/library_hero.jpg?v=1783274838\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_01.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_02.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_03.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_04.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_05.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_06.jpg?v=1783274838\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-bit\\nİşlemci: Core i7-6700 or Ryzen 5 1600\\nBellek: 16 GB RAM\\nEkran Kartı: Nvidia® GeForce GTX™ 1070 8GB/AMD Radeon™ RX 5700 8GB/Intel® Arc™ A580 8GB\\nDirectX: Version 12\\nDepolama: 20 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 11 64-bit\\nİşlemci: Core i7-12700 or Ryzen 7 7800X3D\\nBellek: 32 GB RAM\\nEkran Kartı: Nvidia® GeForce RTX™ 3060Ti 8GB/AMD Radeon™ RX 6700 XT 12GB/Intel® Arc™ B580 12GB\\nDirectX: Version 12\\nDepolama: 20 GB kullanılabilir alan\", \"game_size_gb\": \"8\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/cover.webp?v=1783274838\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/banner.jpg?v=1783274838\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/library_hero.jpg?v=1783274838\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_01.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_02.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_03.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_04.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_05.jpg?v=1783274838\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_06.jpg?v=1783274838\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/torrents/Ertugrul.of.Ulukayin.torrent\", \"label\": \"Ertugrul.of.Ulukayin\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"3054e216-5de3-4835-836d-ced84bda1c4c\", \"added_date\": \"2026-06-26T19:22:16.939147\", \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"first_added_date\": \"2026-06-26T19:22:16.939147\"}",
+    "added_at": "2026-07-05T18:07:21.742782",
+    "last_updated": "2026-07-05T18:07:21.742782"
   },
   {
     "name": "Wrap House Simulator🌯",
