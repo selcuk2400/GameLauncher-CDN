@@ -15218,32 +15218,5 @@
     "categories": [
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
-  },
-  {
-    "id": "84686b4c-6075-4be6-9b8a-348287bb1cd9",
-    "title": "Horizon Zero Dawn Complete Edition",
-    "description": "Aloy'un, Makineler tarafından yönetilen gelecekteki Dünya'nın gizemlerini çözmeye yönelik efsanevi arayışını deneyimleyin. Doğuştan kovulan genç avcı, tüm insanlığa yönelik bir tehdidi durdurmak için savaşmak zorundadır. Bu ödüllü aksiyon RPG'sinde Makinelere karşı yıkıcı taktiksel saldırılar kullanın ve görkemli bir açık dünyayı keşfedin",
-    "category": "",
-    "developer": "Guerrilla Games",
-    "publisher": "Sony Interactive Entertainment, PlayStation Mobile",
-    "release_date": "5 Ara 2017",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/library_hero.jpg",
-    "rating": 9.0,
-    "size_gb": 71.49,
-    "tags": [
-      "Action",
-      "Adventure",
-      "RPG",
-      "Singleplayer",
-      "Atmospheric",
-      "Exploration",
-      "Story Rich"
-    ],
-    "is_active": true,
-    "last_updated": "2026-07-06T22:19:28.708573",
-    "raw_data": "{\"name\": \"Horizon Zero Dawn Complete Edition\", \"description\": \"Aloy'un, Makineler tarafından yönetilen gelecekteki Dünya'nın gizemlerini çözmeye yönelik efsanevi arayışını deneyimleyin. Doğuştan kovulan genç avcı, tüm insanlığa yönelik bir tehdidi durdurmak için savaşmak zorundadır. Bu ödüllü aksiyon RPG'sinde Makinelere karşı yıkıcı taktiksel saldırılar kullanın ve görkemli bir açık dünyayı keşfedin\", \"developer\": \"Guerrilla Games\", \"publisher\": \"Sony Interactive Entertainment, PlayStation Mobile\", \"release_date\": \"5 Ara 2017\", \"tags\": [\"Action\", \"Adventure\", \"RPG\", \"Singleplayer\", \"Atmospheric\", \"Exploration\", \"Story Rich\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"29\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\", \"game_size_gb\": \"71.49\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84686b4c-6075-4be6-9b8a-348287bb1cd9/torrents/Horizon.Zero.Dawn.Complete.Edition.v1.0.10.3-GOG.torrent\", \"label\": \"Horizon.Zero.Dawn.Complete.Edition.v1.0.10.3-GOG\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"84686b4c-6075-4be6-9b8a-348287bb1cd9\", \"added_date\": \"2026-07-07T01:19:02.214747\", \"first_added_date\": \"2026-07-07T01:19:02.214747\", \"categories\": [], \"last_updated\": \"2026-07-07T01:19:28.708573\"}",
-    "added_at": "2026-07-06T22:19:28.708573"
   }
 ]
