@@ -530,5 +530,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "de8a7bfc-7023-4d9a-ab14-f495c198ad64"
+  },
+  {
+    "id": "9239e3db-0e25-4336-9813-9b49d619ae29",
+    "name": "Injustice",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5f38c3a3-44d1-488e-a5de-a4d95c742ab5"
   }
 ]
