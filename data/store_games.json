@@ -15097,7 +15097,7 @@
     "id": "8248dd3b-422e-4e27-96c4-11835e93e3f2",
     "title": "TEST_YENI",
     "description": "",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,9636a52e-5f7d-4904-964b-e01210eb77ed",
+    "category": "",
     "developer": "",
     "publisher": "",
     "release_date": "",
@@ -15108,12 +15108,9 @@
     "size_gb": 0.0,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-07-06T16:28:31.417308",
-    "raw_data": "{\"name\": \"TEST_YENI\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"8248dd3b-422e-4e27-96c4-11835e93e3f2\", \"added_date\": \"2026-07-06T14:48:37.996251\", \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"9636a52e-5f7d-4904-964b-e01210eb77ed\"], \"first_added_date\": \"2026-07-06T14:48:37.996251\", \"last_updated\": \"2026-07-06T16:15:09.213384\"}",
+    "last_updated": "2026-07-06T16:32:07.538471",
+    "raw_data": "{\"name\": \"TEST_YENI\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"8248dd3b-422e-4e27-96c4-11835e93e3f2\", \"added_date\": \"2026-07-06T14:48:37.996251\", \"categories\": [], \"first_added_date\": \"2026-07-06T14:48:37.996251\", \"last_updated\": \"2026-07-06T16:15:09.213384\"}",
     "added_at": "2026-07-06T11:48:38.039255",
-    "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "9636a52e-5f7d-4904-964b-e01210eb77ed"
-    ]
+    "categories": []
   }
 ]
