@@ -7164,10 +7164,11 @@
     "added_date": "2026-06-23T19:33:17.112231",
     "first_added_date": "2026-06-23T19:33:17.112231",
     "categories": [
+      "966ebbf8-8998-4d32-9671-6914c9d9d1e1",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ],
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
-    "last_updated": "2026-07-06T18:02:24.030418"
+    "category": "966ebbf8-8998-4d32-9671-6914c9d9d1e1,5c112b26-4d14-49b5-9aef-1a97232e8456",
+    "last_updated": "2026-07-06T18:02:54.226116"
   },
   {
     "name": "Farming Simulator 25",
