@@ -15212,34 +15212,5 @@
     "categories": [
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
-  },
-  {
-    "id": "19c80a45-ad11-4a81-95e0-837f070558cd",
-    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-    "description": "S.T.A.L.K.E.R. 2, dünya çapında milyonlarca oyuncunun keyif aldığı efsanevi seriye yepyeni bir giriştir. Birinci şahıs nişancı, sürükleyici simülasyon ve korkunun patlayıcı kombinasyonu geri döndü. Bu nihai S.T.A.L.K.E.R. benzeri görülmemiş ölçekte deneyim, gelişmiş grafikler, seçim özgürlüğü ve ölümcül bir maceranın en yoğun atmosferi.",
-    "category": "",
-    "developer": "GSC Game World",
-    "publisher": "SEGA, GSC Game World, 4Divinity",
-    "release_date": "20 Kas 2024",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/library_hero.jpg",
-    "rating": 8.0,
-    "size_gb": 173.97,
-    "tags": [
-      "Action",
-      "Shooter",
-      "Adventure",
-      "RPG",
-      "Singleplayer",
-      "Steam Achievements",
-      "Atmospheric",
-      "First-Person",
-      "Exploration"
-    ],
-    "is_active": true,
-    "last_updated": "2026-07-06T21:31:34.177010",
-    "raw_data": "{\"name\": \"S.T.A.L.K.E.R. 2: Heart of Chornobyl\", \"description\": \"S.T.A.L.K.E.R. 2, dünya çapında milyonlarca oyuncunun keyif aldığı efsanevi seriye yepyeni bir giriştir. Birinci şahıs nişancı, sürükleyici simülasyon ve korkunun patlayıcı kombinasyonu geri döndü. Bu nihai S.T.A.L.K.E.R. benzeri görülmemiş ölçekte deneyim, gelişmiş grafikler, seçim özgürlüğü ve ölümcül bir maceranın en yoğun atmosferi.\", \"developer\": \"GSC Game World\", \"publisher\": \"SEGA, GSC Game World, 4Divinity\", \"release_date\": \"20 Kas 2024\", \"tags\": [\"Action\", \"Shooter\", \"Adventure\", \"RPG\", \"Singleplayer\", \"Steam Achievements\", \"Atmospheric\", \"First-Person\", \"Exploration\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"36\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 10 x64 / Windows 11 x64\\nİşlemci: Intel Core i7-7700K / AMD Ryzen 5 1600X\\nBellek: 16 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB / Intel Arc A750\\nDepolama: 160 GB kullanılabilir alan\\nEk Notlar: Graphics Preset: LOW / Resolution: 1080p / Target FPS: 30. 16 GB Dual Channel RAM. SSD required. The listed specifications were evaluated using TSR and comparable technologies.\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 x64 / Windows 11 x64\\nİşlemci: Intel Core i7-11700 / AMD Ryzen 7 5800X\\nBellek: 32 GB RAM\\nEkran Kartı: Nvidia GeForce RTX 3070 Ti / Nvidia GeForce RTX 4070 / AMD Radeon RX 6800 XT\\nDepolama: 160 GB kullanılabilir alan\\nEk Notlar: Graphics Preset: HIGH / Resolution: 1440p / Target FPS: 60. 32 GB Dual Channel RAM. SSD required. The above specifications were tested with TSR, DLSS, FSR and XeSS.\", \"game_size_gb\": \"173.97\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/19c80a45-ad11-4a81-95e0-837f070558cd/torrents/S.T.A.L.K.E.R.2.Heart_.of_.Chornobyl.v1.9-P2P.torrent\", \"label\": \"S.T.A.L.K.E.R.2.Heart_.of_.Chornobyl.v1.9-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"19c80a45-ad11-4a81-95e0-837f070558cd\", \"added_date\": \"2026-07-07T00:31:05.150164\", \"first_added_date\": \"2026-07-07T00:31:05.150164\", \"categories\": [], \"last_updated\": \"2026-07-07T00:31:34.177010\"}",
-    "added_at": "2026-07-06T21:31:34.177010"
   }
 ]
