@@ -537,5 +537,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5f38c3a3-44d1-488e-a5de-a4d95c742ab5"
+  },
+  {
+    "id": "4ed692f6-6bf2-4e0d-a425-529e69ee7bed",
+    "name": "S.T.A.L.K.E.R",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
