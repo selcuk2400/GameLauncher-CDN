@@ -7734,10 +7734,11 @@
     "first_added_date": "2026-06-23T20:04:14.237654",
     "categories": [
       "ae04d7fa-fdac-460e-bf4e-d0acca6257d1",
+      "2feab174-e7dd-4241-8407-9e7f73ad3bb5",
       "de8a7bfc-7023-4d9a-ab14-f495c198ad64"
     ],
-    "category": "ae04d7fa-fdac-460e-bf4e-d0acca6257d1,de8a7bfc-7023-4d9a-ab14-f495c198ad64",
-    "last_updated": "2026-07-06T19:07:20.055586"
+    "category": "ae04d7fa-fdac-460e-bf4e-d0acca6257d1,2feab174-e7dd-4241-8407-9e7f73ad3bb5,de8a7bfc-7023-4d9a-ab14-f495c198ad64",
+    "last_updated": "2026-07-06T21:40:49.927668"
   },
   {
     "name": "Age of Empires IV",
@@ -8159,8 +8160,11 @@
     "added_date": "2026-06-23T20:29:20.647165",
     "first_added_date": "2026-06-23T20:29:20.647165",
     "categories": [
+      "2feab174-e7dd-4241-8407-9e7f73ad3bb5",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ]
+    ],
+    "category": "2feab174-e7dd-4241-8407-9e7f73ad3bb5,5c112b26-4d14-49b5-9aef-1a97232e8456",
+    "last_updated": "2026-07-06T21:40:49.927668"
   },
   {
     "name": "Detroit: Become Human",
@@ -11434,9 +11438,11 @@
     "first_added_date": "2026-06-26T07:17:40.477200",
     "categories": [
       "3b4b4781-566a-481e-acc7-1b49baf6609a",
-      "f2d5cfc1-e7dd-4a0e-b08b-91dfc73c32ef"
+      "f2d5cfc1-e7dd-4a0e-b08b-91dfc73c32ef",
+      "2feab174-e7dd-4241-8407-9e7f73ad3bb5"
     ],
-    "last_updated": "2026-06-26T04:18:39.779389"
+    "last_updated": "2026-07-06T21:40:49.927668",
+    "category": "3b4b4781-566a-481e-acc7-1b49baf6609a,f2d5cfc1-e7dd-4a0e-b08b-91dfc73c32ef,2feab174-e7dd-4241-8407-9e7f73ad3bb5"
   },
   {
     "name": "Just Cause 4",
