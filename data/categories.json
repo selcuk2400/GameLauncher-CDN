@@ -523,5 +523,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "ae04d7fa-fdac-460e-bf4e-d0acca6257d1",
+    "name": "Age of Empires",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "de8a7bfc-7023-4d9a-ab14-f495c198ad64"
   }
 ]
