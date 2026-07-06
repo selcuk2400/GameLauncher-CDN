@@ -2609,18 +2609,11 @@
     ]
   },
   {
-    "id": "d3972a49-4a71-4939-8656-954d993c4778",
-    "title": "F.E.A.R. 3",
+    "name": "F.E.A.R. 3",
     "description": "Doğaüstü korku ve FPS aksiyonunu harmanlayan serinin son oyunudur. Alma'nın çocukları olan \"Point Man\" (zamanı yavaşlatan asker) ve \"Paxton Fettel\" (psişik güçleri olan hayalet) karakterlerini yöneterek iki kişilik co-op oynama imkanı sunar",
-    "category": "287a90c1-a897-45a6-8964-e0175590c3d5,b53fc043-1aeb-409b-b320-ff1463463533,8b3139fa-3b16-4639-81c3-c8a34c013636",
     "developer": "Warner Bros. Interactive, Day 1 Studios",
     "publisher": "Warner Bros. Interactive",
     "release_date": "25 Mar 2011",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/library_hero.png",
-    "rating": 7.0,
-    "size_gb": 4.0,
     "tags": [
       "Action",
       "Shooter",
@@ -2630,10 +2623,58 @@
       "Horror",
       "Multiplayer"
     ],
-    "is_active": true,
-    "last_updated": "2026-07-06T19:02:14.851655",
-    "raw_data": "{\"name\": \"F.E.A.R. 3\", \"description\": \"Doğaüstü korku ve FPS aksiyonunu harmanlayan serinin son oyunudur. Alma'nın çocukları olan \\\"Point Man\\\" (zamanı yavaşlatan asker) ve \\\"Paxton Fettel\\\" (psişik güçleri olan hayalet) karakterlerini yöneterek iki kişilik co-op oynama imkanı sunar\", \"developer\": \"Warner Bros. Interactive, Day 1 Studios\", \"publisher\": \"Warner Bros. Interactive\", \"release_date\": \"25 Mar 2011\", \"tags\": [\"Action\", \"Shooter\", \"Singleplayer\", \"Short\", \"Steam Achievements\", \"Horror\", \"Multiplayer\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"3\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows XP\\nİşlemci: Intel Core 2 Duo 2.4Ghz, AMD Athlon X2 4800+\\nDrive Space: 4.4GB\\nRAM: 2GB\\nVideo Card: NVIDIA 8800 GT 512MB RAM, ATI 3850HD 512Mb RAM veya üstü\\nDirectX®: 9.0c\", \"sys_recommended\": \"İşletim Sistemi: Windows 7\\nİşlemci: Intel Core 2 Duo 2.93Ghz+, Intel quad core 2.66Ghz+, AMD Phenom II X2 550, 3.1Ghz+\\nDrive Space: 10.0GB\\nRAM: 4GB\\nVideo Card: NVIDIA 9800 GTX+ 512MB RAM, ATI 5750HD 512Mb RAM veya üstü\\nDirectX®: 11\", \"game_size_gb\": \"4\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/torrents/FEAR.3.Complete-OFME.torrent\", \"label\": \"FEAR.3.Complete-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"id\": \"d3972a49-4a71-4939-8656-954d993c4778\", \"added_date\": \"2026-06-22T19:10:05.710103\", \"categories\": [\"287a90c1-a897-45a6-8964-e0175590c3d5\", \"b53fc043-1aeb-409b-b320-ff1463463533\", \"8b3139fa-3b16-4639-81c3-c8a34c013636\"], \"first_added_date\": \"2026-06-22T19:10:05.710103\", \"last_updated\": \"2026-07-06T19:02:14.851655\"}",
-    "added_at": "2026-07-06T19:02:14.851655"
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/cover.png",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/banner.jpg",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/library_hero.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_06.jpg"
+    ],
+    "note": "",
+    "rating": 7,
+    "hltb_hours": "3",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Windows XP\nİşlemci: Intel Core 2 Duo 2.4Ghz, AMD Athlon X2 4800+\nDrive Space: 4.4GB\nRAM: 2GB\nVideo Card: NVIDIA 8800 GT 512MB RAM, ATI 3850HD 512Mb RAM veya üstü\nDirectX®: 9.0c",
+    "sys_recommended": "İşletim Sistemi: Windows 7\nİşlemci: Intel Core 2 Duo 2.93Ghz+, Intel quad core 2.66Ghz+, AMD Phenom II X2 550, 3.1Ghz+\nDrive Space: 10.0GB\nRAM: 4GB\nVideo Card: NVIDIA 9800 GTX+ 512MB RAM, ATI 5750HD 512Mb RAM veya üstü\nDirectX®: 11",
+    "game_size_gb": "10f",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/cover.png",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/library_hero.png",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d3972a49-4a71-4939-8656-954d993c4778/torrents/FEAR.3.Complete-OFME.torrent",
+        "label": "FEAR.3.Complete-OFME",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [
+      {
+        "key": "Şifre",
+        "value": "online-fix.me"
+      }
+    ],
+    "id": "d3972a49-4a71-4939-8656-954d993c4778",
+    "added_date": "2026-06-22T19:10:05.710103",
+    "first_added_date": "2026-06-22T19:10:05.710103",
+    "categories": [
+      "287a90c1-a897-45a6-8964-e0175590c3d5",
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "8b3139fa-3b16-4639-81c3-c8a34c013636"
+    ]
   },
   {
     "name": "It Takes Two",
@@ -12106,11 +12147,18 @@
     "added_at": "2026-07-05T18:10:55.467366"
   },
   {
-    "name": "Wrap House Simulator🌯",
+    "id": "e7349449-5f8d-4928-829d-cc9e64ea35d7",
+    "title": "Wrap House Simulator🌯",
     "description": "🏆 Sarma Evi'nin Ustası Olun! Sarma Evi Simülatöründe cızırdayan şişlerin ve mükemmel şekilde sarılmış lavaşların lezzetli dünyasına adım atın! Sabırsız müşterilerinizi mutlu ederken etleri dilimlemekten sosları mükemmelleştirmeye kadar kendi dürüm dükkanınızı arkadaşlarınızla yönetin. 🔪 Doğrayın, ızgara yapın ve sarın başarıya giden yolu! Yolculuğunuz küçük, mütevazı bir dükkanla başlar. Prestij kazandıkça, yeni malzemelerin, dekorasyonların kilidini açın ve hatta yemek eleştirmenleri ve VIP misafirler gibi özel müşterilere meydan okuyun. 🎉 Ultimate Wrap Challenge'da Takım Kurun veya Yarışın! Tek başınıza oynayın veya arkadaşlarınızla işbirliği yaparak pürüzsüz bir mutfak işletebileceğiniz veya gerçek sarma ustasının kim olduğunu görmek için onlara meydan okuyabileceğiniz çok oyunculu moda geçin! 🎨 Hayalinizdeki Paketleme Evini Tasarlayın, Her Seferinde Tek Paketleme!",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97",
     "developer": "Broken Lyre Entertainment",
     "publisher": "PlayWay",
     "release_date": "29 May 2025",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 4.0,
     "tags": [
       "Simulation",
       "Casual",
@@ -12121,44 +12169,10 @@
       "First-Person",
       "Family Sharing"
     ],
-    "cover_image": "C:/Users/Seljuk/Desktop/65fd5c1e-470d-4cda-ba86-ed882a468984_3533100.webp",
-    "banner_image": "",
-    "library_hero_image": "",
-    "screenshots": [],
-    "note": "",
-    "rating": 0,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64bit or newer\nİşlemci: i7 6700k / RYZEN 5 1500X\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GTX 1060 6GB veya eşdeğeri\nDirectX: Version 12\nDepolama: 5 GB kullanılabilir alan\nEk Notlar: SSD recommended",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64bit or newer\nİşlemci: Intel® i5-8700k / AMD Ryzen 5 3600X equivalent or greater\nBellek: 16 GB RAM\nEkran Kartı: NVIDIA RTX 2070 8GB veya eşdeğeri\nDirectX: Version 12\nDepolama: 5 GB kullanılabilir alan\nEk Notlar: SSD recommended",
-    "game_size_gb": "4",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/cover.webp?v=1783108736",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/banner.jpg?v=1783108736",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/library_hero.jpg?v=1783108736",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_01.jpg?v=1783108736",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_02.jpg?v=1783108736",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_03.jpg?v=1783108736",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_04.jpg?v=1783108736",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_05.jpg?v=1783108736",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_06.jpg?v=1783108736"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/torrents/FCF38D07F1C63B869A4278065B34D292F13790AB.torrent",
-        "label": "FCF38D07F1C63B869A4278065B34D292F13790AB",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "e7349449-5f8d-4928-829d-cc9e64ea35d7",
-    "added_date": "2026-06-26T19:25:19.515635",
-    "categories": [
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
-    ],
-    "first_added_date": "2026-06-26T19:25:19.515635"
+    "is_active": true,
+    "last_updated": "2026-07-06T19:05:14.559010",
+    "raw_data": "{\"name\": \"Wrap House Simulator🌯\", \"description\": \"🏆 Sarma Evi'nin Ustası Olun! Sarma Evi Simülatöründe cızırdayan şişlerin ve mükemmel şekilde sarılmış lavaşların lezzetli dünyasına adım atın! Sabırsız müşterilerinizi mutlu ederken etleri dilimlemekten sosları mükemmelleştirmeye kadar kendi dürüm dükkanınızı arkadaşlarınızla yönetin. 🔪 Doğrayın, ızgara yapın ve sarın başarıya giden yolu! Yolculuğunuz küçük, mütevazı bir dükkanla başlar. Prestij kazandıkça, yeni malzemelerin, dekorasyonların kilidini açın ve hatta yemek eleştirmenleri ve VIP misafirler gibi özel müşterilere meydan okuyun. 🎉 Ultimate Wrap Challenge'da Takım Kurun veya Yarışın! Tek başınıza oynayın veya arkadaşlarınızla işbirliği yaparak pürüzsüz bir mutfak işletebileceğiniz veya gerçek sarma ustasının kim olduğunu görmek için onlara meydan okuyabileceğiniz çok oyunculu moda geçin! 🎨 Hayalinizdeki Paketleme Evini Tasarlayın, Her Seferinde Tek Paketleme!\", \"developer\": \"Broken Lyre Entertainment\", \"publisher\": \"PlayWay\", \"release_date\": \"29 May 2025\", \"tags\": [\"Simulation\", \"Casual\", \"Indie\", \"Singleplayer\", \"Multiplayer\", \"Atmospheric\", \"First-Person\", \"Family Sharing\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64bit or newer\\nİşlemci: i7 6700k / RYZEN 5 1500X\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GTX 1060 6GB veya eşdeğeri\\nDirectX: Version 12\\nDepolama: 5 GB kullanılabilir alan\\nEk Notlar: SSD recommended\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64bit or newer\\nİşlemci: Intel® i5-8700k / AMD Ryzen 5 3600X equivalent or greater\\nBellek: 16 GB RAM\\nEkran Kartı: NVIDIA RTX 2070 8GB veya eşdeğeri\\nDirectX: Version 12\\nDepolama: 5 GB kullanılabilir alan\\nEk Notlar: SSD recommended\", \"game_size_gb\": \"4\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e7349449-5f8d-4928-829d-cc9e64ea35d7/torrents/FCF38D07F1C63B869A4278065B34D292F13790AB.torrent\", \"label\": \"FCF38D07F1C63B869A4278065B34D292F13790AB\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"e7349449-5f8d-4928-829d-cc9e64ea35d7\", \"added_date\": \"2026-06-26T19:25:19.515635\", \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"first_added_date\": \"2026-06-26T19:25:19.515635\", \"last_updated\": \"2026-07-06T19:05:14.559010\"}",
+    "added_at": "2026-07-06T19:05:14.559010"
   },
   {
     "name": "Crime Scene Cleaner",
