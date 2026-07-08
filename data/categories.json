@@ -558,12 +558,5 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "accd1184-24d0-4772-8f72-91e9fe779b4f"
-  },
-  {
-    "id": "04c36be9-e931-4a18-9bbf-46f426a6b472",
-    "name": "dd",
-    "icon": "📁",
-    "is_default": false,
-    "parent_id": null
   }
 ]
