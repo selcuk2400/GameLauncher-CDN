@@ -18038,31 +18038,5 @@
       "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
       "bd346244-e22c-4839-a5db-05335396e771"
     ]
-  },
-  {
-    "id": "67928e04-2187-43e2-9ec3-35b084fecf7b",
-    "title": "Counter-Strike: Source",
-    "description": "Counter-Strike: Source, rekabetçi nişancı oyunlarından oluşan büyük serinin üçüncü oyunu. Orijinal Valve oyunu Half-Life'ın bir modifikasyonuna dayanan Counter-Strike: Source'un henüz bir konusu yok ve tamamen oyunun rekabetçi bir kısmına odaklanıyor. Terörle Mücadele ve Terörist olmak üzere iki rakip takımla, her iki tarafın da seçebileceği benzersiz bir silah seti vardır.",
-    "category": "",
-    "developer": "Valve Software",
-    "publisher": "Valve",
-    "release_date": "1 Kas 2004",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/library_hero.jpg",
-    "rating": 8.0,
-    "size_gb": 4.0,
-    "tags": [
-      "Shooter",
-      "Singleplayer",
-      "Steam Achievements",
-      "Multiplayer",
-      "Atmospheric",
-      "First-Person"
-    ],
-    "is_active": true,
-    "last_updated": "2026-07-10T19:36:00.988195",
-    "raw_data": "{\"name\": \"Counter-Strike: Source\", \"description\": \"Counter-Strike: Source, rekabetçi nişancı oyunlarından oluşan büyük serinin üçüncü oyunu. Orijinal Valve oyunu Half-Life'ın bir modifikasyonuna dayanan Counter-Strike: Source'un henüz bir konusu yok ve tamamen oyunun rekabetçi bir kısmına odaklanıyor. Terörle Mücadele ve Terörist olmak üzere iki rakip takımla, her iki tarafın da seçebileceği benzersiz bir silah seti vardır.\", \"developer\": \"Valve Software\", \"publisher\": \"Valve\", \"release_date\": \"1 Kas 2004\", \"tags\": [\"Shooter\", \"Singleplayer\", \"Steam Achievements\", \"Multiplayer\", \"Atmospheric\", \"First-Person\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"1.7 GHz Processor, 512MB RAM, DirectX&reg; 8.1 level Graphics Card (Requires support for SSE), Windows&reg; 7 (32/64-bit)/Vista/XP, Mouse, Keyboard, Internet Connection\\nRecommended: Pentium 4 processor (3.0GHz, veya üstü), 1GB RAM, DirectX&reg; 9 level Graphics Card, Windows&reg; 7 (32/64-bit)/Vista/XP, Mouse, Keyboard, Internet Connection\", \"sys_recommended\": \"\", \"game_size_gb\": \"4\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/67928e04-2187-43e2-9ec3-35b084fecf7b/screenshots/ss_05.jpg\"], \"download_links\": [], \"info_items\": [], \"id\": \"67928e04-2187-43e2-9ec3-35b084fecf7b\", \"added_date\": \"2026-07-10T22:35:41.650779\", \"first_added_date\": \"2026-07-10T22:35:41.650779\", \"categories\": [], \"last_updated\": \"2026-07-10T22:36:00.988195\"}",
-    "added_at": "2026-07-10T19:36:00.988195"
   }
 ]
