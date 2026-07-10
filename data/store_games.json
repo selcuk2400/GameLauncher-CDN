@@ -18067,21 +18067,21 @@
   },
   {
     "id": "a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f",
-    "title": "a",
-    "description": "",
+    "title": "a (itch)",
+    "description": "aaa",
     "category": "",
-    "developer": "",
+    "developer": "15dewarj",
     "publisher": "",
-    "release_date": "",
-    "image_url": "",
-    "background_url": "",
-    "logo_url": "",
+    "release_date": "18 Oca 2019",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/library_hero.jpg",
     "rating": 0.0,
     "size_gb": 0.0,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-07-10T20:44:14.077684",
-    "raw_data": "{\"name\": \"a\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"tags\": [], \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"id\": \"a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f\", \"added_date\": \"2026-07-10T23:44:13.991680\", \"first_added_date\": \"2026-07-10T23:44:13.991680\", \"categories\": [], \"last_updated\": \"2026-07-10T23:44:14.077684\"}",
-    "added_at": "2026-07-10T20:44:14.077684"
+    "last_updated": "2026-07-10T20:45:01.644682",
+    "raw_data": "{\"name\": \"a (itch)\", \"description\": \"aaa\", \"developer\": \"15dewarj\", \"publisher\": \"\", \"release_date\": \"18 Oca 2019\", \"tags\": [], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/screenshots/ss_01.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f/screenshots/ss_01.jpg\"], \"download_links\": [], \"info_items\": [], \"id\": \"a24ab75f-d7b6-4ff9-9591-8f9b640cbf9f\", \"added_date\": \"2026-07-10T23:44:13.991680\", \"categories\": [], \"first_added_date\": \"2026-07-10T23:44:13.991680\", \"last_updated\": \"2026-07-10T23:44:58.463958\"}",
+    "added_at": "2026-07-10T20:45:01.644682"
   }
 ]
