@@ -674,64 +674,27 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "FIFA 13",
+    "id": "ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba",
+    "title": "FIFA 13",
     "description": "\"İlk Dokunuş\" (First Touch) kontrol mekaniği sayesinde topu kontrol etmenin oyuncunun yeteneğine bağlandığı sürümüdür. Hücumdaki oyuncuların daha zekice pozisyon almasını sağlayan yeni bir yapay zeka eklenmiştir.",
+    "category": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f,563941bf-f212-4e05-a461-b2b887c5021e",
     "developer": "Electronic Arts Canada",
     "publisher": "Electronic Arts",
     "release_date": "25 Eyl 2012",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/library_hero.png",
+    "rating": 8.0,
+    "size_gb": 7.0,
     "tags": [
       "Sports",
       "match",
       "ball"
     ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/library_hero.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "Win Vista/7 | İşlemci: Çift Çekirdek 2.4 GHz | Bellek: 2 GB RAM | Ekran Kartı: 256 MB (Nvidia 6800 veya ATI X1600) | Depolama: 8 GB",
-    "sys_recommended": "Win Vista/7 | İşlemci: Intel Core 2 Duo 2.4 GHz | Bellek: 2 GB RAM | Ekran Kartı: 512 MB (Nvidia 8800 GT veya eşdeğeri) | Depolama: 8 GB",
-    "game_size_gb": "7",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/torrents/FIFA.13-RELOADED.torrent",
-        "label": "FIFA.13-RELOADED",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba",
-    "added_date": "2026-06-22T16:24:16.516414",
-    "first_added_date": "2026-06-22T16:24:16.516414",
-    "categories": [
-      "7e568e8e-ecb1-4541-b82a-e3b0712ef20f",
-      "563941bf-f212-4e05-a461-b2b887c5021e"
-    ],
-    "category": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f,563941bf-f212-4e05-a461-b2b887c5021e",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "is_active": true,
+    "last_updated": "2026-07-11T01:24:31.186482",
+    "raw_data": "{\"name\": \"FIFA 13\", \"description\": \"\\\"İlk Dokunuş\\\" (First Touch) kontrol mekaniği sayesinde topu kontrol etmenin oyuncunun yeteneğine bağlandığı sürümüdür. Hücumdaki oyuncuların daha zekice pozisyon almasını sağlayan yeni bir yapay zeka eklenmiştir.\", \"developer\": \"Electronic Arts Canada\", \"publisher\": \"Electronic Arts\", \"release_date\": \"25 Eyl 2012\", \"tags\": [\"Sports\", \"match\", \"ball\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"Win Vista/7 | İşlemci: Çift Çekirdek 2.4 GHz | Bellek: 2 GB RAM | Ekran Kartı: 256 MB (Nvidia 6800 veya ATI X1600) | Depolama: 8 GB\", \"sys_recommended\": \"Win Vista/7 | İşlemci: Intel Core 2 Duo 2.4 GHz | Bellek: 2 GB RAM | Ekran Kartı: 512 MB (Nvidia 8800 GT veya eşdeğeri) | Depolama: 8 GB\", \"game_size_gb\": \"7\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba/torrents/FIFA.13-RELOADED.torrent\", \"label\": \"FIFA.13-RELOADED\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"ab550ac5-6d8e-4e4e-80ba-fe05ccb786ba\", \"added_date\": \"2026-06-22T16:24:16.516414\", \"categories\": [\"7e568e8e-ecb1-4541-b82a-e3b0712ef20f\", \"563941bf-f212-4e05-a461-b2b887c5021e\"], \"first_added_date\": \"2026-06-22T16:24:16.516414\", \"last_updated\": \"2026-07-11T01:24:31.186482\"}",
+    "added_at": "2026-07-11T01:24:31.186482"
   },
   {
     "name": "FIFA 14",
