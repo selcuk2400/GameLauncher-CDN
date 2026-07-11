@@ -12620,11 +12620,18 @@
     "category": "8b3139fa-3b16-4639-81c3-c8a34c013636"
   },
   {
-    "name": "Hairdresser Simulator",
+    "id": "faa2eefc-9b61-4c33-97e4-6d773a84f52d",
+    "title": "Hairdresser Simulator",
     "description": "Diğer oyunlarımıza göz atınhttps://store.steampowered.com/app/2103090/Millennials/ https://store.steampowered.com/app/1540720/Forgery_Craft/ https://store.steampowered.com/app/1190970/House_Flipper_2/ Oyun Hakkında Kuaför Simülatörü oyunu yüksek minimum ve önerilen sistem gereksinimlerine sahiptir, lütfen satın almadan önce bunları okuyun. başlık. Kuaförlük mesleğinin temel unsurlarıyla yaratıcılığınızı serbest bırakın; basit bir saç kesiminin bir kişiyi ne kadar değiştirebileceğini görün! Renkleri ve katmanlamayı deneyin.",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97",
     "developer": "Petard Games",
     "publisher": "Frozen Way",
     "release_date": "6 Mar 2024",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 13.0,
     "tags": [
       "Simulation",
       "Casual",
@@ -12635,53 +12642,10 @@
       "Atmospheric",
       "First-Person"
     ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b53f82333b9ddf5bc452e660d57623bd.jpg",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\e3a3951443fa2adf099115ad93c568f4.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\d2622c04deea44936b9de79e1002d3fe.png",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\236a6e26fdf9eb4e260e874ddeec7f0c.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\3f67b471c62199f31ddab596ac710833.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\6f4ba3324d2623b3e46172e4e0c1de44.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\7ff150760b20f3f3c3e5d50fb4c48483.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\79f840758947ceeeb788fdfa6eb2c824.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\01e3e5b10afb47da803ae6e07c5086f2.jpg"
-    ],
-    "note": "",
-    "rating": 0,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 (64-bit) or newer\nİşlemci: Intel Core i7 9gen\nBellek: 16 GB RAM\nEkran Kartı: Nvidia GeForce 1660Ti 6GB\nDirectX: Version 11\nDepolama: 25 GB kullanılabilir alan",
-    "sys_recommended": "İşletim Sistemi: Windows 10 64bit\nİşlemci: Intel Core i7 11gen\nBellek: 16 GB RAM\nEkran Kartı: Nvidia GeForce 3060 8GB\nDirectX: Version 11\nDepolama: 25 GB kullanılabilir alan",
-    "game_size_gb": "13",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/torrents/Hairdresser.Simulator-DOGE.torrent",
-        "label": "Hairdresser.Simulator-DOGE",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "faa2eefc-9b61-4c33-97e4-6d773a84f52d",
-    "added_date": "2026-06-26T19:29:20.311692",
-    "first_added_date": "2026-06-26T19:29:20.311692",
-    "categories": [
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+    "is_active": true,
+    "last_updated": "2026-07-11T01:29:20.527655",
+    "raw_data": "{\"name\": \"Hairdresser Simulator\", \"description\": \"Diğer oyunlarımıza göz atınhttps://store.steampowered.com/app/2103090/Millennials/ https://store.steampowered.com/app/1540720/Forgery_Craft/ https://store.steampowered.com/app/1190970/House_Flipper_2/ Oyun Hakkında Kuaför Simülatörü oyunu yüksek minimum ve önerilen sistem gereksinimlerine sahiptir, lütfen satın almadan önce bunları okuyun. başlık. Kuaförlük mesleğinin temel unsurlarıyla yaratıcılığınızı serbest bırakın; basit bir saç kesiminin bir kişiyi ne kadar değiştirebileceğini görün! Renkleri ve katmanlamayı deneyin.\", \"developer\": \"Petard Games\", \"publisher\": \"Frozen Way\", \"release_date\": \"6 Mar 2024\", \"tags\": [\"Simulation\", \"Casual\", \"Indie\", \"Singleplayer\", \"3D\", \"Steam Achievements\", \"Atmospheric\", \"First-Person\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7 (64-bit) or newer\\nİşlemci: Intel Core i7 9gen\\nBellek: 16 GB RAM\\nEkran Kartı: Nvidia GeForce 1660Ti 6GB\\nDirectX: Version 11\\nDepolama: 25 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 64bit\\nİşlemci: Intel Core i7 11gen\\nBellek: 16 GB RAM\\nEkran Kartı: Nvidia GeForce 3060 8GB\\nDirectX: Version 11\\nDepolama: 25 GB kullanılabilir alan\", \"game_size_gb\": \"13\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/faa2eefc-9b61-4c33-97e4-6d773a84f52d/torrents/Hairdresser.Simulator-DOGE.torrent\", \"label\": \"Hairdresser.Simulator-DOGE\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"faa2eefc-9b61-4c33-97e4-6d773a84f52d\", \"added_date\": \"2026-06-26T19:29:20.311692\", \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"first_added_date\": \"2026-06-26T19:29:20.311692\", \"last_updated\": \"2026-07-11T01:29:20.527655\"}",
+    "added_at": "2026-07-11T01:29:20.527655"
   },
   {
     "name": "Ready or Not",
