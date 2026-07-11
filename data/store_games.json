@@ -7320,18 +7320,11 @@
     "category": "966ebbf8-8998-4d32-9671-6914c9d9d1e1,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "id": "39c2efe8-faff-49ac-94af-f1e9de96dcea",
-    "title": "Farming Simulator 25",
+    "name": "Farming Simulator 25",
     "description": "Serinin en yeni ve en gelişmiş oyunudur. Asya haritası, pirinç tarımı ve manda gibi yeni hayvanların eklendiği, grafiklerin ve fiziklerin zirveye ulaştığı güncel çiftçilik simülasyonudur.",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,d5552220-74ec-41ac-a756-aabe6724cb3c,b53fc043-1aeb-409b-b320-ff1463463533",
     "developer": "Giants Software",
     "publisher": "Giants Software",
     "release_date": "12 Kas 2024",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/library_hero.png",
-    "rating": 7.0,
-    "size_gb": 33.0,
     "tags": [
       "Simulation",
       "Singleplayer",
@@ -7340,10 +7333,59 @@
       "Multiplayer",
       "Atmospheric"
     ],
-    "is_active": true,
-    "last_updated": "2026-07-11T14:54:50.682929",
-    "raw_data": "{\"name\": \"Farming Simulator 25\", \"description\": \"Serinin en yeni ve en gelişmiş oyunudur. Asya haritası, pirinç tarımı ve manda gibi yeni hayvanların eklendiği, grafiklerin ve fiziklerin zirveye ulaştığı güncel çiftçilik simülasyonudur.\", \"developer\": \"Giants Software\", \"publisher\": \"Giants Software\", \"release_date\": \"12 Kas 2024\", \"tags\": [\"Simulation\", \"Singleplayer\", \"3D\", \"Steam Achievements\", \"Multiplayer\", \"Atmospheric\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64bit\\nİşlemci: Intel Core i5-6400, AMD Ryzen 5 1400, veya üstü\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card veya üstü (min 3GB VRAM, DX12 support)\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 45 GB kullanılabilir alan\\nSes Kartı: Sound card\\nVR Support: N/A\\nEk Notlar: These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64bit\\nİşlemci: Intel Core i7-10700, AMD Ryzen 7 3800X, veya üstü\\nBellek: 12 GB RAM\\nEkran Kartı: Nvidia GeForce RTX 2070, AMD Radeon RX 5700 XT, Intel Arc A750 graphics card veya üstü (min 8GB VRAM, DX12 support)\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 45 GB kullanılabilir alan\\nSes Kartı: Sound card\\nVR Support: N/A\\nEk Notlar: These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases.\", \"game_size_gb\": \"33\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/torrents/Farming.Simulator.25.v1.18.0.0-OFME.torrent\", \"label\": \"Farming.Simulator.25.v1.18.0.0-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://rootz.so/d/1HGY4G\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"eğer online çalışmazsa oyun içine atın!\", \"browser_only\": true}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"id\": \"39c2efe8-faff-49ac-94af-f1e9de96dcea\", \"added_date\": \"2026-06-23T19:35:06.850083\", \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"d5552220-74ec-41ac-a756-aabe6724cb3c\", \"b53fc043-1aeb-409b-b320-ff1463463533\"], \"first_added_date\": \"2026-06-23T19:35:06.850083\", \"last_updated\": \"2026-07-11T14:54:50.682929\"}",
-    "added_at": "2026-07-11T14:54:50.682929"
+    "cover_image": "",
+    "banner_image": "",
+    "library_hero_image": "",
+    "screenshots": [],
+    "note": "",
+    "rating": 7,
+    "hltb_hours": "",
+    "show_hltb": true,
+    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64bit\nİşlemci: Intel Core i5-6400, AMD Ryzen 5 1400, veya üstü\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card veya üstü (min 3GB VRAM, DX12 support)\nDirectX: Version 12\nAğ: Geniş bant internet bağlantısı\nDepolama: 45 GB kullanılabilir alan\nSes Kartı: Sound card\nVR Support: N/A\nEk Notlar: These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.",
+    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64bit\nİşlemci: Intel Core i7-10700, AMD Ryzen 7 3800X, veya üstü\nBellek: 12 GB RAM\nEkran Kartı: Nvidia GeForce RTX 2070, AMD Radeon RX 5700 XT, Intel Arc A750 graphics card veya üstü (min 8GB VRAM, DX12 support)\nDirectX: Version 12\nAğ: Geniş bant internet bağlantısı\nDepolama: 45 GB kullanılabilir alan\nSes Kartı: Sound card\nVR Support: N/A\nEk Notlar: These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases.",
+    "game_size_gb": "33",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/cover.jpg",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/library_hero.png",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_05.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/torrents/Farming.Simulator.25.v1.18.0.0-OFME.torrent",
+        "label": "Farming.Simulator.25.v1.18.0.0-OFME",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      },
+      {
+        "url": "https://rootz.so/d/1HGY4G",
+        "label": "🔗 Doğrudan Link",
+        "type": "direct",
+        "description": "eğer online çalışmazsa oyun içine atın!",
+        "browser_only": true
+      }
+    ],
+    "info_items": [
+      {
+        "key": "Şifre",
+        "value": "online-fix.me"
+      }
+    ],
+    "id": "39c2efe8-faff-49ac-94af-f1e9de96dcea",
+    "added_date": "2026-06-23T19:35:06.850083",
+    "categories": [
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "d5552220-74ec-41ac-a756-aabe6724cb3c",
+      "b53fc043-1aeb-409b-b320-ff1463463533"
+    ],
+    "first_added_date": "2026-06-23T19:35:06.850083",
+    "last_updated": "2026-07-08T20:57:29.217091",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,d5552220-74ec-41ac-a756-aabe6724cb3c,b53fc043-1aeb-409b-b320-ff1463463533"
   },
   {
     "name": "Starfield",
@@ -18005,32 +18047,5 @@
     "last_updated": "2026-07-11T01:46:36.880540",
     "raw_data": "{\"name\": \"Grand Theft Auto\", \"description\": \"Grand Theft Auto, Grand Theft Auto serisinin ilk bölümü olan izometrik görünüme sahip bir aksiyon-macera oyunudur. ###Yer ve konu Oyun, her biri Miami, New York City ve San Francisco gibi gerçek hayattaki benzerlerine benzeyen 3 farklı şehirde geçiyor. Oyunun dünyası yalnızca bir şehirden diğerine seyahat etmekle sınırlıdır, şehirlerin kendisi de keşfetmekte özgürdür. Konu, oynanabilir karakterin bir telefon görüşmesi yoluyla veya başka bir şekilde genel talimatlar aldığı çeşitli görevler şeklinde ifade edilir. ###Oynanış Oyundaki her görevin, görev gereksinimlerinin başarılı bir şekilde tamamlanması karşılığında verilen ve bazen görev uğruna kargaşaya neden olan, oyun içi puanlardan oluşan belirlenmiş bir hedefi vardır.\", \"developer\": \"DMA Design, Visual Sciences, Tarantula Studios\", \"publisher\": \"Take Two Interactive, BMG Interactive, ASC Games\", \"release_date\": \"21 Eki 1997\", \"tags\": [\"Action\", \"Singleplayer\", \"2D\", \"Multiplayer\", \"Top-Down\", \"Open World\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"13\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/28a35802-8f64-473b-b80d-833bb835978b/screenshots/ss_06.jpg\"], \"download_links\": [], \"info_items\": [], \"id\": \"28a35802-8f64-473b-b80d-833bb835978b\", \"added_date\": \"2026-07-11T04:46:15.798345\", \"first_added_date\": \"2026-07-11T04:46:15.798345\", \"categories\": [], \"last_updated\": \"2026-07-11T01:46:36.880540\"}",
     "added_at": "2026-07-11T01:46:36.880540"
-  },
-  {
-    "id": "db6f7a06-0733-4dba-8b96-9822d8f9d608",
-    "title": "Grand Theft Auto 2",
-    "description": "Grand Theft Auto geri döndü. Arabalar daha hızlı. Sokaklar daha kalabalık.",
-    "category": "",
-    "developer": "DMA Design",
-    "publisher": "Rockstar Games",
-    "release_date": "22 Eki 1999",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/library_hero.jpg",
-    "rating": 8.0,
-    "size_gb": 0.0,
-    "tags": [
-      "Action",
-      "Racing",
-      "Singleplayer",
-      "2D",
-      "Multiplayer",
-      "Top-Down",
-      "Open World"
-    ],
-    "is_active": true,
-    "last_updated": "2026-07-11T01:55:22.727024",
-    "raw_data": "{\"name\": \"Grand Theft Auto 2\", \"description\": \"Grand Theft Auto geri döndü. Arabalar daha hızlı. Sokaklar daha kalabalık.\", \"developer\": \"DMA Design\", \"publisher\": \"Rockstar Games\", \"release_date\": \"22 Eki 1999\", \"tags\": [\"Action\", \"Racing\", \"Singleplayer\", \"2D\", \"Multiplayer\", \"Top-Down\", \"Open World\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"12\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/db6f7a06-0733-4dba-8b96-9822d8f9d608/screenshots/ss_06.jpg\"], \"download_links\": [], \"info_items\": [], \"id\": \"db6f7a06-0733-4dba-8b96-9822d8f9d608\", \"added_date\": \"2026-07-11T04:55:02.516102\", \"first_added_date\": \"2026-07-11T04:55:02.516102\", \"categories\": [], \"last_updated\": \"2026-07-11T01:55:22.727024\"}",
-    "added_at": "2026-07-11T01:55:22.727024"
   }
 ]
