@@ -13715,18 +13715,11 @@
     "category": "28fc976a-525c-42cb-99c7-93e60549add6,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "id": "7001e82c-4081-4ffb-a40a-a9229b3d2739",
-    "title": "Streamer Life Simulator 2",
+    "name": "Streamer Life Simulator 2",
     "description": "Kan, Ter ve Bağış Serinin ikinci oyununda yayın akışı artık daha eğlenceli ve daha karmaşık. Grafikleri geliştirdik ve oynanışı yeniledik. Kendi yayıncı karakterinizi ayrıntılı olarak oluşturabileceksiniz.",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,beb95ec2-33ed-4a69-bd49-f573830c402c",
     "developer": "Cheesecake Dev",
     "publisher": "Cheesecake Dev",
     "release_date": "23 Oca 2025",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/library_hero.jpg",
-    "rating": 8.0,
-    "size_gb": 3.35,
     "tags": [
       "Simulation",
       "Indie",
@@ -13736,17 +13729,68 @@
       "First-Person",
       "Family Sharing"
     ],
-    "is_active": true,
-    "last_updated": "2026-07-11T16:24:54.161803",
-    "raw_data": "{\"name\": \"Streamer Life Simulator 2\", \"description\": \"Kan, Ter ve Bağış Serinin ikinci oyununda yayın akışı artık daha eğlenceli ve daha karmaşık. Grafikleri geliştirdik ve oynanışı yeniledik. Kendi yayıncı karakterinizi ayrıntılı olarak oluşturabileceksiniz.\", \"developer\": \"Cheesecake Dev\", \"publisher\": \"Cheesecake Dev\", \"release_date\": \"23 Oca 2025\", \"tags\": [\"Simulation\", \"Indie\", \"Singleplayer\", \"Steam Achievements\", \"Atmospheric\", \"First-Person\", \"Family Sharing\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 10\\nİşlemci: 2 GHz Dual Core CPU\\nBellek: 6 GB RAM\\nEkran Kartı: Geforce GTX 970/Radeon RX470 veya üstü\\nDepolama: 10 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10\\nİşlemci: 2.5 GHz Dual Core CPU\\nBellek: 6 GB RAM\\nEkran Kartı: Geforce GTX 1050Ti/Radeon RX 570 veya üstü\\nDepolama: 10 GB kullanılabilir alan\", \"game_size_gb\": \"3.35\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/torrents/Streamer.Life.Simulator.2.v0.146.torrent\", \"label\": \"Batman - Arkham Knight [FitGirl Repack]\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"7001e82c-4081-4ffb-a40a-a9229b3d2739\", \"added_date\": \"2026-06-27T06:46:50.076605\", \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"beb95ec2-33ed-4a69-bd49-f573830c402c\"], \"first_added_date\": \"2026-06-27T06:46:50.076605\", \"last_updated\": \"2026-07-11T16:24:54.161803\"}",
-    "added_at": "2026-07-11T16:24:54.161803"
+    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\8be894d6ba542573afc51792ff4ba25c.png",
+    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\9ce5364a6404aea4461db9b1ef865622.jpg",
+    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\img_hero_75gd96gn.jpg",
+    "screenshots": [
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2d5ad619d2c7ca11a0709fa148938afa.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\c538d824b9f5fd5fd86d7b16ed6c0d2b.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\4b40c10014ff4a241f0a9dad10ec8c77.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\6141b68b19dbb3e1a43795d3c626e6ac.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\de6ce5d06c9e241871ef000bab0f98c1.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\82a085a2016164911fcf0135aa6d48c0.jpg"
+    ],
+    "note": "",
+    "rating": 8,
+    "hltb_hours": "6",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Windows 10\nİşlemci: 2 GHz Dual Core CPU\nBellek: 6 GB RAM\nEkran Kartı: Geforce GTX 970/Radeon RX470 veya üstü\nDepolama: 10 GB kullanılabilir alan",
+    "sys_recommended": "İşletim Sistemi: Windows 10\nİşlemci: 2.5 GHz Dual Core CPU\nBellek: 6 GB RAM\nEkran Kartı: Geforce GTX 1050Ti/Radeon RX 570 veya üstü\nDepolama: 10 GB kullanılabilir alan",
+    "game_size_gb": "3.35",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/cover.jpg?v=1782534053",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/banner.jpg?v=1782534053",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/library_hero.jpg?v=1782534053",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_01.jpg?v=1782534053",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_02.jpg?v=1782534053",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_03.jpg?v=1782534053",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_04.jpg?v=1782534053",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_05.jpg?v=1782534053",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/screenshots/ss_06.jpg?v=1782534053"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7001e82c-4081-4ffb-a40a-a9229b3d2739/torrents/Streamer.Life.Simulator.2.v0.146.torrent",
+        "label": "Batman - Arkham Knight [FitGirl Repack]",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "7001e82c-4081-4ffb-a40a-a9229b3d2739",
+    "added_date": "2026-06-27T06:46:50.076605",
+    "categories": [
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "beb95ec2-33ed-4a69-bd49-f573830c402c"
+    ],
+    "first_added_date": "2026-06-27T06:46:50.076605",
+    "last_updated": "2026-07-08T20:57:29.217091",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,beb95ec2-33ed-4a69-bd49-f573830c402c"
   },
   {
-    "name": "Streamer Life Simulator",
+    "id": "cda8810c-dd63-4daf-951b-a7aff0a94f10",
+    "title": "Streamer Life Simulator",
     "description": "Sıfırdan başlayarak dünyanın en popüler insanlarından biri olun. Karakterinizi geliştirin ve kendinize yeni ekipmanlar satın alın. Kötü mahallenizden ayrılın ve daha güçlü internet altyapısına sahip yeni mahallenize yerleşin.",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,beb95ec2-33ed-4a69-bd49-f573830c402c",
     "developer": "Cheesecake Dev",
     "publisher": "Cheesecake Dev",
     "release_date": "21 Ağu 2020",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/library_hero.jpg",
+    "rating": 6.0,
+    "size_gb": 1.84,
     "tags": [
       "Action",
       "Adventure",
@@ -13760,54 +13804,10 @@
       "Exploration",
       "Funny"
     ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\3756ca6400f27e2d9dc14683c8c71ccb.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\985d3a82e267563e81c7d0784859baac.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\37836091f56fa1178678c1cad54e775c.png",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\37585b781aed0014dc853680ec03d138.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2b772ebdf6e062f4e5f9d3d54b9443f6.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\5557e5a42b4324da6b49efc0a8344ec7.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2093fd11ef09012ef08ce0a9e47e1c8e.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\0fc26f37d42392068966b69479e982f5.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\25b098530d9e0be877a11107b51ce386.jpg"
-    ],
-    "note": "",
-    "rating": 6,
-    "hltb_hours": "10",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7\nİşlemci: 2 GHz Dual Core CPU\nBellek: 4 GB RAM\nEkran Kartı: Intel HD Graphics 4000 veya üstü\nDepolama: 5 GB kullanılabilir alan",
-    "sys_recommended": "İşletim Sistemi: Windows 10\nİşlemci: 2.5 GHz Dual Core CPU\nBellek: 6 GB RAM\nEkran Kartı: Geforce GTX 970/Radeon RX470 veya üstü\nDepolama: 5 GB kullanılabilir alan",
-    "game_size_gb": "1.84",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/torrents/Streamer.Life.Simulator-HOODLUM.torrent",
-        "label": "Streamer.Life.Simulator-HOODLUM",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "cda8810c-dd63-4daf-951b-a7aff0a94f10",
-    "added_date": "2026-06-27T07:22:18.397631",
-    "first_added_date": "2026-06-27T07:22:18.397631",
-    "categories": [
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
-      "beb95ec2-33ed-4a69-bd49-f573830c402c"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,beb95ec2-33ed-4a69-bd49-f573830c402c"
+    "is_active": true,
+    "last_updated": "2026-07-11T16:25:21.597419",
+    "raw_data": "{\"name\": \"Streamer Life Simulator\", \"description\": \"Sıfırdan başlayarak dünyanın en popüler insanlarından biri olun. Karakterinizi geliştirin ve kendinize yeni ekipmanlar satın alın. Kötü mahallenizden ayrılın ve daha güçlü internet altyapısına sahip yeni mahallenize yerleşin.\", \"developer\": \"Cheesecake Dev\", \"publisher\": \"Cheesecake Dev\", \"release_date\": \"21 Ağu 2020\", \"tags\": [\"Action\", \"Adventure\", \"Strategy\", \"Simulation\", \"Casual\", \"Indie\", \"Singleplayer\", \"Steam Achievements\", \"First-Person\", \"Exploration\", \"Funny\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7\\nİşlemci: 2 GHz Dual Core CPU\\nBellek: 4 GB RAM\\nEkran Kartı: Intel HD Graphics 4000 veya üstü\\nDepolama: 5 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10\\nİşlemci: 2.5 GHz Dual Core CPU\\nBellek: 6 GB RAM\\nEkran Kartı: Geforce GTX 970/Radeon RX470 veya üstü\\nDepolama: 5 GB kullanılabilir alan\", \"game_size_gb\": \"1.84\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/torrents/Streamer.Life.Simulator-HOODLUM.torrent\", \"label\": \"Streamer.Life.Simulator-HOODLUM\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"cda8810c-dd63-4daf-951b-a7aff0a94f10\", \"added_date\": \"2026-06-27T07:22:18.397631\", \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"beb95ec2-33ed-4a69-bd49-f573830c402c\"], \"first_added_date\": \"2026-06-27T07:22:18.397631\", \"last_updated\": \"2026-07-11T16:25:21.597419\"}",
+    "added_at": "2026-07-11T16:25:21.597419"
   },
   {
     "name": "R.E.P.O.",
