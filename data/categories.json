@@ -572,5 +572,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": null
+  },
+  {
+    "id": "d04a97e2-fa49-4951-ba26-88b7c461f3b2",
+    "name": "A Plague Tale",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
