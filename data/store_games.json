@@ -1109,18 +1109,11 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "id": "4a1d1605-cd8d-43b2-9614-2c2fd43c02b8",
-    "title": "FIFA 20",
+    "name": "FIFA 20",
     "description": "Eski FIFA Street oyunlarının ruhunu günümüze taşıyan \"VOLTA Football\" adlı sokak futbolu modunu tanıtan oyunudur. Oyuncuların birebir savunma yeteneklerini ödüllendiren yeni defans mekanikleri barındırır.",
-    "category": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f,563941bf-f212-4e05-a461-b2b887c5021e",
     "developer": "Electronic Arts Canada",
     "publisher": "Electronic Arts",
     "release_date": "27 Eyl 2019",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/banner.jpeg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/library_hero.png",
-    "rating": 6.0,
-    "size_gb": 54.0,
     "tags": [
       "Sports",
       "Football",
@@ -1129,10 +1122,54 @@
       "fifa",
       "real-world"
     ],
-    "is_active": true,
-    "last_updated": "2026-07-11T01:25:44.709063",
-    "raw_data": "{\"name\": \"FIFA 20\", \"description\": \"Eski FIFA Street oyunlarının ruhunu günümüze taşıyan \\\"VOLTA Football\\\" adlı sokak futbolu modunu tanıtan oyunudur. Oyuncuların birebir savunma yeteneklerini ödüllendiren yeni defans mekanikleri barındırır.\", \"developer\": \"Electronic Arts Canada\", \"publisher\": \"Electronic Arts\", \"release_date\": \"27 Eyl 2019\", \"tags\": [\"Sports\", \"Football\", \"Soccer\", \"sport\", \"fifa\", \"real-world\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/banner.jpeg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_03.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_04.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_05.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_06.jpeg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7/8.1/10 64-Bit\\nİşlemci: Intel Core i3-2100 veya AMD Phenom II X4 965\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GTX 660 veya AMD Radeon HD 7850\\nDepolama: 50 GB\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 64-Bit\\nİşlemci: Intel Core i5-3550 veya AMD FX 8150\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GTX 670 veya AMD Radeon R9 270X\\nDepolama: 50 GB\", \"game_size_gb\": \"54\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/banner.jpeg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_03.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_04.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_05.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_06.jpeg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/torrents/FIFA.20-VOICES38.torrent\", \"label\": \"FIFA.20-VOICES38\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"4a1d1605-cd8d-43b2-9614-2c2fd43c02b8\", \"added_date\": \"2026-06-22T16:40:43.076298\", \"categories\": [\"7e568e8e-ecb1-4541-b82a-e3b0712ef20f\", \"563941bf-f212-4e05-a461-b2b887c5021e\"], \"first_added_date\": \"2026-06-22T16:40:43.076298\", \"last_updated\": \"2026-07-11T01:25:44.709063\"}",
-    "added_at": "2026-07-11T01:25:44.709063"
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/cover.png",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/banner.jpeg",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/library_hero.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_03.jpeg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_04.jpeg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_05.jpeg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_06.jpeg"
+    ],
+    "note": "",
+    "rating": 6,
+    "hltb_hours": "6",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Windows 7/8.1/10 64-Bit\nİşlemci: Intel Core i3-2100 veya AMD Phenom II X4 965\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GTX 660 veya AMD Radeon HD 7850\nDepolama: 50 GB",
+    "sys_recommended": "İşletim Sistemi: Windows 10 64-Bit\nİşlemci: Intel Core i5-3550 veya AMD FX 8150\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GTX 670 veya AMD Radeon R9 270X\nDepolama: 50 GB",
+    "game_size_gb": "54",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/cover.png",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/banner.jpeg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/library_hero.png",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_03.jpeg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_04.jpeg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_05.jpeg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/screenshots/ss_06.jpeg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/4a1d1605-cd8d-43b2-9614-2c2fd43c02b8/torrents/FIFA.20-VOICES38.torrent",
+        "label": "FIFA.20-VOICES38",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "4a1d1605-cd8d-43b2-9614-2c2fd43c02b8",
+    "added_date": "2026-06-22T16:40:43.076298",
+    "first_added_date": "2026-06-22T16:40:43.076298",
+    "categories": [
+      "7e568e8e-ecb1-4541-b82a-e3b0712ef20f",
+      "563941bf-f212-4e05-a461-b2b887c5021e"
+    ],
+    "category": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f,563941bf-f212-4e05-a461-b2b887c5021e",
+    "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
     "name": "FIFA 21",
@@ -1318,11 +1355,18 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "FIFA 26",
+    "id": "ba8b0487-25b8-40a1-b381-13f3bd32a425",
+    "title": "FIFA 26",
     "description": "Henüz duyurulmamış veya çıkmamış bir projedir (Seri yola \"EA Sports FC\" olarak devam etmektedir).",
+    "category": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f,563941bf-f212-4e05-a461-b2b887c5021e",
     "developer": "Electronic Arts Canada",
     "publisher": "Electronic Arts",
     "release_date": "25 Eyl 2025",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/library_hero.jpg",
+    "rating": 7.0,
+    "size_gb": 56.0,
     "tags": [
       "Simulation",
       "Sports",
@@ -1332,50 +1376,10 @@
       "Full controller support",
       "Controller"
     ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/library_hero.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_04.jpg"
-    ],
-    "note": "",
-    "rating": 7,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10/11 - 64-Bit (Latest Update).\nİşlemci: AMD Ryzen 5 1600 or Intel Core i5 6600k\nBellek: 8 GB RAM\nEkran Kartı: AMD RX 570 or Nvidia GTX 1050 Ti\nDirectX: Version 12\nAğ: Geniş bant internet bağlantısı\nDepolama: 100 GB kullanılabilir alan\nSes Kartı: DirectX: 12 Compatible video card veya eşdeğeri (feature level 12_0)",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10/11 - 64-Bit (Latest Update).\nİşlemci: AMD Ryzen 7 2700X or Intel Core i7 6700\nBellek: 12 GB RAM\nEkran Kartı: AMD RX 5600 XT or Nvidia GTX 1660\nDirectX: Version 12\nAğ: Geniş bant internet bağlantısı\nDepolama: 100 GB kullanılabilir alan\nSes Kartı: DirectX: 12 Compatible video card veya eşdeğeri (feature level 12_0)",
-    "game_size_gb": "56",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_04.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/torrents/EA.SPORTS.FC_.26.torrent",
-        "label": "EA.SPORTS.FC_.26",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "ba8b0487-25b8-40a1-b381-13f3bd32a425",
-    "added_date": "2026-06-22T16:48:42.530798",
-    "first_added_date": "2026-06-22T16:48:42.530798",
-    "categories": [
-      "7e568e8e-ecb1-4541-b82a-e3b0712ef20f",
-      "563941bf-f212-4e05-a461-b2b887c5021e"
-    ],
-    "category": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f,563941bf-f212-4e05-a461-b2b887c5021e",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "is_active": true,
+    "last_updated": "2026-07-11T01:26:10.884845",
+    "raw_data": "{\"name\": \"FIFA 26\", \"description\": \"Henüz duyurulmamış veya çıkmamış bir projedir (Seri yola \\\"EA Sports FC\\\" olarak devam etmektedir).\", \"developer\": \"Electronic Arts Canada\", \"publisher\": \"Electronic Arts\", \"release_date\": \"25 Eyl 2025\", \"tags\": [\"Simulation\", \"Sports\", \"Singleplayer\", \"Steam Achievements\", \"Multiplayer\", \"Full controller support\", \"Controller\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_04.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10/11 - 64-Bit (Latest Update).\\nİşlemci: AMD Ryzen 5 1600 or Intel Core i5 6600k\\nBellek: 8 GB RAM\\nEkran Kartı: AMD RX 570 or Nvidia GTX 1050 Ti\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 100 GB kullanılabilir alan\\nSes Kartı: DirectX: 12 Compatible video card veya eşdeğeri (feature level 12_0)\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10/11 - 64-Bit (Latest Update).\\nİşlemci: AMD Ryzen 7 2700X or Intel Core i7 6700\\nBellek: 12 GB RAM\\nEkran Kartı: AMD RX 5600 XT or Nvidia GTX 1660\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 100 GB kullanılabilir alan\\nSes Kartı: DirectX: 12 Compatible video card veya eşdeğeri (feature level 12_0)\", \"game_size_gb\": \"56\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ba8b0487-25b8-40a1-b381-13f3bd32a425/torrents/EA.SPORTS.FC_.26.torrent\", \"label\": \"EA.SPORTS.FC_.26\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"ba8b0487-25b8-40a1-b381-13f3bd32a425\", \"added_date\": \"2026-06-22T16:48:42.530798\", \"categories\": [\"7e568e8e-ecb1-4541-b82a-e3b0712ef20f\", \"563941bf-f212-4e05-a461-b2b887c5021e\"], \"first_added_date\": \"2026-06-22T16:48:42.530798\", \"last_updated\": \"2026-07-11T01:26:10.884845\"}",
+    "added_at": "2026-07-11T01:26:10.884845"
   },
   {
     "name": "Pro Evolution Soccer 2006",
