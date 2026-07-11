@@ -7030,18 +7030,11 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "id": "86803e2b-2b20-4b2b-86ea-4667fb3a1984",
-    "title": "Farming Simulator 19",
+    "name": "Farming Simulator 19",
     "description": "Seriye baştan aşağı yenilenmiş bir grafik motoru getiren, çok daha gerçekçi görünen çiftçilik oyunudur. At binme özelliğinin eklendiği, yeni mahsullerle (pamuk, yulaf) tarım imparatorluğunuzu kurduğunuz en kapsamlı sürümlerden biridir.",
-    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,7e2cbc31-4e7b-46b6-af72-889492cfda97,b53fc043-1aeb-409b-b320-ff1463463533",
     "developer": "Focus Home Interactive, Giants Software",
     "publisher": "Focus Home Interactive",
     "release_date": "19 Kas 2018",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/library_hero.jpg",
-    "rating": 6.0,
-    "size_gb": 20.0,
     "tags": [
       "Simulation",
       "Family",
@@ -7051,10 +7044,60 @@
       "Steam Cloud",
       "Full controller support"
     ],
-    "is_active": true,
-    "last_updated": "2026-07-11T01:27:15.406244",
-    "raw_data": "{\"name\": \"Farming Simulator 19\", \"description\": \"Seriye baştan aşağı yenilenmiş bir grafik motoru getiren, çok daha gerçekçi görünen çiftçilik oyunudur. At binme özelliğinin eklendiği, yeni mahsullerle (pamuk, yulaf) tarım imparatorluğunuzu kurduğunuz en kapsamlı sürümlerden biridir.\", \"developer\": \"Focus Home Interactive, Giants Software\", \"publisher\": \"Focus Home Interactive\", \"release_date\": \"19 Kas 2018\", \"tags\": [\"Simulation\", \"Family\", \"Singleplayer\", \"Steam Achievements\", \"Multiplayer\", \"Steam Cloud\", \"Full controller support\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: 64-bit Windows 7, Windows 8, Windows 10\\nİşlemci: Intel Core i3-2100T @ 2.5GHz or AMD FX-4100 @3.6 GHz\\nBellek: 4 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 650, AMD Radeon HD 7770 graphics card veya üstü (min. 2 GB VRAM, DX11 support)\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 20 GB kullanılabilir alan\\nEk Notlar: INTERNET CONNECTION REQUIRED FOR THE ONLINE GAME\", \"sys_recommended\": \"\", \"game_size_gb\": \"20\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/torrents/Farming.Simulator.19.v1.7.1.0-OFME.torrent\", \"label\": \"Farming.Simulator.19.v1.7.1.0-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"id\": \"86803e2b-2b20-4b2b-86ea-4667fb3a1984\", \"added_date\": \"2026-06-22T22:37:44.271508\", \"categories\": [\"d5552220-74ec-41ac-a756-aabe6724cb3c\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"b53fc043-1aeb-409b-b320-ff1463463533\"], \"first_added_date\": \"2026-06-22T22:37:44.271508\", \"last_updated\": \"2026-07-11T01:27:15.406244\"}",
-    "added_at": "2026-07-11T01:27:15.406244"
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/cover.png?v=1782229844",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/banner.jpg?v=1782229844",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/library_hero.jpg?v=1782229844",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_01.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_02.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_03.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_04.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_05.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_06.jpg?v=1782229844"
+    ],
+    "note": "",
+    "rating": 6,
+    "hltb_hours": "",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: 64-bit Windows 7, Windows 8, Windows 10\nİşlemci: Intel Core i3-2100T @ 2.5GHz or AMD FX-4100 @3.6 GHz\nBellek: 4 GB RAM\nEkran Kartı: Nvidia Geforce GTX 650, AMD Radeon HD 7770 graphics card veya üstü (min. 2 GB VRAM, DX11 support)\nAğ: Geniş bant internet bağlantısı\nDepolama: 20 GB kullanılabilir alan\nEk Notlar: INTERNET CONNECTION REQUIRED FOR THE ONLINE GAME",
+    "sys_recommended": "",
+    "game_size_gb": "20",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/cover.png?v=1782229844",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/banner.jpg?v=1782229844",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/library_hero.jpg?v=1782229844",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_01.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_02.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_03.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_04.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_05.jpg?v=1782229844",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/screenshots/ss_06.jpg?v=1782229844"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86803e2b-2b20-4b2b-86ea-4667fb3a1984/torrents/Farming.Simulator.19.v1.7.1.0-OFME.torrent",
+        "label": "Farming.Simulator.19.v1.7.1.0-OFME",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [
+      {
+        "key": "Şifre",
+        "value": "online-fix.me"
+      }
+    ],
+    "id": "86803e2b-2b20-4b2b-86ea-4667fb3a1984",
+    "added_date": "2026-06-22T22:37:44.271508",
+    "categories": [
+      "d5552220-74ec-41ac-a756-aabe6724cb3c",
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "b53fc043-1aeb-409b-b320-ff1463463533"
+    ],
+    "first_added_date": "2026-06-22T22:37:44.271508",
+    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,7e2cbc31-4e7b-46b6-af72-889492cfda97,b53fc043-1aeb-409b-b320-ff1463463533",
+    "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
     "name": "PAYDAY 2",
@@ -7320,11 +7363,18 @@
     "category": "966ebbf8-8998-4d32-9671-6914c9d9d1e1,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "Farming Simulator 25",
+    "id": "39c2efe8-faff-49ac-94af-f1e9de96dcea",
+    "title": "Farming Simulator 25",
     "description": "Serinin en yeni ve en gelişmiş oyunudur. Asya haritası, pirinç tarımı ve manda gibi yeni hayvanların eklendiği, grafiklerin ve fiziklerin zirveye ulaştığı güncel çiftçilik simülasyonudur.",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,d5552220-74ec-41ac-a756-aabe6724cb3c,b53fc043-1aeb-409b-b320-ff1463463533",
     "developer": "Giants Software",
     "publisher": "Giants Software",
     "release_date": "12 Kas 2024",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/library_hero.png",
+    "rating": 7.0,
+    "size_gb": 33.0,
     "tags": [
       "Simulation",
       "Singleplayer",
@@ -7333,59 +7383,10 @@
       "Multiplayer",
       "Atmospheric"
     ],
-    "cover_image": "",
-    "banner_image": "",
-    "library_hero_image": "",
-    "screenshots": [],
-    "note": "",
-    "rating": 7,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64bit\nİşlemci: Intel Core i5-6400, AMD Ryzen 5 1400, veya üstü\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card veya üstü (min 3GB VRAM, DX12 support)\nDirectX: Version 12\nAğ: Geniş bant internet bağlantısı\nDepolama: 45 GB kullanılabilir alan\nSes Kartı: Sound card\nVR Support: N/A\nEk Notlar: These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64bit\nİşlemci: Intel Core i7-10700, AMD Ryzen 7 3800X, veya üstü\nBellek: 12 GB RAM\nEkran Kartı: Nvidia GeForce RTX 2070, AMD Radeon RX 5700 XT, Intel Arc A750 graphics card veya üstü (min 8GB VRAM, DX12 support)\nDirectX: Version 12\nAğ: Geniş bant internet bağlantısı\nDepolama: 45 GB kullanılabilir alan\nSes Kartı: Sound card\nVR Support: N/A\nEk Notlar: These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases.",
-    "game_size_gb": "33",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_05.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/torrents/Farming.Simulator.25.v1.18.0.0-OFME.torrent",
-        "label": "Farming.Simulator.25.v1.18.0.0-OFME",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      },
-      {
-        "url": "https://rootz.so/d/1HGY4G",
-        "label": "🔗 Doğrudan Link",
-        "type": "direct",
-        "description": "eğer online çalışmazsa oyun içine atın!",
-        "browser_only": true
-      }
-    ],
-    "info_items": [
-      {
-        "key": "Şifre",
-        "value": "online-fix.me"
-      }
-    ],
-    "id": "39c2efe8-faff-49ac-94af-f1e9de96dcea",
-    "added_date": "2026-06-23T19:35:06.850083",
-    "categories": [
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
-      "d5552220-74ec-41ac-a756-aabe6724cb3c",
-      "b53fc043-1aeb-409b-b320-ff1463463533"
-    ],
-    "first_added_date": "2026-06-23T19:35:06.850083",
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,d5552220-74ec-41ac-a756-aabe6724cb3c,b53fc043-1aeb-409b-b320-ff1463463533"
+    "is_active": true,
+    "last_updated": "2026-07-11T01:27:35.541769",
+    "raw_data": "{\"name\": \"Farming Simulator 25\", \"description\": \"Serinin en yeni ve en gelişmiş oyunudur. Asya haritası, pirinç tarımı ve manda gibi yeni hayvanların eklendiği, grafiklerin ve fiziklerin zirveye ulaştığı güncel çiftçilik simülasyonudur.\", \"developer\": \"Giants Software\", \"publisher\": \"Giants Software\", \"release_date\": \"12 Kas 2024\", \"tags\": [\"Simulation\", \"Singleplayer\", \"3D\", \"Steam Achievements\", \"Multiplayer\", \"Atmospheric\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64bit\\nİşlemci: Intel Core i5-6400, AMD Ryzen 5 1400, veya üstü\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card veya üstü (min 3GB VRAM, DX12 support)\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 45 GB kullanılabilir alan\\nSes Kartı: Sound card\\nVR Support: N/A\\nEk Notlar: These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64bit\\nİşlemci: Intel Core i7-10700, AMD Ryzen 7 3800X, veya üstü\\nBellek: 12 GB RAM\\nEkran Kartı: Nvidia GeForce RTX 2070, AMD Radeon RX 5700 XT, Intel Arc A750 graphics card veya üstü (min 8GB VRAM, DX12 support)\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 45 GB kullanılabilir alan\\nSes Kartı: Sound card\\nVR Support: N/A\\nEk Notlar: These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases.\", \"game_size_gb\": \"33\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39c2efe8-faff-49ac-94af-f1e9de96dcea/torrents/Farming.Simulator.25.v1.18.0.0-OFME.torrent\", \"label\": \"Farming.Simulator.25.v1.18.0.0-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://rootz.so/d/1HGY4G\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"eğer online çalışmazsa oyun içine atın!\", \"browser_only\": true}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"id\": \"39c2efe8-faff-49ac-94af-f1e9de96dcea\", \"added_date\": \"2026-06-23T19:35:06.850083\", \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"d5552220-74ec-41ac-a756-aabe6724cb3c\", \"b53fc043-1aeb-409b-b320-ff1463463533\"], \"first_added_date\": \"2026-06-23T19:35:06.850083\", \"last_updated\": \"2026-07-11T01:27:35.541769\"}",
+    "added_at": "2026-07-11T01:27:35.541769"
   },
   {
     "name": "Starfield",
