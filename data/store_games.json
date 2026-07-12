@@ -11916,69 +11916,23 @@
     "added_at": "2026-07-11T01:28:21.348405"
   },
   {
-    "name": "The Mortuary Assistant",
+    "id": "9d341d71-dd78-4b58-9ce3-96d6e4919b55",
+    "title": "The Mortuary Assistant",
     "description": "Morg bilimleri diplomanızı tamamladıktan sonra River Fields Morg'da çıraklık yapmaya başladınız. Geçtiğimiz birkaç ay boyunca, mumyalama sürecinin tüm ayrıntılarını ve merhumla nasıl düzgün bir şekilde ilgilenilip ona bakılacağını öğrenmenin yanı sıra, Mortisyen'e günlük görevlerde yardım etmek için birçok saat harcadınız. Bir gece geç saatlerde, bazı mumyalama işlemleriyle ilgilenmek için işe çağrıldınız.",
+    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636",
     "developer": "DreadXP, DarkStone Digital",
     "publisher": "DreadXP, DarkStone Digital",
     "release_date": "2 Ağu 2022",
-    "tags": [
-      "Adventure",
-      "Simulation",
-      "Indie",
-      "Puzzle",
-      "Singleplayer",
-      "3D",
-      "Steam Achievements",
-      "Horror",
-      "Atmospheric"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b22181d22c747316f151a4f31f5c8012.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\56cfd6d1930d814edd325e37095fc062.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\0ac674786ed726e255e2216b56c61b5a.png",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\d1b0af92613c279f3596f2b7b99bf8f6.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b128b2381b37698b3bf940b232578678.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\28772b60cd21aebddd4a20bbdb53d671.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\c85dcfbb2d112509ebfa25ac59bfd087.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\219ed656e7e625f1e0920a3f5db930bf.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\a04dbe6b8563113a7a2999fd4d1a70d4.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 veya üstü\nİşlemci: 2 GHz veya üstü\nBellek: 4 GB RAM\nEkran Kartı: geforce 960 veya üstü\nDirectX: Version 11\nDepolama: 4 GB kullanılabilir alan",
-    "sys_recommended": "",
-    "game_size_gb": "",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/torrents/The.Mortuary.Assistant-SKIDROW.torrent",
-        "label": "The.Mortuary.Assistant-SKIDROW",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "9d341d71-dd78-4b58-9ce3-96d6e4919b55",
-    "added_date": "2026-06-26T19:19:40.613844",
-    "first_added_date": "2026-06-26T19:19:40.613844",
-    "categories": [
-      "8b3139fa-3b16-4639-81c3-c8a34c013636"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 2.8,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-12T03:24:21.917044",
+    "raw_data": "{\"name\": \"The Mortuary Assistant\", \"description\": \"Morg bilimleri diplomanızı tamamladıktan sonra River Fields Morg'da çıraklık yapmaya başladınız. Geçtiğimiz birkaç ay boyunca, mumyalama sürecinin tüm ayrıntılarını ve merhumla nasıl düzgün bir şekilde ilgilenilip ona bakılacağını öğrenmenin yanı sıra, Mortisyen'e günlük görevlerde yardım etmek için birçok saat harcadınız. Bir gece geç saatlerde, bazı mumyalama işlemleriyle ilgilenmek için işe çağrıldınız.\", \"developer\": \"DreadXP, DarkStone Digital\", \"publisher\": \"DreadXP, DarkStone Digital\", \"release_date\": \"2 Ağu 2022\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7 veya üstü\\nİşlemci: 2 GHz veya üstü\\nBellek: 4 GB RAM\\nEkran Kartı: geforce 960 veya üstü\\nDirectX: Version 11\\nDepolama: 4 GB kullanılabilir alan\", \"sys_recommended\": \"\", \"game_size_gb\": \"2.8\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9d341d71-dd78-4b58-9ce3-96d6e4919b55/torrents/The.Mortuary.Assistant-SKIDROW.torrent\", \"label\": \"The.Mortuary.Assistant-SKIDROW\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"8b3139fa-3b16-4639-81c3-c8a34c013636\"], \"id\": \"9d341d71-dd78-4b58-9ce3-96d6e4919b55\", \"added_date\": \"2026-06-26T19:19:40.613844\", \"first_added_date\": \"2026-06-26T19:19:40.613844\", \"last_updated\": \"2026-07-12T03:24:21.917044\"}",
+    "added_at": "2026-07-12T03:24:21.917044"
   },
   {
     "name": "Ulukayın: Ertuğrul",
