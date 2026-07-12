@@ -593,12 +593,5 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
-  },
-  {
-    "id": "a507a481-6e0c-4a32-a1ff-2eee15a17cad",
-    "name": "Left For Dead",
-    "icon": "📁",
-    "is_default": false,
-    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
