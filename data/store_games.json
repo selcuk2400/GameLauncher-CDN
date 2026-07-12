@@ -7022,70 +7022,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Payday 3",
+    "id": "43d10f3b-62cd-4b3c-b601-d9889d667b61",
+    "title": "Payday 3",
     "description": "PAYDAY 3 is the much anticipated sequel to one of the most popular co-op shooters ever. Since its release, PAYDAY-players have been reveling in the thrill of a perfectly planned and executed heist. That’s what makes PAYDAY a high-octane, co-op FPS experience without equal.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,eb943f27-f87b-413c-9e7b-3b23d780fd9b",
     "developer": "OVERKILL Software, Starbreeze Studios",
     "publisher": "Deep Silver, Prime Matter",
     "release_date": "21 Eyl 2023",
-    "tags": [
-      "Action",
-      "Shooter",
-      "Adventure",
-      "RPG",
-      "Singleplayer",
-      "3D",
-      "Steam Achievements",
-      "Multiplayer",
-      "First-Person"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/library_hero.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 5,
-    "hltb_hours": "9",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10\nİşlemci: Intel Core i5-9400F\nBellek: 16 GB RAM\nEkran Kartı: Nvidia GTX 1650 (4 GB)\nAğ: Geniş bant internet bağlantısı\nDepolama: 65 GB kullanılabilir alan",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10\nİşlemci: Intel Core i7-9700K\nBellek: 16 GB RAM\nEkran Kartı: Nvidia GTX 1080 (8GB)\nAğ: Geniş bant internet bağlantısı\nDepolama: 65 GB kullanılabilir alan",
-    "game_size_gb": "",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/torrents/Farming.Simulator.17.v1.5.3.1-OFME.torrent",
-        "label": "Farming.Simulator.19.v1.7.1.0-OFME",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "43d10f3b-62cd-4b3c-b601-d9889d667b61",
-    "added_date": "2026-06-23T13:38:17.325427",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456",
-      "eb943f27-f87b-413c-9e7b-3b23d780fd9b"
-    ],
-    "first_added_date": "2026-06-23T13:38:17.325427",
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,eb943f27-f87b-413c-9e7b-3b23d780fd9b",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/library_hero.png",
+    "rating": 5.0,
+    "size_gb": 6.64,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-12T02:47:44.550681",
+    "raw_data": "{\"name\": \"Payday 3\", \"description\": \"PAYDAY 3 is the much anticipated sequel to one of the most popular co-op shooters ever. Since its release, PAYDAY-players have been reveling in the thrill of a perfectly planned and executed heist. That’s what makes PAYDAY a high-octane, co-op FPS experience without equal.\", \"developer\": \"OVERKILL Software, Starbreeze Studios\", \"publisher\": \"Deep Silver, Prime Matter\", \"release_date\": \"21 Eyl 2023\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 5, \"hltb_hours\": \"9\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10\\nİşlemci: Intel Core i5-9400F\\nBellek: 16 GB RAM\\nEkran Kartı: Nvidia GTX 1650 (4 GB)\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 65 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10\\nİşlemci: Intel Core i7-9700K\\nBellek: 16 GB RAM\\nEkran Kartı: Nvidia GTX 1080 (8GB)\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 65 GB kullanılabilir alan\", \"game_size_gb\": \"6.64\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/43d10f3b-62cd-4b3c-b601-d9889d667b61/torrents/Farming.Simulator.17.v1.5.3.1-OFME.torrent\", \"label\": \"Farming.Simulator.19.v1.7.1.0-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"eb943f27-f87b-413c-9e7b-3b23d780fd9b\"], \"id\": \"43d10f3b-62cd-4b3c-b601-d9889d667b61\", \"added_date\": \"2026-06-23T13:38:17.325427\", \"first_added_date\": \"2026-06-23T13:38:17.325427\", \"last_updated\": \"2026-07-12T02:47:44.550681\"}",
+    "added_at": "2026-07-12T02:47:44.550681"
   },
   {
     "name": "Elden Ring",
@@ -9761,23 +9714,65 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "id": "d6790871-0512-4910-bc0e-e4c95b5c8428",
-    "title": "GTA: Kurtlar Vadisi",
+    "name": "GTA: Kurtlar Vadisi",
     "description": "Türkiye'deki her internet kafede mutlaka yüklü olan efsanevi yamadır. Tommy Vercetti yerine Polat Alemdar'ı yönettiğimiz, radyoda \"Cendere\" müziğinin çaldığı, yollarda Şahin, Doğan ve Toros arabalarının gezdiği nostalji fırtınasıdır.",
-    "category": "7782d46a-43ad-4c61-9f2e-76b7466c279d,865c7c8e-a508-46de-b942-8c80ef06a506,3b4b4781-566a-481e-acc7-1b49baf6609a,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
     "developer": "Rockstar North",
     "publisher": "Rockstar Games",
     "release_date": "27 Eki 2002",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/library_hero.jpg",
-    "rating": 9.0,
-    "size_gb": 0.273,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-12T02:46:49.041663",
-    "raw_data": "{\"name\": \"GTA: Kurtlar Vadisi\", \"description\": \"Türkiye'deki her internet kafede mutlaka yüklü olan efsanevi yamadır. Tommy Vercetti yerine Polat Alemdar'ı yönettiğimiz, radyoda \\\"Cendere\\\" müziğinin çaldığı, yollarda Şahin, Doğan ve Toros arabalarının gezdiği nostalji fırtınasıdır.\", \"developer\": \"Rockstar North\", \"publisher\": \"Rockstar Games\", \"release_date\": \"27 Eki 2002\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_03.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"10\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Microsoft® Windows® 2000/XP\\nİşlemci: 800 MHz Intel Pentium III or 800 MHz AMD Athlon or 1.2GHz Intel Celeron or 1.2 GHz AMD Duron processor\\nBellek: 128 MB of RAM\\nEkran Kartı: 32 MB video card with DirectX 9.0 compatible drivers (\\\"GeForce\\\" veya üstü)\\nDirectX Version: Microsoft DirectX® 9.0\\nHard Drive: 915 MB of free hard disk space (+ 635 MB if video card does NOT support DirectX Texture Compression)\\nSes Kartı: Sound Card with DirectX 9.0Recommended:\\nİşlemci: Intel Pentium IV or AMD Athlon XP processor 256(+) MB of RAM\\nBellek: 1.55 GB of free hard disk space(+ 635 MB if video card does NOT support DirectX Texture Compression)\\nEkran Kartı: 64(+) MB video card with DirectX 9.0 compatible drivers (\\\"GeForce 3\\\" / \\\"Radeon 8500\\\" veya üstü with DirectX Texture Compression support)\", \"sys_recommended\": \"\", \"game_size_gb\": \"0.273\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_03.jpg\"], \"download_links\": [{\"url\": \"https://dosya.co/0x2sj7ojcjr7/GTA_Kurtlar_Vadisi.rar.html\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"7782d46a-43ad-4c61-9f2e-76b7466c279d\", \"865c7c8e-a508-46de-b942-8c80ef06a506\", \"3b4b4781-566a-481e-acc7-1b49baf6609a\", \"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\"], \"id\": \"d6790871-0512-4910-bc0e-e4c95b5c8428\", \"added_date\": \"2026-06-24T08:17:28.731969\", \"first_added_date\": \"2026-06-24T08:17:28.731969\", \"last_updated\": \"2026-07-12T02:46:49.041663\"}",
-    "added_at": "2026-07-12T02:46:49.041663"
+    "tags": [
+      "Action",
+      "Singleplayer",
+      "Multiplayer",
+      "Atmospheric",
+      "Funny",
+      "Third Person"
+    ],
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/cover.jpg?v=1782278324",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/banner.jpg?v=1782278324",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/library_hero.jpg?v=1782278324",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_01.jpg?v=1782278324",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_02.jpg?v=1782278324",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_03.jpg?v=1782278324"
+    ],
+    "note": "",
+    "rating": 9,
+    "hltb_hours": "10",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Microsoft® Windows® 2000/XP\nİşlemci: 800 MHz Intel Pentium III or 800 MHz AMD Athlon or 1.2GHz Intel Celeron or 1.2 GHz AMD Duron processor\nBellek: 128 MB of RAM\nEkran Kartı: 32 MB video card with DirectX 9.0 compatible drivers (\"GeForce\" veya üstü)\nDirectX Version: Microsoft DirectX® 9.0\nHard Drive: 915 MB of free hard disk space (+ 635 MB if video card does NOT support DirectX Texture Compression)\nSes Kartı: Sound Card with DirectX 9.0Recommended:\nİşlemci: Intel Pentium IV or AMD Athlon XP processor 256(+) MB of RAM\nBellek: 1.55 GB of free hard disk space(+ 635 MB if video card does NOT support DirectX Texture Compression)\nEkran Kartı: 64(+) MB video card with DirectX 9.0 compatible drivers (\"GeForce 3\" / \"Radeon 8500\" veya üstü with DirectX Texture Compression support)",
+    "sys_recommended": "",
+    "game_size_gb": "",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/cover.jpg?v=1782837311",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/banner.jpg?v=1782837311",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/library_hero.jpg?v=1782837311",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_01.jpg?v=1782837311",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_02.jpg?v=1782837311",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_03.jpg?v=1782837311",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_01.jpg?v=1782278324",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_02.jpg?v=1782278324",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d6790871-0512-4910-bc0e-e4c95b5c8428/screenshots/ss_03.jpg?v=1782278324"
+    ],
+    "download_links": [
+      {
+        "url": "https://dosya.co/0x2sj7ojcjr7/GTA_Kurtlar_Vadisi.rar.html",
+        "label": "🔗 Doğrudan Link",
+        "type": "direct",
+        "description": "",
+        "browser_only": true
+      }
+    ],
+    "info_items": [],
+    "id": "d6790871-0512-4910-bc0e-e4c95b5c8428",
+    "added_date": "2026-06-24T08:17:28.731969",
+    "categories": [
+      "7782d46a-43ad-4c61-9f2e-76b7466c279d",
+      "865c7c8e-a508-46de-b942-8c80ef06a506",
+      "3b4b4781-566a-481e-acc7-1b49baf6609a"
+    ],
+    "first_added_date": "2026-06-24T08:17:28.731969",
+    "last_updated": "2026-07-08T20:57:29.217091",
+    "category": "7782d46a-43ad-4c61-9f2e-76b7466c279d,865c7c8e-a508-46de-b942-8c80ef06a506,3b4b4781-566a-481e-acc7-1b49baf6609a"
   },
   {
     "name": "GTA: Türk",
