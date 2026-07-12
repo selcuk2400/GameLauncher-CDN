@@ -16435,69 +16435,23 @@
     "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "Tomb Raider I•II•III Remastered",
+    "id": "60efdc57-2e42-4f22-86f5-02d03307821a",
+    "title": "Tomb Raider I•II•III Remastered",
     "description": "Tomb Raider I-III, Lara Croft'un başrolünde olduğu yeniden düzenlendi. Orijinal Üç Tomb Raider Macerasını Oynayın: İlk kez bu eksiksiz koleksiyonda, modern platformlarda tüm genişletmeler ve gizli seviyelerle eksiksiz bir deneyim yaşayın. Dahil Edilen Oyun Başlıkları Tomb Raider I + The Unfinished Business Genişletme Tomb Raider II + The Gold Mask Genişletme Tomb Raider III + The Lost Artifact Genişletme Antik Gizemleri Çözün: Bulmacaları çözerek ve zamanın tahribatında kaybolan gizemleri çözerek antik dünyanın hazinelerini ortaya çıkarın.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,7a262466-884d-40a7-b8f3-1c46c3e54d48,2feab174-e7dd-4241-8407-9e7f73ad3bb5,966ebbf8-8998-4d32-9671-6914c9d9d1e1",
     "developer": "Aspyr Media, Crystal Dynamics",
     "publisher": "Aspyr",
     "release_date": "13 Şub 2024",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Singleplayer",
-      "3D",
-      "Steam Achievements",
-      "Horror",
-      "Atmospheric"
-    ],
-    "cover_image": "C:/Users/Seljuk/Desktop/library_600x900_2x-2024-02-14T092939.578-1.jpg",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\37e28550e8f7725fe2fe1d7765bff72c.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\a2c69b11f073b29ec8efc6b27af590c9.png",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\523d7a32b58a81df2ebf40dd2310a648.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\a7b9071bd7d03095a216f37d192db1cf.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\a400a2826a7dc97f7a012a3ee50623af.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\1340c02c972cfbbf8f8be3c346ffb923.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\37e28550e8f7725fe2fe1d7765bff72c.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\d766f64f16a986726dd4a68955461006.jpg"
-    ],
-    "note": "",
-    "rating": 6,
-    "hltb_hours": "3",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 7 or later\nİşlemci: Intel i3 3240 or AMD FX 4100\nBellek: 4 GB RAM\nEkran Kartı: NVIDA GT730 or AMD R7 240\nDirectX: Version 12\nDepolama: 5 GB kullanılabilir alan",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir",
-    "game_size_gb": "3.61",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/torrents/Tomb.Raider.I-III.Remastered.Starring.Lara.Croft-RUNE.torrent",
-        "label": "Tomb.Raider.I-III.Remastered.Starring.Lara.Croft-RUNE",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "60efdc57-2e42-4f22-86f5-02d03307821a",
-    "added_date": "2026-07-07T00:11:37.314310",
-    "first_added_date": "2026-07-07T00:11:37.314310",
-    "categories": [
-      "7a262466-884d-40a7-b8f3-1c46c3e54d48",
-      "2feab174-e7dd-4241-8407-9e7f73ad3bb5",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "7a262466-884d-40a7-b8f3-1c46c3e54d48,2feab174-e7dd-4241-8407-9e7f73ad3bb5,5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/library_hero.jpg",
+    "rating": 6.0,
+    "size_gb": 3.61,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-12T04:29:15.399686",
+    "raw_data": "{\"name\": \"Tomb Raider I•II•III Remastered\", \"description\": \"Tomb Raider I-III, Lara Croft'un başrolünde olduğu yeniden düzenlendi. Orijinal Üç Tomb Raider Macerasını Oynayın: İlk kez bu eksiksiz koleksiyonda, modern platformlarda tüm genişletmeler ve gizli seviyelerle eksiksiz bir deneyim yaşayın. Dahil Edilen Oyun Başlıkları Tomb Raider I + The Unfinished Business Genişletme Tomb Raider II + The Gold Mask Genişletme Tomb Raider III + The Lost Artifact Genişletme Antik Gizemleri Çözün: Bulmacaları çözerek ve zamanın tahribatında kaybolan gizemleri çözerek antik dünyanın hazinelerini ortaya çıkarın.\", \"developer\": \"Aspyr Media, Crystal Dynamics\", \"publisher\": \"Aspyr\", \"release_date\": \"13 Şub 2024\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"3\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 7 or later\\nİşlemci: Intel i3 3240 or AMD FX 4100\\nBellek: 4 GB RAM\\nEkran Kartı: NVIDA GT730 or AMD R7 240\\nDirectX: Version 12\\nDepolama: 5 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\", \"game_size_gb\": \"3.61\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/60efdc57-2e42-4f22-86f5-02d03307821a/torrents/Tomb.Raider.I-III.Remastered.Starring.Lara.Croft-RUNE.torrent\", \"label\": \"Tomb.Raider.I-III.Remastered.Starring.Lara.Croft-RUNE\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://turk-yama.com/tomb-raider-i-iii-remastered/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe Yama\", \"browser_only\": true}, {\"url\": \"https://turkce-yama.com/tomb-raider-i-iii-remastered-turkce-dublaj.htm\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe Dublaj\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"7a262466-884d-40a7-b8f3-1c46c3e54d48\", \"2feab174-e7dd-4241-8407-9e7f73ad3bb5\", \"966ebbf8-8998-4d32-9671-6914c9d9d1e1\"], \"id\": \"60efdc57-2e42-4f22-86f5-02d03307821a\", \"added_date\": \"2026-07-07T00:11:37.314310\", \"first_added_date\": \"2026-07-07T00:11:37.314310\", \"last_updated\": \"2026-07-12T04:29:15.399686\"}",
+    "added_at": "2026-07-12T04:29:15.399686"
   },
   {
     "name": "Tomb Raider IV•V•VI Remastered",
