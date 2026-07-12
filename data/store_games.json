@@ -17606,25 +17606,6 @@
     "added_at": "2026-07-12T12:31:59.815971"
   },
   {
-    "id": "f9d25763-1df3-40d3-a198-447dc0fbff58",
-    "title": "Grand Theft Auto",
-    "description": "Grand Theft Auto, Grand Theft Auto serisinin ilk bölümü olan izometrik görünüme sahip bir aksiyon-macera oyunudur. ###Yer ve konu Oyun, her biri Miami, New York City ve San Francisco gibi gerçek hayattaki benzerlerine benzeyen 3 farklı şehirde geçiyor. Oyunun dünyası yalnızca bir şehirden diğerine seyahat etmekle sınırlıdır, şehirlerin kendisi de keşfetmekte özgürdür. Konu, oynanabilir karakterin bir telefon görüşmesi yoluyla veya başka bir şekilde genel talimatlar aldığı çeşitli görevler şeklinde ifade edilir. ###Oynanış Oyundaki her görevin, görev gereksinimlerinin başarılı bir şekilde tamamlanması karşılığında verilen ve bazen görev uğruna kargaşaya neden olan, oyun içi puanlardan oluşan belirlenmiş bir hedefi vardır.",
-    "category": "",
-    "developer": "DMA Design, Visual Sciences, Tarantula Studios",
-    "publisher": "Take Two Interactive, BMG Interactive, ASC Games",
-    "release_date": "21 Eki 1997",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/library_hero.jpg",
-    "rating": 8.0,
-    "size_gb": 0.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-12T18:17:46.371269",
-    "raw_data": "{\"name\": \"Grand Theft Auto\", \"description\": \"Grand Theft Auto, Grand Theft Auto serisinin ilk bölümü olan izometrik görünüme sahip bir aksiyon-macera oyunudur. ###Yer ve konu Oyun, her biri Miami, New York City ve San Francisco gibi gerçek hayattaki benzerlerine benzeyen 3 farklı şehirde geçiyor. Oyunun dünyası yalnızca bir şehirden diğerine seyahat etmekle sınırlıdır, şehirlerin kendisi de keşfetmekte özgürdür. Konu, oynanabilir karakterin bir telefon görüşmesi yoluyla veya başka bir şekilde genel talimatlar aldığı çeşitli görevler şeklinde ifade edilir. ###Oynanış Oyundaki her görevin, görev gereksinimlerinin başarılı bir şekilde tamamlanması karşılığında verilen ve bazen görev uğruna kargaşaya neden olan, oyun içi puanlardan oluşan belirlenmiş bir hedefi vardır.\", \"developer\": \"DMA Design, Visual Sciences, Tarantula Studios\", \"publisher\": \"Take Two Interactive, BMG Interactive, ASC Games\", \"release_date\": \"21 Eki 1997\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"13\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f9d25763-1df3-40d3-a198-447dc0fbff58/screenshots/ss_06.jpg\"], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"f9d25763-1df3-40d3-a198-447dc0fbff58\", \"added_date\": \"2026-07-12T21:17:24.348876\", \"first_added_date\": \"2026-07-12T21:17:24.348876\", \"last_updated\": \"2026-07-12T18:17:46.371269\"}",
-    "added_at": "2026-07-12T18:17:46.371269"
-  },
-  {
     "id": "088e05b5-f724-44a1-821a-18ca7e1c7822",
     "title": "Test Oyunu",
     "description": "",
@@ -17642,24 +17623,5 @@
     "last_updated": "2026-07-12T19:46:21.195971",
     "raw_data": "{\"name\": \"Test Oyunu\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"088e05b5-f724-44a1-821a-18ca7e1c7822\", \"added_date\": \"2026-07-12T22:46:21.090971\", \"first_added_date\": \"2026-07-12T22:46:21.090971\", \"last_updated\": \"2026-07-12T19:46:21.195971\"}",
     "added_at": "2026-07-12T19:46:21.195971"
-  },
-  {
-    "id": "a6aed21e-eff9-46fb-9b6c-7654f9cda446",
-    "title": "Test 2",
-    "description": "",
-    "category": "",
-    "developer": "",
-    "publisher": "",
-    "release_date": "",
-    "image_url": "",
-    "background_url": "",
-    "logo_url": "",
-    "rating": 0.0,
-    "size_gb": 0.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-12T19:48:37.934585",
-    "raw_data": "{\"name\": \"Test 2\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"a6aed21e-eff9-46fb-9b6c-7654f9cda446\", \"added_date\": \"2026-07-12T22:48:37.809585\", \"first_added_date\": \"2026-07-12T22:48:37.809585\", \"last_updated\": \"2026-07-12T19:48:37.934585\"}",
-    "added_at": "2026-07-12T19:48:37.934585"
   }
 ]
