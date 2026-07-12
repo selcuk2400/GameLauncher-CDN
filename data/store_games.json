@@ -8176,67 +8176,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Tomb Raider",
+    "id": "261db4c2-da52-482f-a10b-393240ffa440",
+    "title": "Tomb Raider",
     "description": "Efsanevi karakter Lara Croft'un köken hikayesini anlatan, serinin unutulmaz modern yeniden yapımıdır (Reboot). Genç ve tecrübesiz Lara'nın, korkunç ayinlerin yapıldığı gizemli Yamatai adasında hayatta kalmak için acımasız bir savaşçıya dönüşmesini işler.",
+    "category": "7a262466-884d-40a7-b8f3-1c46c3e54d48,5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Crystal Dynamics",
     "publisher": "Square Enix",
     "release_date": "5 Mar 2013",
-    "tags": [
-      "Action",
-      "Singleplayer",
-      "Retro",
-      "Multiplayer",
-      "Atmospheric",
-      "Exploration"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/cover.jpg",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/library_hero.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "11",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi:Windows XP / Windows Vista / Windows 7\nİşlemci:1.8 GHz Processor\nBellek:512 MB RAM\nEkran Kartı:3D graphics card compatible with DirectX 9\nDirectX®:9.0\nHard Drive:2 GB HD space",
-    "sys_recommended": "İşletim Sistemi: Windows 7 / 8 / 10\nİşlemci: Intel Core i5-750 veya AMD Phenom II X4 955\nBellek: 4 GB RAM\nEkran Kartı: Nvidia GeForce GTX 480 veya AMD Radeon HD 5870 (1 GB)",
-    "game_size_gb": "10",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/torrents/Tomb.Raider-SKIDROW.torrent",
-        "label": "Tomb.Raider-SKIDROW",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "261db4c2-da52-482f-a10b-393240ffa440",
-    "added_date": "2026-06-23T20:33:51.473217",
-    "first_added_date": "2026-06-23T20:33:51.473217",
-    "categories": [
-      "7a262466-884d-40a7-b8f3-1c46c3e54d48",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "category": "7a262466-884d-40a7-b8f3-1c46c3e54d48,5c112b26-4d14-49b5-9aef-1a97232e8456",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 10.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-12T04:36:37.648570",
+    "raw_data": "{\"name\": \"Tomb Raider\", \"description\": \"Efsanevi karakter Lara Croft'un köken hikayesini anlatan, serinin unutulmaz modern yeniden yapımıdır (Reboot). Genç ve tecrübesiz Lara'nın, korkunç ayinlerin yapıldığı gizemli Yamatai adasında hayatta kalmak için acımasız bir savaşçıya dönüşmesini işler.\", \"developer\": \"Crystal Dynamics\", \"publisher\": \"Square Enix\", \"release_date\": \"5 Mar 2013\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"11\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi:Windows XP / Windows Vista / Windows 7\\nİşlemci:1.8 GHz Processor\\nBellek:512 MB RAM\\nEkran Kartı:3D graphics card compatible with DirectX 9\\nDirectX®:9.0\\nHard Drive:2 GB HD space\", \"sys_recommended\": \"İşletim Sistemi: Windows 7 / 8 / 10\\nİşlemci: Intel Core i5-750 veya AMD Phenom II X4 955\\nBellek: 4 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 480 veya AMD Radeon HD 5870 (1 GB)\", \"game_size_gb\": \"10\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/261db4c2-da52-482f-a10b-393240ffa440/torrents/Tomb.Raider-SKIDROW.torrent\", \"label\": \"Tomb.Raider-SKIDROW\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://turkce-yama.com/tomb-raider-2013-turkce-yama.htm\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe Yama\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"7a262466-884d-40a7-b8f3-1c46c3e54d48\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"261db4c2-da52-482f-a10b-393240ffa440\", \"added_date\": \"2026-06-23T20:33:51.473217\", \"first_added_date\": \"2026-06-23T20:33:51.473217\", \"last_updated\": \"2026-07-12T04:36:37.648570\"}",
+    "added_at": "2026-07-12T04:36:37.648570"
   },
   {
     "name": "Shadow of the Tomb Raider",
