@@ -4752,53 +4752,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "007 First Light",
-    "description": "",
+    "id": "656faef9-8e25-4c68-9be4-aadab5e475dc",
+    "title": "007 First Light",
+    "description": "007 First Light, IO Interactive tarafından geliştirilen ve yayınlanan yepyeni bir James Bond video oyunudur. Tamamen orijinal bir Bond köken hikayesine sahip olan oyuncular, 00 statüsünü kazanmak için dünyanın en sevilen Gizli Ajanının yerine geçecekler.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "IO Interactive",
     "publisher": "IO Interactive",
     "release_date": "27 May 2026",
-    "tags": [
-      "Action"
-    ],
-    "cover_image": "",
-    "banner_image": "",
-    "library_hero_image": "",
-    "screenshots": [],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "15-20",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 10/11 (64-bit)\nİşlemci: Intel Core i5-9500 veya AMD Ryzen 5 3500\nBellek (RAM): 16 GB\nEkran Kartı: NVIDIA GeForce GTX 1660 veya AMD RX 5700",
-    "sys_recommended": "İşletim Sistemi: Windows 10/11 (64-bit)\nİşlemci: Intel Core i5-13500 veya AMD Ryzen 5 7600\nBellek (RAM): 16 GB\nEkran Kartı: NVIDIA GeForce RTX 3060 Ti veya AMD RX 6700 XT",
-    "game_size_gb": "54",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_05.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/torrents/007.First_.Light-InsaneRamZes.torrent",
-        "label": "007.First_.Light-InsaneRamZes",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "656faef9-8e25-4c68-9be4-aadab5e475dc",
-    "added_date": "2026-06-22T20:46:43.959570",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "first_added_date": "2026-06-22T20:46:43.959570",
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/library_hero.jpg",
+    "rating": 9.0,
+    "size_gb": 54.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-12T03:49:14.517187",
+    "raw_data": "{\"name\": \"007 First Light\", \"description\": \"007 First Light, IO Interactive tarafından geliştirilen ve yayınlanan yepyeni bir James Bond video oyunudur. Tamamen orijinal bir Bond köken hikayesine sahip olan oyuncular, 00 statüsünü kazanmak için dünyanın en sevilen Gizli Ajanının yerine geçecekler.\", \"developer\": \"IO Interactive\", \"publisher\": \"IO Interactive\", \"release_date\": \"27 May 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"16\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 10/11 (64-bit)\\nİşlemci: Intel Core i5-9500 veya AMD Ryzen 5 3500\\nBellek (RAM): 16 GB\\nEkran Kartı: NVIDIA GeForce GTX 1660 veya AMD RX 5700\", \"sys_recommended\": \"İşletim Sistemi: Windows 10/11 (64-bit)\\nİşlemci: Intel Core i5-13500 veya AMD Ryzen 5 7600\\nBellek (RAM): 16 GB\\nEkran Kartı: NVIDIA GeForce RTX 3060 Ti veya AMD RX 6700 XT\", \"game_size_gb\": \"54\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/656faef9-8e25-4c68-9be4-aadab5e475dc/torrents/007.First_.Light-InsaneRamZes.torrent\", \"label\": \"007.First_.Light-InsaneRamZes\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"656faef9-8e25-4c68-9be4-aadab5e475dc\", \"added_date\": \"2026-06-22T20:46:43.959570\", \"first_added_date\": \"2026-06-22T20:46:43.959570\", \"last_updated\": \"2026-07-12T03:49:14.517187\"}",
+    "added_at": "2026-07-12T03:49:14.517187"
   },
   {
     "name": "Mafia: Definitive Edition",
