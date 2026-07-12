@@ -17642,5 +17642,24 @@
     "last_updated": "2026-07-12T19:46:21.195971",
     "raw_data": "{\"name\": \"Test Oyunu\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"088e05b5-f724-44a1-821a-18ca7e1c7822\", \"added_date\": \"2026-07-12T22:46:21.090971\", \"first_added_date\": \"2026-07-12T22:46:21.090971\", \"last_updated\": \"2026-07-12T19:46:21.195971\"}",
     "added_at": "2026-07-12T19:46:21.195971"
+  },
+  {
+    "id": "a6aed21e-eff9-46fb-9b6c-7654f9cda446",
+    "title": "Test 2",
+    "description": "",
+    "category": "",
+    "developer": "",
+    "publisher": "",
+    "release_date": "",
+    "image_url": "",
+    "background_url": "",
+    "logo_url": "",
+    "rating": 0.0,
+    "size_gb": 0.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-12T19:48:37.934585",
+    "raw_data": "{\"name\": \"Test 2\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"a6aed21e-eff9-46fb-9b6c-7654f9cda446\", \"added_date\": \"2026-07-12T22:48:37.809585\", \"first_added_date\": \"2026-07-12T22:48:37.809585\", \"last_updated\": \"2026-07-12T19:48:37.934585\"}",
+    "added_at": "2026-07-12T19:48:37.934585"
   }
 ]
