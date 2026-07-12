@@ -12976,45 +12976,23 @@
     "category": "8b3139fa-3b16-4639-81c3-c8a34c013636"
   },
   {
-    "name": "iblis",
+    "id": "d8c4f7cd-3f8c-4102-bb85-4b19023680b0",
+    "title": "iblis",
     "description": "İblis, yerli geliştirici tarafından yapılan birinci şahıs psikolojik korku oyunudur. Türk-İslam mitolojisinden ve cin inanışlarından ilham alan oyunda, karanlık ve terk edilmiş mekanlarda bulmacalar çözerek hayatta kalmaya çalışırsın. Atmosferik ses tasarımı, ürkütücü sahneleri ve yerli kültürden beslenen hikayesiyle Türk korku oyunları arasında dikkat çeken bir yapımdır.",
+    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636",
     "developer": "Bağımsız Geliştirici",
     "publisher": "Erhan Yıldırım",
     "release_date": "22 Mayıs 2020",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 7.31,
     "tags": [],
-    "cover_image": "C:/Users/Seljuk/Desktop/iblis.png",
-    "banner_image": "C:/Users/Seljuk/Desktop/ss_c6577fb558d23d9acd20d1b12f005b5bd15ea314.1920x1080.jpg",
-    "library_hero_image": "C:/Users/Seljuk/Downloads/ChatGPT Image 27 Haz 2026 06_16_23.png",
-    "screenshots": [],
-    "note": "",
-    "rating": 0,
-    "hltb_hours": "2",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 (64-bit)\nİşlemci: Intel Core i3-2100 / AMD FX-4100\nRAM: 4 GB\nEkran Kartı: NVIDIA GTX 650 / AMD HD 7750 (2 GB VRAM)\nDepolama: 3 GB HDD",
-    "sys_recommended": "İşletim Sistemi: Windows 10 (64-bit)\nİşlemci: Intel Core i5-4460 / AMD FX-6300\nRAM: 8 GB\nEkran Kartı: NVIDIA GTX 960 / AMD R9 380 (4 GB VRAM)\nDepolama: 5 GB SSD",
-    "game_size_gb": "7.31",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/library_hero.jpg",
-    "screenshot_urls": [],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/torrents/iBLiS-TiNYiSO_1.torrent",
-        "label": "iBLiS-TiNYiSO",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "d8c4f7cd-3f8c-4102-bb85-4b19023680b0",
-    "added_date": "2026-06-27T06:34:11.607262",
-    "first_added_date": "2026-06-27T06:34:11.607262",
-    "categories": [
-      "8b3139fa-3b16-4639-81c3-c8a34c013636"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636"
+    "is_active": true,
+    "last_updated": "2026-07-12T03:46:05.001155",
+    "raw_data": "{\"name\": \"iblis\", \"description\": \"İblis, yerli geliştirici tarafından yapılan birinci şahıs psikolojik korku oyunudur. Türk-İslam mitolojisinden ve cin inanışlarından ilham alan oyunda, karanlık ve terk edilmiş mekanlarda bulmacalar çözerek hayatta kalmaya çalışırsın. Atmosferik ses tasarımı, ürkütücü sahneleri ve yerli kültürden beslenen hikayesiyle Türk korku oyunları arasında dikkat çeken bir yapımdır.\", \"developer\": \"Bağımsız Geliştirici\", \"publisher\": \"Erhan Yıldırım\", \"release_date\": \"22 Mayıs 2020\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"2\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7 (64-bit)\\nİşlemci: Intel Core i3-2100 / AMD FX-4100\\nRAM: 4 GB\\nEkran Kartı: NVIDIA GTX 650 / AMD HD 7750 (2 GB VRAM)\\nDepolama: 3 GB HDD\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 (64-bit)\\nİşlemci: Intel Core i5-4460 / AMD FX-6300\\nRAM: 8 GB\\nEkran Kartı: NVIDIA GTX 960 / AMD R9 380 (4 GB VRAM)\\nDepolama: 5 GB SSD\", \"game_size_gb\": \"7.31\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d8c4f7cd-3f8c-4102-bb85-4b19023680b0/torrents/iBLiS-TiNYiSO_1.torrent\", \"label\": \"iBLiS-TiNYiSO\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"8b3139fa-3b16-4639-81c3-c8a34c013636\"], \"id\": \"d8c4f7cd-3f8c-4102-bb85-4b19023680b0\", \"added_date\": \"2026-06-27T06:34:11.607262\", \"first_added_date\": \"2026-06-27T06:34:11.607262\", \"last_updated\": \"2026-07-12T03:46:05.001155\"}",
+    "added_at": "2026-07-12T03:46:05.001155"
   },
   {
     "name": "Superliminal",
