@@ -553,13 +553,6 @@
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "id": "45217e46-07c2-4433-9cdc-5bf77c575a71",
-    "name": "Life is Strange",
-    "icon": "📁",
-    "is_default": false,
-    "parent_id": "accd1184-24d0-4772-8f72-91e9fe779b4f"
-  },
-  {
     "id": "f758f392-14ad-41f0-8482-6e057d93945c",
     "name": "Battlefield",
     "icon": "📁",
@@ -597,6 +590,13 @@
   {
     "id": "c83b1fdb-e603-4393-bc97-8d0a10ef4539",
     "name": "Kane and Lynch",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "1d28894b-2755-43e0-a215-ababa55e7b13",
+    "name": "Life is Strange",
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
