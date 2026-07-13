@@ -17742,5 +17742,24 @@
       "5c112b26-4d14-49b5-9aef-1a97232e8456",
       "d09da389-5b62-482a-b5d0-9129fd6398d6"
     ]
+  },
+  {
+    "id": "e2565ab1-dfc6-4f89-8944-4445356ca5a2",
+    "title": "Nioh 3",
+    "description": "Nioh 3 bir aksiyon oyunudur. 06-02-2026'da çıktı. Oyun RAWG'de \"Olağanüstü\" olarak derecelendirildi.",
+    "category": "d09da389-5b62-482a-b5d0-9129fd6398d6,5c112b26-4d14-49b5-9aef-1a97232e8456",
+    "developer": "",
+    "publisher": "",
+    "release_date": "6 Şub 2026",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 113.79,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-13T18:57:53.256905",
+    "raw_data": "{\"name\": \"Nioh 3\", \"description\": \"Nioh 3 bir aksiyon oyunudur. 06-02-2026'da çıktı. Oyun RAWG'de \\\"Olağanüstü\\\" olarak derecelendirildi.\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"6 Şub 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/library_hero.jpg\", \"screenshots\": [], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"27\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"113.79\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/library_hero.jpg\", \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/torrents/Nioh.3.Digital.Deluxe.Edition-P2P.torrent\", \"label\": \"Nioh.3.Digital.Deluxe.Edition-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d09da389-5b62-482a-b5d0-9129fd6398d6\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"e2565ab1-dfc6-4f89-8944-4445356ca5a2\", \"added_date\": \"2026-07-13T21:57:40.628871\", \"first_added_date\": \"2026-07-13T21:57:40.628871\", \"last_updated\": \"2026-07-13T18:57:53.256905\"}",
+    "added_at": "2026-07-13T18:57:53.256905"
   }
 ]
