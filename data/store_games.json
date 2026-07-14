@@ -17727,5 +17727,24 @@
     "last_updated": "2026-07-14T10:30:54.876088",
     "raw_data": "{\"name\": \"deneme\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"c82ff82e-4649-4778-a46c-26b981eb2a33\", \"added_date\": \"2026-07-14T13:30:54.769729\", \"first_added_date\": \"2026-07-14T13:30:54.769729\", \"last_updated\": \"2026-07-14T10:30:54.876088\"}",
     "added_at": "2026-07-14T10:30:54.876088"
+  },
+  {
+    "id": "caea400e-d096-43df-9cab-86564622a158",
+    "title": "ddd",
+    "description": "",
+    "category": "",
+    "developer": "",
+    "publisher": "",
+    "release_date": "",
+    "image_url": "",
+    "background_url": "",
+    "logo_url": "",
+    "rating": 0.0,
+    "size_gb": 0.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-14T10:35:24.454552",
+    "raw_data": "{\"name\": \"ddd\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"caea400e-d096-43df-9cab-86564622a158\", \"added_date\": \"2026-07-14T13:35:24.356715\", \"first_added_date\": \"2026-07-14T13:35:24.356715\", \"last_updated\": \"2026-07-14T10:35:24.454552\"}",
+    "added_at": "2026-07-14T10:35:24.454552"
   }
 ]
