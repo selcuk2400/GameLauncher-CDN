@@ -17708,43 +17708,5 @@
     "last_updated": "2026-07-13T18:57:53.256905",
     "raw_data": "{\"name\": \"Nioh 3\", \"description\": \"Nioh 3 bir aksiyon oyunudur. 06-02-2026'da çıktı. Oyun RAWG'de \\\"Olağanüstü\\\" olarak derecelendirildi.\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"6 Şub 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/library_hero.jpg\", \"screenshots\": [], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"27\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"113.79\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/library_hero.jpg\", \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/torrents/Nioh.3.Digital.Deluxe.Edition-P2P.torrent\", \"label\": \"Nioh.3.Digital.Deluxe.Edition-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d09da389-5b62-482a-b5d0-9129fd6398d6\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"e2565ab1-dfc6-4f89-8944-4445356ca5a2\", \"added_date\": \"2026-07-13T21:57:40.628871\", \"first_added_date\": \"2026-07-13T21:57:40.628871\", \"last_updated\": \"2026-07-13T18:57:53.256905\"}",
     "added_at": "2026-07-13T18:57:53.256905"
-  },
-  {
-    "id": "2b7e6a8c-8f52-4419-ba24-7cd1c21e299b",
-    "title": "tttttttt",
-    "description": "",
-    "category": "",
-    "developer": "",
-    "publisher": "",
-    "release_date": "",
-    "image_url": "",
-    "background_url": "",
-    "logo_url": "",
-    "rating": 0.0,
-    "size_gb": 0.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-14T10:48:06.048355",
-    "raw_data": "{\"name\": \"tttttttt\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"2b7e6a8c-8f52-4419-ba24-7cd1c21e299b\", \"added_date\": \"2026-07-14T13:48:05.948455\", \"first_added_date\": \"2026-07-14T13:48:05.948455\", \"last_updated\": \"2026-07-14T10:48:06.048355\"}",
-    "added_at": "2026-07-14T10:48:06.048355"
-  },
-  {
-    "id": "06194eb5-f451-47b2-a935-b6fb934337ef",
-    "title": "llllll",
-    "description": "",
-    "category": "",
-    "developer": "",
-    "publisher": "",
-    "release_date": "",
-    "image_url": "",
-    "background_url": "",
-    "logo_url": "",
-    "rating": 0.0,
-    "size_gb": 0.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-14T10:51:33.956457",
-    "raw_data": "{\"name\": \"llllll\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"06194eb5-f451-47b2-a935-b6fb934337ef\", \"added_date\": \"2026-07-14T13:51:33.865947\", \"first_added_date\": \"2026-07-14T13:51:33.865947\", \"last_updated\": \"2026-07-14T10:51:33.956457\"}",
-    "added_at": "2026-07-14T10:51:33.956457"
   }
 ]
