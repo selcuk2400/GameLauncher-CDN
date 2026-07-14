@@ -823,23 +823,67 @@
     "added_at": "2026-07-11T15:56:13.761542"
   },
   {
-    "id": "3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6",
-    "title": "FIFA 16",
+    "name": "FIFA 16",
     "description": "Seriye tarihinde ilk defa kadın milli futbol takımlarının dahil edildiği sürümüdür. Defansif orta sahaların müdahaleleri sertleşmiş, pas hatası yapma olasılığı artırılarak daha yavaş bir oyun hedeflenmiştir.",
-    "category": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f,563941bf-f212-4e05-a461-b2b887c5021e",
     "developer": "Electronic Arts, Electronic Arts Canada",
     "publisher": "Electronic Arts",
     "release_date": "22 Eyl 2015",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/library_hero.png",
-    "rating": 7.0,
-    "size_gb": 16.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-14T10:27:43.113197",
-    "raw_data": "{\"name\": \"FIFA 16\", \"description\": \"Seriye tarihinde ilk defa kadın milli futbol takımlarının dahil edildiği sürümüdür. Defansif orta sahaların müdahaleleri sertleşmiş, pas hatası yapma olasılığı artırılarak daha yavaş bir oyun hedeflenmiştir.\", \"developer\": \"Electronic Arts, Electronic Arts Canada\", \"publisher\": \"Electronic Arts\", \"release_date\": \"22 Eyl 2015\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"16\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7 / 8 / 8.1 64-bit\\nİşlemci: Intel Core i3-2100 veya AMD Phenom II X4 965\\nBellek: 4 GB RAM\\nEkran Kartı: Nvidia GTX 650 veya AMD Radeon HD 5770\\nDepolama: 15 GB\", \"sys_recommended\": \"İşletim Sistemi: Windows 7 / 8 / 8.1 64-bit\\nİşlemci: Intel Core i5-2550K veya AMD FX-6350\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GTX 460 veya AMD Radeon HD 6870\\nDepolama: 15 GB\", \"game_size_gb\": \"16\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/torrents/FIFA.16-DELUSIONAL.torrent\", \"label\": \"FIFA.16-DELUSIONAL\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"7e568e8e-ecb1-4541-b82a-e3b0712ef20f\", \"563941bf-f212-4e05-a461-b2b887c5021e\"], \"id\": \"3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6\", \"added_date\": \"2026-06-22T16:30:25.609158\", \"first_added_date\": \"2026-06-22T16:30:25.609158\", \"last_updated\": \"2026-07-14T10:27:43.113197\"}",
-    "added_at": "2026-07-14T10:27:43.113197"
+    "tags": [
+      "Sports",
+      "Multiplayer",
+      "online",
+      "Football",
+      "Soccer",
+      "reality-based"
+    ],
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/cover.png",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/banner.jpg",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/library_hero.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_06.jpg"
+    ],
+    "note": "",
+    "rating": 7,
+    "hltb_hours": "",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Windows 7 / 8 / 8.1 64-bit\nİşlemci: Intel Core i3-2100 veya AMD Phenom II X4 965\nBellek: 4 GB RAM\nEkran Kartı: Nvidia GTX 650 veya AMD Radeon HD 5770\nDepolama: 15 GB",
+    "sys_recommended": "İşletim Sistemi: Windows 7 / 8 / 8.1 64-bit\nİşlemci: Intel Core i5-2550K veya AMD FX-6350\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GTX 460 veya AMD Radeon HD 6870\nDepolama: 15 GB",
+    "game_size_gb": "16",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/cover.png",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/library_hero.png",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6/torrents/FIFA.16-DELUSIONAL.torrent",
+        "label": "FIFA.16-DELUSIONAL",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "3afb8e30-4bc6-469c-9d63-43e4b9aa1dc6",
+    "added_date": "2026-06-22T16:30:25.609158",
+    "first_added_date": "2026-06-22T16:30:25.609158",
+    "categories": [
+      "7e568e8e-ecb1-4541-b82a-e3b0712ef20f",
+      "563941bf-f212-4e05-a461-b2b887c5021e"
+    ],
+    "category": "7e568e8e-ecb1-4541-b82a-e3b0712ef20f,563941bf-f212-4e05-a461-b2b887c5021e",
+    "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
     "id": "89ad1ff6-8e0f-461a-bcc2-fb7e30679c7d",
@@ -17664,5 +17708,24 @@
     "last_updated": "2026-07-13T18:57:53.256905",
     "raw_data": "{\"name\": \"Nioh 3\", \"description\": \"Nioh 3 bir aksiyon oyunudur. 06-02-2026'da çıktı. Oyun RAWG'de \\\"Olağanüstü\\\" olarak derecelendirildi.\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"6 Şub 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/library_hero.jpg\", \"screenshots\": [], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"27\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"113.79\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/library_hero.jpg\", \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/e2565ab1-dfc6-4f89-8944-4445356ca5a2/torrents/Nioh.3.Digital.Deluxe.Edition-P2P.torrent\", \"label\": \"Nioh.3.Digital.Deluxe.Edition-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d09da389-5b62-482a-b5d0-9129fd6398d6\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"e2565ab1-dfc6-4f89-8944-4445356ca5a2\", \"added_date\": \"2026-07-13T21:57:40.628871\", \"first_added_date\": \"2026-07-13T21:57:40.628871\", \"last_updated\": \"2026-07-13T18:57:53.256905\"}",
     "added_at": "2026-07-13T18:57:53.256905"
+  },
+  {
+    "id": "c82ff82e-4649-4778-a46c-26b981eb2a33",
+    "title": "deneme",
+    "description": "",
+    "category": "",
+    "developer": "",
+    "publisher": "",
+    "release_date": "",
+    "image_url": "",
+    "background_url": "",
+    "logo_url": "",
+    "rating": 0.0,
+    "size_gb": 0.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-14T10:30:54.876088",
+    "raw_data": "{\"name\": \"deneme\", \"description\": \"\", \"developer\": \"\", \"publisher\": \"\", \"release_date\": \"\", \"cover_image\": \"\", \"banner_image\": \"\", \"library_hero_image\": \"\", \"screenshots\": [], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"\", \"screenshot_urls\": [], \"download_links\": [], \"info_items\": [], \"categories\": [], \"id\": \"c82ff82e-4649-4778-a46c-26b981eb2a33\", \"added_date\": \"2026-07-14T13:30:54.769729\", \"first_added_date\": \"2026-07-14T13:30:54.769729\", \"last_updated\": \"2026-07-14T10:30:54.876088\"}",
+    "added_at": "2026-07-14T10:30:54.876088"
   }
 ]
