@@ -614,5 +614,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "bef789ca-370f-45e2-916a-159916c6cb48",
+    "name": "F.E.A.R",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "8b3139fa-3b16-4639-81c3-c8a34c013636"
   }
 ]
