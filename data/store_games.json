@@ -16516,61 +16516,23 @@
     "category": "7a262466-884d-40a7-b8f3-1c46c3e54d48,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "Black Myth: Wukong",
+    "id": "8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f",
+    "title": "Black Myth: Wukong",
     "description": "Her adımda yeni manzaraların yükseldiği, görülmemiş bir dünya. Antik Çin mitolojisinin harikaları ve keşifleriyle dolu büyüleyici bir dünyaya girin! Kaderinde Belirlenen Kişi olarak, Batıya Yolculuk'un klasik masalında nefes kesen manzaralar boyunca maceraya atılacak ve keşfedilmemiş maceralardan oluşan yeni bir destan yaratacaksınız.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Game Science",
     "publisher": "Game Science",
     "release_date": "20 Ağu 2024",
-    "tags": [
-      "Action",
-      "Adventure",
-      "RPG"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\9130e5ada60abd2e13efb19571cede1d.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\166590539e11fd3349f57005135fd6ec.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\55ffbc6f00eda5781c6a4f5d91a17a2a.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\20782c3c3da967ca955dfa0e942d0acc.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\74924dc8952b98f7a0ca7d77210b4578_cEVEMbe.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2450ea407bc2934863020c170717cc9c.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\4e0b5ba1ef94973b14cede218159b82c.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\f29eace60587e49e7b6f91875c7fadae.jpg"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "38",
-    "show_hltb": true,
-    "sys_min": "",
-    "sys_recommended": "",
-    "game_size_gb": "142.21",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_05.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/torrents/Black-Myth-Wukong-2024.torrent",
-        "label": "Black-Myth-Wukong-2024",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f",
-    "added_date": "2026-07-07T00:21:08.685344",
-    "first_added_date": "2026-07-07T00:21:08.685344",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/library_hero.jpg",
+    "rating": 9.0,
+    "size_gb": 142.21,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-14T19:57:37.508891",
+    "raw_data": "{\"name\": \"Black Myth: Wukong\", \"description\": \"Her adımda yeni manzaraların yükseldiği, görülmemiş bir dünya. Antik Çin mitolojisinin harikaları ve keşifleriyle dolu büyüleyici bir dünyaya girin! Kaderinde Belirlenen Kişi olarak, Batıya Yolculuk'un klasik masalında nefes kesen manzaralar boyunca maceraya atılacak ve keşfedilmemiş maceralardan oluşan yeni bir destan yaratacaksınız.\", \"developer\": \"Game Science\", \"publisher\": \"Game Science\", \"release_date\": \"20 Ağu 2024\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"38\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"142.21\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f/torrents/Black-Myth-Wukong-2024.torrent\", \"label\": \"Black-Myth-Wukong-2024\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"8f5fa3d7-81e1-404c-aa1f-6dd40b85d37f\", \"added_date\": \"2026-07-07T00:21:08.685344\", \"first_added_date\": \"2026-07-07T00:21:08.685344\", \"last_updated\": \"2026-07-14T19:57:37.508891\"}",
+    "added_at": "2026-07-14T19:57:37.508891"
   },
   {
     "name": "The Witcher (A New Saga Begins)",
