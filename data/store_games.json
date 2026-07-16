@@ -10924,67 +10924,23 @@
     "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,96c033b2-4b6a-4750-a35c-09dd6517f072"
   },
   {
-    "name": "PC Building Simulator",
+    "id": "6afd50ec-2a77-4eb7-92c7-b0865c10d7a3",
+    "title": "PC Building Simulator",
     "description": "PC Building Simulator, sizi kendi PC Bina ve Onarım atölyenizin sorumluluğunu üstlenir; burada itibarınızı artırmak ve PC Bina kariyerinizde ilerlemek için zorlukları tamamlamanız gerekir. Anakartlardan CPU'lara kadar, tıpkı gerçek hayatta olduğu gibi yanıt veren çok çeşitli, ayrıntılı ve doğru şekilde işlenmiş bileşenlerle denemeler yapın. Kısa devreleri ve arızaları önlemek için termal macun, kablolar ve ayırıcılar gibi araçları kullanarak bu bileşenleri nasıl kuracağınızı öğrenin.",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,96c033b2-4b6a-4750-a35c-09dd6517f072",
     "developer": "Claudiu Kiss, The Irregular",
     "publisher": "Irregular",
     "release_date": "27 Mar 2018",
-    "tags": [
-      "Strategy",
-      "Simulation",
-      "Indie",
-      "Singleplayer",
-      "VR",
-      "Education"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\4852094ff3cc7456d5f2f8a76425a279.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b74e2df0b72511aeb95b782d0aa85306.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\673a52f787cc434410519234173933fc.png",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\1acb6640881580bc98a706497abd13da.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\d69ade8a4dd5ce5b96e16c2774605329.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\1c39d5f173bd82b6c6b68f4a82983502.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\94ae9f519a27e327d60f564912160167.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b74e2df0b72511aeb95b782d0aa85306.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\050d71e9e58f71f2830c7126f9c310f5.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 veya üstü\nİşlemci: Core i3 3.1 GHz or AMD Phenom II X3 2.8 GHz\nBellek: 4 GB RAM\nEkran Kartı: GeForce GTX 560 or Radeon HD6870 with 2GB VRAM\nDirectX: Version 9.0c\nDepolama: 1 GB kullanılabilir alan\nSes Kartı: DirectX compatible",
-    "sys_recommended": "",
-    "game_size_gb": "3",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/torrents/PC.Building.Simulator.1.7.0.torrent",
-        "label": "PC.Building.Simulator.1.7.0",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "6afd50ec-2a77-4eb7-92c7-b0865c10d7a3",
-    "added_date": "2026-06-26T07:03:42.631199",
-    "first_added_date": "2026-06-26T07:03:42.631199",
-    "categories": [
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
-      "96c033b2-4b6a-4750-a35c-09dd6517f072"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,96c033b2-4b6a-4750-a35c-09dd6517f072"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/library_hero.png",
+    "rating": 8.0,
+    "size_gb": 3.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-16T13:03:25.617191",
+    "raw_data": "{\"name\": \"PC Building Simulator\", \"description\": \"PC Building Simulator, sizi kendi PC Bina ve Onarım atölyenizin sorumluluğunu üstlenir; burada itibarınızı artırmak ve PC Bina kariyerinizde ilerlemek için zorlukları tamamlamanız gerekir. Anakartlardan CPU'lara kadar, tıpkı gerçek hayatta olduğu gibi yanıt veren çok çeşitli, ayrıntılı ve doğru şekilde işlenmiş bileşenlerle denemeler yapın. Kısa devreleri ve arızaları önlemek için termal macun, kablolar ve ayırıcılar gibi araçları kullanarak bu bileşenleri nasıl kuracağınızı öğrenin.\", \"developer\": \"Claudiu Kiss, The Irregular\", \"publisher\": \"Irregular\", \"release_date\": \"27 Mar 2018\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7 veya üstü\\nİşlemci: Core i3 3.1 GHz or AMD Phenom II X3 2.8 GHz\\nBellek: 4 GB RAM\\nEkran Kartı: GeForce GTX 560 or Radeon HD6870 with 2GB VRAM\\nDirectX: Version 9.0c\\nDepolama: 1 GB kullanılabilir alan\\nSes Kartı: DirectX compatible\", \"sys_recommended\": \"\", \"game_size_gb\": \"3\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6afd50ec-2a77-4eb7-92c7-b0865c10d7a3/torrents/PC.Building.Simulator.1.7.0.torrent\", \"label\": \"PC.Building.Simulator.1.7.0\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"96c033b2-4b6a-4750-a35c-09dd6517f072\"], \"id\": \"6afd50ec-2a77-4eb7-92c7-b0865c10d7a3\", \"added_date\": \"2026-06-26T07:03:42.631199\", \"first_added_date\": \"2026-06-26T07:03:42.631199\", \"last_updated\": \"2026-07-16T13:03:25.617191\"}",
+    "added_at": "2026-07-16T13:03:25.617191"
   },
   {
     "name": "NBA 2K23",
