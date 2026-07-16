@@ -12866,57 +12866,23 @@
     "category": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "This Land Is My Land",
+    "id": "c8e33a40-7fd7-4519-b30e-d5469f3d98fd",
+    "title": "This Land Is My Land",
     "description": "Sınırı bir Kızılderili kabilesinin şefi olarak deneyimleyin ve yerleşimcilerin saldırısına direnin. Aldığınız kararlarla hikayenizi tanımlarken, düşman insanlar ve hayvanlarla dolu 100 mil karelik geniş dünyayı keşfedin. Hayatta kalın, avlayın, zanaat yapın, birleşin ve topraklarınızı geri almak için kabilelere liderlik edin.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Game-Labs, Game Labs",
     "publisher": "Game-Labs",
     "release_date": "",
-    "tags": [
-      "Action",
-      "RPG",
-      "Simulation",
-      "Indie",
-      "Singleplayer",
-      "Early Access",
-      "Partial Controller Support"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\798d6b1dd46c739a48bff721253a955f.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\bdbeb85e080e9479689b019d011737b4.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\bdbeb85e080e9479689b019d011737b4.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\bdbeb85e080e9479689b019d011737b4.jpg"
-    ],
-    "note": "",
-    "rating": 4,
-    "hltb_hours": "121",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 7\nİşlemci: Intel Core i5 2.8Ghz or AMD equivalent\nBellek: 8 GB RAM\nEkran Kartı: Geforce GTX 950 or AMD equivalent\nDirectX: Version 11\nAğ: Geniş bant internet bağlantısı\nDepolama: 12 GB kullanılabilir alan",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10\nİşlemci: Intel Core i7 or AMD equivalent\nBellek: 16 GB RAM\nEkran Kartı: Geforce GTX 1080 or AMD equivalent\nDirectX: Version 11\nAğ: Geniş bant internet bağlantısı\nDepolama: 12 GB kullanılabilir alan",
-    "game_size_gb": "3.96",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/screenshots/ss_01.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/torrents/This_Land_Is_My_Land_v1.0.3-FLT.torrent",
-        "label": "This_Land_Is_My_Land_v1.0.3-FLT",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "c8e33a40-7fd7-4519-b30e-d5469f3d98fd",
-    "added_date": "2026-06-27T06:44:10.513168",
-    "first_added_date": "2026-06-27T06:44:10.513168",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/library_hero.jpg",
+    "rating": 4.0,
+    "size_gb": 3.96,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-16T16:46:43.776949",
+    "raw_data": "{\"name\": \"This Land Is My Land\", \"description\": \"Sınırı bir Kızılderili kabilesinin şefi olarak deneyimleyin ve yerleşimcilerin saldırısına direnin. Aldığınız kararlarla hikayenizi tanımlarken, düşman insanlar ve hayvanlarla dolu 100 mil karelik geniş dünyayı keşfedin. Hayatta kalın, avlayın, zanaat yapın, birleşin ve topraklarınızı geri almak için kabilelere liderlik edin.\", \"developer\": \"Game-Labs, Game Labs\", \"publisher\": \"Game-Labs\", \"release_date\": \"\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/screenshots/ss_01.jpg\"], \"note\": \"\", \"rating\": 4, \"hltb_hours\": \"121\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 7\\nİşlemci: Intel Core i5 2.8Ghz or AMD equivalent\\nBellek: 8 GB RAM\\nEkran Kartı: Geforce GTX 950 or AMD equivalent\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 12 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10\\nİşlemci: Intel Core i7 or AMD equivalent\\nBellek: 16 GB RAM\\nEkran Kartı: Geforce GTX 1080 or AMD equivalent\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 12 GB kullanılabilir alan\", \"game_size_gb\": \"3.96\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/screenshots/ss_01.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c8e33a40-7fd7-4519-b30e-d5469f3d98fd/torrents/This_Land_Is_My_Land_v1.0.3-FLT.torrent\", \"label\": \"This_Land_Is_My_Land_v1.0.3-FLT\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"c8e33a40-7fd7-4519-b30e-d5469f3d98fd\", \"added_date\": \"2026-06-27T06:44:10.513168\", \"first_added_date\": \"2026-06-27T06:44:10.513168\", \"last_updated\": \"2026-07-16T16:46:43.776949\"}",
+    "added_at": "2026-07-16T16:46:43.776949"
   },
   {
     "name": "Bully: Scholarship Edition",
