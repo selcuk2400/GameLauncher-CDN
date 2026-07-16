@@ -58,5 +58,17 @@
     "raw_data": "{\"name\": \"Vegas Pro\", \"developer\": \"MAGIX Software GmbH\", \"version\": \"Vegas Pro 26\", \"description\": \"şifre:12345\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/4dc36f36-1f5e-4209-9a8e-056871c56cba/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/4dc36f36-1f5e-4209-9a8e-056871c56cba/icon.png\", \"screenshots\": [], \"screenshot_urls\": [], \"_screenshots_cleared_by_user\": true, \"download_links\": [{\"url\": \"https://www.mediafire.com/file/e07e6ni595n32vz/Boris_FX_VEGAS_Pro_2026.0.0.143.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"\"}], \"id\": \"4dc36f36-1f5e-4209-9a8e-056871c56cba\", \"added_date\": \"2026-07-12T14:49:39.934620\", \"first_added_date\": \"2026-07-12T14:49:39.934620\"}",
     "added_at": "2026-07-12T11:49:42.004955",
     "last_updated": "2026-07-12T11:49:42.004955"
+  },
+  {
+    "id": "79ddde17-876a-408a-a75d-ab1e86a29b83",
+    "title": "CCleaner",
+    "description": "",
+    "developer": "Gen Digital",
+    "version": "v7.09",
+    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/79ddde17-876a-408a-a75d-ab1e86a29b83/icon.png",
+    "is_active": true,
+    "raw_data": "{\"name\": \"CCleaner\", \"developer\": \"Gen Digital\", \"version\": \"v7.09\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/79ddde17-876a-408a-a75d-ab1e86a29b83/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/79ddde17-876a-408a-a75d-ab1e86a29b83/icon.png\", \"screenshots\": [], \"screenshot_urls\": [], \"_screenshots_cleared_by_user\": true, \"download_links\": [{\"url\": \"https://drive.google.com/file/d/1kEuuIXY9Lrp1JaJ4BFJX-4qpVe2yKklQ/view?usp=sharing\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"79ddde17-876a-408a-a75d-ab1e86a29b83\", \"added_date\": \"2026-07-16T20:24:48.047258\", \"first_added_date\": \"2026-07-16T20:24:48.047258\"}",
+    "added_at": "2026-07-16T17:24:50.546356",
+    "last_updated": "2026-07-16T17:24:50.546356"
   }
 ]
