@@ -70,5 +70,17 @@
     "raw_data": "{\"name\": \"CCleaner\", \"developer\": \"Gen Digital\", \"version\": \"v7.09\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/79ddde17-876a-408a-a75d-ab1e86a29b83/icon.webp?v=1784222782\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/79ddde17-876a-408a-a75d-ab1e86a29b83/icon.webp?v=1784222782\", \"screenshots\": [], \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://drive.google.com/file/d/1kEuuIXY9Lrp1JaJ4BFJX-4qpVe2yKklQ/view?usp=sharing\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"79ddde17-876a-408a-a75d-ab1e86a29b83\", \"added_date\": \"2026-07-16T20:24:48.047258\", \"first_added_date\": \"2026-07-16T20:24:48.047258\", \"banner_image\": \"\"}",
     "added_at": "2026-07-16T17:24:50.546356",
     "last_updated": "2026-07-16T17:26:24.256890"
+  },
+  {
+    "id": "e7cb6c5a-029c-48ee-aba9-63c8243b5491",
+    "title": "SoundPad",
+    "description": "",
+    "developer": "Leppsoft",
+    "version": "v4.0",
+    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/e7cb6c5a-029c-48ee-aba9-63c8243b5491/icon.png",
+    "is_active": true,
+    "raw_data": "{\"name\": \"SoundPad\", \"developer\": \"Leppsoft\", \"version\": \"v4.0\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/e7cb6c5a-029c-48ee-aba9-63c8243b5491/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/e7cb6c5a-029c-48ee-aba9-63c8243b5491/icon.png\", \"screenshots\": [], \"screenshot_urls\": [], \"_screenshots_cleared_by_user\": true, \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=14uSzvykffAdWumVgdL6zhxxBNLxeXwuD&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"12345\"}], \"id\": \"e7cb6c5a-029c-48ee-aba9-63c8243b5491\", \"added_date\": \"2026-07-16T23:52:49.757588\", \"first_added_date\": \"2026-07-16T23:52:49.757588\"}",
+    "added_at": "2026-07-16T20:52:52.286639",
+    "last_updated": "2026-07-16T20:52:52.286639"
   }
 ]
