@@ -8449,54 +8449,23 @@
     "category": "7782d46a-43ad-4c61-9f2e-76b7466c279d,865c7c8e-a508-46de-b942-8c80ef06a506,3b4b4781-566a-481e-acc7-1b49baf6609a"
   },
   {
-    "name": "GTA Vice City: The Backstabber's Blues Türkçe",
+    "id": "5824ff29-37f2-4161-91eb-5e3555df3fc8",
+    "title": "GTA Vice City: The Backstabber's Blues Türkçe",
     "description": "Vice City'nin renkli ama ihanet dolu dünyasında geçen, klasik mafya hesaplaşmalarını farklı bir senaryo ile sunan bir başka popüler görev modudur.",
+    "category": "7782d46a-43ad-4c61-9f2e-76b7466c279d,865c7c8e-a508-46de-b942-8c80ef06a506,3b4b4781-566a-481e-acc7-1b49baf6609a",
     "developer": "FanPage",
     "publisher": "FanPage",
     "release_date": "18 Şubat 2026",
-    "tags": [
-      "Action",
-      "Singleplayer",
-      "Multiplayer",
-      "Atmospheric",
-      "Funny",
-      "Third Person"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/cover.jpg?v=1782273632",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/banner.webp?v=1782273632",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/library_hero.png?v=1782273632",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_01.webp?v=1782273632",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_02.webp?v=1782273632",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_03.webp?v=1782273632"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "4",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Microsoft® Windows® 2000/XP\nİşlemci: 800 MHz Intel Pentium III or 800 MHz AMD Athlon or 1.2GHz Intel Celeron or 1.2 GHz AMD Duron processor\nBellek: 128 MB of RAM\nEkran Kartı: 32 MB video card with DirectX 9.0 compatible drivers (\"GeForce\" veya üstü)\nDirectX Version: Microsoft DirectX® 9.0\nHard Drive: 915 MB of free hard disk space (+ 635 MB if video card does NOT support DirectX Texture Compression)\nSes Kartı: Sound Card with DirectX 9.0Recommended:\nİşlemci: Intel Pentium IV or AMD Athlon XP processor 256(+) MB of RAM\nBellek: 1.55 GB of free hard disk space(+ 635 MB if video card does NOT support DirectX Texture Compression)\nEkran Kartı: 64(+) MB video card with DirectX 9.0 compatible drivers (\"GeForce 3\" / \"Radeon 8500\" veya üstü with DirectX Texture Compression support)",
-    "sys_recommended": "",
-    "game_size_gb": "",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/cover.jpg?v=1782273632",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/banner.webp?v=1782273632",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/library_hero.png?v=1782273632",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_01.webp?v=1782273632",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_02.webp?v=1782273632",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_03.webp?v=1782273632"
-    ],
-    "download_links": [],
-    "info_items": [],
-    "id": "5824ff29-37f2-4161-91eb-5e3555df3fc8",
-    "added_date": "2026-06-24T06:59:37.750145",
-    "first_added_date": "2026-06-24T06:59:37.750145",
-    "categories": [
-      "7782d46a-43ad-4c61-9f2e-76b7466c279d",
-      "865c7c8e-a508-46de-b942-8c80ef06a506",
-      "3b4b4781-566a-481e-acc7-1b49baf6609a"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "7782d46a-43ad-4c61-9f2e-76b7466c279d,865c7c8e-a508-46de-b942-8c80ef06a506,3b4b4781-566a-481e-acc7-1b49baf6609a"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/banner.webp",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/library_hero.png",
+    "rating": 9.0,
+    "size_gb": 1.4,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-16T15:33:42.504807",
+    "raw_data": "{\"name\": \"GTA Vice City: The Backstabber's Blues Türkçe\", \"description\": \"Vice City'nin renkli ama ihanet dolu dünyasında geçen, klasik mafya hesaplaşmalarını farklı bir senaryo ile sunan bir başka popüler görev modudur.\", \"developer\": \"FanPage\", \"publisher\": \"FanPage\", \"release_date\": \"18 Şubat 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/banner.webp\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/library_hero.png\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_01.webp\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_02.webp\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_03.webp\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"4\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Microsoft® Windows® 2000/XP\\nİşlemci: 800 MHz Intel Pentium III or 800 MHz AMD Athlon or 1.2GHz Intel Celeron or 1.2 GHz AMD Duron processor\\nBellek: 128 MB of RAM\\nEkran Kartı: 32 MB video card with DirectX 9.0 compatible drivers (\\\"GeForce\\\" veya üstü)\\nDirectX Version: Microsoft DirectX® 9.0\\nHard Drive: 915 MB of free hard disk space (+ 635 MB if video card does NOT support DirectX Texture Compression)\\nSes Kartı: Sound Card with DirectX 9.0Recommended:\\nİşlemci: Intel Pentium IV or AMD Athlon XP processor 256(+) MB of RAM\\nBellek: 1.55 GB of free hard disk space(+ 635 MB if video card does NOT support DirectX Texture Compression)\\nEkran Kartı: 64(+) MB video card with DirectX 9.0 compatible drivers (\\\"GeForce 3\\\" / \\\"Radeon 8500\\\" veya üstü with DirectX Texture Compression support)\", \"sys_recommended\": \"\", \"game_size_gb\": \"1.40\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/banner.webp\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/library_hero.png\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_01.webp\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_02.webp\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5824ff29-37f2-4161-91eb-5e3555df3fc8/screenshots/ss_03.webp\"], \"download_links\": [{\"url\": \"https://drive.google.com/file/d/137Cj_C3FmzqLA1sZFfMSz65eVlG50zjb/view?usp=sharing\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"7782d46a-43ad-4c61-9f2e-76b7466c279d\", \"865c7c8e-a508-46de-b942-8c80ef06a506\", \"3b4b4781-566a-481e-acc7-1b49baf6609a\"], \"id\": \"5824ff29-37f2-4161-91eb-5e3555df3fc8\", \"added_date\": \"2026-06-24T06:59:37.750145\", \"first_added_date\": \"2026-06-24T06:59:37.750145\", \"last_updated\": \"2026-07-16T15:33:42.504807\"}",
+    "added_at": "2026-07-16T15:33:42.504807"
   },
   {
     "name": "Gta: Zombies Ate My Vice City Türkçe",
