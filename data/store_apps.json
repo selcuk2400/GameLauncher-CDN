@@ -9,7 +9,7 @@
     "is_active": true,
     "raw_data": "{\"name\": \"CapCut PRO\", \"developer\": \"Bytedance Pte. Ltd.\", \"version\": \"v5.9.0\", \"description\": \"CapCut, ByteDance tarafından geliştirilen ücretsiz ve profesyonel bir video düzenleme uygulamasıdır. Kullanıcı dostu arayüzü, gelişmiş efektleri, geçişleri ve yapay zeka destekli araçlarıyla hem mobil hem masaüstünde içerik üreticilerinin tercih ettiği bir editördür. PRO sürümü ise premium efektlere, filtrelere ve gelişmiş özelliklere tam erişim sağlar.\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/149df6db-2a69-439a-a0e4-fbb17ea40050/icon.png?v=1782948096\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/149df6db-2a69-439a-a0e4-fbb17ea40050/icon.png?v=1782948096\", \"screenshots\": [], \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=1xyLUKEGoYN6cSwRyDkAVUr0OLbCgibFV&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"149df6db-2a69-439a-a0e4-fbb17ea40050\", \"added_date\": \"2026-06-24T13:05:39.311211\", \"first_added_date\": \"2026-06-24T13:05:39.311211\", \"banner_image\": \"\"}",
     "added_at": "2026-06-24T13:05:39.311211",
-    "last_updated": "2026-07-08T19:54:16.048771"
+    "last_updated": "2026-07-17T05:26:52.898707"
   },
   {
     "id": "b35e6d19-a093-437a-8828-68687b134ec9",
@@ -21,31 +21,31 @@
     "is_active": true,
     "raw_data": "{\"name\": \"Movavi Video Editor Buniss\", \"developer\": \"Movavi Software Limited\", \"version\": \"v15.5.0\", \"description\": \"Movavi Video Editor Business 15.5.0, 2019 yılında yayınlanan ticari kullanıma uygun bir video düzenleme sürümüdür. Bu sürüm; geliştirilmiş zaman çizelgesi, yeni geçişler, başlık şablonları ve hızlı dışa aktarma özellikleriyle kullanıcı deneyimini iyileştirmiştir. İşletmeler için tanıtım, eğitim ve sunum videoları hazırlamada pratik araçlar sunar.\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/b35e6d19-a093-437a-8828-68687b134ec9/icon.png?v=1782296281\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/b35e6d19-a093-437a-8828-68687b134ec9/icon.png?v=1782296281\", \"screenshots\": [], \"download_links\": [{\"url\": \"https://www.mediafire.com/file/yo2iemc3heh1o9w/Movavi.Video.Editor.Business.15.5.0.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"\"}], \"id\": \"b35e6d19-a093-437a-8828-68687b134ec9\", \"added_date\": \"2026-06-24T13:16:35.384827\", \"first_added_date\": \"2026-06-24T13:16:35.384827\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-24T13:16:35.384827",
-    "last_updated": "2026-07-08T19:54:16.048771"
+    "last_updated": "2026-07-17T05:26:52.898707"
   },
   {
     "id": "a8ada764-51e0-440b-919d-1b2da3dabd6b",
     "title": "Cheat Engine Türkçe",
     "description": "",
-    "developer": "Eric Heijnen",
-    "version": "v7.7",
-    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1783857044",
+    "developer": "",
+    "version": "",
+    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1782296854",
     "is_active": true,
-    "raw_data": "{\"name\": \"Cheat Engine Türkçe\", \"developer\": \"Eric Heijnen\", \"version\": \"v7.7\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1783857044\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1783857044\", \"screenshots\": [], \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=1Vttrh5pv2HD9R3nuL4HM2ykd-7N-bFQ1&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"a8ada764-51e0-440b-919d-1b2da3dabd6b\", \"added_date\": \"2026-06-24T13:27:12.011345\", \"first_added_date\": \"2026-06-24T13:27:12.011345\", \"banner_image\": \"\"}",
+    "raw_data": "{\"name\": \"Cheat Engine Türkçe\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1782296854\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/a8ada764-51e0-440b-919d-1b2da3dabd6b/icon.png?v=1782296854\", \"screenshots\": [], \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=1Vttrh5pv2HD9R3nuL4HM2ykd-7N-bFQ1&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"a8ada764-51e0-440b-919d-1b2da3dabd6b\", \"added_date\": \"2026-06-24T13:27:12.011345\", \"first_added_date\": \"2026-06-24T13:27:12.011345\", \"banner_image\": \"\", \"screenshot_urls\": []}",
     "added_at": "2026-06-24T13:27:12.011345",
-    "last_updated": "2026-07-12T11:50:49.786694"
+    "last_updated": "2026-07-17T05:26:52.898707"
   },
   {
     "id": "1667b871-cbe8-48bd-b88b-e48fccc6345d",
     "title": "Kaspersky Total Security 2021",
     "description": "Lisans Anahtarı:\n3M3K9-5R92S-ZDH5Y-NA944",
-    "developer": "Eugene Kaspersky",
-    "version": "v21",
-    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1667b871-cbe8-48bd-b88b-e48fccc6345d/icon.png?v=1783857126",
+    "developer": "",
+    "version": "",
+    "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1667b871-cbe8-48bd-b88b-e48fccc6345d/icon.png",
     "is_active": true,
-    "raw_data": "{\"name\": \"Kaspersky Total Security 2021\", \"developer\": \"Eugene Kaspersky\", \"version\": \"v21\", \"description\": \"Lisans Anahtarı:\\n3M3K9-5R92S-ZDH5Y-NA944\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1667b871-cbe8-48bd-b88b-e48fccc6345d/icon.png?v=1783857126\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1667b871-cbe8-48bd-b88b-e48fccc6345d/icon.png?v=1783857126\", \"screenshots\": [], \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://www.mediafire.com/folder/aob2lbe7vavj8/Music\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Şifre:12345\"}], \"id\": \"1667b871-cbe8-48bd-b88b-e48fccc6345d\", \"added_date\": \"2026-06-29T14:06:37.568651\", \"first_added_date\": \"2026-06-29T14:06:37.568651\", \"banner_image\": \"\"}",
+    "raw_data": "{\"name\": \"Kaspersky Total Security 2021\", \"developer\": \"\", \"version\": \"\", \"description\": \"Lisans Anahtarı:\\n3M3K9-5R92S-ZDH5Y-NA944\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1667b871-cbe8-48bd-b88b-e48fccc6345d/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/1667b871-cbe8-48bd-b88b-e48fccc6345d/icon.png\", \"screenshots\": [], \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://www.mediafire.com/folder/aob2lbe7vavj8/Music\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Şifre:12345\"}], \"id\": \"1667b871-cbe8-48bd-b88b-e48fccc6345d\", \"added_date\": \"2026-06-29T14:06:37.568651\", \"first_added_date\": \"2026-06-29T14:06:37.568651\", \"banner_image\": \"\"}",
     "added_at": "2026-06-29T14:06:37.568651",
-    "last_updated": "2026-07-12T11:52:08.065688"
+    "last_updated": "2026-07-17T05:26:52.898707"
   },
   {
     "id": "4dc36f36-1f5e-4209-9a8e-056871c56cba",
@@ -56,8 +56,8 @@
     "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/4dc36f36-1f5e-4209-9a8e-056871c56cba/icon.png",
     "is_active": true,
     "raw_data": "{\"name\": \"Vegas Pro\", \"developer\": \"MAGIX Software GmbH\", \"version\": \"Vegas Pro 26\", \"description\": \"şifre:12345\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/4dc36f36-1f5e-4209-9a8e-056871c56cba/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/4dc36f36-1f5e-4209-9a8e-056871c56cba/icon.png\", \"screenshots\": [], \"screenshot_urls\": [], \"_screenshots_cleared_by_user\": true, \"download_links\": [{\"url\": \"https://www.mediafire.com/file/e07e6ni595n32vz/Boris_FX_VEGAS_Pro_2026.0.0.143.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"\"}], \"id\": \"4dc36f36-1f5e-4209-9a8e-056871c56cba\", \"added_date\": \"2026-07-12T14:49:39.934620\", \"first_added_date\": \"2026-07-12T14:49:39.934620\"}",
-    "added_at": "2026-07-12T11:49:42.004955",
-    "last_updated": "2026-07-12T11:49:42.004955"
+    "added_at": "2026-07-12T14:49:39.934620",
+    "last_updated": "2026-07-17T05:26:52.898707"
   },
   {
     "id": "79ddde17-876a-408a-a75d-ab1e86a29b83",
@@ -68,8 +68,8 @@
     "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/79ddde17-876a-408a-a75d-ab1e86a29b83/icon.webp?v=1784222782",
     "is_active": true,
     "raw_data": "{\"name\": \"CCleaner\", \"developer\": \"Gen Digital\", \"version\": \"v7.09\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/79ddde17-876a-408a-a75d-ab1e86a29b83/icon.webp?v=1784222782\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/79ddde17-876a-408a-a75d-ab1e86a29b83/icon.webp?v=1784222782\", \"screenshots\": [], \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://drive.google.com/file/d/1kEuuIXY9Lrp1JaJ4BFJX-4qpVe2yKklQ/view?usp=sharing\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"79ddde17-876a-408a-a75d-ab1e86a29b83\", \"added_date\": \"2026-07-16T20:24:48.047258\", \"first_added_date\": \"2026-07-16T20:24:48.047258\", \"banner_image\": \"\"}",
-    "added_at": "2026-07-16T17:24:50.546356",
-    "last_updated": "2026-07-16T17:26:24.256890"
+    "added_at": "2026-07-16T20:24:48.047258",
+    "last_updated": "2026-07-17T05:26:52.898707"
   },
   {
     "id": "e7cb6c5a-029c-48ee-aba9-63c8243b5491",
@@ -80,8 +80,8 @@
     "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/e7cb6c5a-029c-48ee-aba9-63c8243b5491/icon.png",
     "is_active": true,
     "raw_data": "{\"name\": \"SoundPad\", \"developer\": \"Leppsoft\", \"version\": \"v4.0\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/e7cb6c5a-029c-48ee-aba9-63c8243b5491/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/e7cb6c5a-029c-48ee-aba9-63c8243b5491/icon.png\", \"screenshots\": [], \"screenshot_urls\": [], \"_screenshots_cleared_by_user\": true, \"download_links\": [{\"url\": \"https://drive.usercontent.google.com/download?id=14uSzvykffAdWumVgdL6zhxxBNLxeXwuD&export=download&authuser=0\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"12345\"}], \"id\": \"e7cb6c5a-029c-48ee-aba9-63c8243b5491\", \"added_date\": \"2026-07-16T23:52:49.757588\", \"first_added_date\": \"2026-07-16T23:52:49.757588\"}",
-    "added_at": "2026-07-16T20:52:52.286639",
-    "last_updated": "2026-07-16T20:52:52.286639"
+    "added_at": "2026-07-16T23:52:49.757588",
+    "last_updated": "2026-07-17T05:26:52.898707"
   },
   {
     "id": "86fa0a95-130c-47cc-9107-9da50043bfc0",
@@ -92,8 +92,8 @@
     "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/86fa0a95-130c-47cc-9107-9da50043bfc0/icon.png",
     "is_active": true,
     "raw_data": "{\"name\": \"Driver Booster\", \"developer\": \"IObit\", \"version\": \"v13\", \"description\": \"7A101-3F361-7760E-2A74C\\nCF344-0BA8C-C3A82-28ABC\\nCB102-E900A-4E404-808BC\\n35CC7-26959-D2E64-345BC\\n80776-782FF-43596-6F64C\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/86fa0a95-130c-47cc-9107-9da50043bfc0/icon.png\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/86fa0a95-130c-47cc-9107-9da50043bfc0/icon.png\", \"screenshots\": [], \"screenshot_urls\": [], \"_screenshots_cleared_by_user\": true, \"download_links\": [{\"url\": \"https://www.iobit.com/en/driver-booster.php\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\"}], \"id\": \"86fa0a95-130c-47cc-9107-9da50043bfc0\", \"added_date\": \"2026-07-16T23:58:58.493820\", \"first_added_date\": \"2026-07-16T23:58:58.493820\"}",
-    "added_at": "2026-07-16T20:59:00.427948",
-    "last_updated": "2026-07-16T20:59:00.427948"
+    "added_at": "2026-07-16T23:58:58.493820",
+    "last_updated": "2026-07-17T05:26:52.898707"
   },
   {
     "id": "cd6d141b-96b7-4673-b477-629d1a0c3dc4",
@@ -104,19 +104,7 @@
     "icon_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/cd6d141b-96b7-4673-b477-629d1a0c3dc4/icon.png?v=1784236070",
     "is_active": true,
     "raw_data": "{\"name\": \"Gta Texter Türkçe\", \"developer\": \"feroCT5\", \"version\": \"v1.0\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/cd6d141b-96b7-4673-b477-629d1a0c3dc4/icon.png?v=1784236070\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/cd6d141b-96b7-4673-b477-629d1a0c3dc4/icon.png?v=1784236070\", \"screenshots\": [], \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://drive.google.com/file/d/1S8VRGFZsLNClP04DhLsgg4bmGIVA93Kq/view\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"cd6d141b-96b7-4673-b477-629d1a0c3dc4\", \"added_date\": \"2026-07-17T00:06:09.401243\", \"first_added_date\": \"2026-07-17T00:06:09.401243\", \"banner_image\": \"\"}",
-    "added_at": "2026-07-16T21:06:14.132195",
-    "last_updated": "2026-07-16T21:07:52.248088"
-  },
-  {
-    "id": "32ebbdf0-32f2-40f9-9887-b2cafaba54c7",
-    "title": "dd",
-    "description": "",
-    "developer": "",
-    "version": "",
-    "icon_url": "",
-    "is_active": true,
-    "raw_data": "{\"name\": \"dd\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"screenshot_urls\": [], \"_screenshots_cleared_by_user\": true, \"download_links\": [], \"id\": \"32ebbdf0-32f2-40f9-9887-b2cafaba54c7\", \"added_date\": \"2026-07-17T08:20:20.790815\", \"first_added_date\": \"2026-07-17T08:20:20.790815\"}",
-    "added_at": "2026-07-17T05:20:20.798867",
-    "last_updated": "2026-07-17T05:20:20.798867"
+    "added_at": "2026-07-17T00:06:09.401243",
+    "last_updated": "2026-07-17T05:26:52.898707"
   }
 ]
