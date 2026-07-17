@@ -106,5 +106,17 @@
     "raw_data": "{\"name\": \"Gta Texter Türkçe\", \"developer\": \"feroCT5\", \"version\": \"v1.0\", \"description\": \"\", \"icon_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/cd6d141b-96b7-4673-b477-629d1a0c3dc4/icon.png?v=1784236070\", \"icon_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/apps/cd6d141b-96b7-4673-b477-629d1a0c3dc4/icon.png?v=1784236070\", \"screenshots\": [], \"screenshot_urls\": [], \"download_links\": [{\"url\": \"https://drive.google.com/file/d/1S8VRGFZsLNClP04DhLsgg4bmGIVA93Kq/view\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"\"}], \"id\": \"cd6d141b-96b7-4673-b477-629d1a0c3dc4\", \"added_date\": \"2026-07-17T00:06:09.401243\", \"first_added_date\": \"2026-07-17T00:06:09.401243\", \"banner_image\": \"\"}",
     "added_at": "2026-07-16T21:06:14.132195",
     "last_updated": "2026-07-16T21:07:52.248088"
+  },
+  {
+    "id": "32ebbdf0-32f2-40f9-9887-b2cafaba54c7",
+    "title": "dd",
+    "description": "",
+    "developer": "",
+    "version": "",
+    "icon_url": "",
+    "is_active": true,
+    "raw_data": "{\"name\": \"dd\", \"developer\": \"\", \"version\": \"\", \"description\": \"\", \"icon_image\": \"\", \"icon_image_url\": \"\", \"screenshots\": [], \"screenshot_urls\": [], \"_screenshots_cleared_by_user\": true, \"download_links\": [], \"id\": \"32ebbdf0-32f2-40f9-9887-b2cafaba54c7\", \"added_date\": \"2026-07-17T08:20:20.790815\", \"first_added_date\": \"2026-07-17T08:20:20.790815\"}",
+    "added_at": "2026-07-17T05:20:20.798867",
+    "last_updated": "2026-07-17T05:20:20.798867"
   }
 ]
