@@ -628,5 +628,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "6cebfd27-8136-4cb7-b25e-9200533b6b0b"
+  },
+  {
+    "id": "8ef600a2-0589-41b0-bcf2-5f8050ecd23b",
+    "name": "Goat Simulator",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
   }
 ]
