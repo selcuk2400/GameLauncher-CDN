@@ -12100,65 +12100,23 @@
     "category": "8b3139fa-3b16-4639-81c3-c8a34c013636"
   },
   {
-    "name": "Blazing Sails",
+    "id": "d912ca85-340f-4c2f-a040-0439e9d3666f",
+    "title": "Blazing Sails",
     "description": "Battle royale oyun moduna yeni bir bakış Blazing Sails, oyun modunu hızlı deniz/gemi savaşıyla birleştirerek BR türünü yeniliyor. Deniz savaşı Blazing Sails'teki ana amaç diğer tüm gemileri yok etmektir. Bunu yapmak için birçok farklı strateji var.",
+    "category": "accd1184-24d0-4772-8f72-91e9fe779b4f",
     "developer": "GET UP GAMES",
     "publisher": "GET UP GAMES",
-    "release_date": "",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "Multiplayer",
-      "Online multiplayer"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\02a18433f952f032caed4c6e0549bd38.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\cdabe39670c2d4922173a5d23f165e43.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\78ebdb34a7b07c6489d730bd0a4754e9.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\d80483a5bbae7a3dd4bd7b92abb686ef.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\5f8ec2812c1039d01e743c5857dde7ef.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\aa6d90c811d338e0b3a42b88f5a1f9a5.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\e817b553fe60312e7ef05b9634fda4dc.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\5fe9c047d518bcf82dcb0936f43a445e.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\d4566db9102854f1d538a54cc6b0fed6.jpg"
-    ],
-    "note": "",
-    "rating": 6,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 İşlemci: Intel Core i3 or equivalent Bellek: 4 GB RAM Ekran Kartı: Nvidia GeForce GTX 550 Ti or equivalent DirectX: Sürüm 11 Ağ: Genişbant İnternet bağlantısı Depolama: 5 GB kullanılabilir alan",
-    "sys_recommended": "İşletim Sistemi: Windows 10 İşlemci: Intel Core i7 or equivalent Bellek: 16 GB RAM Ekran Kartı: Nvidia GeForce GTX 1060 or equivalent DirectX: Sürüm 12 Ağ: Genişbant İnternet bağlantısı Depolama: 5 GB kullanılabilir alan",
-    "game_size_gb": "3.37",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/torrents/Blazing.Sails.Crab.Lord.Early.Access.torrent",
-        "label": "Blazing.Sails.Crab.Lord.Early.Access",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "d912ca85-340f-4c2f-a040-0439e9d3666f",
-    "added_date": "2026-06-26T20:16:50.301327",
-    "first_added_date": "2026-06-26T20:16:50.301327",
-    "categories": [
-      "accd1184-24d0-4772-8f72-91e9fe779b4f"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "accd1184-24d0-4772-8f72-91e9fe779b4f"
+    "release_date": "9 Eylül 2020",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/library_hero.jpg",
+    "rating": 6.0,
+    "size_gb": 3.37,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-26T04:53:17.035922",
+    "raw_data": "{\"name\": \"Blazing Sails\", \"description\": \"Battle royale oyun moduna yeni bir bakış Blazing Sails, oyun modunu hızlı deniz/gemi savaşıyla birleştirerek BR türünü yeniliyor. Deniz savaşı Blazing Sails'teki ana amaç diğer tüm gemileri yok etmektir. Bunu yapmak için birçok farklı strateji var.\", \"developer\": \"GET UP GAMES\", \"publisher\": \"GET UP GAMES\", \"release_date\": \"9 Eylül 2020\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7 İşlemci: Intel Core i3 or equivalent Bellek: 4 GB RAM Ekran Kartı: Nvidia GeForce GTX 550 Ti or equivalent DirectX: Sürüm 11 Ağ: Genişbant İnternet bağlantısı Depolama: 5 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 İşlemci: Intel Core i7 or equivalent Bellek: 16 GB RAM Ekran Kartı: Nvidia GeForce GTX 1060 or equivalent DirectX: Sürüm 12 Ağ: Genişbant İnternet bağlantısı Depolama: 5 GB kullanılabilir alan\", \"game_size_gb\": \"3.37\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d912ca85-340f-4c2f-a040-0439e9d3666f/torrents/Blazing.Sails.Crab.Lord.Early.Access.torrent\", \"label\": \"Blazing.Sails.Crab.Lord.Early.Access\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"accd1184-24d0-4772-8f72-91e9fe779b4f\"], \"id\": \"d912ca85-340f-4c2f-a040-0439e9d3666f\", \"added_date\": \"2026-06-26T20:16:50.301327\", \"first_added_date\": \"2026-06-26T20:16:50.301327\", \"last_updated\": \"2026-07-26T04:53:17.035922\"}",
+    "added_at": "2026-07-26T04:53:17.035922"
   },
   {
     "name": "DEVOUR",
