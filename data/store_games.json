@@ -9963,68 +9963,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Grounded 2",
+    "id": "17d05cf1-4976-478c-abc9-9dbb03f19fde",
+    "title": "Grounded 2",
     "description": "Grounded 2, Obsidian Entertainment'ın ödüllü hayatta kalma oyunu Grounded'ın devam halkasıdır ve oyuncuları yine minik boyuta küçülmüş halde devasa bir bahçede maceraya sürükler. Bu kez yeni böcek türleri, gelişmiş binicilik mekanikleri ve daha geniş bir keşif alanıyla arkadaşlarınla birlikte (4 kişiye kadar co-op) hayatta kalmaya çalışırsın. Yaratıcı crafting sistemi, gerilim dolu gece sahneleri ve sürükleyici hikayesiyle ilk oyunun başarısını ileriye taşıyor.",
+    "category": "accd1184-24d0-4772-8f72-91e9fe779b4f,5a6fe454-271c-471a-9a2d-b15337efb744",
     "developer": "Obsidian Entertainment, Eidos Montreal",
     "publisher": "Xbox Game Studios",
-    "release_date": "",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Singleplayer",
-      "Horror",
-      "Multiplayer",
-      "First-Person",
-      "Exploration"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/library_hero.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 0,
-    "hltb_hours": "12",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10/11 with updates\nİşlemci: AMD Ryzen 5 2600 / Intel i5-8400\nBellek: 16 GB RAM\nEkran Kartı: AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580\nDirectX: Version 12\nDepolama: 40 GB kullanılabilir alan",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10/11 with updates\nİşlemci: AMD Ryzen 5 5600X / Intel i7-10700K\nBellek: 16 GB RAM\nEkran Kartı: AMD RX 6800 XT / Nvidia RTX 3080\nDirectX: Version 12\nDepolama: 40 GB kullanılabilir alan",
-    "game_size_gb": "30",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/torrents/Grounded.2-P2P.torrent",
-        "label": "Grounded.2-P2P",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "17d05cf1-4976-478c-abc9-9dbb03f19fde",
-    "added_date": "2026-06-24T14:12:31.244794",
-    "first_added_date": "2026-06-24T14:12:31.244794",
-    "categories": [
-      "accd1184-24d0-4772-8f72-91e9fe779b4f",
-      "5a6fe454-271c-471a-9a2d-b15337efb744"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "accd1184-24d0-4772-8f72-91e9fe779b4f,5a6fe454-271c-471a-9a2d-b15337efb744"
+    "release_date": "29 Temmuz 2025",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/library_hero.png",
+    "rating": 0.0,
+    "size_gb": 30.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-26T05:05:51.773419",
+    "raw_data": "{\"name\": \"Grounded 2\", \"description\": \"Grounded 2, Obsidian Entertainment'ın ödüllü hayatta kalma oyunu Grounded'ın devam halkasıdır ve oyuncuları yine minik boyuta küçülmüş halde devasa bir bahçede maceraya sürükler. Bu kez yeni böcek türleri, gelişmiş binicilik mekanikleri ve daha geniş bir keşif alanıyla arkadaşlarınla birlikte (4 kişiye kadar co-op) hayatta kalmaya çalışırsın. Yaratıcı crafting sistemi, gerilim dolu gece sahneleri ve sürükleyici hikayesiyle ilk oyunun başarısını ileriye taşıyor.\", \"developer\": \"Obsidian Entertainment, Eidos Montreal\", \"publisher\": \"Xbox Game Studios\", \"release_date\": \"29 Temmuz 2025\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"12\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10/11 with updates\\nİşlemci: AMD Ryzen 5 2600 / Intel i5-8400\\nBellek: 16 GB RAM\\nEkran Kartı: AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580\\nDirectX: Version 12\\nDepolama: 40 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10/11 with updates\\nİşlemci: AMD Ryzen 5 5600X / Intel i7-10700K\\nBellek: 16 GB RAM\\nEkran Kartı: AMD RX 6800 XT / Nvidia RTX 3080\\nDirectX: Version 12\\nDepolama: 40 GB kullanılabilir alan\", \"game_size_gb\": \"30\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/17d05cf1-4976-478c-abc9-9dbb03f19fde/torrents/Grounded.2-P2P.torrent\", \"label\": \"Grounded.2-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"accd1184-24d0-4772-8f72-91e9fe779b4f\", \"5a6fe454-271c-471a-9a2d-b15337efb744\"], \"id\": \"17d05cf1-4976-478c-abc9-9dbb03f19fde\", \"added_date\": \"2026-06-24T14:12:31.244794\", \"first_added_date\": \"2026-06-24T14:12:31.244794\", \"last_updated\": \"2026-07-26T05:05:51.773419\"}",
+    "added_at": "2026-07-26T05:05:51.773419"
   },
   {
     "name": "Final Fantasy XVI",
@@ -17300,7 +17255,7 @@
     "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,ec40418c-e2bf-47e0-bc64-7ba97c1c12e1",
     "developer": "Spiders",
     "publisher": "Nacon",
-    "release_date": "12 Mart 2026",
+    "release_date": "",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/cover.jpg",
     "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/banner.jpg",
     "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/library_hero.jpg",
@@ -17308,9 +17263,13 @@
     "size_gb": 26.53,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-07-26T05:01:41.454825",
-    "raw_data": "{\"name\": \"GreedFall II - The Dying World\", \"description\": \"Hikaye, ilk oyundaki olaylardan ve De Sardet'in maceralarından üç yıl önce başlıyor. Bu sefer adanızdan zorla koparılan ve kolonicilerin geldiği Gacane kıtasına götürülen bir Teer Fradee yerlisi olarak oynuyorsunuz. Savaşın harap ettiği, Malichor vebasının ve farklı grupların siyasi entrikalarının yaraladığı bu eski dünyada, özgürlüğünüzü yeniden kazanmanız ve kendi kaderinizin kontrolünü yeniden kazanmanız gerekiyor.\", \"developer\": \"Spiders\", \"publisher\": \"Nacon\", \"release_date\": \"12 Mart 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"26.53\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/torrents/GreedFall.II.The.Dying.World.Early.Access.torrent\", \"label\": \"GreedFall.II.The.Dying.World.Early.Access\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"ec40418c-e2bf-47e0-bc64-7ba97c1c12e1\"], \"id\": \"8812922c-0879-4ca2-a3f1-00db3e7a625e\", \"added_date\": \"2026-07-20T01:04:47.119638\", \"first_added_date\": \"2026-07-20T01:04:47.119638\", \"last_updated\": \"2026-07-26T05:01:41.454825\"}",
-    "added_at": "2026-07-19T22:08:30.376462"
+    "last_updated": "2026-07-19T22:36:43.562125",
+    "raw_data": "{\"name\": \"GreedFall II - The Dying World\", \"description\": \"Hikaye, ilk oyundaki olaylardan ve De Sardet'in maceralarından üç yıl önce başlıyor. Bu sefer adanızdan zorla koparılan ve kolonicilerin geldiği Gacane kıtasına götürülen bir Teer Fradee yerlisi olarak oynuyorsunuz. Savaşın harap ettiği, Malichor vebasının ve farklı grupların siyasi entrikalarının yaraladığı bu eski dünyada, özgürlüğünüzü yeniden kazanmanız ve kendi kaderinizin kontrolünü yeniden kazanmanız gerekiyor.\", \"developer\": \"Spiders\", \"publisher\": \"Nacon\", \"release_date\": \"\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"26.53\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8812922c-0879-4ca2-a3f1-00db3e7a625e/torrents/GreedFall.II.The.Dying.World.Early.Access.torrent\", \"label\": \"GreedFall.II.The.Dying.World.Early.Access\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"ec40418c-e2bf-47e0-bc64-7ba97c1c12e1\"], \"id\": \"8812922c-0879-4ca2-a3f1-00db3e7a625e\", \"added_date\": \"2026-07-20T01:04:47.119638\", \"first_added_date\": \"2026-07-20T01:04:47.119638\", \"last_updated\": \"2026-07-19T22:08:30.376462\"}",
+    "added_at": "2026-07-19T22:08:30.376462",
+    "categories": [
+      "5c112b26-4d14-49b5-9aef-1a97232e8456",
+      "ec40418c-e2bf-47e0-bc64-7ba97c1c12e1"
+    ]
   },
   {
     "id": "cdf1afcf-145c-482b-b669-c6dd213070c8",
