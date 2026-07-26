@@ -3497,69 +3497,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "The Crew 2",
+    "id": "0a5768ce-477c-43e8-909d-332ac59799e8",
+    "title": "The Crew 2",
     "description": "Tüm Amerika haritasını küçültülmüş bir şekilde sunan açık dünya yarış oyunudur. Sadece arabalar değil; uçaklar, motosikletler ve sürat tekneleri arasında anında geçiş yaparak yarışabilirsiniz.",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,2e933453-5af6-42cd-afd8-f80c7ce20091",
     "developer": "Ubisoft, Ivory Tower",
     "publisher": "Ubisoft Entertainment",
     "release_date": "29 Haz 2018",
-    "tags": [
-      "Action",
-      "Racing",
-      "Massively Multiplayer",
-      "Singleplayer",
-      "Multiplayer",
-      "Co-op",
-      "Partial Controller Support",
-      "Open World"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/library_hero.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 6,
-    "hltb_hours": "18",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 / 8.1 / 10 (64-bit)\nİşlemci: Intel Core i5-2400 veya AMD FX-6100\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GeForce GTX 660 veya AMD Radeon HD 7870 (2 GB)\nDepolama: 60 GB",
-    "sys_recommended": "İşletim Sistemi: Windows 10 (64-bit)\nİşlemci: Intel Core i5-4690k veya AMD Ryzen 5 1600\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GeForce GTX 1060 veya AMD Radeon RX 480 (4 GB)\nDepolama: 60 GB",
-    "game_size_gb": "32",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/torrents/The.Crew.2-RUNE.torrent",
-        "label": "The.Crew.2-RUNE",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "0a5768ce-477c-43e8-909d-332ac59799e8",
-    "added_date": "2026-06-22T19:52:54.131154",
-    "first_added_date": "2026-06-22T19:52:54.131154",
-    "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "2e933453-5af6-42cd-afd8-f80c7ce20091"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,2e933453-5af6-42cd-afd8-f80c7ce20091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/library_hero.png",
+    "rating": 6.0,
+    "size_gb": 32.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-26T01:59:12.181243",
+    "raw_data": "{\"name\": \"The Crew 2\", \"description\": \"Tüm Amerika haritasını küçültülmüş bir şekilde sunan açık dünya yarış oyunudur. Sadece arabalar değil; uçaklar, motosikletler ve sürat tekneleri arasında anında geçiş yaparak yarışabilirsiniz.\", \"developer\": \"Ubisoft, Ivory Tower\", \"publisher\": \"Ubisoft Entertainment\", \"release_date\": \"29 Haz 2018\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"18\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7 / 8.1 / 10 (64-bit)\\nİşlemci: Intel Core i5-2400 veya AMD FX-6100\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 660 veya AMD Radeon HD 7870 (2 GB)\\nDepolama: 60 GB\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 (64-bit)\\nİşlemci: Intel Core i5-4690k veya AMD Ryzen 5 1600\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 1060 veya AMD Radeon RX 480 (4 GB)\\nDepolama: 60 GB\", \"game_size_gb\": \"32\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a5768ce-477c-43e8-909d-332ac59799e8/torrents/The.Crew.2-RUNE.torrent\", \"label\": \"The.Crew.2-RUNE\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"2e933453-5af6-42cd-afd8-f80c7ce20091\"], \"id\": \"0a5768ce-477c-43e8-909d-332ac59799e8\", \"added_date\": \"2026-06-22T19:52:54.131154\", \"first_added_date\": \"2026-06-22T19:52:54.131154\", \"last_updated\": \"2026-07-26T01:59:12.181243\"}",
+    "added_at": "2026-07-26T01:59:12.181243"
   },
   {
     "name": "Golf With Your Friends",
