@@ -9468,23 +9468,76 @@
     "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,5d65a566-8d03-4600-bd61-2b47be142b4d"
   },
   {
-    "id": "39191fb6-1576-4969-9647-d8ddf711477f",
-    "title": "FlatOut 2",
+    "name": "FlatOut 2",
     "description": "Arabaları birbirine çarparak hurdaya çevirdiğiniz, kuralsız ve son derece agresif bir yarış oyunudur. Sürücünün ön camdan fırladığı \"Yüksek Atlama\", \"Bovling\" gibi çılgın mini oyunlarıyla internet kafelerin unutulmazlarındandır.",
-    "category": "0370afa3-cfef-4e81-8b95-3b3aa9618f86,b53fc043-1aeb-409b-b320-ff1463463533,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Bugbear Entertainment",
     "publisher": "Strategy First, Empire Interactive",
     "release_date": "29 Haz 2006",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/library_hero.jpg",
-    "rating": 9.0,
-    "size_gb": 4.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-26T03:54:41.528466",
-    "raw_data": "{\"name\": \"FlatOut 2\", \"description\": \"Arabaları birbirine çarparak hurdaya çevirdiğiniz, kuralsız ve son derece agresif bir yarış oyunudur. Sürücünün ön camdan fırladığı \\\"Yüksek Atlama\\\", \\\"Bovling\\\" gibi çılgın mini oyunlarıyla internet kafelerin unutulmazlarındandır.\", \"developer\": \"Bugbear Entertainment\", \"publisher\": \"Strategy First, Empire Interactive\", \"release_date\": \"29 Haz 2006\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"Windows XP/2000 XP SP2 / 2000 SP4, 256 MB RAM, 64 MB* video card, 2.0 GHz Pentium&reg; 4 or AMD&reg; 2000+ processor, DirectX compatible sound card, 3.5 GB free hard drive space, DirectX 9.0c, TCP/IP required for LAN play, 512kbs minimum, Broadband connection required\\nFlatOut 2 supports gamepads. Gamepad with 8 buttons minimum (to support all configurable game commands) is recommended.\\n* FlatOut 2 supports the following Chipsets, nVidia Geforce FX 5/6/7 series, ATI Radeon 9600 Pro/XT and above, ATI Radeon X200 and above. On-board/ integrated graphics cards and laptops not supported.\", \"sys_recommended\": \"Win XP | İşlemci: Pentium 4 2.5 GHz | Bellek: 512 MB RAM | Ekran Kartı: 128 MB VRAM | Depolama: 3 GB\", \"game_size_gb\": \"4\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/torrents/Flat.Out.2-RELOADED.torrent\", \"label\": \"Flat.Out.2-RELOADED\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"http://www.gameranger.com/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Gameranger ile online oyna\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"0370afa3-cfef-4e81-8b95-3b3aa9618f86\", \"b53fc043-1aeb-409b-b320-ff1463463533\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\"], \"id\": \"39191fb6-1576-4969-9647-d8ddf711477f\", \"added_date\": \"2026-06-24T08:42:08.417892\", \"first_added_date\": \"2026-06-24T08:42:08.417892\", \"last_updated\": \"2026-07-26T03:54:41.528466\"}",
-    "added_at": "2026-07-26T03:54:41.528466"
+    "tags": [
+      "Racing",
+      "Arcade",
+      "Singleplayer",
+      "Multiplayer",
+      "Atmospheric",
+      "Music",
+      "Physics"
+    ],
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/cover.png?v=1782288881",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/banner.jpg?v=1782288881",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/library_hero.jpg?v=1782288881",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_01.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_02.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_03.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_04.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_05.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_06.jpg?v=1782288881"
+    ],
+    "note": "",
+    "rating": 9,
+    "hltb_hours": "12",
+    "show_hltb": true,
+    "sys_min": "Windows XP/2000 XP SP2 / 2000 SP4, 256 MB RAM, 64 MB* video card, 2.0 GHz Pentium&reg; 4 or AMD&reg; 2000+ processor, DirectX compatible sound card, 3.5 GB free hard drive space, DirectX 9.0c, TCP/IP required for LAN play, 512kbs minimum, Broadband connection required\nFlatOut 2 supports gamepads. Gamepad with 8 buttons minimum (to support all configurable game commands) is recommended.\n* FlatOut 2 supports the following Chipsets, nVidia Geforce FX 5/6/7 series, ATI Radeon 9600 Pro/XT and above, ATI Radeon X200 and above. On-board/ integrated graphics cards and laptops not supported.",
+    "sys_recommended": "Win XP | İşlemci: Pentium 4 2.5 GHz | Bellek: 512 MB RAM | Ekran Kartı: 128 MB VRAM | Depolama: 3 GB",
+    "game_size_gb": "4",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/cover.png?v=1782288881",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/banner.jpg?v=1782288881",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/library_hero.jpg?v=1782288881",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_01.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_02.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_03.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_04.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_05.jpg?v=1782288881",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/screenshots/ss_06.jpg?v=1782288881"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/39191fb6-1576-4969-9647-d8ddf711477f/torrents/Flat.Out.2-RELOADED.torrent",
+        "label": "Flat.Out.2-RELOADED",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      },
+      {
+        "url": "http://www.gameranger.com/",
+        "label": "🔗 Doğrudan Link",
+        "type": "direct",
+        "description": "Gameranger ile online oyna",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "39191fb6-1576-4969-9647-d8ddf711477f",
+    "added_date": "2026-06-24T08:42:08.417892",
+    "categories": [
+      "0370afa3-cfef-4e81-8b95-3b3aa9618f86",
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    ],
+    "first_added_date": "2026-06-24T08:42:08.417892",
+    "category": "0370afa3-cfef-4e81-8b95-3b3aa9618f86,b53fc043-1aeb-409b-b320-ff1463463533,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
     "name": "Gears of War 4",
@@ -17410,13 +17463,9 @@
     "size_gb": 1.82,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-07-19T15:02:38.579835",
-    "raw_data": "{\"name\": \"Goat Simulator PAYDAY\", \"description\": \"** ÖNEMLİ - DESTEKLENEN CİHAZLAR ** iPhone 4S, iPad 2, iPod Touch 5 veya daha iyisi Keçi Simülatörü: Payday, şimdiye kadarki en gerçekçi keçi simülasyonudur! Başrolde 4 yeni baş haydut var: Uçan bir flamingo, tekerlekli sandalye kullanan bir yunus, tüküren bir deve ve gerçekten yakışıklı bir keçi. Yeni ekibinize parçalama ve kapma soygunları bulmak için PRANKNET©'i kullanın, ardından çalınan paranızı farklı şeylere harcayın.\", \"developer\": \"Coffee Stain Publishing\", \"publisher\": \"Coffee Stain Studios\", \"release_date\": \"25 May 2017\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"1\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"1.82\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/torrents/goat.simulator.payday.hi2u.torrent\", \"label\": \"goat.simulator.payday.hi2u\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"8ef600a2-0589-41b0-bcf2-5f8050ecd23b\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"dc9f9689-014a-4bb5-b478-f89b1e1c5f94\", \"added_date\": \"2026-07-19T14:28:56.804616\", \"first_added_date\": \"2026-07-19T14:28:56.804616\", \"last_updated\": \"2026-07-19T11:51:21.787587\"}",
-    "added_at": "2026-07-19T11:51:21.787587",
-    "categories": [
-      "8ef600a2-0589-41b0-bcf2-5f8050ecd23b",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
-    ]
+    "last_updated": "2026-07-26T03:58:51.721393",
+    "raw_data": "{\"name\": \"Goat Simulator PAYDAY\", \"description\": \"** ÖNEMLİ - DESTEKLENEN CİHAZLAR ** iPhone 4S, iPad 2, iPod Touch 5 veya daha iyisi Keçi Simülatörü: Payday, şimdiye kadarki en gerçekçi keçi simülasyonudur! Başrolde 4 yeni baş haydut var: Uçan bir flamingo, tekerlekli sandalye kullanan bir yunus, tüküren bir deve ve gerçekten yakışıklı bir keçi. Yeni ekibinize parçalama ve kapma soygunları bulmak için PRANKNET©'i kullanın, ardından çalınan paranızı farklı şeylere harcayın.\", \"developer\": \"Coffee Stain Publishing\", \"publisher\": \"Coffee Stain Studios\", \"release_date\": \"25 May 2017\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"1.82\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/dc9f9689-014a-4bb5-b478-f89b1e1c5f94/torrents/goat.simulator.payday.hi2u.torrent\", \"label\": \"goat.simulator.payday.hi2u\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"8ef600a2-0589-41b0-bcf2-5f8050ecd23b\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"dc9f9689-014a-4bb5-b478-f89b1e1c5f94\", \"added_date\": \"2026-07-19T14:28:56.804616\", \"first_added_date\": \"2026-07-19T14:28:56.804616\", \"last_updated\": \"2026-07-26T03:58:51.721393\"}",
+    "added_at": "2026-07-19T11:51:21.787587"
   },
   {
     "id": "2046b8e4-28cc-46b8-aa1d-1fe8f5bcf50d",
