@@ -2552,76 +2552,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Stranded Deep",
+    "id": "53cc2820-9944-4620-9609-5f350dc26207",
+    "title": "Stranded Deep",
     "description": "Uçak kazası sonrası Pasifik Okyanusu'ndaki ıssız adalarda hayatta kalmaya çalıştığınız bir hayatta kalma simülasyonudur. Susuzluk, açlık ve vahşi deniz canlılarıyla mücadele edip adadan adaya geçerek bir kaçış yolu ararsınız.",
+    "category": "accd1184-24d0-4772-8f72-91e9fe779b4f,287a90c1-a897-45a6-8964-e0175590c3d5,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,b53fc043-1aeb-409b-b320-ff1463463533",
     "developer": "Telltale Games, Beam Team Games",
     "publisher": "Beam Team",
     "release_date": "23 Oca 2015",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "Singleplayer",
-      "Steam Achievements",
-      "Atmospheric",
-      "First-Person",
-      "Exploration"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/cover.jpg",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/library_hero.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "15",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows Vista veya üstü\nİşlemci: 1.8GHz Intel dual-core and above\nBellek: 2 GB RAM\nEkran Kartı: Intel HD5000 and later. Minimum 512MB VRAM. Pixel Shader 3.0 support. Deferred lighting support (most 2005 and later cards support deferred lighting)\nDirectX: Version 9.0c\nDepolama: 1 GB kullanılabilir alan",
-    "sys_recommended": "İşletim Sistemi: Windows 7 veya üstü\nBellek: 4 GB RAM\nEkran Kartı: NVIDIA GTX600 or ATI HD7000 series with 2GB VRAM\nDirectX: Version 9.0c\nDepolama: 1 GB kullanılabilir alan",
-    "game_size_gb": "1",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/torrents/Stranded.Deep.v0.90.11-OFME_3.torrent",
-        "label": "Stranded.Deep.v0.90.11-OFME",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [
-      {
-        "key": "Şifre",
-        "value": "online-fix.me"
-      }
-    ],
-    "id": "53cc2820-9944-4620-9609-5f350dc26207",
-    "added_date": "2026-06-22T19:20:26.390935",
-    "first_added_date": "2026-06-22T19:20:26.390935",
-    "categories": [
-      "accd1184-24d0-4772-8f72-91e9fe779b4f",
-      "287a90c1-a897-45a6-8964-e0175590c3d5",
-      "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
-      "b53fc043-1aeb-409b-b320-ff1463463533"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "accd1184-24d0-4772-8f72-91e9fe779b4f,287a90c1-a897-45a6-8964-e0175590c3d5,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,b53fc043-1aeb-409b-b320-ff1463463533"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/library_hero.jpg",
+    "rating": 9.0,
+    "size_gb": 1.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-26T04:23:59.925226",
+    "raw_data": "{\"name\": \"Stranded Deep\", \"description\": \"Uçak kazası sonrası Pasifik Okyanusu'ndaki ıssız adalarda hayatta kalmaya çalıştığınız bir hayatta kalma simülasyonudur. Susuzluk, açlık ve vahşi deniz canlılarıyla mücadele edip adadan adaya geçerek bir kaçış yolu ararsınız.\", \"developer\": \"Telltale Games, Beam Team Games\", \"publisher\": \"Beam Team\", \"release_date\": \"23 Oca 2015\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows Vista veya üstü\\nİşlemci: 1.8GHz Intel dual-core and above\\nBellek: 2 GB RAM\\nEkran Kartı: Intel HD5000 and later. Minimum 512MB VRAM. Pixel Shader 3.0 support. Deferred lighting support (most 2005 and later cards support deferred lighting)\\nDirectX: Version 9.0c\\nDepolama: 1 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 7 veya üstü\\nBellek: 4 GB RAM\\nEkran Kartı: NVIDIA GTX600 or ATI HD7000 series with 2GB VRAM\\nDirectX: Version 9.0c\\nDepolama: 1 GB kullanılabilir alan\", \"game_size_gb\": \"1\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/53cc2820-9944-4620-9609-5f350dc26207/torrents/Stranded.Deep.v0.90.11-OFME_3.torrent\", \"label\": \"Stranded.Deep.v0.90.11-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"accd1184-24d0-4772-8f72-91e9fe779b4f\", \"287a90c1-a897-45a6-8964-e0175590c3d5\", \"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\", \"b53fc043-1aeb-409b-b320-ff1463463533\"], \"id\": \"53cc2820-9944-4620-9609-5f350dc26207\", \"added_date\": \"2026-06-22T19:20:26.390935\", \"first_added_date\": \"2026-06-22T19:20:26.390935\", \"last_updated\": \"2026-07-26T04:23:59.925226\"}",
+    "added_at": "2026-07-26T04:23:59.925226"
   },
   {
     "name": "Red Dead Redemption",
@@ -12756,23 +12703,72 @@
     "added_at": "2026-07-26T04:15:37.276777"
   },
   {
-    "id": "cda8810c-dd63-4daf-951b-a7aff0a94f10",
-    "title": "Streamer Life Simulator",
+    "name": "Streamer Life Simulator",
     "description": "Sıfırdan başlayarak dünyanın en popüler insanlarından biri olun. Karakterinizi geliştirin ve kendinize yeni ekipmanlar satın alın. Kötü mahallenizden ayrılın ve daha güçlü internet altyapısına sahip yeni mahallenize yerleşin.",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,beb95ec2-33ed-4a69-bd49-f573830c402c",
     "developer": "Cheesecake Dev",
     "publisher": "Cheesecake Dev",
     "release_date": "21 Ağu 2020",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/library_hero.jpg",
-    "rating": 6.0,
-    "size_gb": 1.84,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-26T04:19:48.932864",
-    "raw_data": "{\"name\": \"Streamer Life Simulator\", \"description\": \"Sıfırdan başlayarak dünyanın en popüler insanlarından biri olun. Karakterinizi geliştirin ve kendinize yeni ekipmanlar satın alın. Kötü mahallenizden ayrılın ve daha güçlü internet altyapısına sahip yeni mahallenize yerleşin.\", \"developer\": \"Cheesecake Dev\", \"publisher\": \"Cheesecake Dev\", \"release_date\": \"21 Ağu 2020\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7\\nİşlemci: 2 GHz Dual Core CPU\\nBellek: 4 GB RAM\\nEkran Kartı: Intel HD Graphics 4000 veya üstü\\nDepolama: 5 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10\\nİşlemci: 2.5 GHz Dual Core CPU\\nBellek: 6 GB RAM\\nEkran Kartı: Geforce GTX 970/Radeon RX470 veya üstü\\nDepolama: 5 GB kullanılabilir alan\", \"game_size_gb\": \"1.84\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/torrents/Streamer.Life.Simulator-HOODLUM.torrent\", \"label\": \"Streamer.Life.Simulator-HOODLUM\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"beb95ec2-33ed-4a69-bd49-f573830c402c\"], \"id\": \"cda8810c-dd63-4daf-951b-a7aff0a94f10\", \"added_date\": \"2026-06-27T07:22:18.397631\", \"first_added_date\": \"2026-06-27T07:22:18.397631\", \"last_updated\": \"2026-07-26T04:19:48.932864\"}",
-    "added_at": "2026-07-26T04:19:48.932864"
+    "tags": [
+      "Action",
+      "Adventure",
+      "Strategy",
+      "Simulation",
+      "Casual",
+      "Indie",
+      "Singleplayer",
+      "Steam Achievements",
+      "First-Person",
+      "Exploration",
+      "Funny"
+    ],
+    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\3756ca6400f27e2d9dc14683c8c71ccb.png",
+    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\985d3a82e267563e81c7d0784859baac.jpg",
+    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\37836091f56fa1178678c1cad54e775c.png",
+    "screenshots": [
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\37585b781aed0014dc853680ec03d138.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2b772ebdf6e062f4e5f9d3d54b9443f6.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\5557e5a42b4324da6b49efc0a8344ec7.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2093fd11ef09012ef08ce0a9e47e1c8e.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\0fc26f37d42392068966b69479e982f5.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\25b098530d9e0be877a11107b51ce386.jpg"
+    ],
+    "note": "",
+    "rating": 6,
+    "hltb_hours": "10",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Windows 7\nİşlemci: 2 GHz Dual Core CPU\nBellek: 4 GB RAM\nEkran Kartı: Intel HD Graphics 4000 veya üstü\nDepolama: 5 GB kullanılabilir alan",
+    "sys_recommended": "İşletim Sistemi: Windows 10\nİşlemci: 2.5 GHz Dual Core CPU\nBellek: 6 GB RAM\nEkran Kartı: Geforce GTX 970/Radeon RX470 veya üstü\nDepolama: 5 GB kullanılabilir alan",
+    "game_size_gb": "1.84",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/cover.jpg",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/library_hero.jpg",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/cda8810c-dd63-4daf-951b-a7aff0a94f10/torrents/Streamer.Life.Simulator-HOODLUM.torrent",
+        "label": "Streamer.Life.Simulator-HOODLUM",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "cda8810c-dd63-4daf-951b-a7aff0a94f10",
+    "added_date": "2026-06-27T07:22:18.397631",
+    "first_added_date": "2026-06-27T07:22:18.397631",
+    "categories": [
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "beb95ec2-33ed-4a69-bd49-f573830c402c"
+    ],
+    "last_updated": "2026-07-08T20:57:29.217091",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,beb95ec2-33ed-4a69-bd49-f573830c402c"
   },
   {
     "name": "R.E.P.O.",
