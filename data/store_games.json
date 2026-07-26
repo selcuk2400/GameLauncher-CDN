@@ -11295,23 +11295,62 @@
     "added_at": "2026-07-12T03:24:21.917044"
   },
   {
-    "id": "3054e216-5de3-4835-836d-ced84bda1c4c",
-    "title": "Ulukayın: Ertuğrul",
+    "name": "Ulukayın: Ertuğrul",
     "description": "⋅ Ulukayınlı Ertuğrul, Ahlat'ın muhteşem manzarası eşliğinde sizi Orta Çağ Türk döneminin kalbine götüren 3. şahıs aksiyon-macera oyunudur. Bu canlı dünyada gezinirken nefes kesici yerleri keşfedin ve komşu kabilelerle bağlantılar kurun.⋅ Masumlar için ayağa kalkın ve ülkeyi yozlaştırmaya çalışan gizli örgütle yüzleşin, Moğollarla ve gölgelerde gizlenen efsanevi canavarlarla savaşmaya hazır olun. Macera rüyalarınızda bile devam ediyor.",
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Tekden Studio",
     "publisher": "Tekden Studio, Tekden Film",
     "release_date": "12 Haz 2025",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/cover.webp",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/library_hero.jpg",
-    "rating": 0.0,
-    "size_gb": 8.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-26T04:44:53.980442",
-    "raw_data": "{\"name\": \"Ulukayın: Ertuğrul\", \"description\": \"⋅ Ulukayınlı Ertuğrul, Ahlat'ın muhteşem manzarası eşliğinde sizi Orta Çağ Türk döneminin kalbine götüren 3. şahıs aksiyon-macera oyunudur. Bu canlı dünyada gezinirken nefes kesici yerleri keşfedin ve komşu kabilelerle bağlantılar kurun.⋅ Masumlar için ayağa kalkın ve ülkeyi yozlaştırmaya çalışan gizli örgütle yüzleşin, Moğollarla ve gölgelerde gizlenen efsanevi canavarlarla savaşmaya hazır olun. Macera rüyalarınızda bile devam ediyor.\", \"developer\": \"Tekden Studio\", \"publisher\": \"Tekden Studio, Tekden Film\", \"release_date\": \"12 Haz 2025\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/cover.webp\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"15\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-bit\\nİşlemci: Core i7-6700 or Ryzen 5 1600\\nBellek: 16 GB RAM\\nEkran Kartı: Nvidia® GeForce GTX™ 1070 8GB/AMD Radeon™ RX 5700 8GB/Intel® Arc™ A580 8GB\\nDirectX: Version 12\\nDepolama: 20 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 11 64-bit\\nİşlemci: Core i7-12700 or Ryzen 7 7800X3D\\nBellek: 32 GB RAM\\nEkran Kartı: Nvidia® GeForce RTX™ 3060Ti 8GB/AMD Radeon™ RX 6700 XT 12GB/Intel® Arc™ B580 12GB\\nDirectX: Version 12\\nDepolama: 20 GB kullanılabilir alan\", \"game_size_gb\": \"8\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/cover.webp\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/torrents/Ertugrul.of.Ulukayin.torrent\", \"label\": \"Ertugrul.of.Ulukayin\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"3054e216-5de3-4835-836d-ced84bda1c4c\", \"added_date\": \"2026-06-26T19:22:16.939147\", \"first_added_date\": \"2026-06-26T19:22:16.939147\", \"last_updated\": \"2026-07-26T04:44:53.980442\"}",
-    "added_at": "2026-07-26T04:44:53.980442"
+    "tags": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Indie",
+      "Singleplayer",
+      "3D",
+      "Steam Achievements",
+      "Atmospheric",
+      "Exploration"
+    ],
+    "cover_image": "C:/Users/Seljuk/Desktop/DKEsx_1723824059_228.webp",
+    "banner_image": "",
+    "library_hero_image": "",
+    "screenshots": [],
+    "note": "",
+    "rating": 0,
+    "hltb_hours": "",
+    "show_hltb": true,
+    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64-bit\nİşlemci: Core i7-6700 or Ryzen 5 1600\nBellek: 16 GB RAM\nEkran Kartı: Nvidia® GeForce GTX™ 1070 8GB/AMD Radeon™ RX 5700 8GB/Intel® Arc™ A580 8GB\nDirectX: Version 12\nDepolama: 20 GB kullanılabilir alan",
+    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 11 64-bit\nİşlemci: Core i7-12700 or Ryzen 7 7800X3D\nBellek: 32 GB RAM\nEkran Kartı: Nvidia® GeForce RTX™ 3060Ti 8GB/AMD Radeon™ RX 6700 XT 12GB/Intel® Arc™ B580 12GB\nDirectX: Version 12\nDepolama: 20 GB kullanılabilir alan",
+    "game_size_gb": "8",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/cover.webp",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/library_hero.jpg",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3054e216-5de3-4835-836d-ced84bda1c4c/torrents/Ertugrul.of.Ulukayin.torrent",
+        "label": "Ertugrul.of.Ulukayin",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "3054e216-5de3-4835-836d-ced84bda1c4c",
+    "added_date": "2026-06-26T19:22:16.939147",
+    "categories": [
+      "5c112b26-4d14-49b5-9aef-1a97232e8456"
+    ],
+    "first_added_date": "2026-06-26T19:22:16.939147",
+    "last_updated": "2026-07-08T20:57:29.217091",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
     "name": "Wrap House Simulator🌯",
@@ -15824,57 +15863,23 @@
     "added_at": "2026-07-14T19:57:37.508891"
   },
   {
-    "name": "The Witcher (A New Saga Begins)",
+    "id": "d91231d0-96e5-40c4-89ed-7e7a08a06cf4",
+    "title": "The Witcher (A New Saga Begins)",
     "description": "The Witcher IV, CD PROJEKT RED'in tek oyunculu, açık dünya RPG'sidir. Yeni bir destanın başlangıcında oyuncular, profesyonel canavar avcısı Ciri rolünü üstleniyor ve acımasız, karanlık fantastik bir dünyada bir yolculuğa çıkıyor. Unreal Engine 5 ile desteklenen oyun, bugüne kadarki en sürükleyici ve iddialı açık dünya Witcher oyunu olmayı hedefliyor.",
+    "category": "8985d147-3d2d-4c3a-97d1-730103e344d8,5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "CD PROJEKT RED, CD PROJEKT",
     "publisher": "CD PROJEKT RED",
     "release_date": "",
-    "tags": [
-      "Action",
-      "RPG"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\f284dbb85cecc88f4096a999ce795766.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\6753148c53df3f8356b760d9f6860dc5.jpeg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\e3a12e198d15821a8fcf98714770bb57.png",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\019ea30872ca2d0bfb90952f405f648d.jpeg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\6753148c53df3f8356b760d9f6860dc5.jpeg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\1f475f1671ad353617ef297024fafa11.jpeg"
-    ],
-    "note": "",
-    "rating": 0,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Microsoft® Windows® /XP/Vista İşlemci: Intel Pentium 4 2.4 GHz veya Athlon 64 +2800 (Intel Pentium 4 3.0 GHz veya AMD Athlon 64 +3000 recommended). Athlon XP, Athlon XP +2400 Bellek: 2 GB RAM Ekran Kartı: NVIDIA GeForce 6600 veya ATI Radeon 9800 HDD: 15 GB Disk alanı",
-    "sys_recommended": "",
-    "game_size_gb": "17.76",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/screenshots/ss_01.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/screenshots/ss_02.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/screenshots/ss_03.jpeg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/torrents/the.witcher.pc.dvd.multi5.torrent",
-        "label": "the.witcher.pc.dvd.multi5",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "d91231d0-96e5-40c4-89ed-7e7a08a06cf4",
-    "added_date": "2026-07-07T00:23:19.296085",
-    "first_added_date": "2026-07-07T00:23:19.296085",
-    "categories": [
-      "8985d147-3d2d-4c3a-97d1-730103e344d8",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "8985d147-3d2d-4c3a-97d1-730103e344d8,5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 17.76,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-26T04:49:05.800645",
+    "raw_data": "{\"name\": \"The Witcher (A New Saga Begins)\", \"description\": \"The Witcher IV, CD PROJEKT RED'in tek oyunculu, açık dünya RPG'sidir. Yeni bir destanın başlangıcında oyuncular, profesyonel canavar avcısı Ciri rolünü üstleniyor ve acımasız, karanlık fantastik bir dünyada bir yolculuğa çıkıyor. Unreal Engine 5 ile desteklenen oyun, bugüne kadarki en sürükleyici ve iddialı açık dünya Witcher oyunu olmayı hedefliyor.\", \"developer\": \"CD PROJEKT RED, CD PROJEKT\", \"publisher\": \"CD PROJEKT RED\", \"release_date\": \"\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/screenshots/ss_01.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/screenshots/ss_02.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/screenshots/ss_03.jpeg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"35\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Microsoft® Windows® /XP/Vista İşlemci: Intel Pentium 4 2.4 GHz veya Athlon 64 +2800 (Intel Pentium 4 3.0 GHz veya AMD Athlon 64 +3000 recommended). Athlon XP, Athlon XP +2400 Bellek: 2 GB RAM Ekran Kartı: NVIDIA GeForce 6600 veya ATI Radeon 9800 HDD: 15 GB Disk alanı\", \"sys_recommended\": \"\", \"game_size_gb\": \"17.76\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/screenshots/ss_01.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/screenshots/ss_02.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/screenshots/ss_03.jpeg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d91231d0-96e5-40c4-89ed-7e7a08a06cf4/torrents/the.witcher.pc.dvd.multi5.torrent\", \"label\": \"the.witcher.pc.dvd.multi5\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"8985d147-3d2d-4c3a-97d1-730103e344d8\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"d91231d0-96e5-40c4-89ed-7e7a08a06cf4\", \"added_date\": \"2026-07-07T00:23:19.296085\", \"first_added_date\": \"2026-07-07T00:23:19.296085\", \"last_updated\": \"2026-07-26T04:49:05.800645\"}",
+    "added_at": "2026-07-26T04:49:05.800645"
   },
   {
     "name": "The Witcher 2: Assassins of Kings",
