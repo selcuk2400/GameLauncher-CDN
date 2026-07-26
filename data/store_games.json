@@ -7455,61 +7455,23 @@
     "category": "ae04d7fa-fdac-460e-bf4e-d0acca6257d1,2feab174-e7dd-4241-8407-9e7f73ad3bb5,de8a7bfc-7023-4d9a-ab14-f495c198ad64"
   },
   {
-    "name": "Age of Empires IV",
+    "id": "2346745f-51fb-4437-934c-c95d7906a2b8",
+    "title": "Age of Empires IV",
     "description": "Seriyi özüne (Orta Çağ'a) döndüren en yeni Age of Empires oyunudur. Normanlar, Moğollar, Osmanlılar gibi medeniyetleri yöneterek surlar inşa edip devasa ordularla gerçek tarihi savaşları oynayabilirsiniz.",
+    "category": "ae04d7fa-fdac-460e-bf4e-d0acca6257d1,de8a7bfc-7023-4d9a-ab14-f495c198ad64",
     "developer": "Relic Entertainment, World's Edge",
     "publisher": "Microsoft Studios, Xbox Game Studios",
     "release_date": "28 Eki 2021",
-    "tags": [
-      "Strategy",
-      "Singleplayer",
-      "3D",
-      "Multiplayer",
-      "Co-op",
-      "PvP"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/library_hero.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_03.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "15",
-    "show_hltb": true,
-    "sys_min": "Минимальные:\nТребуются 64-разрядные процессор и операционная система\nОС: Windows 10 64bit | Windows 11 64bit\nПроцессор: Intel Core i5-6300U or AMD Ryzen 5 2400G | CPU with AVX support required\nОперативная память: 8 GB ОЗУ\nВидеокарта: Intel HD 520 or AMD Radeon RX Vega 11\nDirectX: Версии 12\nМесто на диске: 50 GB",
-    "sys_recommended": "Рекомендованные:\nТребуются 64-разрядные процессор и операционная система\nОС: Windows 10 64bit | Windows 11 64bit\nПроцессор: 3.6 GHz 6-core (Intel i5) or AMD Ryzen 5 1600 | CPU with AVX support required\nОперативная память: 16 GB ОЗУ\nВидеокарта: Nvidia GeForce 970 GPU or AMD Radeon RX 570 GPU with 4GB of VRAM\nDirectX: Версии 12\nМесто на диске: 50 GB\nДополнительно: 4 GB of video RAM and 16 GB of system RAM",
-    "game_size_gb": "54",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_03.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/torrents/Age.of.Empires.IV-CODEX.torrent",
-        "label": "Age.of.Empires.IV-CODEX",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "2346745f-51fb-4437-934c-c95d7906a2b8",
-    "added_date": "2026-06-23T20:06:16.839990",
-    "first_added_date": "2026-06-23T20:06:16.839990",
-    "categories": [
-      "ae04d7fa-fdac-460e-bf4e-d0acca6257d1",
-      "de8a7bfc-7023-4d9a-ab14-f495c198ad64"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "ae04d7fa-fdac-460e-bf4e-d0acca6257d1,de8a7bfc-7023-4d9a-ab14-f495c198ad64"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/library_hero.png",
+    "rating": 8.0,
+    "size_gb": 54.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-26T03:37:58.010494",
+    "raw_data": "{\"name\": \"Age of Empires IV\", \"description\": \"Seriyi özüne (Orta Çağ'a) döndüren en yeni Age of Empires oyunudur. Normanlar, Moğollar, Osmanlılar gibi medeniyetleri yöneterek surlar inşa edip devasa ordularla gerçek tarihi savaşları oynayabilirsiniz.\", \"developer\": \"Relic Entertainment, World's Edge\", \"publisher\": \"Microsoft Studios, Xbox Game Studios\", \"release_date\": \"28 Eki 2021\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_03.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"Минимальные:\\nТребуются 64-разрядные процессор и операционная система\\nОС: Windows 10 64bit | Windows 11 64bit\\nПроцессор: Intel Core i5-6300U or AMD Ryzen 5 2400G | CPU with AVX support required\\nОперативная память: 8 GB ОЗУ\\nВидеокарта: Intel HD 520 or AMD Radeon RX Vega 11\\nDirectX: Версии 12\\nМесто на диске: 50 GB\", \"sys_recommended\": \"Рекомендованные:\\nТребуются 64-разрядные процессор и операционная система\\nОС: Windows 10 64bit | Windows 11 64bit\\nПроцессор: 3.6 GHz 6-core (Intel i5) or AMD Ryzen 5 1600 | CPU with AVX support required\\nОперативная память: 16 GB ОЗУ\\nВидеокарта: Nvidia GeForce 970 GPU or AMD Radeon RX 570 GPU with 4GB of VRAM\\nDirectX: Версии 12\\nМесто на диске: 50 GB\\nДополнительно: 4 GB of video RAM and 16 GB of system RAM\", \"game_size_gb\": \"54\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/screenshots/ss_03.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2346745f-51fb-4437-934c-c95d7906a2b8/torrents/Age.of.Empires.IV-CODEX.torrent\", \"label\": \"Age.of.Empires.IV-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"ae04d7fa-fdac-460e-bf4e-d0acca6257d1\", \"de8a7bfc-7023-4d9a-ab14-f495c198ad64\"], \"id\": \"2346745f-51fb-4437-934c-c95d7906a2b8\", \"added_date\": \"2026-06-23T20:06:16.839990\", \"first_added_date\": \"2026-06-23T20:06:16.839990\", \"last_updated\": \"2026-07-26T03:37:58.010494\"}",
+    "added_at": "2026-07-26T03:37:58.010494"
   },
   {
     "name": "Alien: Isolation",
