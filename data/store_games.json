@@ -3586,23 +3586,74 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "id": "b1aa88e6-a3fc-4842-8025-5538fba1596a",
-    "title": "Ben and Ed - Blood Party",
+    "name": "Ben and Ed - Blood Party",
     "description": "Ed adında bir zombiyi yönettiğiniz ve hayatta kalmak (daha doğrusu parçalanmamak) için tehlikeli bir televizyon şovundaki engelleri aştığınız 3 boyutlu bir platform oyunudur.",
-    "category": "4d6e17bb-fba0-4812-946b-09eca3e63644,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,b53fc043-1aeb-409b-b320-ff1463463533",
     "developer": "Sluggerfly",
     "publisher": "Sluggerfly",
     "release_date": "18 May 2017",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/library_hero.jpg",
-    "rating": 8.0,
-    "size_gb": 1.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-07-26T03:46:22.282356",
-    "raw_data": "{\"name\": \"Ben and Ed - Blood Party\", \"description\": \"Ed adında bir zombiyi yönettiğiniz ve hayatta kalmak (daha doğrusu parçalanmamak) için tehlikeli bir televizyon şovundaki engelleri aştığınız 3 boyutlu bir platform oyunudur.\", \"developer\": \"Sluggerfly\", \"publisher\": \"Sluggerfly\", \"release_date\": \"18 May 2017\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7, 64-bit, 32-bit\\nİşlemci: Intel CPU Core i3\\nBellek: 4 GB RAM\\nEkran Kartı: Nvidia GTX 460\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 3 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 7, 64-bit, 32-bit\\nİşlemci: Intel CPU Core i7\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GPU GeForce GTX 660\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 3 GB kullanılabilir alan\", \"game_size_gb\": \"1\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/torrents/Ben.and.Ed.Blood.Party.Build.16102018-OFME.torrent\", \"label\": \"Ben.and.Ed.Blood.Party.Build.16102018-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"4d6e17bb-fba0-4812-946b-09eca3e63644\", \"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\", \"b53fc043-1aeb-409b-b320-ff1463463533\"], \"id\": \"b1aa88e6-a3fc-4842-8025-5538fba1596a\", \"added_date\": \"2026-06-22T19:57:47.458173\", \"first_added_date\": \"2026-06-22T19:57:47.458173\", \"last_updated\": \"2026-07-26T03:46:22.282356\"}",
-    "added_at": "2026-07-26T03:46:22.282356"
+    "tags": [
+      "Action",
+      "Indie",
+      "Singleplayer",
+      "Steam Achievements",
+      "Horror",
+      "Multiplayer",
+      "Funny"
+    ],
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/cover.png",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/banner.jpg",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/library_hero.jpg",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_06.jpg"
+    ],
+    "note": "",
+    "rating": 8,
+    "hltb_hours": "4",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Windows 7, 64-bit, 32-bit\nİşlemci: Intel CPU Core i3\nBellek: 4 GB RAM\nEkran Kartı: Nvidia GTX 460\nDirectX: Version 11\nAğ: Geniş bant internet bağlantısı\nDepolama: 3 GB kullanılabilir alan",
+    "sys_recommended": "İşletim Sistemi: Windows 7, 64-bit, 32-bit\nİşlemci: Intel CPU Core i7\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GPU GeForce GTX 660\nDirectX: Version 11\nAğ: Geniş bant internet bağlantısı\nDepolama: 3 GB kullanılabilir alan",
+    "game_size_gb": "1",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/cover.png",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/library_hero.jpg",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b1aa88e6-a3fc-4842-8025-5538fba1596a/torrents/Ben.and.Ed.Blood.Party.Build.16102018-OFME.torrent",
+        "label": "Ben.and.Ed.Blood.Party.Build.16102018-OFME",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [
+      {
+        "key": "Şifre",
+        "value": "online-fix.me"
+      }
+    ],
+    "id": "b1aa88e6-a3fc-4842-8025-5538fba1596a",
+    "added_date": "2026-06-22T19:57:47.458173",
+    "first_added_date": "2026-06-22T19:57:47.458173",
+    "categories": [
+      "4d6e17bb-fba0-4812-946b-09eca3e63644",
+      "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
+      "b53fc043-1aeb-409b-b320-ff1463463533"
+    ],
+    "last_updated": "2026-07-08T20:57:29.217091",
+    "category": "4d6e17bb-fba0-4812-946b-09eca3e63644,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,b53fc043-1aeb-409b-b320-ff1463463533"
   },
   {
     "id": "728315b1-1fae-4b57-bde5-3c2256d39a7f",
@@ -11505,67 +11556,23 @@
     "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
   },
   {
-    "name": "Crime Scene Cleaner",
+    "id": "86d539d3-9f61-4807-a27e-c2cbd1f661d1",
+    "title": "Crime Scene Cleaner",
     "description": "Arkadaşlarımızın oyununa göz atınhttps://store.steampowered.com/app/1031270/Farming_Life/ Oyun Hakkında Mafya bittiğinde, senin gibi birine ihtiyacı var! Çalışma aletiniz bir paspas ve bir fırça... ve belki bir şişe asit. Suç mahallini temizleyin ve tüm suç izlerini yok edin. -duvarlardaki ve zemindeki kanı silin -cesetlerin bazı kısımlarını temizleyin -cinayet silahını saklayın -terazileri temizleyin -parmak izlerini kaldırın -duvarlardaki mermi deliklerini onarın -hasarlı ekipmanı onarın/değiştirin Sonunda polisi kandırmayı başardıysanız bilgi alacaksınız.",
+    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636",
     "developer": "Grippens Castle",
     "publisher": "Grippens Castle",
     "release_date": "14 Ağu 2024",
-    "tags": [
-      "Simulation",
-      "Indie",
-      "Singleplayer",
-      "Multiplayer",
-      "Atmospheric",
-      "First-Person",
-      "Funny"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\a7e22a52c3fc4b69d6d19afbdaabd200.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\44ba9981224c21e2e2a0254cea972427.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\9e4813649219fa1edd9794620143edcc.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\0bc03599318f415c1e6b09827814a7df.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\01fa09624b8a95048c151ac02a4b0c4b.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\634c1e4d7c66181878c0352759da8148.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\a80a09c6d3a5d1db83d18ab854e8c7fc.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\bbacecf9ce81de2108297f6e3c79351f.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\018c9b0d75a21fbaee49696cb6d307c5.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "13",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10\nİşlemci: 3.1 Ghz\nBellek: 6 GB RAM\nEkran Kartı: GTX 660\nDepolama: 12 GB kullanılabilir alan",
-    "sys_recommended": "",
-    "game_size_gb": "14",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/torrents/Crime_Scene_Cleaner-FLT.torrent",
-        "label": "Crime_Scene_Cleaner-FLT",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "86d539d3-9f61-4807-a27e-c2cbd1f661d1",
-    "added_date": "2026-06-26T19:27:54.031845",
-    "first_added_date": "2026-06-26T19:27:54.031845",
-    "categories": [
-      "8b3139fa-3b16-4639-81c3-c8a34c013636"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 14.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-26T03:50:31.306928",
+    "raw_data": "{\"name\": \"Crime Scene Cleaner\", \"description\": \"Arkadaşlarımızın oyununa göz atınhttps://store.steampowered.com/app/1031270/Farming_Life/ Oyun Hakkında Mafya bittiğinde, senin gibi birine ihtiyacı var! Çalışma aletiniz bir paspas ve bir fırça... ve belki bir şişe asit. Suç mahallini temizleyin ve tüm suç izlerini yok edin. -duvarlardaki ve zemindeki kanı silin -cesetlerin bazı kısımlarını temizleyin -cinayet silahını saklayın -terazileri temizleyin -parmak izlerini kaldırın -duvarlardaki mermi deliklerini onarın -hasarlı ekipmanı onarın/değiştirin Sonunda polisi kandırmayı başardıysanız bilgi alacaksınız.\", \"developer\": \"Grippens Castle\", \"publisher\": \"Grippens Castle\", \"release_date\": \"14 Ağu 2024\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10\\nİşlemci: 3.1 Ghz\\nBellek: 6 GB RAM\\nEkran Kartı: GTX 660\\nDepolama: 12 GB kullanılabilir alan\", \"sys_recommended\": \"\", \"game_size_gb\": \"14\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/86d539d3-9f61-4807-a27e-c2cbd1f661d1/torrents/Crime_Scene_Cleaner-FLT.torrent\", \"label\": \"Crime_Scene_Cleaner-FLT\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"8b3139fa-3b16-4639-81c3-c8a34c013636\"], \"id\": \"86d539d3-9f61-4807-a27e-c2cbd1f661d1\", \"added_date\": \"2026-06-26T19:27:54.031845\", \"first_added_date\": \"2026-06-26T19:27:54.031845\", \"last_updated\": \"2026-07-26T03:50:31.306928\"}",
+    "added_at": "2026-07-26T03:50:31.306928"
   },
   {
     "name": "Hairdresser Simulator",
