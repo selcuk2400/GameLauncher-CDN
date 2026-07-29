@@ -11051,68 +11051,23 @@
     "category": "5aca56b7-d3d9-4984-9305-23c95edcf585,d05d2892-20d2-4e9a-a7cc-2c99d7585558"
   },
   {
-    "name": "Construction Simulator 2",
+    "id": "870bcf6f-b7ec-476b-ad05-ef8dc1c659a0",
+    "title": "Construction Simulator 2",
     "description": "İnşaat Simülatörü 2 - Googleplay Store'daki en başarılı simülatörlerden biri! Construction Simulator 2'de kendi inşaat şirketinizi kuruyorsunuz ve Caterpillar, Liebherr, Palfinger, Bell, STILL, ATLAS ve Kenworth'a ait 40 orijinal, lisanslı inşaat aracının direksiyonuna geçiyorsunuz. Construction Simulator 2014'ün popüler devam oyununda gönlünüzce kazı yapın, devasa vinçleri çalıştırın, inşaat malzemelerini yükleyin, beton dökün ve Westside Plains şehrinin sokaklarını asfaltla kaplayın.",
+    "category": "5aca56b7-d3d9-4984-9305-23c95edcf585,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "astragon Entertainment",
     "publisher": "Astragon Entertainment",
     "release_date": "22 Mar 2017",
-    "tags": [
-      "Action",
-      "Simulation",
-      "work",
-      "city",
-      "simulator",
-      "android",
-      "tower"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\44d3a820be7098c8b5945c23d110e70a.jpg",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\5eb2f95cbaca943ce0aa76ae6da6dbff.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\5eb2f95cbaca943ce0aa76ae6da6dbff.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\32b6c55dcc0c991092492f9ea8afce18_J22QYz5.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\12217e6fba8e0ff26b773ecfc8ae26da.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\53b85713b3070b808032ece924a4e160.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b7cf5cc137fe5ddc2a17ed884d85f43f.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\3f0a2377b083ac2695de919c6dc701e3.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\da4c0c842a08fc335e6fee1b9fec357f.jpg"
-    ],
-    "note": "",
-    "rating": 0,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7/8/10 64-bit İşlemci: Intel Core2 Quad Q6600 @ 2.40GHz or AMD Phenom II X3 720 Bellek: 4 GB RAM Ekran Kartı: AMD Radeon HD 6850 1GB VRAM or Nvidia GeForce GTX 460 768MB VRAM or Intel HD 520 DirectX: Sürüm 11 Ağ: Genişbant İnternet bağlantısı Depolama: 3 GB kullanılabilir alan",
-    "sys_recommended": "İşletim Sistemi: Windows 10 64-bit İşlemci: Intel Core i3-3220M@3.3Ghz | i5-3320@2.6GhZ or AMD Phenom II X4 965 | AMD FX-6100 Six-Core Bellek: 8 GB RAM Ekran Kartı: AMD Radeon HD 7870 2GB VRAM or Nvidia GeForce GTX 660 2GB VRAM DirectX: Sürüm 11 Ağ: Genişbant İnternet bağlantısı Depolama: 3 GB kullanılabilir alan",
-    "game_size_gb": "2",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/cover.jpg?v=1782490486",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/banner.jpg?v=1782490486",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/library_hero.jpg?v=1782490486",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_01.jpg?v=1782490486",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_02.jpg?v=1782490486",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_03.jpg?v=1782490486",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_04.jpg?v=1782490486",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_05.jpg?v=1782490486",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_06.jpg?v=1782490486"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/torrents/Construction.Simulator.2-SKIDROW.torrent",
-        "label": "Construction.Simulator.2-SKIDROW",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "870bcf6f-b7ec-476b-ad05-ef8dc1c659a0",
-    "added_date": "2026-06-26T19:13:35.981691",
-    "first_added_date": "2026-06-26T19:13:35.981691",
-    "categories": [
-      "5aca56b7-d3d9-4984-9305-23c95edcf585",
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "5aca56b7-d3d9-4984-9305-23c95edcf585,d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/cover.webp",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 2.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-29T15:09:25.473012",
+    "raw_data": "{\"name\": \"Construction Simulator 2\", \"description\": \"İnşaat Simülatörü 2 - Googleplay Store'daki en başarılı simülatörlerden biri! Construction Simulator 2'de kendi inşaat şirketinizi kuruyorsunuz ve Caterpillar, Liebherr, Palfinger, Bell, STILL, ATLAS ve Kenworth'a ait 40 orijinal, lisanslı inşaat aracının direksiyonuna geçiyorsunuz. Construction Simulator 2014'ün popüler devam oyununda gönlünüzce kazı yapın, devasa vinçleri çalıştırın, inşaat malzemelerini yükleyin, beton dökün ve Westside Plains şehrinin sokaklarını asfaltla kaplayın.\", \"developer\": \"astragon Entertainment\", \"publisher\": \"Astragon Entertainment\", \"release_date\": \"22 Mar 2017\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/cover.webp\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7/8/10 64-bit İşlemci: Intel Core2 Quad Q6600 @ 2.40GHz or AMD Phenom II X3 720 Bellek: 4 GB RAM Ekran Kartı: AMD Radeon HD 6850 1GB VRAM or Nvidia GeForce GTX 460 768MB VRAM or Intel HD 520 DirectX: Sürüm 11 Ağ: Genişbant İnternet bağlantısı Depolama: 3 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 64-bit İşlemci: Intel Core i3-3220M@3.3Ghz | i5-3320@2.6GhZ or AMD Phenom II X4 965 | AMD FX-6100 Six-Core Bellek: 8 GB RAM Ekran Kartı: AMD Radeon HD 7870 2GB VRAM or Nvidia GeForce GTX 660 2GB VRAM DirectX: Sürüm 11 Ağ: Genişbant İnternet bağlantısı Depolama: 3 GB kullanılabilir alan\", \"game_size_gb\": \"2\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/cover.webp\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/870bcf6f-b7ec-476b-ad05-ef8dc1c659a0/torrents/Construction.Simulator.2-SKIDROW.torrent\", \"label\": \"Construction.Simulator.2-SKIDROW\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5aca56b7-d3d9-4984-9305-23c95edcf585\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\"], \"id\": \"870bcf6f-b7ec-476b-ad05-ef8dc1c659a0\", \"added_date\": \"2026-06-26T19:13:35.981691\", \"first_added_date\": \"2026-06-26T19:13:35.981691\", \"last_updated\": \"2026-07-29T15:09:25.473012\"}",
+    "added_at": "2026-07-29T15:09:25.473012"
   },
   {
     "id": "a9c944f3-9b8b-4a5b-9e8f-d6fe7d7fd62a",
