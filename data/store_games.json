@@ -15061,67 +15061,23 @@
     "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "Call of Duty: World at War",
+    "id": "5180f107-da5d-4f72-83c3-cc200b3df173",
+    "title": "Call of Duty: World at War",
     "description": "Call of Duty: World at War, II. Dünya Savaşı sırasında geçen ve birçok tarihi savaşa dayanan birinci şahıs nişancı oyunudur. Aksiyon, üç oynanabilir karakter arasında geçiş yapar ve Pasifik Tiyatrosu ile Doğu Cephesini kapsar. Hikaye ABD ile başlıyor.",
+    "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,966ebbf8-8998-4d32-9671-6914c9d9d1e1,5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Treyarch",
     "publisher": "Activison",
     "release_date": "11 Kas 2008",
-    "tags": [
-      "Shooter",
-      "Singleplayer",
-      "Horror",
-      "Multiplayer",
-      "First-Person",
-      "FPS"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\74382b603df4a14cc8dc4ea375ddbc64.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\8b44a22438a4bd62364ef2e27e7c6863.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\c1972825977a04d826aa8f04b033314b.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\8a1f2cdaaaf8aa19441d890858d01d70.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\afe6afc104621713ea0c8c5c5dc17149.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b535859c3a2a6f80f3c68398dbd39a79.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\baf3982d7d0b65c4e74a38386641b07e.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\18d0c96f64a6f2093a7097265b831ce9.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b7bac2bff127258d92a266dd6a9adef7.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "7",
-    "show_hltb": true,
-    "sys_min": "Supported İşletim Sistemi:  Windows XP/Vista/7\nİşlemci: Pentium 4 @ 3 GHz/AMD 64 3200+\nBellek: 512 MB (1 GB for Vista)\nHard Drive: 8 GB Free\nDirectX version: DirectX 9.0c\nSound: on-board veya üstü\nGraphics Card: 256 MB (nVidia GeForce 6600/ATI Radeon X1600)",
-    "sys_recommended": "",
-    "game_size_gb": "7.13",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/torrents/Call.Of.Duty.World.At.War-RELOADED.torrent",
-        "label": "Call.Of.Duty.World.At.War-RELOADED",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "5180f107-da5d-4f72-83c3-cc200b3df173",
-    "added_date": "2026-07-07T00:06:35.612971",
-    "first_added_date": "2026-07-07T00:06:35.612971",
-    "categories": [
-      "9a2fbd19-a446-49d1-921c-45cdef5a0b2e",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 7.13,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-07-29T06:44:07.381018",
+    "raw_data": "{\"name\": \"Call of Duty: World at War\", \"description\": \"Call of Duty: World at War, II. Dünya Savaşı sırasında geçen ve birçok tarihi savaşa dayanan birinci şahıs nişancı oyunudur. Aksiyon, üç oynanabilir karakter arasında geçiş yapar ve Pasifik Tiyatrosu ile Doğu Cephesini kapsar. Hikaye ABD ile başlıyor.\", \"developer\": \"Treyarch\", \"publisher\": \"Activison\", \"release_date\": \"11 Kas 2008\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"7\", \"show_hltb\": true, \"sys_min\": \"Supported İşletim Sistemi:  Windows XP/Vista/7\\nİşlemci: Pentium 4 @ 3 GHz/AMD 64 3200+\\nBellek: 512 MB (1 GB for Vista)\\nHard Drive: 8 GB Free\\nDirectX version: DirectX 9.0c\\nSound: on-board veya üstü\\nGraphics Card: 256 MB (nVidia GeForce 6600/ATI Radeon X1600)\", \"sys_recommended\": \"\", \"game_size_gb\": \"7.13\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5180f107-da5d-4f72-83c3-cc200b3df173/torrents/Call.Of.Duty.World.At.War-RELOADED.torrent\", \"label\": \"Call.Of.Duty.World.At.War-RELOADED\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://www.youtube.com/watch?v=bfQ6n5JQXok\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe Dublaj\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"9a2fbd19-a446-49d1-921c-45cdef5a0b2e\", \"966ebbf8-8998-4d32-9671-6914c9d9d1e1\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"5180f107-da5d-4f72-83c3-cc200b3df173\", \"added_date\": \"2026-07-07T00:06:35.612971\", \"first_added_date\": \"2026-07-07T00:06:35.612971\", \"last_updated\": \"2026-07-29T06:44:07.381018\"}",
+    "added_at": "2026-07-29T06:44:07.381018"
   },
   {
     "name": "Homefront",
