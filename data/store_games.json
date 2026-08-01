@@ -5730,67 +5730,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "God of War (2018)",
+    "id": "2b304668-3f3a-4c5a-b197-37e3356a5c96",
+    "title": "God of War (2018)",
     "description": "Yunan mitolojisinden İskandinav mitolojisine geçiş yapan Kratos'un, oğlu Atreus ile eşinin küllerini en yüksek dağdan dökmek için çıktığı destansı ve son derece duygusal bir yolculuktur. Devasa Leviathan Baltası'nın hissiyatı ve kesintisiz (tek çekim) kamera açısıyla bir sanat eseridir.",
+    "category": "6c9e3bf0-e7ee-4d67-ac97-cd14f891e85c,5c112b26-4d14-49b5-9aef-1a97232e8456,966ebbf8-8998-4d32-9671-6914c9d9d1e1",
     "developer": "Santa Monica Studio",
     "publisher": "Sony Interactive Entertainment, PlayStation PC",
     "release_date": "20 Nis 2018",
-    "tags": [
-      "Action",
-      "Singleplayer",
-      "3D",
-      "Steam Achievements",
-      "Atmospheric",
-      "Fantasy"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/banner.jpeg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/library_hero.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_01.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_02.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_03.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_05.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_06.jpeg"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "20",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64-bit\nİşlemci: Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)\nBellek: 8 GB RAM\nEkran Kartı: NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)\nDirectX: Version 11\nDepolama: 70 GB kullanılabilir alan\nEk Notlar: DirectX feature level 11_1 required",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64-bit\nİşlemci: Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)\nBellek: 8 GB RAM\nEkran Kartı: NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)\nDirectX: Version 11\nDepolama: 70 GB kullanılabilir alan\nEk Notlar: DirectX feature level 11_1 required",
-    "game_size_gb": "63",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/banner.jpeg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_01.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_02.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_03.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_05.jpeg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_06.jpeg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/torrents/God.Of.War.v1.0.12-P2P.torrent",
-        "label": "God.Of.War.v1.0.12-P2P",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "2b304668-3f3a-4c5a-b197-37e3356a5c96",
-    "added_date": "2026-06-22T22:11:58.919625",
-    "first_added_date": "2026-06-22T22:11:58.919625",
-    "categories": [
-      "6c9e3bf0-e7ee-4d67-ac97-cd14f891e85c",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "category": "6c9e3bf0-e7ee-4d67-ac97-cd14f891e85c,5c112b26-4d14-49b5-9aef-1a97232e8456",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/banner.jpeg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/library_hero.png",
+    "rating": 9.0,
+    "size_gb": 63.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-08-01T16:34:19.043152",
+    "raw_data": "{\"name\": \"God of War (2018)\", \"description\": \"Yunan mitolojisinden İskandinav mitolojisine geçiş yapan Kratos'un, oğlu Atreus ile eşinin küllerini en yüksek dağdan dökmek için çıktığı destansı ve son derece duygusal bir yolculuktur. Devasa Leviathan Baltası'nın hissiyatı ve kesintisiz (tek çekim) kamera açısıyla bir sanat eseridir.\", \"developer\": \"Santa Monica Studio\", \"publisher\": \"Sony Interactive Entertainment, PlayStation PC\", \"release_date\": \"20 Nis 2018\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/banner.jpeg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_01.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_02.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_03.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_05.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_06.jpeg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"20\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-bit\\nİşlemci: Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)\\nDirectX: Version 11\\nDepolama: 70 GB kullanılabilir alan\\nEk Notlar: DirectX feature level 11_1 required\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-bit\\nİşlemci: Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)\\nDirectX: Version 11\\nDepolama: 70 GB kullanılabilir alan\\nEk Notlar: DirectX feature level 11_1 required\", \"game_size_gb\": \"63\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/banner.jpeg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_01.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_02.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_03.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_05.jpeg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/screenshots/ss_06.jpeg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2b304668-3f3a-4c5a-b197-37e3356a5c96/torrents/God.Of.War.v1.0.12-P2P.torrent\", \"label\": \"God.Of.War.v1.0.12-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://www.moddb.com/games/god-of-war-2018/downloads/god-of-war-2018-trke-dublaj-modu\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe Dublaj\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"6c9e3bf0-e7ee-4d67-ac97-cd14f891e85c\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"966ebbf8-8998-4d32-9671-6914c9d9d1e1\"], \"id\": \"2b304668-3f3a-4c5a-b197-37e3356a5c96\", \"added_date\": \"2026-06-22T22:11:58.919625\", \"first_added_date\": \"2026-06-22T22:11:58.919625\", \"last_updated\": \"2026-08-01T16:34:19.043152\"}",
+    "added_at": "2026-08-01T16:34:19.043152"
   },
   {
     "name": "God of War: Ragnarök",
