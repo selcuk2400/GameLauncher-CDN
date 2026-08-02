@@ -7348,68 +7348,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Silent Hill 2",
+    "id": "609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f",
+    "title": "Silent Hill 2",
     "description": "James Sunderland'in, ölü eşinden aldığı mektup üzerine Silent Hill kasabasına gitmesini anlatan ve \"Piramit Kafa\"yı hayatımıza sokan bir şaheserdir.",
+    "category": "966ebbf8-8998-4d32-9671-6914c9d9d1e1,5c112b26-4d14-49b5-9aef-1a97232e8456,39dffd4b-df7a-4777-8f65-f620daec07c9",
     "developer": "Bloober Team",
     "publisher": "Konami",
     "release_date": "8 Eki 2024",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Singleplayer",
-      "Atmospheric",
-      "Exploration",
-      "Story Rich",
-      "Third Person"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/library_hero.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "15",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 10 (64-bit)\nİşlemci: Intel Core i5-8400 veya AMD Ryzen 3 3300X\nBellek: 12 GB RAM\nEkran Kartı: Nvidia GeForce GTX 1080 veya AMD Radeon RX 5700\nDepolama: 50 GB",
-    "sys_recommended": "İşlemci: Intel Core i7-8700K veya AMD Ryzen 5 3600X\nBellek: 16 GB RAM\nEkran Kartı: Nvidia GeForce RTX 2080 veya AMD Radeon 6800XT",
-    "game_size_gb": "35",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/torrents/Silent.Hill.2.v1.1.242.185-P2P.torrent",
-        "label": "Alien.Isolation-CODEX",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f",
-    "added_date": "2026-06-23T20:10:05.108123",
-    "first_added_date": "2026-06-23T20:10:05.108123",
-    "categories": [
-      "39dffd4b-df7a-4777-8f65-f620daec07c9",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "39dffd4b-df7a-4777-8f65-f620daec07c9,5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/library_hero.jpg",
+    "rating": 9.0,
+    "size_gb": 35.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-08-02T19:40:29.008111",
+    "raw_data": "{\"name\": \"Silent Hill 2\", \"description\": \"James Sunderland'in, ölü eşinden aldığı mektup üzerine Silent Hill kasabasına gitmesini anlatan ve \\\"Piramit Kafa\\\"yı hayatımıza sokan bir şaheserdir.\", \"developer\": \"Bloober Team\", \"publisher\": \"Konami\", \"release_date\": \"8 Eki 2024\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"15\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 10 (64-bit)\\nİşlemci: Intel Core i5-8400 veya AMD Ryzen 3 3300X\\nBellek: 12 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 1080 veya AMD Radeon RX 5700\\nDepolama: 50 GB\", \"sys_recommended\": \"İşlemci: Intel Core i7-8700K veya AMD Ryzen 5 3600X\\nBellek: 16 GB RAM\\nEkran Kartı: Nvidia GeForce RTX 2080 veya AMD Radeon 6800XT\", \"game_size_gb\": \"35\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f/torrents/Silent.Hill.2.v1.1.242.185-P2P.torrent\", \"label\": \"Alien.Isolation-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://www.moddb.com/games/silent-hill-2/downloads/silent-hill-2-remake-trke-dublaj-modu\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe Dublaj\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"966ebbf8-8998-4d32-9671-6914c9d9d1e1\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"39dffd4b-df7a-4777-8f65-f620daec07c9\"], \"id\": \"609b1b7a-595e-4e09-ba4e-ed4abe8f8d9f\", \"added_date\": \"2026-06-23T20:10:05.108123\", \"first_added_date\": \"2026-06-23T20:10:05.108123\", \"last_updated\": \"2026-08-02T19:40:29.008111\"}",
+    "added_at": "2026-08-02T19:40:29.008111"
   },
   {
     "name": "Sifu",
