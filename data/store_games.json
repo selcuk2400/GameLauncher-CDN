@@ -2848,68 +2848,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Resident Evil 4",
+    "id": "3f43cb48-09ff-43ce-9d00-4706c8fd8d79",
+    "title": "Resident Evil 4",
     "description": "Ajan Leon'un, başkanın kızını kurtarmak için tarikatçıların ele geçirdiği ürkütücü bir İspanyol köyüne gittiği oyunun modern versiyonudur. Seriyi hayatta kalma türünden alıp aksiyona kaydıran efsanenin günümüze kusursuz uyarlanmış halidir.",
+    "category": "6cebfd27-8136-4cb7-b25e-9200533b6b0b,5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Capcom",
     "publisher": "Capcom",
     "release_date": "24 Mar 2023",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Singleplayer",
-      "3D",
-      "Horror",
-      "Story Rich",
-      "Steam Cloud"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/library_hero.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "16",
-    "show_hltb": true,
-    "sys_min": "Mínimo:\nRequiere un procesador y un sistema operativo de 64 bits\nSO: Windows 10 (64 bit)\nProcesador: AMD Ryzen 3 1200 / Intel Core i5-7500\nMemoria: 8 GB de RAM\nGráficos: AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAM\nDirectX: Versión 12\nRed: Conexión de banda ancha a Internet\nNotas adicionales: Estimated performance (when set to Prioritize Performance): 1080p/45fps. ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2060 required to support ray tracing.",
-    "sys_recommended": "Recomendado:\nRequiere un procesador y un sistema operativo de 64 bits\nSO: Windows 10 (64 bit)/Windows 11 (64 bit)\nProcesador: AMD Ryzen 5 3600 / Intel Core i7 8700\nMemoria: 16 GB de RAM\nGráficos: AMD Radeon RX 5700 / NVIDIA GeForce GTX 1070\nDirectX: Versión 12\nRed: Conexión de banda ancha a Internet\nNotas adicionales: Rendimiento estimado: 1080p/60 fps ・La tasa de imágenes será menor en escenas de gráficos intensos. ・AMD Radeon RX 6700 XT o NVIDIA GeForce RTX 2070 son necesarias para activar el trazado de rayos.",
-    "game_size_gb": "69",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/torrents/Resident.Evil.4.Deluxe.Edition.v20260203-P2P.torrent",
-        "label": "Resident.Evil.4.Deluxe.Edition.v20260203-P2P",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "3f43cb48-09ff-43ce-9d00-4706c8fd8d79",
-    "added_date": "2026-06-22T19:29:55.730044",
-    "first_added_date": "2026-06-22T19:29:55.730044",
-    "categories": [
-      "6cebfd27-8136-4cb7-b25e-9200533b6b0b",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "category": "6cebfd27-8136-4cb7-b25e-9200533b6b0b,5c112b26-4d14-49b5-9aef-1a97232e8456",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/library_hero.png",
+    "rating": 9.0,
+    "size_gb": 69.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-08-02T19:50:40.165232",
+    "raw_data": "{\"name\": \"Resident Evil 4\", \"description\": \"Ajan Leon'un, başkanın kızını kurtarmak için tarikatçıların ele geçirdiği ürkütücü bir İspanyol köyüne gittiği oyunun modern versiyonudur. Seriyi hayatta kalma türünden alıp aksiyona kaydıran efsanenin günümüze kusursuz uyarlanmış halidir.\", \"developer\": \"Capcom\", \"publisher\": \"Capcom\", \"release_date\": \"24 Mar 2023\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"16\", \"show_hltb\": true, \"sys_min\": \"Mínimo:\\nRequiere un procesador y un sistema operativo de 64 bits\\nSO: Windows 10 (64 bit)\\nProcesador: AMD Ryzen 3 1200 / Intel Core i5-7500\\nMemoria: 8 GB de RAM\\nGráficos: AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAM\\nDirectX: Versión 12\\nRed: Conexión de banda ancha a Internet\\nNotas adicionales: Estimated performance (when set to Prioritize Performance): 1080p/45fps. ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2060 required to support ray tracing.\", \"sys_recommended\": \"Recomendado:\\nRequiere un procesador y un sistema operativo de 64 bits\\nSO: Windows 10 (64 bit)/Windows 11 (64 bit)\\nProcesador: AMD Ryzen 5 3600 / Intel Core i7 8700\\nMemoria: 16 GB de RAM\\nGráficos: AMD Radeon RX 5700 / NVIDIA GeForce GTX 1070\\nDirectX: Versión 12\\nRed: Conexión de banda ancha a Internet\\nNotas adicionales: Rendimiento estimado: 1080p/60 fps ・La tasa de imágenes será menor en escenas de gráficos intensos. ・AMD Radeon RX 6700 XT o NVIDIA GeForce RTX 2070 son necesarias para activar el trazado de rayos.\", \"game_size_gb\": \"69\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3f43cb48-09ff-43ce-9d00-4706c8fd8d79/torrents/Resident.Evil.4.Deluxe.Edition.v20260203-P2P.torrent\", \"label\": \"Resident.Evil.4.Deluxe.Edition.v20260203-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"6cebfd27-8136-4cb7-b25e-9200533b6b0b\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"3f43cb48-09ff-43ce-9d00-4706c8fd8d79\", \"added_date\": \"2026-06-22T19:29:55.730044\", \"first_added_date\": \"2026-06-22T19:29:55.730044\", \"last_updated\": \"2026-08-02T19:50:40.165232\"}",
+    "added_at": "2026-08-02T19:50:40.165232"
   },
   {
     "name": "Resident Evil 6",
