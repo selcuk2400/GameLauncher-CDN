@@ -11956,67 +11956,23 @@
     "added_at": "2026-07-16T16:46:43.776949"
   },
   {
-    "name": "Bully: Scholarship Edition",
+    "id": "32a19924-0259-49d8-99ea-86ff7b894dd6",
+    "title": "Bully: Scholarship Edition",
     "description": "Kurgusal bir İngiliz özel okulu olan Bullworth Academy'de geçen bu oyun, okuldaki zorbalığı ve büyümeden ergenliğe kadar olan sıkıntılı dönemi anlatıyor. Kötü davranışları nedeniyle zaten birçok okuldan atılmış olan 15 yaşındaki \"sorunlu çocuk\" Jimmy Hopkins rolünü üstleniyorsunuz. Bully'deki oynanış, daha küçük ölçekte de olsa Grand Theft Auto oyunlarını (aynı Rockstar Games tarafından yapılmış) anımsatıyor.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Rockstar New England",
     "publisher": "Rockstar Games",
     "release_date": "4 Mar 2008",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Singleplayer",
-      "Multiplayer",
-      "Atmospheric",
-      "First-Person",
-      "Exploration"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\4b6291c280039eefb1bb0bb9c443e0bb.jpg",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\e30b996592f48068bc1f588bee8e620c.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\img_hero_7d2vtt65.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\78b17cb7ee47fb7726f7e24bfb6806dc.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\15ed1a97ce96297c6f5fbe9079394587.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\672364a9b8b1806b20424f9ef197d18e.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b7e0381dfa4a1108a9ae2faddc8957c1.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\f4bbd7c876d8844dea26f1c03a9d9fd5.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\218a60a3e57398f3bbd2da01ce1e04e8.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "15",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows XP / Windows Vista\nİşlemci: Intel Pentium 4 (3+ GHZ) / AMD Athlon 3000+\nBellek: 1 GB RAM\nEkran Kartı: DirectX 9.0c Shader 3.0 supported, Nvidia 6800 or 7300 veya üstü, ATI Radeon X1300 veya üstü\nDirectX Version: DirectX 9.0c\nHard Drive: 4.7 GB free space\nSes Kartı: DX9-compatible\nInput: Keyboard, Mouse, Xbox 360 Controller supported",
-    "sys_recommended": "",
-    "game_size_gb": "2.44",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/torrents/75F4810596122882C82550ED5550B3EE165C3051.torrent",
-        "label": "75F4810596122882C82550ED5550B3EE165C3051",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "32a19924-0259-49d8-99ea-86ff7b894dd6",
-    "added_date": "2026-06-27T06:45:42.705423",
-    "first_added_date": "2026-06-27T06:45:42.705423",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 2.44,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-08-03T19:36:30.939742",
+    "raw_data": "{\"name\": \"Bully: Scholarship Edition\", \"description\": \"Kurgusal bir İngiliz özel okulu olan Bullworth Academy'de geçen bu oyun, okuldaki zorbalığı ve büyümeden ergenliğe kadar olan sıkıntılı dönemi anlatıyor. Kötü davranışları nedeniyle zaten birçok okuldan atılmış olan 15 yaşındaki \\\"sorunlu çocuk\\\" Jimmy Hopkins rolünü üstleniyorsunuz. Bully'deki oynanış, daha küçük ölçekte de olsa Grand Theft Auto oyunlarını (aynı Rockstar Games tarafından yapılmış) anımsatıyor.\", \"developer\": \"Rockstar New England\", \"publisher\": \"Rockstar Games\", \"release_date\": \"4 Mar 2008\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"15\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows XP / Windows Vista\\nİşlemci: Intel Pentium 4 (3+ GHZ) / AMD Athlon 3000+\\nBellek: 1 GB RAM\\nEkran Kartı: DirectX 9.0c Shader 3.0 supported, Nvidia 6800 or 7300 veya üstü, ATI Radeon X1300 veya üstü\\nDirectX Version: DirectX 9.0c\\nHard Drive: 4.7 GB free space\\nSes Kartı: DX9-compatible\\nInput: Keyboard, Mouse, Xbox 360 Controller supported\", \"sys_recommended\": \"\", \"game_size_gb\": \"2.44\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/32a19924-0259-49d8-99ea-86ff7b894dd6/torrents/75F4810596122882C82550ED5550B3EE165C3051.torrent\", \"label\": \"75F4810596122882C82550ED5550B3EE165C3051\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"32a19924-0259-49d8-99ea-86ff7b894dd6\", \"added_date\": \"2026-06-27T06:45:42.705423\", \"first_added_date\": \"2026-06-27T06:45:42.705423\", \"last_updated\": \"2026-08-03T19:36:30.939742\"}",
+    "added_at": "2026-08-03T19:36:30.939742"
   },
   {
     "name": "Fallout 4",
