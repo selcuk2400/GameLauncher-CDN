@@ -14524,68 +14524,23 @@
     "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "Call of Duty: Black Ops III",
+    "id": "6b9bd591-a551-44c3-bf90-89dd036436d8",
+    "title": "Call of Duty: Black Ops III",
     "description": "Call of Duty Black Ops III, bir bilim kurgu birinci şahıs nişancı oyunudur, tüm Call of Duty serisinin on ikinci oyunu ve Black Ops serisinin üçüncü bölümüdür. Aksiyon, ikinci bölümdeki olaylardan 40 yıl sonra, 2065'te başlıyor, dolayısıyla oyunun birçok tarihi referansı var. Ancak oyun önceki Black Ops oyununun doğrudan devamı değil.",
+    "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Raven Software, Treyarch, Beenox, Nerve Software, XPEC Entertainment, XPEC",
     "publisher": "Aspyr, Activison",
     "release_date": "6 Kas 2015",
-    "tags": [
-      "Action",
-      "Shooter",
-      "Singleplayer",
-      "Steam Achievements",
-      "Multiplayer",
-      "Atmospheric",
-      "First-Person"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\dddda29e5ba34df085762fc741d35105.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\a9db316d8039bfeca49b7dfbfdfccf68.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\597d738d76c1e2822a00f65736b20f06.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\32019fd3760123a5ded9937f43ad0318.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\000880b0f1eeabbdf8a86779f75f25ac.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\bc1ab01319be2e0b7f7ba3dff80fe780.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\80f79bf7e27e69824dc1a7e04bc8e766.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\ca89a641e6362e800d96da99b8ac93e0.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\aa08b684dca3f104305c92002b9ce5da.jpg"
-    ],
-    "note": "",
-    "rating": 7,
-    "hltb_hours": "9",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 64-Bit / Windows 8 64-Bit / Windows 8.1 64-Bit\nİşlemci: Intel® Core™ i3-530 @ 2.93 GHz / AMD Phenom™ II X4 810 @ 2.60 GHz\nBellek: 6 GB RAM\nEkran Kartı: NVIDIA® GeForce® GTX 470 @ 1GB / ATI® Radeon™ HD 6970 @ 1GB\nDirectX: Version 11\nAğ: Geniş bant internet bağlantısı\nDepolama: 100 GB kullanılabilir alan\nSes Kartı: DirectX Compatible",
-    "sys_recommended": "",
-    "game_size_gb": "49.85",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/torrents/Call.of.Duty.Black.Ops.III-RELOADED.torrent",
-        "label": "Call.of.Duty.Black.Ops.III-RELOADED",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "6b9bd591-a551-44c3-bf90-89dd036436d8",
-    "added_date": "2026-07-06T23:59:23.179042",
-    "first_added_date": "2026-07-06T23:59:23.179042",
-    "categories": [
-      "9a2fbd19-a446-49d1-921c-45cdef5a0b2e",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/library_hero.jpg",
+    "rating": 7.0,
+    "size_gb": 49.85,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-08-07T21:46:23.312920",
+    "raw_data": "{\"name\": \"Call of Duty: Black Ops III\", \"description\": \"Call of Duty Black Ops III, bir bilim kurgu birinci şahıs nişancı oyunudur, tüm Call of Duty serisinin on ikinci oyunu ve Black Ops serisinin üçüncü bölümüdür. Aksiyon, ikinci bölümdeki olaylardan 40 yıl sonra, 2065'te başlıyor, dolayısıyla oyunun birçok tarihi referansı var. Ancak oyun önceki Black Ops oyununun doğrudan devamı değil.\", \"developer\": \"Raven Software, Treyarch, Beenox, Nerve Software, XPEC Entertainment, XPEC\", \"publisher\": \"Aspyr, Activison\", \"release_date\": \"6 Kas 2015\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"9\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7 64-Bit / Windows 8 64-Bit / Windows 8.1 64-Bit\\nİşlemci: Intel® Core™ i3-530 @ 2.93 GHz / AMD Phenom™ II X4 810 @ 2.60 GHz\\nBellek: 6 GB RAM\\nEkran Kartı: NVIDIA® GeForce® GTX 470 @ 1GB / ATI® Radeon™ HD 6970 @ 1GB\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 100 GB kullanılabilir alan\\nSes Kartı: DirectX Compatible\", \"sys_recommended\": \"\", \"game_size_gb\": \"49.85\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6b9bd591-a551-44c3-bf90-89dd036436d8/torrents/Call.of.Duty.Black.Ops.III-RELOADED.torrent\", \"label\": \"Call.of.Duty.Black.Ops.III-RELOADED\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"9a2fbd19-a446-49d1-921c-45cdef5a0b2e\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"6b9bd591-a551-44c3-bf90-89dd036436d8\", \"added_date\": \"2026-07-06T23:59:23.179042\", \"first_added_date\": \"2026-07-06T23:59:23.179042\", \"last_updated\": \"2026-08-07T21:46:23.312920\"}",
+    "added_at": "2026-08-07T21:46:23.312920"
   },
   {
     "name": "Call of Duty",
