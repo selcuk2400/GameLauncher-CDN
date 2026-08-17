@@ -2869,69 +2869,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Resident Evil 7: Biohazard",
+    "id": "57446669-71a6-4071-978e-f9173410096d",
+    "title": "Resident Evil 7: Biohazard",
     "description": "Seriyi köklerine döndüren, birinci şahıs (FPS) kamera açısıyla oynanan son derece klostrofobik bir hayatta kalma korku oyunudur. Ethan Winters'ın kayıp eşini bulmak için gittiği ürpertici Baker ailesinin malikanesinde yaşanan dehşeti anlatır.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,6cebfd27-8136-4cb7-b25e-9200533b6b0b,966ebbf8-8998-4d32-9671-6914c9d9d1e1",
     "developer": "Capcom, Capcom U.S.A",
     "publisher": "Capcom",
     "release_date": "23 Oca 2017",
-    "tags": [
-      "Action",
-      "Shooter",
-      "Adventure",
-      "Singleplayer",
-      "Steam Achievements",
-      "Horror",
-      "Multiplayer",
-      "Atmospheric"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/cover.jpg",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/library_hero.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "10",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7/8/10 (64-bit)\nİşlemci: Intel Core i5-4460 veya AMD FX-6300\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GTX 760 veya AMD Radeon R7 260x\nDepolama: 24 GB",
-    "sys_recommended": "İşletim Sistemi: Windows 10 (64-bit)\nİşlemci: Intel Core i7-3770 veya AMD FX-9590\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GTX 1060 veya AMD Radeon RX 480\nDepolama: 24 GB",
-    "game_size_gb": "15",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/torrents/r7--Oyunindir.vip.torrent",
-        "label": "r7--Oyunindir.vip",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "57446669-71a6-4071-978e-f9173410096d",
-    "added_date": "2026-06-22T19:34:37.121924",
-    "first_added_date": "2026-06-22T19:34:37.121924",
-    "categories": [
-      "6cebfd27-8136-4cb7-b25e-9200533b6b0b",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "category": "6cebfd27-8136-4cb7-b25e-9200533b6b0b,5c112b26-4d14-49b5-9aef-1a97232e8456",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/library_hero.jpg",
+    "rating": 9.0,
+    "size_gb": 15.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-08-17T16:51:17.750079",
+    "raw_data": "{\"name\": \"Resident Evil 7: Biohazard\", \"description\": \"Seriyi köklerine döndüren, birinci şahıs (FPS) kamera açısıyla oynanan son derece klostrofobik bir hayatta kalma korku oyunudur. Ethan Winters'ın kayıp eşini bulmak için gittiği ürpertici Baker ailesinin malikanesinde yaşanan dehşeti anlatır.\", \"developer\": \"Capcom, Capcom U.S.A\", \"publisher\": \"Capcom\", \"release_date\": \"23 Oca 2017\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"10\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7/8/10 (64-bit)\\nİşlemci: Intel Core i5-4460 veya AMD FX-6300\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GTX 760 veya AMD Radeon R7 260x\\nDepolama: 24 GB\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 (64-bit)\\nİşlemci: Intel Core i7-3770 veya AMD FX-9590\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GTX 1060 veya AMD Radeon RX 480\\nDepolama: 24 GB\", \"game_size_gb\": \"15\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/57446669-71a6-4071-978e-f9173410096d/torrents/r7--Oyunindir.vip.torrent\", \"label\": \"r7--Oyunindir.vip\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://www.mediafire.com/file/tr7h0opos9ok8q7/Resident+Evil+7+T%C3%83%C2%BCrk%C3%83%C2%A7e+dublaj+Modu.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Türkçe Dublaj\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"6cebfd27-8136-4cb7-b25e-9200533b6b0b\", \"966ebbf8-8998-4d32-9671-6914c9d9d1e1\"], \"id\": \"57446669-71a6-4071-978e-f9173410096d\", \"added_date\": \"2026-06-22T19:34:37.121924\", \"first_added_date\": \"2026-06-22T19:34:37.121924\", \"last_updated\": \"2026-08-17T16:51:17.750079\"}",
+    "added_at": "2026-08-17T16:51:17.750079"
   },
   {
     "name": "Resident Evil: Village",
