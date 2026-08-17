@@ -4099,67 +4099,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Star Wars Jedi: Survivor",
+    "id": "bdbb27d3-eff1-46c4-b121-d739eb078ab7",
+    "title": "Star Wars Jedi: Survivor",
     "description": "Fallen Order'ın devamı niteliğindeki yapımda, artık tam teşekküllü bir Jedi Şövalyesi olan Cal Kestis'in İmparatorluktan kaçışını ve yeni gezegenleri keşfini oynuyoruz. Harika ışın kılıcı dövüşleri sunar.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Respawn Entertainment, Respawn",
     "publisher": "Electronic Arts",
     "release_date": "27 Nis 2023",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Singleplayer",
-      "Steam Achievements",
-      "Space",
-      "Atmospheric",
-      "Exploration"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/library_hero.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "20",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64-bit\nİşlemci: 4 core / 8 threads  | Intel Core i7-7700  | Ryzen 5 1400\nBellek: 8 GB RAM\nEkran Kartı: 8GB VRAM |  GTX 1070  |  Radeon RX 580\nDirectX: Version 12\nAğ: Geniş bant internet bağlantısı\nDepolama: 155 GB kullanılabilir alan\nEk Notlar: Internet required for non-optional patching, no online play.",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 64-bit\nİşlemci: 4 core / 8 threads  |  Intel Core i5 11600K  |  Ryzen 5 5600X\nBellek: 16 GB RAM\nEkran Kartı: 8GB VRAM |  RTX2070  |  RX 6700 XT\nDirectX: Version 12\nAğ: Geniş bant internet bağlantısı\nDepolama: 155 GB kullanılabilir alan\nEk Notlar: Internet required for non-optional patching, no online play.",
-    "game_size_gb": "130",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/torrents/star-wars-jedi-survivors-2023.torrent",
-        "label": "star-wars-jedi-survivors-2023",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "bdbb27d3-eff1-46c4-b121-d739eb078ab7",
-    "added_date": "2026-06-22T20:33:42.459560",
-    "first_added_date": "2026-06-22T20:33:42.459560",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 130.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-08-17T19:35:34.829255",
+    "raw_data": "{\"name\": \"Star Wars Jedi: Survivor\", \"description\": \"Fallen Order'ın devamı niteliğindeki yapımda, artık tam teşekküllü bir Jedi Şövalyesi olan Cal Kestis'in İmparatorluktan kaçışını ve yeni gezegenleri keşfini oynuyoruz. Harika ışın kılıcı dövüşleri sunar.\", \"developer\": \"Respawn Entertainment, Respawn\", \"publisher\": \"Electronic Arts\", \"release_date\": \"27 Nis 2023\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"20\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-bit\\nİşlemci: 4 core / 8 threads  | Intel Core i7-7700  | Ryzen 5 1400\\nBellek: 8 GB RAM\\nEkran Kartı: 8GB VRAM |  GTX 1070  |  Radeon RX 580\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 155 GB kullanılabilir alan\\nEk Notlar: Internet required for non-optional patching, no online play.\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-bit\\nİşlemci: 4 core / 8 threads  |  Intel Core i5 11600K  |  Ryzen 5 5600X\\nBellek: 16 GB RAM\\nEkran Kartı: 8GB VRAM |  RTX2070  |  RX 6700 XT\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 155 GB kullanılabilir alan\\nEk Notlar: Internet required for non-optional patching, no online play.\", \"game_size_gb\": \"130\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/bdbb27d3-eff1-46c4-b121-d739eb078ab7/torrents/star-wars-jedi-survivors-2023.torrent\", \"label\": \"star-wars-jedi-survivors-2023\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"bdbb27d3-eff1-46c4-b121-d739eb078ab7\", \"added_date\": \"2026-06-22T20:33:42.459560\", \"first_added_date\": \"2026-06-22T20:33:42.459560\", \"last_updated\": \"2026-08-17T19:35:34.829255\"}",
+    "added_at": "2026-08-17T19:35:34.829255"
   },
   {
     "name": "A Plague Tale: Requiem",
