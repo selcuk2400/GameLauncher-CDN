@@ -4850,66 +4850,23 @@
     "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,cc7b9c63-fde3-4fff-9abf-a50d504a5a84"
   },
   {
-    "name": "The Witcher 3: Wild Hunt",
+    "id": "c7c53712-0cc3-4641-974b-401f5cdd4f4c",
+    "title": "The Witcher 3: Wild Hunt",
     "description": "Canavar avcısı (Efsunger) Geralt'ın, manevi kızı Ciri'yi \"Vahşi Av\" adlı doğaüstü bir ordudan korumaya çalıştığı devasa bir RYO (Rol Yapma Oyunu) klasiğidir. Yan görevlerinin bile ana hikaye kadar kaliteli olmasıyla tüm zamanların en iyi oyunlarından biri kabul edilir.",
+    "category": "966ebbf8-8998-4d32-9671-6914c9d9d1e1,5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "CD PROJEKT RED",
     "publisher": "CD PROJEKT RED",
     "release_date": "18 May 2015",
-    "tags": [
-      "Action",
-      "RPG",
-      "Singleplayer",
-      "Atmospheric",
-      "Fantasy",
-      "Story Rich"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/banner.jpg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/library_hero.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "52",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 / 8 / 10 (64-bit)\nİşlemci: Intel Core i5-2500K 3.3GHz veya AMD Phenom II X4 940\nBellek: 6 GB RAM\nEkran Kartı: Nvidia GeForce GTX 660 veya AMD Radeon HD 7870\nDepolama: 50 GB",
-    "sys_recommended": "İşletim Sistemi: Windows 7 / 8 / 10 (64-bit)\nİşlemci: Intel Core i7-3770 3.4 GHz veya AMD FX-8350 4.0 GHz\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GeForce GTX 770 veya AMD Radeon R9 290\nDepolama: 50 GB",
-    "game_size_gb": "23",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/library_hero.png",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/torrents/The_Witcher_3_Wild_Hunt-FLT.torrent",
-        "label": "The_Witcher_3_Wild_Hunt-FLT",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "c7c53712-0cc3-4641-974b-401f5cdd4f4c",
-    "added_date": "2026-06-22T21:13:54.045516",
-    "first_added_date": "2026-06-22T21:13:54.045516",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/library_hero.png",
+    "rating": 9.0,
+    "size_gb": 23.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-08-21T23:38:12.197703",
+    "raw_data": "{\"name\": \"The Witcher 3: Wild Hunt\", \"description\": \"Canavar avcısı (Efsunger) Geralt'ın, manevi kızı Ciri'yi \\\"Vahşi Av\\\" adlı doğaüstü bir ordudan korumaya çalıştığı devasa bir RYO (Rol Yapma Oyunu) klasiğidir. Yan görevlerinin bile ana hikaye kadar kaliteli olmasıyla tüm zamanların en iyi oyunlarından biri kabul edilir.\", \"developer\": \"CD PROJEKT RED\", \"publisher\": \"CD PROJEKT RED\", \"release_date\": \"18 May 2015\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 9, \"hltb_hours\": \"52\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7 / 8 / 10 (64-bit)\\nİşlemci: Intel Core i5-2500K 3.3GHz veya AMD Phenom II X4 940\\nBellek: 6 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 660 veya AMD Radeon HD 7870\\nDepolama: 50 GB\", \"sys_recommended\": \"İşletim Sistemi: Windows 7 / 8 / 10 (64-bit)\\nİşlemci: Intel Core i7-3770 3.4 GHz veya AMD FX-8350 4.0 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 770 veya AMD Radeon R9 290\\nDepolama: 50 GB\", \"game_size_gb\": \"23\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c7c53712-0cc3-4641-974b-401f5cdd4f4c/torrents/The_Witcher_3_Wild_Hunt-FLT.torrent\", \"label\": \"The_Witcher_3_Wild_Hunt-FLT\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://www.mediafire.com/file/yxv50ozgppl0pbv/The+Witcher+3+Wild+Hunt+T%C3%83%C2%BCrk%C3%83%C2%A7e+Dublaj.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Türkçe Dublaj\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"966ebbf8-8998-4d32-9671-6914c9d9d1e1\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"c7c53712-0cc3-4641-974b-401f5cdd4f4c\", \"added_date\": \"2026-06-22T21:13:54.045516\", \"first_added_date\": \"2026-06-22T21:13:54.045516\", \"last_updated\": \"2026-08-21T23:38:12.197703\"}",
+    "added_at": "2026-08-21T23:38:12.197703"
   },
   {
     "name": "Call of Duty 4: Modern Warfare",
