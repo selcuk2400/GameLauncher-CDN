@@ -10906,66 +10906,23 @@
     "category": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "Farmer's Life",
+    "id": "1551581f-66e7-43e5-94e2-2fd78ecc7723",
+    "title": "Farmer's Life",
     "description": "O kadar gerçekçi bir simülatör ki pislik kokuyor... Bir çiftçinin hayatı pis koku, pislik ve sıkı çalışmayla doludur. Keşmir yaşlı bir bekar, çiftçi ve alkoliktir.",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97",
     "developer": "Freemind",
     "publisher": "PlayWay, FreeMind",
     "release_date": "9 Haz 2021",
-    "tags": [
-      "Simulation",
-      "Singleplayer",
-      "RPG",
-      "Relaxing",
-      "Sandbox",
-      "Building"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\98b5ff7cad944537c38bc44c58831524.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2dc1230596794f2406c24b0ed8317e67.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2dc1230596794f2406c24b0ed8317e67.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\a41f55ef39692803828268dfceaa74bf.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\3b9ae0cc568fb8fc2a7f81a8bbf08bc0.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\7fb67991963bfd083e2f8c8c9e457c84.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2270a2affddb7795f5e51e802d83573a.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\93202bbbbf40b76ea813c72eadbc20a8.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\528b0bae50cd89c0ed1f3d58860f0696.jpg"
-    ],
-    "note": "",
-    "rating": 0,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7\nİşlemci: Intel Core i5\nBellek: 8 MB RAM\nEkran Kartı: NVidia GeForce GTX 750\nDirectX: Version 10\nSes Kartı: DirectX compatible",
-    "sys_recommended": "İşletim Sistemi: Windows 10\nİşlemci: Intel Core i7\nBellek: 8 MB RAM\nEkran Kartı: NVidia GeForce GTX 1050\nDirectX: Version 10\nSes Kartı: DirectX compatible",
-    "game_size_gb": "5",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/torrents/Farmers.Life.v1.0.43-P2P.torrent",
-        "label": "Farmers.Life.v1.0.43-P2P",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "1551581f-66e7-43e5-94e2-2fd78ecc7723",
-    "added_date": "2026-06-26T19:32:42.033728",
-    "first_added_date": "2026-06-26T19:32:42.033728",
-    "categories": [
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/cover.webp",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 5.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-08-21T00:41:12.807580",
+    "raw_data": "{\"name\": \"Farmer's Life\", \"description\": \"O kadar gerçekçi bir simülatör ki pislik kokuyor... Bir çiftçinin hayatı pis koku, pislik ve sıkı çalışmayla doludur. Keşmir yaşlı bir bekar, çiftçi ve alkoliktir.\", \"developer\": \"Freemind\", \"publisher\": \"PlayWay, FreeMind\", \"release_date\": \"9 Haz 2021\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/cover.webp\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7\\nİşlemci: Intel Core i5\\nBellek: 8 MB RAM\\nEkran Kartı: NVidia GeForce GTX 750\\nDirectX: Version 10\\nSes Kartı: DirectX compatible\", \"sys_recommended\": \"İşletim Sistemi: Windows 10\\nİşlemci: Intel Core i7\\nBellek: 8 MB RAM\\nEkran Kartı: NVidia GeForce GTX 1050\\nDirectX: Version 10\\nSes Kartı: DirectX compatible\", \"game_size_gb\": \"5\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/cover.webp\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/torrents/Farmers.Life.v1.0.43-P2P.torrent\", \"label\": \"Farmers.Life.v1.0.43-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"1551581f-66e7-43e5-94e2-2fd78ecc7723\", \"added_date\": \"2026-06-26T19:32:42.033728\", \"first_added_date\": \"2026-06-26T19:32:42.033728\", \"last_updated\": \"2026-08-21T00:41:12.807580\"}",
+    "added_at": "2026-08-21T00:41:12.807580"
   },
   {
     "name": "SOMA",
