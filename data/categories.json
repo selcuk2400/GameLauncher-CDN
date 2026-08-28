@@ -656,5 +656,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+  },
+  {
+    "id": "62f0af56-869d-4ae2-9f42-5ece815dd66e",
+    "name": "Captain Tsubasa",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
   }
 ]
