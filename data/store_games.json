@@ -1584,23 +1584,87 @@
     "added_at": "2026-07-11T15:23:07.673238"
   },
   {
-    "id": "25e73da4-2fcf-49f5-8730-c6ed54f4abf0",
-    "title": "Pro Evolution Soccer 2016",
+    "name": "Pro Evolution Soccer 2016",
     "description": "Döneminde en iyi spor oyunu ödüllerini toplayan, akıcı animasyonları ve kusursuz çarpışma sistemiyle göz dolduran bir Konami harikasıdır. Dinamik hava durumu sayesinde maç ortasında yağan yağmur top fiziğini etkiler.",
-    "category": "563941bf-f212-4e05-a461-b2b887c5021e,9986f431-f500-470a-80d8-c2a6c8f35f4c",
     "developer": "PES Productions",
     "publisher": "Konami",
     "release_date": "15 Eyl 2015",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/library_hero.png",
-    "rating": 7.0,
-    "size_gb": 5.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-09-01T20:46:03.959896",
-    "raw_data": "{\"name\": \"Pro Evolution Soccer 2016\", \"description\": \"Döneminde en iyi spor oyunu ödüllerini toplayan, akıcı animasyonları ve kusursuz çarpışma sistemiyle göz dolduran bir Konami harikasıdır. Dinamik hava durumu sayesinde maç ortasında yağan yağmur top fiziğini etkiler.\", \"developer\": \"PES Productions\", \"publisher\": \"Konami\", \"release_date\": \"15 Eyl 2015\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_01.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_02.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_03.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_04.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_05.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_06.jpg?v=1782293896\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows Vista/7/8.1/10\\nİşlemci: Intel Core 2 Duo 1.8 GHz veya AMD Athlon II X2 240\\nBellek: 1 GB RAM\\nEkran Kartı: Nvidia 8800 veya ATI X1600\\nDepolama: 9 GB\", \"sys_recommended\": \"İşletim Sistemi: Windows Vista/7/8.1/10\\nİşlemci: Intel Core i3 530 veya AMD Phenom II X4 925\\nBellek: 2 GB RAM\\nEkran Kartı: Nvidia GTX 260 veya ATI HD 4850\\nDepolama: 9 GB\", \"game_size_gb\": \"5\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_01.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_02.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_03.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_04.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_05.jpg?v=1782293896\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_06.jpg?v=1782293896\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/torrents/PES2016.torrent\", \"label\": \"PES2016\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://www.mediafire.com/file/f5nvzn00xj1zi4v/Turkish.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Türkçe Yama\", \"browser_only\": true}, {\"url\": \"https://www.mediafire.com/file/r7wi9kvekh6agk0/PES+2016+TR+Spiker+V1.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Türkçe Spiker\", \"browser_only\": true}, {\"url\": \"https://www.mediafire.com/file/lfy80hwvkyncmkw/exTRemev3.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Extreme 16 (Türkçe Yama + Türkçe Spiker + Lisanslı Takımlar + Süperlig)\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"563941bf-f212-4e05-a461-b2b887c5021e\", \"9986f431-f500-470a-80d8-c2a6c8f35f4c\"], \"id\": \"25e73da4-2fcf-49f5-8730-c6ed54f4abf0\", \"added_date\": \"2026-06-22T17:23:35.293040\", \"first_added_date\": \"2026-06-22T17:23:35.293040\", \"last_updated\": \"2026-09-01T20:46:03.959896\"}",
-    "added_at": "2026-09-01T20:46:03.959896"
+    "tags": [
+      "Sports",
+      "online",
+      "love",
+      "future",
+      "Football"
+    ],
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/cover.png?v=1782293896",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/banner.jpg?v=1782293896",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/library_hero.png?v=1782293896",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_01.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_02.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_03.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_04.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_05.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_06.jpg?v=1782293896"
+    ],
+    "note": "",
+    "rating": 7,
+    "hltb_hours": "",
+    "show_hltb": false,
+    "sys_min": "İşletim Sistemi: Windows Vista/7/8.1/10\nİşlemci: Intel Core 2 Duo 1.8 GHz veya AMD Athlon II X2 240\nBellek: 1 GB RAM\nEkran Kartı: Nvidia 8800 veya ATI X1600\nDepolama: 9 GB",
+    "sys_recommended": "İşletim Sistemi: Windows Vista/7/8.1/10\nİşlemci: Intel Core i3 530 veya AMD Phenom II X4 925\nBellek: 2 GB RAM\nEkran Kartı: Nvidia GTX 260 veya ATI HD 4850\nDepolama: 9 GB",
+    "game_size_gb": "5",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/cover.png?v=1782293896",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/banner.jpg?v=1782293896",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/library_hero.png?v=1782293896",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_01.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_02.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_03.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_04.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_05.jpg?v=1782293896",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/screenshots/ss_06.jpg?v=1782293896"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/25e73da4-2fcf-49f5-8730-c6ed54f4abf0/torrents/PES2016.torrent",
+        "label": "PES2016",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      },
+      {
+        "url": "https://www.mediafire.com/file/f5nvzn00xj1zi4v/Turkish.rar/file",
+        "label": "📦 MediaFire",
+        "type": "mediafire",
+        "description": "Türkçe Yama",
+        "browser_only": true
+      },
+      {
+        "url": "https://www.mediafire.com/file/r7wi9kvekh6agk0/PES+2016+TR+Spiker+V1.rar/file",
+        "label": "📦 MediaFire",
+        "type": "mediafire",
+        "description": "Türkçe Spiker",
+        "browser_only": true
+      },
+      {
+        "url": "https://www.mediafire.com/file/lfy80hwvkyncmkw/exTRemev3.rar/file",
+        "label": "📦 MediaFire",
+        "type": "mediafire",
+        "description": "Extreme 16 (Türkçe Yama + Türkçe Spiker + Lisanslı Takımlar + Süperlig)",
+        "browser_only": true
+      }
+    ],
+    "info_items": [],
+    "id": "25e73da4-2fcf-49f5-8730-c6ed54f4abf0",
+    "added_date": "2026-06-22T17:23:35.293040",
+    "categories": [
+      "563941bf-f212-4e05-a461-b2b887c5021e",
+      "9986f431-f500-470a-80d8-c2a6c8f35f4c"
+    ],
+    "first_added_date": "2026-06-22T17:23:35.293040",
+    "category": "563941bf-f212-4e05-a461-b2b887c5021e,9986f431-f500-470a-80d8-c2a6c8f35f4c",
+    "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
     "id": "ffd4608c-b458-472d-acde-62d0d4cf0ffe",
@@ -1630,74 +1694,23 @@
     "added_at": "2026-07-11T15:46:21.194827"
   },
   {
-    "name": "Pro Evolution Soccer 2018",
+    "id": "ca98df51-9bdc-476e-854a-ebabf1de8398",
+    "title": "Pro Evolution Soccer 2018",
     "description": "PC oyuncularının yıllardır beklediği konsol kalitesindeki grafiklere nihayet kavuştuğu ve oyun temposunun daha ağır, gerçeğe yakın bir simülasyon kıvamına geldiği sürümdür. 3'e 3 online co-op modu çok sevilmiştir.",
+    "category": "563941bf-f212-4e05-a461-b2b887c5021e,9986f431-f500-470a-80d8-c2a6c8f35f4c",
     "developer": "PES Productions",
     "publisher": "Konami",
     "release_date": "12 Eyl 2017",
-    "tags": [
-      "Sports",
-      "Singleplayer",
-      "Horror",
-      "Multiplayer",
-      "Atmospheric",
-      "Full controller support"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/cover.png?v=1782294043",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/banner.jpg?v=1782294043",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/library_hero.jpg?v=1782294043",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_01.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_02.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_03.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_04.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_05.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_06.jpg?v=1782294043"
-    ],
-    "note": "",
-    "rating": 7,
-    "hltb_hours": "",
-    "show_hltb": false,
-    "sys_min": "İşletim Sistemi: Windows 7/8.1/10 64-bit\nİşlemci: Intel Core i5-3450 veya AMD FX 4100\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GTX 650 veya AMD Radeon HD 7750\nDepolama: 30 GB",
-    "sys_recommended": "İşletim Sistemi: Windows 7/8.1/10 64-bit\nİşlemci: Intel Core i7-3770 veya AMD FX 4170\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GTX 660 veya AMD Radeon HD 7950\nDepolama: 30 GB",
-    "game_size_gb": "25",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/cover.png?v=1782294043",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/banner.jpg?v=1782294043",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/library_hero.jpg?v=1782294043",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_01.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_02.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_03.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_04.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_05.jpg?v=1782294043",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_06.jpg?v=1782294043"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/torrents/Pro.Evolution.Soccer.2018-CPY.torrent",
-        "label": "Pro.Evolution.Soccer.2018-CPY",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      },
-      {
-        "url": "https://www.mediafire.com/folder/svq0k5elcoyfe/Documents",
-        "label": "📦 MediaFire",
-        "type": "mediafire",
-        "description": "Extreme 18 (Türkçe Yama + Türkçe Spiker + Lisanslı Takımlar + Süperlig)",
-        "browser_only": true
-      }
-    ],
-    "info_items": [],
-    "id": "ca98df51-9bdc-476e-854a-ebabf1de8398",
-    "added_date": "2026-06-22T17:27:48.552680",
-    "categories": [
-      "563941bf-f212-4e05-a461-b2b887c5021e",
-      "9986f431-f500-470a-80d8-c2a6c8f35f4c"
-    ],
-    "first_added_date": "2026-06-22T17:27:48.552680",
-    "category": "563941bf-f212-4e05-a461-b2b887c5021e,9986f431-f500-470a-80d8-c2a6c8f35f4c",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/library_hero.jpg",
+    "rating": 7.0,
+    "size_gb": 25.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-09-01T20:46:29.897413",
+    "raw_data": "{\"name\": \"Pro Evolution Soccer 2018\", \"description\": \"PC oyuncularının yıllardır beklediği konsol kalitesindeki grafiklere nihayet kavuştuğu ve oyun temposunun daha ağır, gerçeğe yakın bir simülasyon kıvamına geldiği sürümdür. 3'e 3 online co-op modu çok sevilmiştir.\", \"developer\": \"PES Productions\", \"publisher\": \"Konami\", \"release_date\": \"12 Eyl 2017\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_01.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_02.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_03.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_04.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_05.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_06.jpg?v=1782294043\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7/8.1/10 64-bit\\nİşlemci: Intel Core i5-3450 veya AMD FX 4100\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GTX 650 veya AMD Radeon HD 7750\\nDepolama: 30 GB\", \"sys_recommended\": \"İşletim Sistemi: Windows 7/8.1/10 64-bit\\nİşlemci: Intel Core i7-3770 veya AMD FX 4170\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GTX 660 veya AMD Radeon HD 7950\\nDepolama: 30 GB\", \"game_size_gb\": \"25\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_01.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_02.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_03.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_04.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_05.jpg?v=1782294043\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/screenshots/ss_06.jpg?v=1782294043\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ca98df51-9bdc-476e-854a-ebabf1de8398/torrents/Pro.Evolution.Soccer.2018-CPY.torrent\", \"label\": \"Pro.Evolution.Soccer.2018-CPY\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://www.mediafire.com/folder/svq0k5elcoyfe/Documents\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Extreme 18 (Türkçe Yama + Türkçe Spiker + Lisanslı Takımlar + Süperlig)\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"563941bf-f212-4e05-a461-b2b887c5021e\", \"9986f431-f500-470a-80d8-c2a6c8f35f4c\"], \"id\": \"ca98df51-9bdc-476e-854a-ebabf1de8398\", \"added_date\": \"2026-06-22T17:27:48.552680\", \"first_added_date\": \"2026-06-22T17:27:48.552680\", \"last_updated\": \"2026-09-01T20:46:29.897413\"}",
+    "added_at": "2026-09-01T20:46:29.897413"
   },
   {
     "name": "Pro Evolution Soccer 2019",
