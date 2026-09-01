@@ -201,83 +201,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Grand Theft Auto III",
+    "id": "7f2bb272-9704-4e5f-89a3-289580a53fc0",
+    "title": "Grand Theft Auto III",
     "description": "Seriyi 3D evrene taşıyan ve açık dünya oyun türünde devrim yaratan efsanevi yapımdır. Karanlık Liberty City sokaklarında sessiz ana karakterimiz Claude’un intikam peşinde koştuğu bir suç hikayesini konu alır.",
+    "category": "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,966ebbf8-8998-4d32-9671-6914c9d9d1e1,3b4b4781-566a-481e-acc7-1b49baf6609a",
     "developer": "DMA Design",
     "publisher": "Capcom, Rockstar Games, 1C-SoftClub, Buka Entertainment",
     "release_date": "22 Eki 2001",
-    "tags": [
-      "Action",
-      "Shooter",
-      "Singleplayer",
-      "Multiplayer",
-      "Atmospheric",
-      "Story Rich",
-      "Third Person"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/cover.png?v=1782287611",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/banner.jpeg?v=1782287611",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/library_hero.png?v=1782287611",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_01.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_02.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_03.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_04.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_05.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_06.jpg?v=1782287611"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "10",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Microsoft® Windows® 2000/XP\nİşlemci: Pentium III® 450 MHz CPU\nBellek: 96 MB RAM\nEkran Kartı: 16 MB Direct 3D Video Card\nDirectX Version: Microsoft DirectX® 8.1\nHard Drive: 500 MB uncompressed free hard disk space\nSes Kartı:Fully DirectX compatible Sound CardRecommended:\nİşlemci: 700 MHz CPU\nBellek: 128 MB RAM\nEkran Kartı: 32 MB Direct3D Video Card",
-    "sys_recommended": "İşletim Sistemi: Windows 2000 / XP\nİşlemci: Pentium III veya Athlon 700 MHz\nBellek: 128 MB RAM\nEkran Kartı: 32 MB DirectX 8.1 uyumlu ekran kartı\nDepolama: 500 MB",
-    "game_size_gb": "1",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/cover.png?v=1782287611",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/banner.jpeg?v=1782287611",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/library_hero.png?v=1782287611",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_01.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_02.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_03.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_04.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_05.jpg?v=1782287611",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_06.jpg?v=1782287611"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/torrents/gta.iii.repack.torrent",
-        "label": "gta.iii.repack",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      },
-      {
-        "url": "https://gtatr.com/gta-3/turkce-yama/",
-        "label": "🔗 Doğrudan Link",
-        "type": "direct",
-        "description": "Türkçe yama",
-        "browser_only": true
-      },
-      {
-        "url": "https://www.moddb.com/games/grand-theft-auto-3/downloads/grand-theft-auto-iii-definitive-edition-trke-dublaj-modu",
-        "label": "🔗 Doğrudan Link",
-        "type": "direct",
-        "description": "Türkçe Dublaj",
-        "browser_only": true
-      }
-    ],
-    "info_items": [],
-    "id": "7f2bb272-9704-4e5f-89a3-289580a53fc0",
-    "added_date": "2026-06-22T16:05:59.624128",
-    "categories": [
-      "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
-      "966ebbf8-8998-4d32-9671-6914c9d9d1e1",
-      "3b4b4781-566a-481e-acc7-1b49baf6609a"
-    ],
-    "first_added_date": "2026-06-22T16:05:59.624128",
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,966ebbf8-8998-4d32-9671-6914c9d9d1e1,3b4b4781-566a-481e-acc7-1b49baf6609a"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/banner.jpeg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/library_hero.png",
+    "rating": 8.0,
+    "size_gb": 0.66,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-09-01T19:52:03.928247",
+    "raw_data": "{\"name\": \"Grand Theft Auto III\", \"description\": \"Seriyi 3D evrene taşıyan ve açık dünya oyun türünde devrim yaratan efsanevi yapımdır. Karanlık Liberty City sokaklarında sessiz ana karakterimiz Claude’un intikam peşinde koştuğu bir suç hikayesini konu alır.\", \"developer\": \"DMA Design\", \"publisher\": \"Capcom, Rockstar Games, 1C-SoftClub, Buka Entertainment\", \"release_date\": \"22 Eki 2001\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/banner.jpeg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_01.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_02.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_03.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_04.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_05.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_06.jpg?v=1782287611\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 8, \"hltb_hours\": \"10\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Microsoft® Windows® 2000/XP\\nİşlemci: Pentium III® 450 MHz CPU\\nBellek: 96 MB RAM\\nEkran Kartı: 16 MB Direct 3D Video Card\\nDirectX Version: Microsoft DirectX® 8.1\\nHard Drive: 500 MB uncompressed free hard disk space\\nSes Kartı:Fully DirectX compatible Sound CardRecommended:\\nİşlemci: 700 MHz CPU\\nBellek: 128 MB RAM\\nEkran Kartı: 32 MB Direct3D Video Card\", \"sys_recommended\": \"İşletim Sistemi: Windows 2000 / XP\\nİşlemci: Pentium III veya Athlon 700 MHz\\nBellek: 128 MB RAM\\nEkran Kartı: 32 MB DirectX 8.1 uyumlu ekran kartı\\nDepolama: 500 MB\", \"game_size_gb\": \"0.66\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/banner.jpeg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_01.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_02.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_03.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_04.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_05.jpg?v=1782287611\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/screenshots/ss_06.jpg?v=1782287611\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7f2bb272-9704-4e5f-89a3-289580a53fc0/torrents/GTA3-Oyunindir.vip.torrent\", \"label\": \"gta.iii.repack\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://gtatr.com/gta-3/turkce-yama/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe yama\", \"browser_only\": true}, {\"url\": \"https://www.moddb.com/games/grand-theft-auto-3/downloads/grand-theft-auto-iii-definitive-edition-trke-dublaj-modu\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe Dublaj\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\", \"966ebbf8-8998-4d32-9671-6914c9d9d1e1\", \"3b4b4781-566a-481e-acc7-1b49baf6609a\"], \"id\": \"7f2bb272-9704-4e5f-89a3-289580a53fc0\", \"added_date\": \"2026-06-22T16:05:59.624128\", \"first_added_date\": \"2026-06-22T16:05:59.624128\", \"last_updated\": \"2026-09-01T19:52:03.928247\"}",
+    "added_at": "2026-09-01T19:52:03.928247"
   },
   {
     "name": "Grand Theft Auto IV",
