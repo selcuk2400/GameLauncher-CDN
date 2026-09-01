@@ -1764,23 +1764,85 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "id": "2501074f-b2bc-46f5-ac1d-0148fd866e80",
-    "title": "Pro Evolution Soccer 2019",
+    "name": "Pro Evolution Soccer 2019",
     "description": "Görsel kalitenin ve ışıklandırmaların \"Enlighten\" yazılımı sayesinde zirveye çıktığı, top fiziğinin kusursuzlaştığı sürümdür. Oyuncuların maç sonuna doğru bariz hata yapmasını sağlayan \"Görünür Yorgunluk\" sistemi eklenmiştir.",
-    "category": "563941bf-f212-4e05-a461-b2b887c5021e,9986f431-f500-470a-80d8-c2a6c8f35f4c",
     "developer": "PES Productions",
     "publisher": "Konami",
     "release_date": "28 Ağu 2018",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/library_hero.png",
-    "rating": 7.0,
-    "size_gb": 30.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-09-01T20:46:50.490249",
-    "raw_data": "{\"name\": \"Pro Evolution Soccer 2019\", \"description\": \"Görsel kalitenin ve ışıklandırmaların \\\"Enlighten\\\" yazılımı sayesinde zirveye çıktığı, top fiziğinin kusursuzlaştığı sürümdür. Oyuncuların maç sonuna doğru bariz hata yapmasını sağlayan \\\"Görünür Yorgunluk\\\" sistemi eklenmiştir.\", \"developer\": \"PES Productions\", \"publisher\": \"Konami\", \"release_date\": \"28 Ağu 2018\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_01.jpg?v=1782935399\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_02.jpg?v=1782935399\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_03.jpg?v=1782935399\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_04.jpg?v=1782935399\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_01.jpg?v=1782294231\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_02.jpg?v=1782294231\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_03.jpg?v=1782294231\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_04.jpg?v=1782294231\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7/8.1/10 64-bit\\nİşlemci: Intel Core i5-3470 veya AMD FX 4350\\nBellek: 4 GB RAM\\nEkran Kartı: Nvidia GTX 670 veya AMD Radeon HD 7870\\nDepolama: 30 GB\", \"sys_recommended\": \"İşletim Sistemi: Windows 7/8.1/10 64-bit\\nİşlemci: Intel Core i7-3770 veya AMD FX 8350\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GTX 760 veya AMD Radeon R9 270X\\nDepolama: 30 GB\", \"game_size_gb\": \"30\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_01.jpg?v=1782935399\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_02.jpg?v=1782935399\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_03.jpg?v=1782935399\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_04.jpg?v=1782935399\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_01.jpg?v=1782294231\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_02.jpg?v=1782294231\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_03.jpg?v=1782294231\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_04.jpg?v=1782294231\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/torrents/EA77C06D0325B73B0D18660CA09D4470CA594748.torrent\", \"label\": \"EA77C06D0325B73B0D18660CA09D4470CA594748\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://www.mediafire.com/folder/5kcr03c64rqxk/Camera\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Türkçe Spiker\", \"browser_only\": true}, {\"url\": \"https://www.pessmokepatch.com/2021/11/sp1940.html\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Pes 2019 SmokePatch\", \"browser_only\": true}, {\"url\": \"https://www.pessmokepatch.com/2017/03/smoke-buttons.html\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Ps4 Buton Modu (SmokePatch Modu olmadan çalışmaz)\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"563941bf-f212-4e05-a461-b2b887c5021e\", \"9986f431-f500-470a-80d8-c2a6c8f35f4c\"], \"id\": \"2501074f-b2bc-46f5-ac1d-0148fd866e80\", \"added_date\": \"2026-06-22T17:30:15.740753\", \"first_added_date\": \"2026-06-22T17:30:15.740753\", \"last_updated\": \"2026-09-01T20:46:50.490249\"}",
-    "added_at": "2026-09-01T20:46:50.490249"
+    "tags": [
+      "Simulation",
+      "Sports",
+      "Singleplayer",
+      "Multiplayer",
+      "Co-op",
+      "Local Multiplayer",
+      "Partial Controller Support"
+    ],
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/cover.png?v=1782294231",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/banner.jpg?v=1782294231",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/library_hero.png?v=1782294231",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_01.jpg?v=1782294231",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_02.jpg?v=1782294231",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_03.jpg?v=1782294231",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_04.jpg?v=1782294231"
+    ],
+    "note": "",
+    "rating": 7,
+    "hltb_hours": "",
+    "show_hltb": false,
+    "sys_min": "İşletim Sistemi: Windows 7/8.1/10 64-bit\nİşlemci: Intel Core i5-3470 veya AMD FX 4350\nBellek: 4 GB RAM\nEkran Kartı: Nvidia GTX 670 veya AMD Radeon HD 7870\nDepolama: 30 GB",
+    "sys_recommended": "İşletim Sistemi: Windows 7/8.1/10 64-bit\nİşlemci: Intel Core i7-3770 veya AMD FX 8350\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GTX 760 veya AMD Radeon R9 270X\nDepolama: 30 GB",
+    "game_size_gb": "30",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/cover.png?v=1782935399",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/banner.jpg?v=1782935399",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/library_hero.png?v=1782935399",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_01.jpg?v=1782935399",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_02.jpg?v=1782935399",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_03.jpg?v=1782935399",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/screenshots/ss_04.jpg?v=1782935399"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2501074f-b2bc-46f5-ac1d-0148fd866e80/torrents/EA77C06D0325B73B0D18660CA09D4470CA594748.torrent",
+        "label": "EA77C06D0325B73B0D18660CA09D4470CA594748",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      },
+      {
+        "url": "https://www.mediafire.com/folder/5kcr03c64rqxk/Camera",
+        "label": "📦 MediaFire",
+        "type": "mediafire",
+        "description": "Türkçe Spiker",
+        "browser_only": true
+      },
+      {
+        "url": "https://www.pessmokepatch.com/2021/11/sp1940.html",
+        "label": "🔗 Doğrudan Link",
+        "type": "direct",
+        "description": "Pes 2019 SmokePatch",
+        "browser_only": true
+      },
+      {
+        "url": "https://www.pessmokepatch.com/2017/03/smoke-buttons.html",
+        "label": "🔗 Doğrudan Link",
+        "type": "direct",
+        "description": "Ps4 Buton Modu (SmokePatch Modu olmadan çalışmaz)",
+        "browser_only": true
+      }
+    ],
+    "info_items": [],
+    "id": "2501074f-b2bc-46f5-ac1d-0148fd866e80",
+    "added_date": "2026-06-22T17:30:15.740753",
+    "categories": [
+      "563941bf-f212-4e05-a461-b2b887c5021e",
+      "9986f431-f500-470a-80d8-c2a6c8f35f4c"
+    ],
+    "first_added_date": "2026-06-22T17:30:15.740753",
+    "category": "563941bf-f212-4e05-a461-b2b887c5021e,9986f431-f500-470a-80d8-c2a6c8f35f4c",
+    "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
     "id": "e9897510-0f3e-4396-b1d8-287e4b73f5f5",
@@ -10936,7 +10998,7 @@
     "id": "a953006e-5cf0-44c2-aab8-f680f1b481c6",
     "title": "Pacify",
     "description": "HİKAYE PAH Inc. Paranormal Activity Helpers Incorporated ile yeni sözleşme imzaladınız, evet kulağa bayat geliyor ama maaşınız harika. Hiçbir zaman gerçek bir tehlike altında olmayacağınızı söylediler ve şu anda tonlarca işleri var.",
-    "category": "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,8b3139fa-3b16-4639-81c3-c8a34c013636",
+    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636",
     "developer": "Shawn Hitchcock",
     "publisher": "SKH Apps",
     "release_date": "22 Şubat 2019",
@@ -10944,11 +11006,11 @@
     "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/banner.jpg",
     "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/library_hero.jpg",
     "rating": 5.0,
-    "size_gb": 1.0,
+    "size_gb": 4.08,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-07-26T22:04:05.451417",
-    "raw_data": "{\"name\": \"Pacify\", \"description\": \"HİKAYE PAH Inc. Paranormal Activity Helpers Incorporated ile yeni sözleşme imzaladınız, evet kulağa bayat geliyor ama maaşınız harika. Hiçbir zaman gerçek bir tehlike altında olmayacağınızı söylediler ve şu anda tonlarca işleri var.\", \"developer\": \"Shawn Hitchcock\", \"publisher\": \"SKH Apps\", \"release_date\": \"22 Şubat 2019\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 5, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 7 - 64 bit\\nİşlemci: Intel i5 or AMD equivalent (AMD FX 8500+ Series)\\nBellek: 4 GB RAM\\nEkran Kartı: 1GB Video RAM\\nDirectX: Version 10\\nDepolama: 2 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 - 64 bit\\nİşlemci: Intel i7 or AMD equivalent (AMD FX 9500+ Series)\\nBellek: 8 GB RAM\\nEkran Kartı: 4GB Video RAM\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 2 GB kullanılabilir alan\", \"game_size_gb\": \"1\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/torrents/Pacify-PLAZA.torrent\", \"label\": \"Pacify-PLAZA\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\", \"8b3139fa-3b16-4639-81c3-c8a34c013636\"], \"id\": \"a953006e-5cf0-44c2-aab8-f680f1b481c6\", \"added_date\": \"2026-06-26T20:01:37.197182\", \"first_added_date\": \"2026-06-26T20:01:37.197182\", \"last_updated\": \"2026-07-26T22:04:05.451417\"}",
+    "last_updated": "2026-09-01T20:48:46.894473",
+    "raw_data": "{\"name\": \"Pacify\", \"description\": \"HİKAYE PAH Inc. Paranormal Activity Helpers Incorporated ile yeni sözleşme imzaladınız, evet kulağa bayat geliyor ama maaşınız harika. Hiçbir zaman gerçek bir tehlike altında olmayacağınızı söylediler ve şu anda tonlarca işleri var.\", \"developer\": \"Shawn Hitchcock\", \"publisher\": \"SKH Apps\", \"release_date\": \"22 Şubat 2019\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 5, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 7 - 64 bit\\nİşlemci: Intel i5 or AMD equivalent (AMD FX 8500+ Series)\\nBellek: 4 GB RAM\\nEkran Kartı: 1GB Video RAM\\nDirectX: Version 10\\nDepolama: 2 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 - 64 bit\\nİşlemci: Intel i7 or AMD equivalent (AMD FX 9500+ Series)\\nBellek: 8 GB RAM\\nEkran Kartı: 4GB Video RAM\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 2 GB kullanılabilir alan\", \"game_size_gb\": \"4.08\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a953006e-5cf0-44c2-aab8-f680f1b481c6/torrents/Pacify.The.Woods - Fullindir.cafe.torrent\", \"label\": \"Pacify-PLAZA\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"8b3139fa-3b16-4639-81c3-c8a34c013636\"], \"id\": \"a953006e-5cf0-44c2-aab8-f680f1b481c6\", \"added_date\": \"2026-06-26T20:01:37.197182\", \"first_added_date\": \"2026-06-26T20:01:37.197182\", \"last_updated\": \"2026-09-01T20:48:46.894473\"}",
     "added_at": "2026-07-26T22:04:05.451417"
   },
   {
