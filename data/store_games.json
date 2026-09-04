@@ -13814,68 +13814,23 @@
     "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "Call of Duty: Infinite Warfare",
+    "id": "ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69",
+    "title": "Call of Duty: Infinite Warfare",
     "description": "Call of Duty serisinin üst üste on üçüncü ana oyunu Bu oyunun tek oyunculu modu, gezegenimizin çok ötesinde aksiyon alıyor. Dünyalıların yeterli kaynağı yok, peşlerinden başka gezegenlere gidiyorlar, koloniler düzenliyorlar ama bir noktada Mars'taki koloninin sakinleri Dünya'dan bağımsızlık için savaşmaya başlıyorlar. ###Yeni koşullar ve mekanikler Yeni koşullar, sıfır yer çekimi ortamları gibi oyuna yeni oyun mekanikleri getiriyor. Oyuncular, bu sıfır yerçekimli ortamlarda kolayca hareket etmelerine olanak tanıyan bir destek paketine ve bir tutma kancasına sahip olup, güneş sistemindeki farklı gezegenleri, uyduları ve asteroitleri ziyaret edebilirler.",
+    "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Infinity Ward",
     "publisher": "Activison",
     "release_date": "4 Kas 2016",
-    "tags": [
-      "Action",
-      "Shooter",
-      "Singleplayer",
-      "Steam Achievements",
-      "Space",
-      "Multiplayer",
-      "Atmospheric"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\46c07dce83da31aba27b076ebb36863e.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\140f946f02dd3057bd8cdbd9f68151da.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\img_hero_j4gsz0qh.png",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\705820f9bb91e024283d5aa8914202cf.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\18603afec3ad01e5e4de172d32b4fec4.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2e3f560b468653963f6656502981364e.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\aca85da5bb9d8044a9c9446e9bc888b8.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\6ec95514271c8be2d3d499e4cffba8b9.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\723c91fddb763db42cd5644d3abae394.jpg"
-    ],
-    "note": "",
-    "rating": 7,
-    "hltb_hours": "7",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 7 64-Bit or later\nİşlemci: Intel Core i3-3225 @ 3.30GHz veya eşdeğeri\nBellek: 8 GB RAM\nEkran Kartı: NVIDIA GeForce GTX 660 2GB / AMD Radeon HD 7850 2GB\nDirectX: Version 11\nAğ: Geniş bant internet bağlantısı\nDepolama: 70 GB kullanılabilir alan\nSes Kartı: DirectX 11 Compatible\nEk Notlar: Disk space requirement may change over time.",
-    "sys_recommended": "",
-    "game_size_gb": "63.05",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/torrents/call.of.duty.infinate.warfare.reloaded.torrent",
-        "label": "call.of.duty.infinate.warfare.reloaded",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69",
-    "added_date": "2026-07-06T23:56:51.663118",
-    "first_added_date": "2026-07-06T23:56:51.663118",
-    "categories": [
-      "9a2fbd19-a446-49d1-921c-45cdef5a0b2e",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/library_hero.jpg",
+    "rating": 7.0,
+    "size_gb": 63.05,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-09-04T13:24:54.802878",
+    "raw_data": "{\"name\": \"Call of Duty: Infinite Warfare\", \"description\": \"Call of Duty serisinin üst üste on üçüncü ana oyunu Bu oyunun tek oyunculu modu, gezegenimizin çok ötesinde aksiyon alıyor. Dünyalıların yeterli kaynağı yok, peşlerinden başka gezegenlere gidiyorlar, koloniler düzenliyorlar ama bir noktada Mars'taki koloninin sakinleri Dünya'dan bağımsızlık için savaşmaya başlıyorlar. ###Yeni koşullar ve mekanikler Yeni koşullar, sıfır yer çekimi ortamları gibi oyuna yeni oyun mekanikleri getiriyor. Oyuncular, bu sıfır yerçekimli ortamlarda kolayca hareket etmelerine olanak tanıyan bir destek paketine ve bir tutma kancasına sahip olup, güneş sistemindeki farklı gezegenleri, uyduları ve asteroitleri ziyaret edebilirler.\", \"developer\": \"Infinity Ward\", \"publisher\": \"Activison\", \"release_date\": \"4 Kas 2016\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"7\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7 64-Bit or later\\nİşlemci: Intel Core i3-3225 @ 3.30GHz veya eşdeğeri\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 660 2GB / AMD Radeon HD 7850 2GB\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 70 GB kullanılabilir alan\\nSes Kartı: DirectX 11 Compatible\\nEk Notlar: Disk space requirement may change over time.\", \"sys_recommended\": \"\", \"game_size_gb\": \"63.05\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69/torrents/call.of.duty.infinate.warfare.reloaded.torrent\", \"label\": \"call.of.duty.infinate.warfare.reloaded\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"9a2fbd19-a446-49d1-921c-45cdef5a0b2e\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"ad80e7bc-7262-4ed6-b6b3-467a1aaeeb69\", \"added_date\": \"2026-07-06T23:56:51.663118\", \"first_added_date\": \"2026-07-06T23:56:51.663118\", \"last_updated\": \"2026-09-04T13:24:54.802878\"}",
+    "added_at": "2026-09-04T13:24:54.802878"
   },
   {
     "id": "6b9bd591-a551-44c3-bf90-89dd036436d8",
@@ -14122,23 +14077,67 @@
     "added_at": "2026-07-29T06:44:07.381018"
   },
   {
-    "id": "0a27b4ec-85bb-41d3-b6ea-0026fe02c676",
-    "title": "Homefront",
+    "name": "Homefront",
     "description": "Homefront, kısa süre içinde geçen birinci şahıs nişancı oyunudur. Oyun, Amerika Birleşik Devletleri'nin korkunç bir düşman tarafından parçalandığı Kuzey Amerika'da geçiyor. Kahramanı, ülkesinde patlak veren kaosun ortasında kalan eski bir ABD pilotudur.",
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Digital Extremes, THQ, Kaos Studios",
     "publisher": "Deep Silver, THQ",
     "release_date": "15 Mar 2011",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/cover.jpg",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/library_hero.jpg",
-    "rating": 6.0,
-    "size_gb": 2.99,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-09-04T13:22:46.926712",
-    "raw_data": "{\"name\": \"Homefront\", \"description\": \"Homefront, kısa süre içinde geçen birinci şahıs nişancı oyunudur. Oyun, Amerika Birleşik Devletleri'nin korkunç bir düşman tarafından parçalandığı Kuzey Amerika'da geçiyor. Kahramanı, ülkesinde patlak veren kaosun ortasında kalan eski bir ABD pilotudur.\", \"developer\": \"Digital Extremes, THQ, Kaos Studios\", \"publisher\": \"Deep Silver, THQ\", \"release_date\": \"15 Mar 2011\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 6, \"hltb_hours\": \"4\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows XP, Windows Vista or Windows 7\\nİşlemci: Intel Pentium Core 2 Duo 2.4 GHz or AMD Athlon X2 2.8GHz\\nBellek: 2 GB RAM\\nEkran Kartı: Shader Model 3.0 graphics card with 256MB of memory, NVIDIA GeForce 7900GS or ATI Radeon 1900XT\\nDirectX®:\\nHard Drive: 10GB of free hard drive space\\nSound:\", \"sys_recommended\": \"İşletim Sistemi: Windows Vista or Windows 7\\nİşlemci: Intel or AMD Quad Core 2 GHz+ CPU\\nBellek: 2 GB RAM\\nEkran Kartı: NVIDIA GeForce 260 or ATI Radeon 4850\\nDirectX®:\\nHard Drive: 10GB of free hard drive space\\nSound:\\nNVIDIA 3D Vision Recommended\\nİşletim Sistemi: Windows Vista or Windows 7\\nİşlemci: Intel Core i7 processor\\nBellek: 2 GB RAM\\nEkran Kartı: 3D Compatible NVIDIA GeForce 480/570 Series GPU, NVIDIA 3D Vision Kit\\nDirectX®:\\nHard Drive: 10GB of free hard drive space\\nSound:\\nOther: 3D Vision-Ready Display\", \"game_size_gb\": \"2.99\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/torrents/Homefront-SKIDROW.torrent\", \"label\": \"Homefront-SKIDROW\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"0a27b4ec-85bb-41d3-b6ea-0026fe02c676\", \"added_date\": \"2026-07-07T00:08:48.191959\", \"first_added_date\": \"2026-07-07T00:08:48.191959\", \"last_updated\": \"2026-09-04T13:22:46.926712\"}",
-    "added_at": "2026-09-04T13:22:46.926712"
+    "tags": [
+      "Shooter",
+      "Singleplayer",
+      "Short",
+      "Steam Achievements",
+      "Multiplayer",
+      "Atmospheric"
+    ],
+    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\06de5b4f3d0ee8a0749bf6a5af99d224.jpg",
+    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\cdc14bd66431ae4bee5c34f0ed8e3181.jpg",
+    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\160994f39d798d2894a3f0a756ecb6b5.jpg",
+    "screenshots": [
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\d91cbe482afbf96c4fc89a3045cf2d99.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\d695c82d9a0b5ac19508eb768fb1b107.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\ac8dab963c564e91068b1211f8d13c3f.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\041ceb57a2d07a7b707ebc71951407cc.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\8673705ac1e936d4563e45dba8bfd155.jpg",
+      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\5016258a2307b50eebbebdee013c1e77.jpg"
+    ],
+    "note": "",
+    "rating": 6,
+    "hltb_hours": "4",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Windows XP, Windows Vista or Windows 7\nİşlemci: Intel Pentium Core 2 Duo 2.4 GHz or AMD Athlon X2 2.8GHz\nBellek: 2 GB RAM\nEkran Kartı: Shader Model 3.0 graphics card with 256MB of memory, NVIDIA GeForce 7900GS or ATI Radeon 1900XT\nDirectX®:\nHard Drive: 10GB of free hard drive space\nSound:",
+    "sys_recommended": "İşletim Sistemi: Windows Vista or Windows 7\nİşlemci: Intel or AMD Quad Core 2 GHz+ CPU\nBellek: 2 GB RAM\nEkran Kartı: NVIDIA GeForce 260 or ATI Radeon 4850\nDirectX®:\nHard Drive: 10GB of free hard drive space\nSound:\nNVIDIA 3D Vision Recommended\nİşletim Sistemi: Windows Vista or Windows 7\nİşlemci: Intel Core i7 processor\nBellek: 2 GB RAM\nEkran Kartı: 3D Compatible NVIDIA GeForce 480/570 Series GPU, NVIDIA 3D Vision Kit\nDirectX®:\nHard Drive: 10GB of free hard drive space\nSound:\nOther: 3D Vision-Ready Display",
+    "game_size_gb": "2.99",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/cover.jpg",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/library_hero.jpg",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0a27b4ec-85bb-41d3-b6ea-0026fe02c676/torrents/Homefront-SKIDROW.torrent",
+        "label": "Homefront-SKIDROW",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "0a27b4ec-85bb-41d3-b6ea-0026fe02c676",
+    "added_date": "2026-07-07T00:08:48.191959",
+    "first_added_date": "2026-07-07T00:08:48.191959",
+    "categories": [
+      "9a2fbd19-a446-49d1-921c-45cdef5a0b2e",
+      "5c112b26-4d14-49b5-9aef-1a97232e8456"
+    ],
+    "last_updated": "2026-07-08T20:57:29.217091",
+    "category": "9a2fbd19-a446-49d1-921c-45cdef5a0b2e,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
     "id": "60efdc57-2e42-4f22-86f5-02d03307821a",
