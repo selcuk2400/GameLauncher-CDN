@@ -10757,70 +10757,23 @@
     "category": "8b3139fa-3b16-4639-81c3-c8a34c013636,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "Slender: The Arrival",
+    "id": "780292db-235d-4ccd-b2a6-4598e703ca02",
+    "title": "Slender: The Arrival",
     "description": "Tek başınasın. Senin için gelecek kimse yok. Sana yardım edecek kimse yok.",
+    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636,5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Blue Isle Studios, Blue Isle",
     "publisher": "Majesco Entertainment, Midnight City, Blue Isle Studios",
     "release_date": "26 Mar 2013",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "Singleplayer",
-      "Short",
-      "Steam Achievements",
-      "Horror",
-      "Multiplayer"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\28c5146fc0182283749ca4d410b4f5c1.jpg",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\cc1e544efce28cc07ed3d1f10b7c4b9a.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\1e08cd15a323345f075c5e3b9d3b7a3a.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\bcf9ff86884a632ae4de26b967dc9bf0.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\a51175b155e4f1a8dd12757faf0a0805.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\ffd4d6240b8450487a0df67bd6cc905d.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\7095e6238891910dbf5801437a3bffdf.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\1b258924597bb9fe72bf5e3af0304bec.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\95aa2aaaa58480df34dd966ae4d777de.jpg"
-    ],
-    "note": "",
-    "rating": 6,
-    "hltb_hours": "2",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows XP, Windows Vista, Windows 7\nİşlemci: Dual core CPU @2GHz (Pentium D veya üstü)\nBellek: 1 GB RAM\nEkran Kartı: Intel HD 4000, GeForce 8800, ATI 1950 veya üstü\nDirectX: Version 9.0c\nDepolama: 2 GB kullanılabilir alan\nSes Kartı: 100% DirectX 9.0c compatible audio device",
-    "sys_recommended": "İşletim Sistemi: Windows 7\nİşlemci: Quad Core Intel or AMD\nBellek: 3 GB RAM\nEkran Kartı: GeForce 260 1GB or AMD HD4850 1GB\nDirectX: Version 9.0c\nDepolama: 2 GB kullanılabilir alan\nSes Kartı: 100% DirectX 9.0c compatible audio device",
-    "game_size_gb": "1",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/torrents/slender.the.arrival.v.1.5.6.2013.repack.multi.sgames.torrent",
-        "label": "slender.the.arrival.v.1.5.6.2013.repack.multi.sgames",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "780292db-235d-4ccd-b2a6-4598e703ca02",
-    "added_date": "2026-06-26T19:36:48.335584",
-    "first_added_date": "2026-06-26T19:36:48.335584",
-    "categories": [
-      "8b3139fa-3b16-4639-81c3-c8a34c013636",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456",
-      "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636,5c112b26-4d14-49b5-9aef-1a97232e8456,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/library_hero.jpg",
+    "rating": 6.0,
+    "size_gb": 9.18,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-09-04T13:11:45.923566",
+    "raw_data": "{\"name\": \"Slender: The Arrival\", \"description\": \"Tek başınasın. Senin için gelecek kimse yok. Sana yardım edecek kimse yok.\", \"developer\": \"Blue Isle Studios, Blue Isle\", \"publisher\": \"Majesco Entertainment, Midnight City, Blue Isle Studios\", \"release_date\": \"26 Mar 2013\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 6, \"hltb_hours\": \"2\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows XP, Windows Vista, Windows 7\\nİşlemci: Dual core CPU @2GHz (Pentium D veya üstü)\\nBellek: 1 GB RAM\\nEkran Kartı: Intel HD 4000, GeForce 8800, ATI 1950 veya üstü\\nDirectX: Version 9.0c\\nDepolama: 2 GB kullanılabilir alan\\nSes Kartı: 100% DirectX 9.0c compatible audio device\", \"sys_recommended\": \"İşletim Sistemi: Windows 7\\nİşlemci: Quad Core Intel or AMD\\nBellek: 3 GB RAM\\nEkran Kartı: GeForce 260 1GB or AMD HD4850 1GB\\nDirectX: Version 9.0c\\nDepolama: 2 GB kullanılabilir alan\\nSes Kartı: 100% DirectX 9.0c compatible audio device\", \"game_size_gb\": \"9.18\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/780292db-235d-4ccd-b2a6-4598e703ca02/torrents/Slender_-_The_Arrival Oyunindir.vip.torrent\", \"label\": \"slender.the.arrival.v.1.5.6.2013.repack.multi.sgames\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"8b3139fa-3b16-4639-81c3-c8a34c013636\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"780292db-235d-4ccd-b2a6-4598e703ca02\", \"added_date\": \"2026-06-26T19:36:48.335584\", \"first_added_date\": \"2026-06-26T19:36:48.335584\", \"last_updated\": \"2026-09-04T13:11:45.923566\"}",
+    "added_at": "2026-09-04T13:11:45.923566"
   },
   {
     "id": "3e021743-590a-4468-85a2-9b156c87c3fc",
@@ -16291,8 +16244,8 @@
     "size_gb": 6.7,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-09-04T13:10:37.476124",
-    "raw_data": "{\"name\": \"ALPARGUN\", \"description\": \"ALPARGUN, oyuncuları modern askeri operasyonların merkezine taşıyan ALPARGUN Steam'de sayfasında yer alan bilgilere göre hikâye odaklı, tek oyunculu bir birinci şahıs nişancı (FPS) oyunudur.\", \"developer\": \"MAGN Interactive\", \"publisher\": \"MAGN Interactive\", \"release_date\": \"5 Ağustos 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_04.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"1-2\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 10 (64-bit)\\nİşlemci: Intel Core i5-10400F veya AMD Ryzen 5 3600\\nBellek (RAM): 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 1660 veya AMD Radeon RX 5600 XT\\nDirectX: Sürüm 12\", \"sys_recommended\": \"İşletim Sistemi: Windows 11 (64-bit)\\nİşlemci: Intel Core i5-12400F veya AMD Ryzen 5 5600\\nBellek (RAM): 16 GB RAM\\nEkran Kartı: NVIDIA GeForce RTX 3050 veya AMD Radeon RX 7700 XT\\nDirectX: Sürüm 12\", \"game_size_gb\": \"6.7\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://torrentoyundirekt.com/aj18513qy7fc\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"966ebbf8-8998-4d32-9671-6914c9d9d1e1\"], \"id\": \"416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72\", \"added_date\": \"2026-08-28T00:11:48.346870\", \"first_added_date\": \"2026-08-28T00:11:48.346870\", \"last_updated\": \"2026-09-04T13:10:37.476124\"}",
+    "last_updated": "2026-09-04T12:55:41.764056",
+    "raw_data": "{\"name\": \"ALPARGUN\", \"description\": \"ALPARGUN, oyuncuları modern askeri operasyonların merkezine taşıyan ALPARGUN Steam'de sayfasında yer alan bilgilere göre hikâye odaklı, tek oyunculu bir birinci şahıs nişancı (FPS) oyunudur.\", \"developer\": \"MAGN Interactive\", \"publisher\": \"MAGN Interactive\", \"release_date\": \"5 Ağustos 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_04.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"1-2\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 10 (64-bit)\\nİşlemci: Intel Core i5-10400F veya AMD Ryzen 5 3600\\nBellek (RAM): 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 1660 veya AMD Radeon RX 5600 XT\\nDirectX: Sürüm 12\", \"sys_recommended\": \"İşletim Sistemi: Windows 11 (64-bit)\\nİşlemci: Intel Core i5-12400F veya AMD Ryzen 5 5600\\nBellek (RAM): 16 GB RAM\\nEkran Kartı: NVIDIA GeForce RTX 3050 veya AMD Radeon RX 7700 XT\\nDirectX: Sürüm 12\", \"game_size_gb\": \"6.7\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://torrentoyundirekt.com/aj18513qy7fc\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"966ebbf8-8998-4d32-9671-6914c9d9d1e1\"], \"id\": \"416c4efc-7c8e-4d6f-b5e8-6ca2ae9a7e72\", \"added_date\": \"2026-08-28T00:11:48.346870\", \"first_added_date\": \"2026-08-28T00:11:48.346870\", \"last_updated\": \"2026-09-04T12:55:41.764056\"}",
     "added_at": "2026-08-27T21:12:07.940591"
   },
   {
