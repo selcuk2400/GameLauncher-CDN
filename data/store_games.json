@@ -5274,76 +5274,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Far Cry 6",
+    "id": "b39df766-e2eb-4e30-902e-83eb59bceb6b",
+    "title": "Far Cry 6",
     "description": "Küba'dan esinlenilen kurgusal Yara adasında, acımasız diktatör Antón Castillo'ya (Giancarlo Esposito canlandırıyor) karşı verilen gerilla savaşını yönetiyoruz. Ev yapımı tuhaf silahlar ve sırtımızda taşıdığımız füze atar çantalarıyla (Supremo) tam bir kaos ortamı yaratıyoruz.",
-    "developer": "Ubisoft, Ubisoft Montreal, Ubisoft Toronto, Ubisoft Shanghai, Ubisoft Kyiv, Ubisoft Berlin",
+    "category": "7571385b-3587-4547-98ad-0d45a16255da,5c112b26-4d14-49b5-9aef-1a97232e8456",
+    "developer": "Ubisoft",
     "publisher": "Ubisoft Entertainment",
     "release_date": "7 Eki 2021",
-    "tags": [
-      "Action",
-      "Shooter",
-      "Adventure",
-      "Singleplayer",
-      "3D",
-      "Multiplayer",
-      "Atmospheric",
-      "First-Person"
-    ],
-    "cover_image": "",
-    "banner_image": "",
-    "library_hero_image": "",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_06.jpg"
-    ],
-    "note": "",
-    "rating": 7,
-    "hltb_hours": "23",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 (20H1 version or newer, 64-bit versions)\nİşlemci: AMD Ryzen 3 1200 @ 3. GHz or Intel Core i5-4460 @ 3.1 GHz (AVX, AVX2 and SSE 4.2 support required)\nBellek: 8 GB RAM\nEkran Kartı: AMD RX 460 (4 GB) or NVIDIA GeForce GTX 960 (4 GB)\nDirectX: Version 12\nDepolama: 170 GB kullanılabilir alan\nEk Notlar: Please note that the minimum requirement for running the HD Texture Pack for Far Cry 6 is 12GB of VRAM. For 4K configurations, you will need 16GB of VRAM.   If you download and run the HD Texture Pack with lower VRAM capabilities, you will encounter performance issues while playing.",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: Windows 10 (20H1 version or newer, 64-bit versions)\nİşlemci: AMD Ryzen 5 3600X @ 3.8 GHz or Intel Core i7-7700 @ 3.6 GHz (AVX, AVX2 and SSE 4.2 support required)\nBellek: 16 GB RAM\nEkran Kartı: AMD RX Vega 64 (8 GB) or NVIDIA GeForce GTX 1080 (8 GB)\nDirectX: Version 12\nDepolama: 170 GB kullanılabilir alan\nEk Notlar: Please note that the minimum requirement for running the HD Texture Pack for Far Cry 6 is 12GB of VRAM. For 4K configurations, you will need 16GB of VRAM.   If you download and run the HD Texture Pack with lower VRAM capabilities, you will encounter performance issues while playing.",
-    "game_size_gb": "78",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/torrents/Far.Cry.6-EMPRESS.torrent",
-        "label": "Far.Cry.6-EMPRESS",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      },
-      {
-        "url": "https://forum.donanimhaber.com/far-cry-6-2025-turkce-yama-cikti-hibrit-insan-cevirisi-pc--162672005",
-        "label": "🔗 Doğrudan Link",
-        "type": "direct",
-        "description": "Türkçe Yama",
-        "browser_only": true
-      }
-    ],
-    "info_items": [],
-    "id": "b39df766-e2eb-4e30-902e-83eb59bceb6b",
-    "added_date": "2026-06-22T22:10:07.189938",
-    "categories": [
-      "7571385b-3587-4547-98ad-0d45a16255da",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "first_added_date": "2026-06-22T22:10:07.189938",
-    "category": "7571385b-3587-4547-98ad-0d45a16255da,5c112b26-4d14-49b5-9aef-1a97232e8456",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/library_hero.jpg",
+    "rating": 7.0,
+    "size_gb": 78.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-09-04T13:41:27.856025",
+    "raw_data": "{\"name\": \"Far Cry 6\", \"description\": \"Küba'dan esinlenilen kurgusal Yara adasında, acımasız diktatör Antón Castillo'ya (Giancarlo Esposito canlandırıyor) karşı verilen gerilla savaşını yönetiyoruz. Ev yapımı tuhaf silahlar ve sırtımızda taşıdığımız füze atar çantalarıyla (Supremo) tam bir kaos ortamı yaratıyoruz.\", \"developer\": \"Ubisoft\", \"publisher\": \"Ubisoft Entertainment\", \"release_date\": \"7 Eki 2021\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"23\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 (20H1 version or newer, 64-bit versions)\\nİşlemci: AMD Ryzen 3 1200 @ 3. GHz or Intel Core i5-4460 @ 3.1 GHz (AVX, AVX2 and SSE 4.2 support required)\\nBellek: 8 GB RAM\\nEkran Kartı: AMD RX 460 (4 GB) or NVIDIA GeForce GTX 960 (4 GB)\\nDirectX: Version 12\\nDepolama: 170 GB kullanılabilir alan\\nEk Notlar: Please note that the minimum requirement for running the HD Texture Pack for Far Cry 6 is 12GB of VRAM. For 4K configurations, you will need 16GB of VRAM.   If you download and run the HD Texture Pack with lower VRAM capabilities, you will encounter performance issues while playing.\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 (20H1 version or newer, 64-bit versions)\\nİşlemci: AMD Ryzen 5 3600X @ 3.8 GHz or Intel Core i7-7700 @ 3.6 GHz (AVX, AVX2 and SSE 4.2 support required)\\nBellek: 16 GB RAM\\nEkran Kartı: AMD RX Vega 64 (8 GB) or NVIDIA GeForce GTX 1080 (8 GB)\\nDirectX: Version 12\\nDepolama: 170 GB kullanılabilir alan\\nEk Notlar: Please note that the minimum requirement for running the HD Texture Pack for Far Cry 6 is 12GB of VRAM. For 4K configurations, you will need 16GB of VRAM.   If you download and run the HD Texture Pack with lower VRAM capabilities, you will encounter performance issues while playing.\", \"game_size_gb\": \"78\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b39df766-e2eb-4e30-902e-83eb59bceb6b/torrents/Far.Cry.6-EMPRESS.torrent\", \"label\": \"Far.Cry.6-EMPRESS\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://forum.donanimhaber.com/far-cry-6-2025-turkce-yama-cikti-hibrit-insan-cevirisi-pc--162672005\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe Yama\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"7571385b-3587-4547-98ad-0d45a16255da\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"b39df766-e2eb-4e30-902e-83eb59bceb6b\", \"added_date\": \"2026-06-22T22:10:07.189938\", \"first_added_date\": \"2026-06-22T22:10:07.189938\", \"last_updated\": \"2026-09-04T13:41:27.856025\"}",
+    "added_at": "2026-09-04T13:41:27.856025"
   },
   {
     "id": "2b304668-3f3a-4c5a-b197-37e3356a5c96",
