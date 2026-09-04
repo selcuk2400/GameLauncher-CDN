@@ -663,5 +663,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
+  },
+  {
+    "id": "72df7d9f-676a-4b03-bf11-8c97ce1e3eef",
+    "name": "Mortal Shell",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
