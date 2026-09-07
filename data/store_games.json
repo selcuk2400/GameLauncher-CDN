@@ -3680,58 +3680,23 @@
     "added_at": "2026-07-19T00:27:14.988482"
   },
   {
-    "name": "MudRunner",
+    "id": "0665fe3d-a800-4e51-b218-40e78afb8d62",
+    "title": "MudRunner",
     "description": "Çamur, bataklık ve nehirlerle dolu acımasız Rusya coğrafyasında, devasa Sovyet kamyonlarını kullanarak tomruk taşıdığınız aşırı gerçekçi bir off-road (arazi) simülasyonudur.",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,b53fc043-1aeb-409b-b320-ff1463463533,b10b3c64-7505-4039-b548-99236043d9aa",
     "developer": "Saber Interactive, Focus Home Interactive",
     "publisher": "Focus Home Interactive",
     "release_date": "31 Eki 2018",
-    "tags": [
-      "Simulation"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/cover.png",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/banner.jpeg",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/library_hero.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/screenshots/ss_01.jpeg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "10-15",
-    "show_hltb": true,
-    "sys_min": "Win 7/8/10 | İşlemci: Intel Core 2 Duo 2.0GHz | Bellek: 2 GB RAM | Ekran Kartı: Nvidia GeForce 9600 GT | Depolama: 1 GB",
-    "sys_recommended": "Win 7/8/10 | İşlemci: Intel Core 2 Duo 2.5GHz | Bellek: 4 GB RAM | Ekran Kartı: Nvidia GeForce GTX 470 | Depolama: 1 GB",
-    "game_size_gb": "2",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/cover.png",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/banner.jpeg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/screenshots/ss_01.jpeg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/torrents/MudRunner.Build.07042021-OFME_1.torrent",
-        "label": "MudRunner.Build.07042021-OFME",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [
-      {
-        "key": "Şifre",
-        "value": "online-fix.me"
-      }
-    ],
-    "id": "0665fe3d-a800-4e51-b218-40e78afb8d62",
-    "added_date": "2026-06-22T20:27:33.610676",
-    "first_added_date": "2026-06-22T20:27:33.610676",
-    "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "b53fc043-1aeb-409b-b320-ff1463463533",
-      "b10b3c64-7505-4039-b548-99236043d9aa"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,b53fc043-1aeb-409b-b320-ff1463463533,b10b3c64-7505-4039-b548-99236043d9aa"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/banner.jpeg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 2.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-09-07T17:51:58.626317",
+    "raw_data": "{\"name\": \"MudRunner\", \"description\": \"Çamur, bataklık ve nehirlerle dolu acımasız Rusya coğrafyasında, devasa Sovyet kamyonlarını kullanarak tomruk taşıdığınız aşırı gerçekçi bir off-road (arazi) simülasyonudur.\", \"developer\": \"Saber Interactive, Focus Home Interactive\", \"publisher\": \"Focus Home Interactive\", \"release_date\": \"31 Eki 2018\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/banner.jpeg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/screenshots/ss_01.jpeg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 8, \"hltb_hours\": \"10-15\", \"show_hltb\": true, \"sys_min\": \"Win 7/8/10 | İşlemci: Intel Core 2 Duo 2.0GHz | Bellek: 2 GB RAM | Ekran Kartı: Nvidia GeForce 9600 GT | Depolama: 1 GB\", \"sys_recommended\": \"Win 7/8/10 | İşlemci: Intel Core 2 Duo 2.5GHz | Bellek: 4 GB RAM | Ekran Kartı: Nvidia GeForce GTX 470 | Depolama: 1 GB\", \"game_size_gb\": \"2\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/banner.jpeg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/screenshots/ss_01.jpeg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0665fe3d-a800-4e51-b218-40e78afb8d62/torrents/MudRunner.Build.07042021-OFME_1.torrent\", \"label\": \"MudRunner.Build.07042021-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"b53fc043-1aeb-409b-b320-ff1463463533\", \"b10b3c64-7505-4039-b548-99236043d9aa\"], \"id\": \"0665fe3d-a800-4e51-b218-40e78afb8d62\", \"added_date\": \"2026-06-22T20:27:33.610676\", \"first_added_date\": \"2026-06-22T20:27:33.610676\", \"last_updated\": \"2026-09-07T17:51:58.626317\"}",
+    "added_at": "2026-09-07T17:51:58.626317"
   },
   {
     "name": "Pragmata",
@@ -7815,23 +7780,67 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "id": "d264f13a-2244-410f-8ea1-47f05acc2bb0",
-    "title": "BeamNG.drive",
+    "name": "BeamNG.drive",
     "description": "Oyun dünyasının gördüğü gelmiş geçmiş en gerçekçi hasar ve araç fiziği motoruna sahip simülasyondur. Arabaları duvara çarpıp parçalanmalarını milimetrik detaylarla izleyebileceğiniz sonsuz bir test alanıdır.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "SureHit Studio, BeamNG",
     "publisher": "SureHit Studio, BeamNG",
     "release_date": "29 May 2015",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/library_hero.jpg",
-    "rating": 8.0,
-    "size_gb": 18.52,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-09-07T17:48:12.486469",
-    "raw_data": "{\"name\": \"BeamNG.drive\", \"description\": \"Oyun dünyasının gördüğü gelmiş geçmiş en gerçekçi hasar ve araç fiziği motoruna sahip simülasyondur. Arabaları duvara çarpıp parçalanmalarını milimetrik detaylarla izleyebileceğiniz sonsuz bir test alanıdır.\", \"developer\": \"SureHit Studio, BeamNG\", \"publisher\": \"SureHit Studio, BeamNG\", \"release_date\": \"29 May 2015\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7 Service Pack 1\\nİşlemci: Desktop Intel i3\\nBellek: 4 GB RAM\\nEkran Kartı: GTX 550 TI\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 64 Bit\\nİşlemci: High-end Intel i5/i7 or High-end AMD 6 Core veya üstü\\nBellek: 8 GB RAM\\nEkran Kartı: GTX 780\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\\nEk Notlar: Gamepad recommended\", \"game_size_gb\": \"18.52\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/torrents/BeamNG.drive.v0.38.1.torrent\", \"label\": \"BeamNG.drive.v0.38.1\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\"], \"id\": \"d264f13a-2244-410f-8ea1-47f05acc2bb0\", \"added_date\": \"2026-06-24T07:52:17.619155\", \"first_added_date\": \"2026-06-24T07:52:17.619155\", \"last_updated\": \"2026-09-07T17:48:12.486469\"}",
-    "added_at": "2026-09-07T17:48:12.486469"
+    "tags": [
+      "Simulation",
+      "Racing",
+      "Singleplayer",
+      "Steam Achievements",
+      "First-Person",
+      "Funny",
+      "Physics"
+    ],
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/cover.png",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/banner.jpg",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/library_hero.jpg",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_06.jpg"
+    ],
+    "note": "",
+    "rating": 8,
+    "hltb_hours": "",
+    "show_hltb": true,
+    "sys_min": "İşletim Sistemi: Windows 7 Service Pack 1\nİşlemci: Desktop Intel i3\nBellek: 4 GB RAM\nEkran Kartı: GTX 550 TI\nDirectX: Version 11\nDepolama: 5 GB kullanılabilir alan",
+    "sys_recommended": "İşletim Sistemi: Windows 10 64 Bit\nİşlemci: High-end Intel i5/i7 or High-end AMD 6 Core veya üstü\nBellek: 8 GB RAM\nEkran Kartı: GTX 780\nDirectX: Version 11\nDepolama: 5 GB kullanılabilir alan\nEk Notlar: Gamepad recommended",
+    "game_size_gb": "23",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/cover.png",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/library_hero.jpg",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d264f13a-2244-410f-8ea1-47f05acc2bb0/torrents/BeamNG.drive.v0.38.1.torrent",
+        "label": "BeamNG.drive.v0.38.1",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [],
+    "id": "d264f13a-2244-410f-8ea1-47f05acc2bb0",
+    "added_date": "2026-06-24T07:52:17.619155",
+    "first_added_date": "2026-06-24T07:52:17.619155",
+    "categories": [
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    ],
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
     "id": "02a3ff83-1a68-489d-b85d-6e3343f03354",
