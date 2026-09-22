@@ -177,74 +177,23 @@
     "added_at": "2026-09-01T19:52:03.928247"
   },
   {
-    "name": "Grand Theft Auto IV",
+    "id": "1c51c4da-e42b-44ac-918a-37755d348d75",
+    "title": "Grand Theft Auto IV",
     "description": "Doğu Avrupalı göçmen Niko Bellic'in \"Amerikan Rüyası\"nı yaşamak umuduyla geldiği Liberty City'de karşılaştığı karanlık gerçekleri işler. Dönemine göre inanılmaz gelişmiş fizik motoru ve olgun hikayesiyle öne çıkar.",
+    "category": "966ebbf8-8998-4d32-9671-6914c9d9d1e1,3b4b4781-566a-481e-acc7-1b49baf6609a",
     "developer": "Rockstar North",
     "publisher": "Capcom, Rockstar Games, Take Two Interactive",
     "release_date": "29 Nis 2008",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Singleplayer",
-      "Multiplayer",
-      "Atmospheric",
-      "Funny",
-      "Third Person"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/cover.png?v=1782287656",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/banner.jpg?v=1782287656",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/library_hero.png?v=1782287656",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_01.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_02.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_03.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_04.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_05.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_06.jpg?v=1782287656"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "10",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows Vista - Service Pack 1 / Windows XP - Service Pack 3\nİşlemci: Intel Core 2 Duo 1.8GHz, AMD Athlon X2 64 2.4GHz\nBellek: 1.5GB XP / 1.5GB Vista\nEkran Kartı: 256MB Nvidia 7900 / 256MB ATI X1900\nDirectX Version: DirectX 9.0c Compliant Card\nHard Drive: 16GB of Hard Disc Space\nSes Kartı: 5.1 Channel Audio Card\nOther Requirements: Initial activation requires internet connection; Online play requires log-in to Games For Windows - Live and Rockstar Games Social Club (13+ to register); software installations required including Adobe Flash, DirectX, Microsoft’s .NET Framework 3.0, Games For Windows - LIVE, and Internet Explorer.",
-    "sys_recommended": "İşletim Sistemi: Windows Vista / XP\nİşlemci: Intel Core 2 Quad 2.4 GHz veya AMD Phenom X3 2.1 GHz\nBellek: 2.5 GB RAM\nEkran Kartı: 512 MB Nvidia 8600 veya 512 MB ATI 3870\nDepolama: 18 GB",
-    "game_size_gb": "20",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/cover.png?v=1782287656",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/banner.jpg?v=1782287656",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/library_hero.png?v=1782287656",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_01.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_02.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_03.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_04.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_05.jpg?v=1782287656",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_06.jpg?v=1782287656"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/torrents/BEFC37E56981937E7645C8613FC62BC6F711A430.torrent",
-        "label": "BEFC37E56981937E7645C8613FC62BC6F711A430",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      },
-      {
-        "url": "https://gtatr.com/gta-4/turkce-yama/",
-        "label": "🔗 Doğrudan Link",
-        "type": "direct",
-        "description": "Türkçe yama",
-        "browser_only": true
-      }
-    ],
-    "info_items": [],
-    "id": "1c51c4da-e42b-44ac-918a-37755d348d75",
-    "added_date": "2026-06-22T16:11:40.795876",
-    "categories": [
-      "3b4b4781-566a-481e-acc7-1b49baf6609a"
-    ],
-    "first_added_date": "2026-06-22T16:11:40.795876",
-    "category": "3b4b4781-566a-481e-acc7-1b49baf6609a",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/library_hero.png",
+    "rating": 9.0,
+    "size_gb": 20.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-09-22T18:00:30.277212",
+    "raw_data": "{\"name\": \"Grand Theft Auto IV\", \"description\": \"Doğu Avrupalı göçmen Niko Bellic'in \\\"Amerikan Rüyası\\\"nı yaşamak umuduyla geldiği Liberty City'de karşılaştığı karanlık gerçekleri işler. Dönemine göre inanılmaz gelişmiş fizik motoru ve olgun hikayesiyle öne çıkar.\", \"developer\": \"Rockstar North\", \"publisher\": \"Capcom, Rockstar Games, Take Two Interactive\", \"release_date\": \"29 Nis 2008\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_01.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_02.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_03.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_04.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_05.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_06.jpg?v=1782287656\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 9, \"hltb_hours\": \"10\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows Vista - Service Pack 1 / Windows XP - Service Pack 3\\nİşlemci: Intel Core 2 Duo 1.8GHz, AMD Athlon X2 64 2.4GHz\\nBellek: 1.5GB XP / 1.5GB Vista\\nEkran Kartı: 256MB Nvidia 7900 / 256MB ATI X1900\\nDirectX Version: DirectX 9.0c Compliant Card\\nHard Drive: 16GB of Hard Disc Space\\nSes Kartı: 5.1 Channel Audio Card\\nOther Requirements: Initial activation requires internet connection; Online play requires log-in to Games For Windows - Live and Rockstar Games Social Club (13+ to register); software installations required including Adobe Flash, DirectX, Microsoft’s .NET Framework 3.0, Games For Windows - LIVE, and Internet Explorer.\", \"sys_recommended\": \"İşletim Sistemi: Windows Vista / XP\\nİşlemci: Intel Core 2 Quad 2.4 GHz veya AMD Phenom X3 2.1 GHz\\nBellek: 2.5 GB RAM\\nEkran Kartı: 512 MB Nvidia 8600 veya 512 MB ATI 3870\\nDepolama: 18 GB\", \"game_size_gb\": \"20\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_01.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_02.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_03.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_04.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_05.jpg?v=1782287656\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/screenshots/ss_06.jpg?v=1782287656\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1c51c4da-e42b-44ac-918a-37755d348d75/torrents/BEFC37E56981937E7645C8613FC62BC6F711A430.torrent\", \"label\": \"BEFC37E56981937E7645C8613FC62BC6F711A430\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://gtatr.com/gta-4/turkce-yama/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe yama\", \"browser_only\": true}, {\"url\": \"https://www.mediafire.com/file/zl3ar8chxizzr4t/GTA_4_T%C3%BCrk%C3%A7e_Dublaj_Modu.rar\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"Türkçe Dublaj\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"966ebbf8-8998-4d32-9671-6914c9d9d1e1\", \"3b4b4781-566a-481e-acc7-1b49baf6609a\"], \"id\": \"1c51c4da-e42b-44ac-918a-37755d348d75\", \"added_date\": \"2026-06-22T16:11:40.795876\", \"first_added_date\": \"2026-06-22T16:11:40.795876\", \"last_updated\": \"2026-09-22T18:00:30.277212\"}",
+    "added_at": "2026-09-22T18:00:30.277212"
   },
   {
     "name": "FIFA 08",
