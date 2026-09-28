@@ -3851,11 +3851,12 @@
     "added_date": "2026-06-22T20:44:55.375476",
     "first_added_date": "2026-06-22T20:44:55.375476",
     "categories": [
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
       "4f8fc1e0-cc71-4e4e-9291-abe2f87430c9",
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+      "142f769b-e760-4c42-9062-1070a9eee8b4"
     ],
-    "category": "4f8fc1e0-cc71-4e4e-9291-abe2f87430c9,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,4f8fc1e0-cc71-4e4e-9291-abe2f87430c9,142f769b-e760-4c42-9062-1070a9eee8b4",
+    "last_updated": "2026-09-28T22:04:51.577436"
   },
   {
     "id": "656faef9-8e25-4c68-9be4-aadab5e475dc",
@@ -16239,7 +16240,7 @@
     "id": "8ce47889-327b-4b00-bb68-3e1146ae3f35",
     "title": "Forza Horizon 5",
     "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars. Explore a world of striking contrast and beauty.",
-    "category": "",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,142f769b-e760-4c42-9062-1070a9eee8b4",
     "developer": "Playground Games",
     "publisher": "Xbox Game Studios",
     "release_date": "8 Kas 2021",
@@ -16250,15 +16251,19 @@
     "size_gb": 168.47,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-09-28T21:21:49.969489",
+    "last_updated": "2026-09-28T22:04:51.577436",
     "raw_data": "{\"name\": \"Forza Horizon 5\", \"description\": \"Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars. Explore a world of striking contrast and beauty.\", \"developer\": \"Playground Games\", \"publisher\": \"Xbox Game Studios\", \"release_date\": \"8 Kas 2021\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ce47889-327b-4b00-bb68-3e1146ae3f35/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ce47889-327b-4b00-bb68-3e1146ae3f35/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ce47889-327b-4b00-bb68-3e1146ae3f35/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/5e2/5e2e7ccb084034da25d0b21b7c03c273.jpg\", \"https://media.rawg.io/media/screenshots/6c6/6c69fe99ec23d08b2b0a62feb9d89c65.jpg\", \"https://media.rawg.io/media/screenshots/32c/32c5651c381e6b628c5ac681601a036a.jpg\", \"https://media.rawg.io/media/screenshots/312/3122a56932654c304a60e9ef762277a7.jpg\", \"https://media.rawg.io/media/screenshots/04c/04c7be71d5fd1abace38c90aaa95529d.jpg\", \"https://media.rawg.io/media/screenshots/797/7979f94d39181787ee248a423191563f.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 9, \"hltb_hours\": \"15\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 version 15063.0 veya üstü\\nİşlemci: Intel i5-4460 or AMD Ryzen 3 1200\\nBellek: 8 GB RAM\\nEkran Kartı: NVidia GTX 970 OR AMD RX 470\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 110 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 version 15063.0 veya üstü\\nİşlemci: Intel i5-8400 or AMD Ryzen 5 1500X\\nBellek: 16 GB RAM\\nEkran Kartı: NVidia GTX 1070 OR AMD RX 590\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 110 GB kullanılabilir alan\", \"game_size_gb\": \"168.47\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ce47889-327b-4b00-bb68-3e1146ae3f35/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ce47889-327b-4b00-bb68-3e1146ae3f35/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ce47889-327b-4b00-bb68-3e1146ae3f35/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/5e2/5e2e7ccb084034da25d0b21b7c03c273.jpg\", \"https://media.rawg.io/media/screenshots/6c6/6c69fe99ec23d08b2b0a62feb9d89c65.jpg\", \"https://media.rawg.io/media/screenshots/32c/32c5651c381e6b628c5ac681601a036a.jpg\", \"https://media.rawg.io/media/screenshots/312/3122a56932654c304a60e9ef762277a7.jpg\", \"https://media.rawg.io/media/screenshots/04c/04c7be71d5fd1abace38c90aaa95529d.jpg\", \"https://media.rawg.io/media/screenshots/797/7979f94d39181787ee248a423191563f.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ce47889-327b-4b00-bb68-3e1146ae3f35/torrents/Forza.Horizon.5.v1.685.421.0-OFME.torrent\", \"label\": \"Forza.Horizon.5.v1.685.421.0-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [], \"id\": \"8ce47889-327b-4b00-bb68-3e1146ae3f35\", \"added_date\": \"2026-09-28T21:21:34.639833\", \"first_added_date\": \"2026-09-28T21:21:34.639833\", \"last_updated\": \"2026-09-28T21:21:49.969489\"}",
-    "added_at": "2026-09-28T21:21:49.969489"
+    "added_at": "2026-09-28T21:21:49.969489",
+    "categories": [
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "142f769b-e760-4c42-9062-1070a9eee8b4"
+    ]
   },
   {
     "id": "fa67ade3-e03f-4042-a33f-94ffa836d959",
     "title": "Forza Horizon 4",
     "description": "Forza Horizon 4 is the eleventh game in the Forza franchise of racing games and the fourth in the Horizon subseries. ###Premise Forza Horizon 4 takes place in a shared open world that is loosely based on the United Kingdom. Up to 72 players can share a server at which they participate in races together. They can also purchase in-game homes, which allow the players to unlock faster cars and driver perks.",
-    "category": "",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,142f769b-e760-4c42-9062-1070a9eee8b4",
     "developer": "Playground Games",
     "publisher": "Microsoft Studios, Xbox Game Studios",
     "release_date": "2 Eki 2018",
@@ -16269,15 +16274,19 @@
     "size_gb": 89.61,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-09-28T21:33:09.395338",
+    "last_updated": "2026-09-28T22:04:51.577436",
     "raw_data": "{\"name\": \"Forza Horizon 4\", \"description\": \"Forza Horizon 4 is the eleventh game in the Forza franchise of racing games and the fourth in the Horizon subseries. ###Premise Forza Horizon 4 takes place in a shared open world that is loosely based on the United Kingdom. Up to 72 players can share a server at which they participate in races together. They can also purchase in-game homes, which allow the players to unlock faster cars and driver perks.\", \"developer\": \"Playground Games\", \"publisher\": \"Microsoft Studios, Xbox Game Studios\", \"release_date\": \"2 Eki 2018\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fa67ade3-e03f-4042-a33f-94ffa836d959/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fa67ade3-e03f-4042-a33f-94ffa836d959/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fa67ade3-e03f-4042-a33f-94ffa836d959/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/722/7226b83de614b7c5171b7c2694d53fce.jpg\", \"https://media.rawg.io/media/screenshots/f2b/f2b5d9a9306ff4ada2993f382834ed9c.jpg\", \"https://media.rawg.io/media/screenshots/bb0/bb0eb559688110e2d6ff7209c33a4e70.jpg\", \"https://media.rawg.io/media/screenshots/4a0/4a061c6752a938c1b50ec1409c0fc303.jpg\", \"https://media.rawg.io/media/screenshots/816/816c0aab06078d503f0121b3f7243d36.jpg\", \"https://media.rawg.io/media/screenshots/698/698b7e6262e8ae019da03e4ec3d11537.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 9, \"hltb_hours\": \"13\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 version 15063.0 veya üstü\\nİşlemci: Intel i3-4170 @ 3.7Ghz OR Intel i5 750 @ 2.67Ghz\\nBellek: 4 GB RAM\\nEkran Kartı: NVidia 650TI OR AMD R7 250x\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 80 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 version 15063.0 veya üstü\\nİşlemci: Intel i7-3820 @ 3.6Ghz\\nBellek: 8 GB RAM\\nEkran Kartı: NVidia GTX 970 OR NVidia GTX 1060 3GB OR AMD R9 290x OR AMD RX 470\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 100 GB kullanılabilir alan\", \"game_size_gb\": \"89.61\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fa67ade3-e03f-4042-a33f-94ffa836d959/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fa67ade3-e03f-4042-a33f-94ffa836d959/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fa67ade3-e03f-4042-a33f-94ffa836d959/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/722/7226b83de614b7c5171b7c2694d53fce.jpg\", \"https://media.rawg.io/media/screenshots/f2b/f2b5d9a9306ff4ada2993f382834ed9c.jpg\", \"https://media.rawg.io/media/screenshots/bb0/bb0eb559688110e2d6ff7209c33a4e70.jpg\", \"https://media.rawg.io/media/screenshots/4a0/4a061c6752a938c1b50ec1409c0fc303.jpg\", \"https://media.rawg.io/media/screenshots/816/816c0aab06078d503f0121b3f7243d36.jpg\", \"https://media.rawg.io/media/screenshots/698/698b7e6262e8ae019da03e4ec3d11537.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fa67ade3-e03f-4042-a33f-94ffa836d959/torrents/Forza_Horizon_4-HOODLUM.torrent\", \"label\": \"Forza_Horizon_4-HOODLUM\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [], \"id\": \"fa67ade3-e03f-4042-a33f-94ffa836d959\", \"added_date\": \"2026-09-28T21:32:57.255234\", \"first_added_date\": \"2026-09-28T21:32:57.255234\", \"last_updated\": \"2026-09-28T21:33:09.395338\"}",
-    "added_at": "2026-09-28T21:33:09.395338"
+    "added_at": "2026-09-28T21:33:09.395338",
+    "categories": [
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "142f769b-e760-4c42-9062-1070a9eee8b4"
+    ]
   },
   {
     "id": "0390ffc6-5e78-4fe0-adf1-f600935c0484",
     "title": "Forza Horizon 3",
     "description": "Forza Horizon 3 is a racing open-world game developed by Playground Games. It is a part of a large Forza series including 11 titles in it with Horizon 3 being the 9th heading in the row. It is, however, uncertain to claim that there is a unified narrative in racing games, so all 11 titles more likely represent one universe, but do not come in specific order.",
-    "category": "",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,142f769b-e760-4c42-9062-1070a9eee8b4",
     "developer": "Playground Games",
     "publisher": "Microsoft Studios",
     "release_date": "27 Eyl 2016",
@@ -16288,9 +16297,13 @@
     "size_gb": 30.89,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-09-28T21:40:55.379081",
+    "last_updated": "2026-09-28T22:04:51.577436",
     "raw_data": "{\"name\": \"Forza Horizon 3\", \"description\": \"Forza Horizon 3 is a racing open-world game developed by Playground Games. It is a part of a large Forza series including 11 titles in it with Horizon 3 being the 9th heading in the row. It is, however, uncertain to claim that there is a unified narrative in racing games, so all 11 titles more likely represent one universe, but do not come in specific order.\", \"developer\": \"Playground Games\", \"publisher\": \"Microsoft Studios\", \"release_date\": \"27 Eyl 2016\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0390ffc6-5e78-4fe0-adf1-f600935c0484/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0390ffc6-5e78-4fe0-adf1-f600935c0484/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0390ffc6-5e78-4fe0-adf1-f600935c0484/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/ea9/ea9ac44e300c63e69fd1626b9ec27cef.jpg\", \"https://media.rawg.io/media/screenshots/835/835fce3536c0346e12b312727130894a.jpg\", \"https://media.rawg.io/media/screenshots/cf4/cf45410c520670222fe3463ad53879c6.jpg\", \"https://media.rawg.io/media/screenshots/29e/29ec01bcae61e6efe16fa571cb5af92e.jpg\", \"https://media.rawg.io/media/screenshots/05d/05d0840d079a5632f9ba8262f54ecadb.jpg\", \"https://media.rawg.io/media/screenshots/df0/df0d7d2ea3dc7b050e2d2b383b39e8c3.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 9, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"30.89\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0390ffc6-5e78-4fe0-adf1-f600935c0484/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0390ffc6-5e78-4fe0-adf1-f600935c0484/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0390ffc6-5e78-4fe0-adf1-f600935c0484/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/ea9/ea9ac44e300c63e69fd1626b9ec27cef.jpg\", \"https://media.rawg.io/media/screenshots/835/835fce3536c0346e12b312727130894a.jpg\", \"https://media.rawg.io/media/screenshots/cf4/cf45410c520670222fe3463ad53879c6.jpg\", \"https://media.rawg.io/media/screenshots/29e/29ec01bcae61e6efe16fa571cb5af92e.jpg\", \"https://media.rawg.io/media/screenshots/05d/05d0840d079a5632f9ba8262f54ecadb.jpg\", \"https://media.rawg.io/media/screenshots/df0/df0d7d2ea3dc7b050e2d2b383b39e8c3.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0390ffc6-5e78-4fe0-adf1-f600935c0484/torrents/Forza.Horizon.3-CODEX.torrent\", \"label\": \"Forza.Horizon.3-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [], \"id\": \"0390ffc6-5e78-4fe0-adf1-f600935c0484\", \"added_date\": \"2026-09-28T21:40:42.154789\", \"first_added_date\": \"2026-09-28T21:40:42.154789\", \"last_updated\": \"2026-09-28T21:40:55.379081\"}",
-    "added_at": "2026-09-28T21:40:55.379081"
+    "added_at": "2026-09-28T21:40:55.379081",
+    "categories": [
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "142f769b-e760-4c42-9062-1070a9eee8b4"
+    ]
   },
   {
     "id": "406b99f6-58d6-4c9a-a729-09b0454e0f3f",
