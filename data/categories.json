@@ -677,5 +677,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+  },
+  {
+    "id": "b89e0079-2bc2-4697-a0e7-c172c107071a",
+    "name": "Dirt",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
   }
 ]
