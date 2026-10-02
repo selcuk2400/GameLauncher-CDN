@@ -84,13 +84,6 @@
     "parent_id": null
   },
   {
-    "id": "4f8fc1e0-cc71-4e4e-9291-abe2f87430c9",
-    "name": "Yarış Oyunları",
-    "icon": "🚗",
-    "is_default": false,
-    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
-  },
-  {
     "id": "f2d5cfc1-e7dd-4a0e-b08b-91dfc73c32ef",
     "name": "GTA Definitive Edition",
     "icon": "📁",
