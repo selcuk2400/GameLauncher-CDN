@@ -2753,23 +2753,74 @@
     "added_at": "2026-07-26T01:59:12.181243"
   },
   {
-    "id": "9392842d-2416-48f6-8f45-6546e96060c0",
-    "title": "Golf With Your Friends",
+    "name": "Golf With Your Friends",
     "description": "12 kişiye kadar eşzamanlı oynanabilen eğlenceli ve kaos dolu bir mini golf oyunudur. Fizik kurallarını zorlayan çılgın haritalarda arkadaşlarınızı çıldırtabilirsiniz.",
-    "category": "287a90c1-a897-45a6-8964-e0175590c3d5,b53fc043-1aeb-409b-b320-ff1463463533",
     "developer": "Team17 Digital, Blacklight Interactive®, Blacklight Interactive",
     "publisher": "Team17 Digital, Blacklight Interactive®, Blacklight Interactive",
     "release_date": "29 Oca 2016",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/library_hero.jpg",
-    "rating": 8.0,
-    "size_gb": 5.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-10-03T06:45:49.093349",
-    "raw_data": "{\"name\": \"Golf With Your Friends\", \"description\": \"12 kişiye kadar eşzamanlı oynanabilen eğlenceli ve kaos dolu bir mini golf oyunudur. Fizik kurallarını zorlayan çılgın haritalarda arkadaşlarınızı çıldırtabilirsiniz.\", \"developer\": \"Team17 Digital, Blacklight Interactive®, Blacklight Interactive\", \"publisher\": \"Team17 Digital, Blacklight Interactive®, Blacklight Interactive\", \"release_date\": \"29 Oca 2016\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows® Vista/XP\\nİşlemci: 1.8 GHz Processor\\nBellek: 4 GB RAM\\nEkran Kartı: 512MB dedicated VRAM\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 4 GB kullanılabilir alan\\nEk Notlar: These system requirements may change throughout development.\", \"sys_recommended\": \"Win 10 | İşlemci: Intel i5 | Bellek: 4 GB RAM | Ekran Kartı: GTX 660 veya eşdeğeri | Depolama: 4 GB\", \"game_size_gb\": \"5\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/torrents/Golf.With.Your.Friends.v260-OFME_1.torrent\", \"label\": \"Golf.With.Your.Friends.v260-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://uploads.online-fix.me:2053/uploads/Golf%20With%20Your%20Friends/Fix%20Repair/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Online çalızmazsa bunu içine atın!\", \"browser_only\": true}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"287a90c1-a897-45a6-8964-e0175590c3d5\", \"b53fc043-1aeb-409b-b320-ff1463463533\"], \"id\": \"9392842d-2416-48f6-8f45-6546e96060c0\", \"added_date\": \"2026-06-22T19:54:25.377134\", \"first_added_date\": \"2026-06-22T19:54:25.377134\", \"last_updated\": \"2026-10-03T06:45:49.093349\"}",
-    "added_at": "2026-10-03T06:45:49.093349"
+    "tags": [
+      "Sports",
+      "Casual",
+      "Indie",
+      "Singleplayer",
+      "Steam Achievements",
+      "Horror",
+      "Multiplayer",
+      "Funny"
+    ],
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/cover.png",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/banner.jpg",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/library_hero.jpg",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_06.jpg"
+    ],
+    "note": "",
+    "rating": 8,
+    "hltb_hours": "",
+    "show_hltb": false,
+    "sys_min": "İşletim Sistemi: Windows® Vista/XP\nİşlemci: 1.8 GHz Processor\nBellek: 4 GB RAM\nEkran Kartı: 512MB dedicated VRAM\nAğ: Geniş bant internet bağlantısı\nDepolama: 4 GB kullanılabilir alan\nEk Notlar: These system requirements may change throughout development.",
+    "sys_recommended": "Win 10 | İşlemci: Intel i5 | Bellek: 4 GB RAM | Ekran Kartı: GTX 660 veya eşdeğeri | Depolama: 4 GB",
+    "game_size_gb": "5",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/cover.png",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/library_hero.jpg",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9392842d-2416-48f6-8f45-6546e96060c0/torrents/Golf.With.Your.Friends.v260-OFME_1.torrent",
+        "label": "Golf.With.Your.Friends.v260-OFME",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [
+      {
+        "key": "Şifre",
+        "value": "online-fix.me"
+      }
+    ],
+    "id": "9392842d-2416-48f6-8f45-6546e96060c0",
+    "added_date": "2026-06-22T19:54:25.377134",
+    "first_added_date": "2026-06-22T19:54:25.377134",
+    "categories": [
+      "287a90c1-a897-45a6-8964-e0175590c3d5",
+      "b53fc043-1aeb-409b-b320-ff1463463533"
+    ],
+    "category": "287a90c1-a897-45a6-8964-e0175590c3d5,b53fc043-1aeb-409b-b320-ff1463463533",
+    "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
     "id": "b1aa88e6-a3fc-4842-8025-5538fba1596a",
@@ -14457,14 +14508,9 @@
     "size_gb": 6.56,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-07-12T04:16:56.601896",
-    "raw_data": "{\"name\": \"Left 4 Dead\", \"description\": \"Left 4 Dead bir zombi kıyamet durumunda geçiyor. Dört farklı karakterden (Louis, Zoe, Bill veya Francis) biri olarak oynuyorsunuz ve her seviyedeki güvenli bölgelere gitmeye veya virüslü bölgeleri terk etmeye çalışıyorsunuz. Ana hikaye, dört kahramanın zombi sürülerinden ve diğer enfekte mutantlardan kaçma girişimlerini konu alıyor.\", \"developer\": \"Valve Software, Turtle Rock Studios\", \"publisher\": \"Electronic Arts, Valve\", \"release_date\": \"17 Kas 2008\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"7\", \"show_hltb\": true, \"sys_min\": \"Supported İşletim Sistemi: Windows® 7 32/64-bit / Vista 32/64 / XP\\nİşlemci: Pentium 4 3.0GHz\\nBellek: 1 GB\\nEkran Kartı: 128 MB, Shader model 2.0, ATI 9600, NVidia 6600 veya üstü\\nHard Drive: At least 7.5 GB of free space\\nSes Kartı: DirectX 9.0c compatible sound card\", \"sys_recommended\": \"Supported İşletim Sistemi: Windows® 7 32/64-bit / Vista 32/64 / XP\\nİşlemci: Intel core 2 duo 2.4GHz\\nBellek: 1 GB\\nEkran Kartı: Shader model 3.0, NVidia 7600, ATI X1600 veya üstü\", \"game_size_gb\": \"6.56\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/torrents/Left.4.Dead.Build.31012022-OFME.torrent\", \"label\": \"Left.4.Dead.Build.31012022-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"b53fc043-1aeb-409b-b320-ff1463463533\", \"c6ce941f-4cbb-4143-8434-ce1de612ddc1\"], \"id\": \"42198a71-a3ab-4355-b828-eac8de70459e\", \"added_date\": \"2026-07-12T07:04:10.352354\", \"first_added_date\": \"2026-07-12T07:04:10.352354\", \"last_updated\": \"2026-07-12T04:04:49.644495\"}",
-    "added_at": "2026-07-12T04:04:49.644495",
-    "categories": [
-      "5c112b26-4d14-49b5-9aef-1a97232e8456",
-      "b53fc043-1aeb-409b-b320-ff1463463533",
-      "c6ce941f-4cbb-4143-8434-ce1de612ddc1"
-    ]
+    "last_updated": "2026-10-03T06:46:34.694212",
+    "raw_data": "{\"name\": \"Left 4 Dead\", \"description\": \"Left 4 Dead bir zombi kıyamet durumunda geçiyor. Dört farklı karakterden (Louis, Zoe, Bill veya Francis) biri olarak oynuyorsunuz ve her seviyedeki güvenli bölgelere gitmeye veya virüslü bölgeleri terk etmeye çalışıyorsunuz. Ana hikaye, dört kahramanın zombi sürülerinden ve diğer enfekte mutantlardan kaçma girişimlerini konu alıyor.\", \"developer\": \"Valve Software, Turtle Rock Studios\", \"publisher\": \"Electronic Arts, Valve\", \"release_date\": \"17 Kas 2008\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 8, \"hltb_hours\": \"7\", \"show_hltb\": true, \"sys_min\": \"Supported İşletim Sistemi: Windows® 7 32/64-bit / Vista 32/64 / XP\\nİşlemci: Pentium 4 3.0GHz\\nBellek: 1 GB\\nEkran Kartı: 128 MB, Shader model 2.0, ATI 9600, NVidia 6600 veya üstü\\nHard Drive: At least 7.5 GB of free space\\nSes Kartı: DirectX 9.0c compatible sound card\", \"sys_recommended\": \"Supported İşletim Sistemi: Windows® 7 32/64-bit / Vista 32/64 / XP\\nİşlemci: Intel core 2 duo 2.4GHz\\nBellek: 1 GB\\nEkran Kartı: Shader model 3.0, NVidia 7600, ATI X1600 veya üstü\", \"game_size_gb\": \"6.56\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/42198a71-a3ab-4355-b828-eac8de70459e/torrents/Left.4.Dead.Build.31012022-OFME.torrent\", \"label\": \"Left.4.Dead.Build.31012022-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://uploads.online-fix.me:2053/uploads/Left%204%20Dead%202/Fix%20Repair/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Online çalızmazsa bunu içine atın!\", \"browser_only\": true}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"b53fc043-1aeb-409b-b320-ff1463463533\", \"c6ce941f-4cbb-4143-8434-ce1de612ddc1\"], \"id\": \"42198a71-a3ab-4355-b828-eac8de70459e\", \"added_date\": \"2026-07-12T07:04:10.352354\", \"first_added_date\": \"2026-07-12T07:04:10.352354\", \"last_updated\": \"2026-10-03T06:46:34.694212\"}",
+    "added_at": "2026-07-12T04:04:49.644495"
   },
   {
     "id": "a8c4d7ee-ab15-4c5a-bd0f-61431a7f8b2a",
