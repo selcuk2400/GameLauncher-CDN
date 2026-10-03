@@ -2050,23 +2050,73 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "id": "3ae8d3a3-152d-49fd-b500-6b1909130692",
-    "title": "Raft",
+    "name": "Raft",
     "description": "Okyanusun ortasında küçücük bir tahta parçası üzerinde başlayıp, denizden kancayla topladığınız çöplerle devasa bir yüzen ev inşa ettiğiniz hayatta kalma oyunudur. Köpekbalıklarına yem olmadan dünyanın neden sular altında kaldığını keşfetmeye çalışırsınız.",
-    "category": "287a90c1-a897-45a6-8964-e0175590c3d5,b53fc043-1aeb-409b-b320-ff1463463533,accd1184-24d0-4772-8f72-91e9fe779b4f",
     "developer": "Redbeet Interactive",
     "publisher": "Axolot Games",
     "release_date": "20 Haz 2022",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/cover.png",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/library_hero.png",
-    "rating": 8.0,
-    "size_gb": 10.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-10-03T08:25:19.972636",
-    "raw_data": "{\"name\": \"Raft\", \"description\": \"Okyanusun ortasında küçücük bir tahta parçası üzerinde başlayıp, denizden kancayla topladığınız çöplerle devasa bir yüzen ev inşa ettiğiniz hayatta kalma oyunudur. Köpekbalıklarına yem olmadan dünyanın neden sular altında kaldığını keşfetmeye çalışırsınız.\", \"developer\": \"Redbeet Interactive\", \"publisher\": \"Axolot Games\", \"release_date\": \"20 Haz 2022\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 8, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7 or later\\nİşlemci: 2 GHz Dual-Core\\nBellek: 4 GB RAM\\nEkran Kartı: Geforce GTX 500 series or similar\\nDirectX: Version 10\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 4 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 (64-bit)\\nİşlemci: Intel Core i5-6600 3.3GHz veya eşdeğeri\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 700 serisi veya dengi\\nDepolama: 10 GB\", \"game_size_gb\": \"10\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/torrents/Raft.v1.1.07-OFME_1.torrent\", \"label\": \"Raft.v1.1.07-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://uploads.online-fix.me:2053/uploads/Raft/Fix%20Repair/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Online çalızmazsa bunu içine atın!\", \"browser_only\": true}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"287a90c1-a897-45a6-8964-e0175590c3d5\", \"b53fc043-1aeb-409b-b320-ff1463463533\", \"accd1184-24d0-4772-8f72-91e9fe779b4f\"], \"id\": \"3ae8d3a3-152d-49fd-b500-6b1909130692\", \"added_date\": \"2026-06-22T19:17:50.727897\", \"first_added_date\": \"2026-06-22T19:17:50.727897\", \"last_updated\": \"2026-10-03T08:25:19.972636\"}",
-    "added_at": "2026-10-03T08:25:19.972636"
+    "tags": [
+      "Adventure",
+      "Singleplayer",
+      "Multiplayer",
+      "Early Access",
+      "Survival",
+      "Online Co-Op"
+    ],
+    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/cover.png",
+    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/banner.jpg",
+    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/library_hero.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_06.jpg"
+    ],
+    "note": "",
+    "rating": 8,
+    "hltb_hours": "",
+    "show_hltb": false,
+    "sys_min": "İşletim Sistemi: Windows 7 or later\nİşlemci: 2 GHz Dual-Core\nBellek: 4 GB RAM\nEkran Kartı: Geforce GTX 500 series or similar\nDirectX: Version 10\nAğ: Geniş bant internet bağlantısı\nDepolama: 4 GB kullanılabilir alan",
+    "sys_recommended": "İşletim Sistemi: Windows 10 (64-bit)\nİşlemci: Intel Core i5-6600 3.3GHz veya eşdeğeri\nBellek: 8 GB RAM\nEkran Kartı: Nvidia GeForce GTX 700 serisi veya dengi\nDepolama: 10 GB",
+    "game_size_gb": "10",
+    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/cover.png",
+    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/banner.jpg",
+    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/library_hero.png",
+    "screenshot_urls": [
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_01.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_02.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_03.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_04.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_05.jpg",
+      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/screenshots/ss_06.jpg"
+    ],
+    "download_links": [
+      {
+        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/3ae8d3a3-152d-49fd-b500-6b1909130692/torrents/Raft.v1.1.07-OFME_1.torrent",
+        "label": "Raft.v1.1.07-OFME",
+        "type": "Torrent",
+        "description": "",
+        "browser_only": false
+      }
+    ],
+    "info_items": [
+      {
+        "key": "Şifre",
+        "value": "online-fix.me"
+      }
+    ],
+    "id": "3ae8d3a3-152d-49fd-b500-6b1909130692",
+    "added_date": "2026-06-22T19:17:50.727897",
+    "first_added_date": "2026-06-22T19:17:50.727897",
+    "categories": [
+      "287a90c1-a897-45a6-8964-e0175590c3d5",
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "accd1184-24d0-4772-8f72-91e9fe779b4f"
+    ],
+    "category": "287a90c1-a897-45a6-8964-e0175590c3d5,b53fc043-1aeb-409b-b320-ff1463463533,accd1184-24d0-4772-8f72-91e9fe779b4f",
+    "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
     "id": "53cc2820-9944-4620-9609-5f350dc26207",
@@ -5851,74 +5901,23 @@
     "category": "b53fc043-1aeb-409b-b320-ff1463463533,accd1184-24d0-4772-8f72-91e9fe779b4f,287a90c1-a897-45a6-8964-e0175590c3d5,235abb15-7348-45e5-bcb8-81380579f8e1"
   },
   {
-    "name": "Sons of the Forest",
+    "id": "b444b9d8-5a47-4c52-97ce-43e6b76225dd",
+    "title": "Sons of the Forest",
     "description": "İlk oyunun devamı olan bu yapımda, çok daha büyük bir ada, geliştirilmiş inşa sistemleri ve Kelvin gibi size yardım eden yapay zeka dostlarınız var. Adadaki gizemli tesisleri araştırırken çok daha korkunç yaratıklarla savaşırsınız.",
+    "category": "b53fc043-1aeb-409b-b320-ff1463463533,accd1184-24d0-4772-8f72-91e9fe779b4f,235abb15-7348-45e5-bcb8-81380579f8e1",
     "developer": "Endnight Games",
     "publisher": "Newnight",
     "release_date": "22 Şub 2024",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Simulation",
-      "Indie",
-      "Singleplayer",
-      "Steam Achievements",
-      "Horror",
-      "Multiplayer",
-      "Atmospheric"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/cover.png?v=1782236606",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/banner.jpg?v=1782236606",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/library_hero.jpg?v=1782236606",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_01.jpg?v=1782236606",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_02.jpg?v=1782236606",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_03.jpg?v=1782236606",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_04.jpg?v=1782236606",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_05.jpg?v=1782236606"
-    ],
-    "note": "",
-    "rating": 7,
-    "hltb_hours": "14",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: 64-bit Windows 10\nİşlemci: INTEL CORE I5-8400 or AMD RYZEN 3 3300X\nBellek: 12 GB RAM\nEkran Kartı: NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB\nDirectX: Version 11\nDepolama: 20 GB kullanılabilir alan\nEk Notlar: SSD (Preferred)",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir\nİşletim Sistemi: 64-bit Windows 10\nİşlemci: INTEL CORE I7-8700K or AMD RYZEN 5 3600X\nBellek: 16 GB RAM\nEkran Kartı: NVIDIA GeForce 1080Ti  or AMD Radeon RX 5700 XT\nDirectX: Version 11\nDepolama: 20 GB kullanılabilir alan\nEk Notlar: SSD (Preferred)",
-    "game_size_gb": "12",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/cover.png?v=1782236606",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/banner.jpg?v=1782236606",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/library_hero.jpg?v=1782236606",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_01.jpg?v=1782236606",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_02.jpg?v=1782236606",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_03.jpg?v=1782236606",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_04.jpg?v=1782236606",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_05.jpg?v=1782236606"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/torrents/Sons.Of.The.Forest.Build.03102025-OFME.torrent",
-        "label": "Sons.Of.The.Forest.Build.03102025-OFME",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [
-      {
-        "key": "Şifre",
-        "value": "online-fix.me"
-      }
-    ],
-    "id": "b444b9d8-5a47-4c52-97ce-43e6b76225dd",
-    "added_date": "2026-06-23T19:42:29.913461",
-    "categories": [
-      "b53fc043-1aeb-409b-b320-ff1463463533",
-      "accd1184-24d0-4772-8f72-91e9fe779b4f",
-      "235abb15-7348-45e5-bcb8-81380579f8e1"
-    ],
-    "first_added_date": "2026-06-23T19:42:29.913461",
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "b53fc043-1aeb-409b-b320-ff1463463533,accd1184-24d0-4772-8f72-91e9fe779b4f,235abb15-7348-45e5-bcb8-81380579f8e1"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/library_hero.jpg",
+    "rating": 7.0,
+    "size_gb": 12.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-10-03T08:26:00.769431",
+    "raw_data": "{\"name\": \"Sons of the Forest\", \"description\": \"İlk oyunun devamı olan bu yapımda, çok daha büyük bir ada, geliştirilmiş inşa sistemleri ve Kelvin gibi size yardım eden yapay zeka dostlarınız var. Adadaki gizemli tesisleri araştırırken çok daha korkunç yaratıklarla savaşırsınız.\", \"developer\": \"Endnight Games\", \"publisher\": \"Newnight\", \"release_date\": \"22 Şub 2024\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_01.jpg?v=1782236606\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_02.jpg?v=1782236606\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_03.jpg?v=1782236606\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_04.jpg?v=1782236606\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_05.jpg?v=1782236606\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"14\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: 64-bit Windows 10\\nİşlemci: INTEL CORE I5-8400 or AMD RYZEN 3 3300X\\nBellek: 12 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB\\nDirectX: Version 11\\nDepolama: 20 GB kullanılabilir alan\\nEk Notlar: SSD (Preferred)\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: 64-bit Windows 10\\nİşlemci: INTEL CORE I7-8700K or AMD RYZEN 5 3600X\\nBellek: 16 GB RAM\\nEkran Kartı: NVIDIA GeForce 1080Ti  or AMD Radeon RX 5700 XT\\nDirectX: Version 11\\nDepolama: 20 GB kullanılabilir alan\\nEk Notlar: SSD (Preferred)\", \"game_size_gb\": \"12\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_01.jpg?v=1782236606\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_02.jpg?v=1782236606\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_03.jpg?v=1782236606\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_04.jpg?v=1782236606\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/screenshots/ss_05.jpg?v=1782236606\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/b444b9d8-5a47-4c52-97ce-43e6b76225dd/torrents/Sons.Of.The.Forest.Build.03102025-OFME.torrent\", \"label\": \"Sons.Of.The.Forest.Build.03102025-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://uploads.online-fix.me:2053/uploads/Sons%20Of%20The%20Forest/Fix%20Repair/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Online çalızmazsa bunu içine atın!\", \"browser_only\": true}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"b53fc043-1aeb-409b-b320-ff1463463533\", \"accd1184-24d0-4772-8f72-91e9fe779b4f\", \"235abb15-7348-45e5-bcb8-81380579f8e1\"], \"id\": \"b444b9d8-5a47-4c52-97ce-43e6b76225dd\", \"added_date\": \"2026-06-23T19:42:29.913461\", \"first_added_date\": \"2026-06-23T19:42:29.913461\", \"last_updated\": \"2026-10-03T08:26:00.769431\"}",
+    "added_at": "2026-10-03T08:26:00.769431"
   },
   {
     "name": "Dying Light: The Beast",
