@@ -6828,50 +6828,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "GTA Vice City: Big Mission Pack Türkçe",
+    "id": "22b12345-8eb9-4de2-a0a7-54eb01786c93",
+    "title": "GTA Vice City: Big Mission Pack Türkçe",
     "description": "Vice City için yapılmış, oyuna onlarca yeni görev, yeni mekanikler, mülk satın alma özellikleri ve yepyeni bir hikaye dizilimi ekleyen devasa bir hayran paketidir.",
+    "category": "3b4b4781-566a-481e-acc7-1b49baf6609a,865c7c8e-a508-46de-b942-8c80ef06a506",
     "developer": "Rockstar North, Rockstar Leeds",
     "publisher": "Rockstar Games, 1C-SoftClub",
     "release_date": "31 Eki 2006",
-    "tags": [
-      "Action"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/cover.png?v=1782273720",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/banner.jpg?v=1782273720",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/library_hero.png?v=1782273720",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_01.jpg?v=1782273720",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_02.jpg?v=1782273720",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_03.webp?v=1782273720",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_04.jpg?v=1782273720"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "6",
-    "show_hltb": true,
-    "sys_min": "",
-    "sys_recommended": "",
-    "game_size_gb": "",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/cover.png?v=1782273720",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/banner.jpg?v=1782273720",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/library_hero.png?v=1782273720",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_01.jpg?v=1782273720",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_02.jpg?v=1782273720",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_03.webp?v=1782273720",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_04.jpg?v=1782273720"
-    ],
-    "download_links": [],
-    "info_items": [],
-    "id": "22b12345-8eb9-4de2-a0a7-54eb01786c93",
-    "added_date": "2026-06-24T06:03:00.947035",
-    "categories": [
-      "3b4b4781-566a-481e-acc7-1b49baf6609a",
-      "865c7c8e-a508-46de-b942-8c80ef06a506"
-    ],
-    "first_added_date": "2026-06-24T06:03:00.947035",
-    "category": "3b4b4781-566a-481e-acc7-1b49baf6609a,865c7c8e-a508-46de-b942-8c80ef06a506",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/library_hero.png",
+    "rating": 8.0,
+    "size_gb": 0.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-10-05T17:33:57.914316",
+    "raw_data": "{\"name\": \"GTA Vice City: Big Mission Pack Türkçe\", \"description\": \"Vice City için yapılmış, oyuna onlarca yeni görev, yeni mekanikler, mülk satın alma özellikleri ve yepyeni bir hikaye dizilimi ekleyen devasa bir hayran paketidir.\", \"developer\": \"Rockstar North, Rockstar Leeds\", \"publisher\": \"Rockstar Games, 1C-SoftClub\", \"release_date\": \"31 Eki 2006\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_01.jpg?v=1782273720\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_02.jpg?v=1782273720\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_03.webp?v=1782273720\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_04.jpg?v=1782273720\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 8, \"hltb_hours\": \"6\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_01.jpg?v=1782273720\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_02.jpg?v=1782273720\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_03.webp?v=1782273720\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/22b12345-8eb9-4de2-a0a7-54eb01786c93/screenshots/ss_04.jpg?v=1782273720\"], \"download_links\": [{\"url\": \"https://www.moddb.com/mods/vice-city-big-mission-pack\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\", \"browser_only\": true}, {\"url\": \"https://drive.google.com/file/d/1OdR-B1_ox_7uyqqOqYuVjK6xmqaQcOQL/view\", \"label\": \"📁 Google Drive\", \"type\": \"gdrive\", \"description\": \"Türkçe Yama\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"3b4b4781-566a-481e-acc7-1b49baf6609a\", \"865c7c8e-a508-46de-b942-8c80ef06a506\"], \"id\": \"22b12345-8eb9-4de2-a0a7-54eb01786c93\", \"added_date\": \"2026-06-24T06:03:00.947035\", \"first_added_date\": \"2026-06-24T06:03:00.947035\", \"last_updated\": \"2026-10-05T17:33:57.914316\"}",
+    "added_at": "2026-10-05T17:33:57.914316"
   },
   {
     "id": "b8742954-019e-4227-a199-af59db1a381e",
