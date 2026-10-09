@@ -8812,10 +8812,11 @@
     "added_date": "2026-06-26T07:12:03.828395",
     "first_added_date": "2026-06-26T07:12:03.828395",
     "categories": [
-      "6df7eba0-256d-4958-a151-92037d8cbbca"
+      "6df7eba0-256d-4958-a151-92037d8cbbca",
+      "ad580400-3ce8-4ad9-8e24-99d731dcb79f"
     ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "6df7eba0-256d-4958-a151-92037d8cbbca"
+    "last_updated": "2026-10-09T13:32:00.710205",
+    "category": "6df7eba0-256d-4958-a151-92037d8cbbca,ad580400-3ce8-4ad9-8e24-99d731dcb79f"
   },
   {
     "id": "80d5c4d1-9428-4497-82aa-5f6fe02a10d6",
@@ -16203,7 +16204,7 @@
     "id": "fd5d7b3a-0a31-4cbf-9f4c-c0c4a5b1f5f2",
     "title": "NBA 2K26",
     "description": "Visual Concepts tarafından geliştirilen ve 2K tarafından yayınlanan NBA 2K26, serinin 27. oyunu olarak 5 Eylül 2025 tarihinde çıkış yapmıştır",
-    "category": "",
+    "category": "6df7eba0-256d-4958-a151-92037d8cbbca,ad580400-3ce8-4ad9-8e24-99d731dcb79f",
     "developer": "Visual Concepts",
     "publisher": "2K Games",
     "release_date": "4 Eyl 2025",
@@ -16214,15 +16215,19 @@
     "size_gb": 95.42,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-10-09T13:04:10.848914",
+    "last_updated": "2026-10-09T13:32:00.710205",
     "raw_data": "{\"name\": \"NBA 2K26\", \"description\": \"Visual Concepts tarafından geliştirilen ve 2K tarafından yayınlanan NBA 2K26, serinin 27. oyunu olarak 5 Eylül 2025 tarihinde çıkış yapmıştır\", \"developer\": \"Visual Concepts\", \"publisher\": \"2K Games\", \"release_date\": \"4 Eyl 2025\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fd5d7b3a-0a31-4cbf-9f4c-c0c4a5b1f5f2/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fd5d7b3a-0a31-4cbf-9f4c-c0c4a5b1f5f2/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fd5d7b3a-0a31-4cbf-9f4c-c0c4a5b1f5f2/library_hero.png\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/ec4/ec4ed85923af20d5bff007395dbccfbe.jpg\", \"https://media.rawg.io/media/screenshots/936/936ee182c2546958dbac167d15b66d03.jpg\", \"https://media.rawg.io/media/screenshots/d6a/d6af8817a267dff6d791c795031d1208.jpg\", \"https://media.rawg.io/media/screenshots/dbe/dbeb7547aa09e21b1e1ca1dccf4602dc.jpg\", \"https://media.rawg.io/media/screenshots/b77/b7728fb8d07d60093c25b97b8dba692d.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"3\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-Bit (latest update)\\nİşlemci: Intel® Core™ i3-9100 or AMD Ryzen™ 3 1200\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA® GeForce® GTX 1060 5 GB or AMD Radeon™ RX 5500 XT 4 GB or Intel® Arc™ A580\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 110 GB kullanılabilir alan\\nEk Notlar: SSD Required. Dual-analog Gamepad recommended. Initial installation requires one-time internet connection for Steam authentication; software installations required (included with the game) include DirectX and Visual C++ Redistributable 2019. In order to play NBA 2K26 on PC, you need a processor capable of supporting AVX2 and a graphics card capable of supporting DirectX feature level 12.0.\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 11 64-Bit (latest update)\\nİşlemci: Intel® Core™ i5-10600 or AMD Ryzen™ 5 3600X\\nBellek: 16 GB RAM\\nEkran Kartı: NVIDIA® GeForce® RTX 2070 8 GB or AMD Radeon™ RX 5700 8 GB or Intel® Arc™ A770\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 110 GB kullanılabilir alan\\nEk Notlar: SSD Required. Dual-analog Gamepad recommended. Initial installation requires one-time internet connection for Steam authentication; software installations required (included with the game) include DirectX and Visual C++ Redistributable 2019. In order to play NBA 2K26 on PC, you need a processor capable of supporting AVX2 and a graphics card capable of supporting DirectX feature level 12.0.\", \"game_size_gb\": \"95.42\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fd5d7b3a-0a31-4cbf-9f4c-c0c4a5b1f5f2/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fd5d7b3a-0a31-4cbf-9f4c-c0c4a5b1f5f2/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fd5d7b3a-0a31-4cbf-9f4c-c0c4a5b1f5f2/library_hero.png\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/ec4/ec4ed85923af20d5bff007395dbccfbe.jpg\", \"https://media.rawg.io/media/screenshots/936/936ee182c2546958dbac167d15b66d03.jpg\", \"https://media.rawg.io/media/screenshots/d6a/d6af8817a267dff6d791c795031d1208.jpg\", \"https://media.rawg.io/media/screenshots/dbe/dbeb7547aa09e21b1e1ca1dccf4602dc.jpg\", \"https://media.rawg.io/media/screenshots/b77/b7728fb8d07d60093c25b97b8dba692d.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/fd5d7b3a-0a31-4cbf-9f4c-c0c4a5b1f5f2/torrents/NBA-2K26.torrent\", \"label\": \"NBA-2K26\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [], \"id\": \"fd5d7b3a-0a31-4cbf-9f4c-c0c4a5b1f5f2\", \"added_date\": \"2026-10-09T13:03:57.125530\", \"first_added_date\": \"2026-10-09T13:03:57.125530\", \"last_updated\": \"2026-10-09T13:04:10.848914\"}",
-    "added_at": "2026-10-09T13:04:10.848914"
+    "added_at": "2026-10-09T13:04:10.848914",
+    "categories": [
+      "6df7eba0-256d-4958-a151-92037d8cbbca",
+      "ad580400-3ce8-4ad9-8e24-99d731dcb79f"
+    ]
   },
   {
     "id": "8b9abfaf-1452-48ad-ab19-eee2df32be5c",
     "title": "NBA 2K18",
     "description": "NBA 2K18, Visual Concepts tarafından geliştirilen ve 2K Sports tarafından yayımlanan, 2017 yılının en çok satan popüler basketbol simülasyonu video oyunudur. Seri için bir dönüm noktası olan bu yapım, özellikle sunduğu yeni açık dünya mekanikleriyle dikkat çekmiştir.",
-    "category": "",
+    "category": "6df7eba0-256d-4958-a151-92037d8cbbca,ad580400-3ce8-4ad9-8e24-99d731dcb79f",
     "developer": "2K, Visual Concepts",
     "publisher": "2K Games",
     "release_date": "15 Eyl 2017",
@@ -16233,8 +16238,12 @@
     "size_gb": 55.8,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-10-09T13:10:52.637173",
+    "last_updated": "2026-10-09T13:32:00.710205",
     "raw_data": "{\"name\": \"NBA 2K18\", \"description\": \"NBA 2K18, Visual Concepts tarafından geliştirilen ve 2K Sports tarafından yayımlanan, 2017 yılının en çok satan popüler basketbol simülasyonu video oyunudur. Seri için bir dönüm noktası olan bu yapım, özellikle sunduğu yeni açık dünya mekanikleriyle dikkat çekmiştir.\", \"developer\": \"2K, Visual Concepts\", \"publisher\": \"2K Games\", \"release_date\": \"15 Eyl 2017\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b9abfaf-1452-48ad-ab19-eee2df32be5c/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b9abfaf-1452-48ad-ab19-eee2df32be5c/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b9abfaf-1452-48ad-ab19-eee2df32be5c/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/087/0872fbc74290dfe56a5f5286c0c88d11.jpg\", \"https://media.rawg.io/media/screenshots/dae/daea385b7af984b4f85d7126a5cf90da.jpg\", \"https://media.rawg.io/media/screenshots/233/2331b220a287e368de078cb3695950ae.jpg\", \"https://media.rawg.io/media/screenshots/cf1/cf1db57bf4c77056b9a456807e98a1af.jpg\", \"https://media.rawg.io/media/screenshots/ff6/ff65181ad4867b622d3463a68d306f03.jpg\", \"https://media.rawg.io/media/screenshots/157/157bed8251c8988186d517f16240eb3f.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 6, \"hltb_hours\": \"46\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7x64 / Windows 8.1x64 / Windows 10x64\\nİşlemci: Intel® Core™ i3-530 @ 2.93 GHz / AMD Phenom™ II X4 805 @ 2.50 GHz veya üstü\\nBellek: 4 GB RAM\\nEkran Kartı: NVIDIA® GeForce® GT 450 1GB / ATI® Radeon™ HD 6770 1GB veya üstü\\nDirectX: Version 11\\nDepolama: 70 GB kullanılabilir alan\\nSes Kartı: DirectX 9.0x compatible Dual-Analog Gamepad: Recommended\", \"sys_recommended\": \"İşletim Sistemi: Windows 7x64 / Windows 8.1x64 / Windows 10x64\\nİşlemci: Intel® Core™ i5-4430 @ 3 GHz / AMD FX-8370 @ 3.4 GHz veya üstü\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA® GeForce® GTX 770 2GB / ATI® Radeon™ R9 270 2GB veya üstü\\nDirectX: Version 11\\nDepolama: 70 GB kullanılabilir alan\\nSes Kartı: DirectX 9.0c compatible\", \"game_size_gb\": \"55.8\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b9abfaf-1452-48ad-ab19-eee2df32be5c/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b9abfaf-1452-48ad-ab19-eee2df32be5c/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b9abfaf-1452-48ad-ab19-eee2df32be5c/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/087/0872fbc74290dfe56a5f5286c0c88d11.jpg\", \"https://media.rawg.io/media/screenshots/dae/daea385b7af984b4f85d7126a5cf90da.jpg\", \"https://media.rawg.io/media/screenshots/233/2331b220a287e368de078cb3695950ae.jpg\", \"https://media.rawg.io/media/screenshots/cf1/cf1db57bf4c77056b9a456807e98a1af.jpg\", \"https://media.rawg.io/media/screenshots/ff6/ff65181ad4867b622d3463a68d306f03.jpg\", \"https://media.rawg.io/media/screenshots/157/157bed8251c8988186d517f16240eb3f.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8b9abfaf-1452-48ad-ab19-eee2df32be5c/torrents/NBA.2K18-CODEX.torrent\", \"label\": \"NBA.2K18-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [], \"id\": \"8b9abfaf-1452-48ad-ab19-eee2df32be5c\", \"added_date\": \"2026-10-09T13:10:39.508288\", \"first_added_date\": \"2026-10-09T13:10:39.508288\", \"last_updated\": \"2026-10-09T13:10:52.637173\"}",
-    "added_at": "2026-10-09T13:10:52.637173"
+    "added_at": "2026-10-09T13:10:52.637173",
+    "categories": [
+      "6df7eba0-256d-4958-a151-92037d8cbbca",
+      "ad580400-3ce8-4ad9-8e24-99d731dcb79f"
+    ]
   }
 ]
