@@ -677,5 +677,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+  },
+  {
+    "id": "ad580400-3ce8-4ad9-8e24-99d731dcb79f",
+    "name": "NBA",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "6df7eba0-256d-4958-a151-92037d8cbbca"
   }
 ]
