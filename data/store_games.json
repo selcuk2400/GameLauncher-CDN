@@ -16245,5 +16245,24 @@
       "6df7eba0-256d-4958-a151-92037d8cbbca",
       "ad580400-3ce8-4ad9-8e24-99d731dcb79f"
     ]
+  },
+  {
+    "id": "a7ab2a08-f7e1-4926-a95c-34921c58ded1",
+    "title": "Gears of War: E-Day",
+    "description": "Gears of War: E-Day, ilk Gears of War oyunundan 14 yıl önce, yeraltında yaşayan düşman Locust ırkının Sera gezegenini ilk kez büyük bir vahşetle bastığı Emergence Day (Taayyün Günü) olaylarını anlatan bir ön bölüm (prequel) oyunudur.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,79ff465f-4c7e-4b72-86cd-65321bece9cf",
+    "developer": "The Coalition",
+    "publisher": "Xbox Game Studios",
+    "release_date": "6 Eki 2026",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/library_hero.jpg",
+    "rating": 7.0,
+    "size_gb": 109.06,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-10-10T17:12:14.237134",
+    "raw_data": "{\"name\": \"Gears of War: E-Day\", \"description\": \"Gears of War: E-Day, ilk Gears of War oyunundan 14 yıl önce, yeraltında yaşayan düşman Locust ırkının Sera gezegenini ilk kez büyük bir vahşetle bastığı Emergence Day (Taayyün Günü) olaylarını anlatan bir ön bölüm (prequel) oyunudur.\", \"developer\": \"The Coalition\", \"publisher\": \"Xbox Game Studios\", \"release_date\": \"6 Eki 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/2dd/2ddacaf4a439076f390beaca74707bcb.jpg\", \"https://media.rawg.io/media/screenshots/9a2/9a2488797ed1b9722e2aa9c16d76f310.jpg\", \"https://media.rawg.io/media/screenshots/cb8/cb88356feb27fba1102659e7a09c222a.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"10-15\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"109.06\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/2dd/2ddacaf4a439076f390beaca74707bcb.jpg\", \"https://media.rawg.io/media/screenshots/9a2/9a2488797ed1b9722e2aa9c16d76f310.jpg\", \"https://media.rawg.io/media/screenshots/cb8/cb88356feb27fba1102659e7a09c222a.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a7ab2a08-f7e1-4926-a95c-34921c58ded1/torrents/Gears of War E-Day.torrent\", \"label\": \"Gears of War E-Day\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\", \"79ff465f-4c7e-4b72-86cd-65321bece9cf\"], \"id\": \"a7ab2a08-f7e1-4926-a95c-34921c58ded1\", \"added_date\": \"2026-10-10T17:11:54.822960\", \"first_added_date\": \"2026-10-10T17:11:54.822960\", \"last_updated\": \"2026-10-10T17:12:14.237134\"}",
+    "added_at": "2026-10-10T17:12:14.237134"
   }
 ]
