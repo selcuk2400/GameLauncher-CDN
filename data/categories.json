@@ -684,5 +684,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "6df7eba0-256d-4958-a151-92037d8cbbca"
+  },
+  {
+    "id": "df171c15-160f-4f27-999b-2b961f570ac6",
+    "name": "Motor Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
   }
 ]
