@@ -691,5 +691,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": null
+  },
+  {
+    "id": "709a7013-c13e-4e04-9778-849102ea49bf",
+    "name": "MotoGP",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "df171c15-160f-4f27-999b-2b961f570ac6"
   }
 ]
