@@ -726,5 +726,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5f38c3a3-44d1-488e-a5de-a4d95c742ab5"
+  },
+  {
+    "id": "8227798d-9217-4c29-acdf-09148873bedf",
+    "name": "Ride",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "df171c15-160f-4f27-999b-2b961f570ac6"
   }
 ]
