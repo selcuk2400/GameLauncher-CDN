@@ -733,5 +733,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "df171c15-160f-4f27-999b-2b961f570ac6"
+  },
+  {
+    "id": "fd62fa7e-a9e4-42bb-a581-0bbc9635465d",
+    "name": "Alone in the Dark",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
