@@ -719,5 +719,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "90803bdd-7968-457d-90a9-7175673aef85"
+  },
+  {
+    "id": "6a05628a-93b1-44f1-9143-40ec5df0e9af",
+    "name": "Dragon Ball Xenoverse",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5f38c3a3-44d1-488e-a5de-a4d95c742ab5"
   }
 ]
