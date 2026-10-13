@@ -768,5 +768,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "da585194-ffec-4aa4-9ad4-22485a73bba6"
+  },
+  {
+    "id": "e6c36bd3-204e-4ac9-a565-b05c8185a93b",
+    "name": "Hunting Simulator",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "b36d62ae-dfa3-4e15-a4fb-c0bebcf3295a"
   }
 ]
