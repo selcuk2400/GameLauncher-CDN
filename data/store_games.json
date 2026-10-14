@@ -17293,5 +17293,24 @@
       "5c112b26-4d14-49b5-9aef-1a97232e8456",
       "a9b41b4b-2523-4549-886d-880d6317c80e"
     ]
+  },
+  {
+    "id": "2ba7ee97-089d-42a2-9056-32e9bc097465",
+    "title": "Counter-Strike: Global Offensive",
+    "description": "Counter-Strike: Global Offensive (CS:GO), Valve ve Hidden Path Entertainment tarafından geliştirilen, Ağustos 2012'de piyasaya sürülen çok oyunculu bir birinci şahıs nişancı (FPS) oyunudur.",
+    "category": "b53fc043-1aeb-409b-b320-ff1463463533,bd346244-e22c-4839-a5db-05335396e771",
+    "developer": "Valve Software",
+    "publisher": "Valve",
+    "release_date": "21 Ağu 2012",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2ba7ee97-089d-42a2-9056-32e9bc097465/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2ba7ee97-089d-42a2-9056-32e9bc097465/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2ba7ee97-089d-42a2-9056-32e9bc097465/library_hero.jpg",
+    "rating": 7.0,
+    "size_gb": 30.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-10-14T23:10:11.268479",
+    "raw_data": "{\"name\": \"Counter-Strike: Global Offensive\", \"description\": \"Counter-Strike: Global Offensive (CS:GO), Valve ve Hidden Path Entertainment tarafından geliştirilen, Ağustos 2012'de piyasaya sürülen çok oyunculu bir birinci şahıs nişancı (FPS) oyunudur.\", \"developer\": \"Valve Software\", \"publisher\": \"Valve\", \"release_date\": \"21 Ağu 2012\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2ba7ee97-089d-42a2-9056-32e9bc097465/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2ba7ee97-089d-42a2-9056-32e9bc097465/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2ba7ee97-089d-42a2-9056-32e9bc097465/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/ff1/ff16661bb15f7969b44f6c4118870e44.jpg\", \"https://media.rawg.io/media/screenshots/41b/41bb769d247412eac3336dec934aed72.jpg\", \"https://media.rawg.io/media/screenshots/754/754545acdbf71f56e8902a07c7d20696.jpg\", \"https://media.rawg.io/media/screenshots/fd8/fd873cab4c66db0b8e85d8a66e940074.jpg\", \"https://media.rawg.io/media/screenshots/7db/7db2954f7908b6749c36a5f3c9052f65.jpg\", \"https://media.rawg.io/media/screenshots/337/337a3e98b5933f456a2b37b59fab5f39.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows® 7/Vista/XP\\nİşlemci: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor veya üstü\\nBellek: 2 GB RAM\\nEkran Kartı: Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0\\nDirectX: Version 9.0c\\nDepolama: 15 GB kullanılabilir alan\", \"sys_recommended\": \"\", \"game_size_gb\": \"30\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2ba7ee97-089d-42a2-9056-32e9bc097465/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2ba7ee97-089d-42a2-9056-32e9bc097465/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2ba7ee97-089d-42a2-9056-32e9bc097465/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/ff1/ff16661bb15f7969b44f6c4118870e44.jpg\", \"https://media.rawg.io/media/screenshots/41b/41bb769d247412eac3336dec934aed72.jpg\", \"https://media.rawg.io/media/screenshots/754/754545acdbf71f56e8902a07c7d20696.jpg\", \"https://media.rawg.io/media/screenshots/fd8/fd873cab4c66db0b8e85d8a66e940074.jpg\", \"https://media.rawg.io/media/screenshots/7db/7db2954f7908b6749c36a5f3c9052f65.jpg\", \"https://media.rawg.io/media/screenshots/337/337a3e98b5933f456a2b37b59fab5f39.jpg\"], \"download_links\": [{\"url\": \"https://7launcher.com/?lang=tr\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"b53fc043-1aeb-409b-b320-ff1463463533\", \"bd346244-e22c-4839-a5db-05335396e771\"], \"id\": \"2ba7ee97-089d-42a2-9056-32e9bc097465\", \"added_date\": \"2026-10-14T23:10:00.300070\", \"first_added_date\": \"2026-10-14T23:10:00.300070\", \"last_updated\": \"2026-10-14T23:10:11.268479\"}",
+    "added_at": "2026-10-14T23:10:11.268479"
   }
 ]
