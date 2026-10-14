@@ -775,5 +775,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "b36d62ae-dfa3-4e15-a4fb-c0bebcf3295a"
+  },
+  {
+    "id": "a9b41b4b-2523-4549-886d-880d6317c80e",
+    "name": "Dark Souls",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
