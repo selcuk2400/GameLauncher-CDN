@@ -796,5 +796,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9"
+  },
+  {
+    "id": "58c2a1c9-e236-4d3f-aa6a-d05f8cfbd953",
+    "name": "Yakuza",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
