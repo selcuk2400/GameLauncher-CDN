@@ -4766,11 +4766,12 @@
     "added_date": "2026-06-22T22:20:33.607363",
     "first_added_date": "2026-06-22T22:20:33.607363",
     "categories": [
+      "966ebbf8-8998-4d32-9671-6914c9d9d1e1",
       "5c112b26-4d14-49b5-9aef-1a97232e8456",
-      "966ebbf8-8998-4d32-9671-6914c9d9d1e1"
+      "a6b2767c-0858-47a0-ac02-adb196a65877"
     ],
-    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456,966ebbf8-8998-4d32-9671-6914c9d9d1e1",
-    "last_updated": "2026-07-08T20:57:29.217091"
+    "category": "966ebbf8-8998-4d32-9671-6914c9d9d1e1,5c112b26-4d14-49b5-9aef-1a97232e8456,a6b2767c-0858-47a0-ac02-adb196a65877",
+    "last_updated": "2026-10-17T15:46:29.475554"
   },
   {
     "name": "Marvel's Spider-Man 2",
@@ -17450,7 +17451,7 @@
     "id": "f6c91744-d693-4b43-9248-b7fd73b6b544",
     "title": "UNCHARTED The Nathan Drake Collection",
     "description": "Uncharted: The Nathan Drake Collection, hazine avcısı Nathan Drake’in macerasını konu alan efsanevi PlayStation 3 üçlemesinin PlayStation 4 için yenilenmiş (remastered) tek bir paket halinde toplanmış versiyonudur.",
-    "category": "966ebbf8-8998-4d32-9671-6914c9d9d1e1",
+    "category": "966ebbf8-8998-4d32-9671-6914c9d9d1e1,5c112b26-4d14-49b5-9aef-1a97232e8456,a6b2767c-0858-47a0-ac02-adb196a65877",
     "developer": "Bluepoint Games",
     "publisher": "Sony Computer Entertainment",
     "release_date": "9 Eki 2015",
@@ -17461,8 +17462,13 @@
     "size_gb": 58.93,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-10-17T15:34:16.131227",
+    "last_updated": "2026-10-17T15:46:29.475554",
     "raw_data": "{\"name\": \"UNCHARTED The Nathan Drake Collection\", \"description\": \"Uncharted: The Nathan Drake Collection, hazine avcısı Nathan Drake’in macerasını konu alan efsanevi PlayStation 3 üçlemesinin PlayStation 4 için yenilenmiş (remastered) tek bir paket halinde toplanmış versiyonudur.\", \"developer\": \"Bluepoint Games\", \"publisher\": \"Sony Computer Entertainment\", \"release_date\": \"9 Eki 2015\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f6c91744-d693-4b43-9248-b7fd73b6b544/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f6c91744-d693-4b43-9248-b7fd73b6b544/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f6c91744-d693-4b43-9248-b7fd73b6b544/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/335/335ef3e55f761b66ddf4651a0631eb05.jpg\", \"https://media.rawg.io/media/screenshots/b6c/b6c8356aca5d238c97b77253cb228b1e.jpg\", \"https://media.rawg.io/media/screenshots/b50/b5014d572f88c648a8a26654feafd4b2.jpg\", \"https://media.rawg.io/media/screenshots/2a4/2a4b91d6de4afa99586afc42ecf31044.jpg\", \"https://media.rawg.io/media/screenshots/1f9/1f92e198b2ba6b48108c69cb018622be.jpg\", \"https://media.rawg.io/media/screenshots/4d5/4d52bdbd411fdfeaa5864d7b0698b906.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 9, \"hltb_hours\": \"25-30\", \"show_hltb\": true, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"58.93\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f6c91744-d693-4b43-9248-b7fd73b6b544/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f6c91744-d693-4b43-9248-b7fd73b6b544/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f6c91744-d693-4b43-9248-b7fd73b6b544/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/335/335ef3e55f761b66ddf4651a0631eb05.jpg\", \"https://media.rawg.io/media/screenshots/b6c/b6c8356aca5d238c97b77253cb228b1e.jpg\", \"https://media.rawg.io/media/screenshots/b50/b5014d572f88c648a8a26654feafd4b2.jpg\", \"https://media.rawg.io/media/screenshots/2a4/2a4b91d6de4afa99586afc42ecf31044.jpg\", \"https://media.rawg.io/media/screenshots/1f9/1f92e198b2ba6b48108c69cb018622be.jpg\", \"https://media.rawg.io/media/screenshots/4d5/4d52bdbd411fdfeaa5864d7b0698b906.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f6c91744-d693-4b43-9248-b7fd73b6b544/torrents/Uncharted.The.Nathan.Drake.Collection-P2P.torrent\", \"label\": \"Uncharted.The.Nathan.Drake.Collection-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"966ebbf8-8998-4d32-9671-6914c9d9d1e1\"], \"id\": \"f6c91744-d693-4b43-9248-b7fd73b6b544\", \"added_date\": \"2026-10-17T15:34:02.630835\", \"first_added_date\": \"2026-10-17T15:34:02.630835\", \"last_updated\": \"2026-10-17T15:34:16.131227\"}",
-    "added_at": "2026-10-17T15:34:16.131227"
+    "added_at": "2026-10-17T15:34:16.131227",
+    "categories": [
+      "966ebbf8-8998-4d32-9671-6914c9d9d1e1",
+      "5c112b26-4d14-49b5-9aef-1a97232e8456",
+      "a6b2767c-0858-47a0-ac02-adb196a65877"
+    ]
   }
 ]
