@@ -9851,30 +9851,6 @@
     "added_at": "2026-07-26T00:00:11.698537"
   },
   {
-    "id": "6fb7976e-9804-4646-bdc0-36763c52343c",
-    "title": "Car Dealership Simulator",
-    "description": "Araba Bayiliği Simülatörü, son derece kapsamlı ve ayrıntılı bir araba bayiliği iş simülasyon oyunudur. Araba Bayiliği Simülatörü ayrıntılı araba alım satım mekaniğini içerir. Arabalarınızı satın alın, fiyatlandırın, temizleyin ve satın.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,7e2cbc31-4e7b-46b6-af72-889492cfda97",
-    "developer": "Quadfix Games, THE BARONATOR",
-    "publisher": "Quadfix Games",
-    "release_date": "24 Oca 2022",
-    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/cover.webp",
-    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/banner.jpg",
-    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/library_hero.jpg",
-    "rating": 0.0,
-    "size_gb": 1.0,
-    "tags": [],
-    "is_active": true,
-    "last_updated": "2026-10-14T22:29:35.546467",
-    "raw_data": "{\"name\": \"Car Dealership Simulator\", \"description\": \"Araba Bayiliği Simülatörü, son derece kapsamlı ve ayrıntılı bir araba bayiliği iş simülasyon oyunudur. Araba Bayiliği Simülatörü ayrıntılı araba alım satım mekaniğini içerir. Arabalarınızı satın alın, fiyatlandırın, temizleyin ve satın.\", \"developer\": \"Quadfix Games, THE BARONATOR\", \"publisher\": \"Quadfix Games\", \"release_date\": \"24 Oca 2022\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/cover.webp\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/screenshots/ss_01.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i5 3.0 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1050ti 4 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i7 3.5 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1660ti 6 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"game_size_gb\": \"1\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/cover.webp\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/screenshots/ss_01.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6fb7976e-9804-4646-bdc0-36763c52343c/torrents/9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B.torrent\", \"label\": \"9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"6fb7976e-9804-4646-bdc0-36763c52343c\", \"added_date\": \"2026-06-26T19:59:53.304736\", \"first_added_date\": \"2026-06-26T19:59:53.304736\", \"last_updated\": \"2026-07-16T12:55:43.062358\"}",
-    "added_at": "2026-07-16T12:55:43.062358",
-    "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
-    ]
-  },
-  {
     "id": "a953006e-5cf0-44c2-aab8-f680f1b481c6",
     "title": "Pacify",
     "description": "HİKAYE PAH Inc. Paranormal Activity Helpers Incorporated ile yeni sözleşme imzaladınız, evet kulağa bayat geliyor ama maaşınız harika. Hiçbir zaman gerçek bir tehlike altında olmayacağınızı söylediler ve şu anda tonlarca işleri var.",
