@@ -810,5 +810,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "8f0acc3e-6c99-4e92-b9bc-9c8ecc6b1e56",
+    "name": "Handball",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "6df7eba0-256d-4958-a151-92037d8cbbca"
   }
 ]
