@@ -49,13 +49,6 @@
     "parent_id": null
   },
   {
-    "id": "d5552220-74ec-41ac-a756-aabe6724cb3c",
-    "name": "Farming Simulator",
-    "icon": "🚜",
-    "is_default": false,
-    "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
-  },
-  {
     "id": "865c7c8e-a508-46de-b942-8c80ef06a506",
     "name": "GTA Modları",
     "icon": "📁",
