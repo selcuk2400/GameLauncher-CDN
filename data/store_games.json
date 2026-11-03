@@ -5048,7 +5048,7 @@
     "id": "0916578d-f839-497a-9fc1-ab6a9d9fda00",
     "title": "Farming Simulator 17",
     "description": "Modern bir çiftçinin günlük hayatını deneyimlediğiniz, tarlaları ekip biçtiğiniz ve hayvancılıkla uğraştığınız sakin bir simülasyon oyunudur. 250'den fazla gerçek lisanslı araç (Massey Ferguson, Fendt vb.) ve ilk kez eklenen kadın karakter seçeneğiyle dikkat çeker.\nAna Hikaye Süresi: Hikaye Yok (Simülasyon/Sınırsız)",
-    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,81e9449d-d5fa-4e0e-b044-47301c5622a0,b53fc043-1aeb-409b-b320-ff1463463533",
+    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,b53fc043-1aeb-409b-b320-ff1463463533,81e9449d-d5fa-4e0e-b044-47301c5622a0",
     "developer": "Focus Home Interactive, Giants Software",
     "publisher": "Focus Home Interactive",
     "release_date": "24 Eki 2016",
@@ -5059,9 +5059,15 @@
     "size_gb": 10.0,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-02T08:42:15.997458",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Farming Simulator 17\", \"description\": \"Modern bir çiftçinin günlük hayatını deneyimlediğiniz, tarlaları ekip biçtiğiniz ve hayvancılıkla uğraştığınız sakin bir simülasyon oyunudur. 250'den fazla gerçek lisanslı araç (Massey Ferguson, Fendt vb.) ve ilk kez eklenen kadın karakter seçeneğiyle dikkat çeker.\\nAna Hikaye Süresi: Hikaye Yok (Simülasyon/Sınırsız)\", \"developer\": \"Focus Home Interactive, Giants Software\", \"publisher\": \"Focus Home Interactive\", \"release_date\": \"24 Eki 2016\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_06.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7, Windows 8, Windows 10\\nİşlemci: 2.0 GHz Intel veya eşdeğeri AMD dual-core processor\\nBellek: 2 GB RAM\\nEkran Kartı: Nvidia Geforce GTS 450 Series, AMD Radeon HD 6770 graphics card veya üstü (min 1GB VRAM)\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 6 GB kullanılabilir alan\\nEk Notlar: INTERNET CONNECTION REQUIRED FOR THE ONLINE GAME\", \"sys_recommended\": \"\", \"game_size_gb\": \"10\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/torrents/Farming.Simulator.17.v1.5.3.1-OFME.torrent\", \"label\": \"Farming.Simulator.17.v1.5.3.1-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://uploads.online-fix.me:2053/uploads/Farming%20Simulator%2017/Fix%20Repair/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Online çalızmazsa bunu içine atın!\", \"browser_only\": true}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"d5552220-74ec-41ac-a756-aabe6724cb3c\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"81e9449d-d5fa-4e0e-b044-47301c5622a0\", \"b53fc043-1aeb-409b-b320-ff1463463533\"], \"id\": \"0916578d-f839-497a-9fc1-ab6a9d9fda00\", \"added_date\": \"2026-06-22T22:36:01.233941\", \"first_added_date\": \"2026-06-22T22:36:01.233941\", \"last_updated\": \"2026-11-02T08:42:15.997458\"}",
-    "added_at": "2026-07-11T14:19:37.021845"
+    "added_at": "2026-07-11T14:19:37.021845",
+    "categories": [
+      "d5552220-74ec-41ac-a756-aabe6724cb3c",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0"
+    ]
   },
   {
     "name": "Farming Simulator 19",
@@ -5127,13 +5133,12 @@
     "categories": [
       "d5552220-74ec-41ac-a756-aabe6724cb3c",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
-      "81e9449d-d5fa-4e0e-b044-47301c5622a0",
-      "b53fc043-1aeb-409b-b320-ff1463463533"
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0"
     ],
     "first_added_date": "2026-06-22T22:37:44.271508",
-    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,81e9449d-d5fa-4e0e-b044-47301c5622a0,b53fc043-1aeb-409b-b320-ff1463463533",
-    "last_updated": "2026-10-13T23:06:23.214289"
+    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,b53fc043-1aeb-409b-b320-ff1463463533,81e9449d-d5fa-4e0e-b044-47301c5622a0",
+    "last_updated": "2026-11-03T10:28:57.783741"
   },
   {
     "name": "PAYDAY 2",
@@ -5413,13 +5418,12 @@
     "categories": [
       "d5552220-74ec-41ac-a756-aabe6724cb3c",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
-      "81e9449d-d5fa-4e0e-b044-47301c5622a0",
-      "b53fc043-1aeb-409b-b320-ff1463463533"
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0"
     ],
     "first_added_date": "2026-06-23T19:35:06.850083",
-    "last_updated": "2026-10-13T23:06:23.214289",
-    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,81e9449d-d5fa-4e0e-b044-47301c5622a0,b53fc043-1aeb-409b-b320-ff1463463533"
+    "last_updated": "2026-11-03T10:28:57.783741",
+    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,b53fc043-1aeb-409b-b320-ff1463463533,81e9449d-d5fa-4e0e-b044-47301c5622a0"
   },
   {
     "name": "Starfield",
@@ -6982,11 +6986,10 @@
     "added_date": "2026-06-24T07:49:19.413621",
     "first_added_date": "2026-06-24T07:49:19.413621",
     "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ],
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97",
-    "last_updated": "2026-10-14T22:29:35.546467"
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "last_updated": "2026-11-03T10:28:57.783741"
   },
   {
     "id": "d264f13a-2244-410f-8ea1-47f05acc2bb0",
@@ -8691,7 +8694,7 @@
     "id": "84877940-a1e5-4324-ac06-870afcd3b4ac",
     "title": "Bus Simulator 21",
     "description": "Otobüsünüz. Rotanız. Programınız.",
-    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,ad65740a-4045-43df-9ce7-7b0adbfe3805",
+    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,ad65740a-4045-43df-9ce7-7b0adbfe3805",
     "developer": "stillalive studios",
     "publisher": "Astragon Entertainment",
     "release_date": "7 Eyl 2021",
@@ -8709,13 +8712,12 @@
       "First-Person"
     ],
     "is_active": true,
-    "last_updated": "2026-11-03T09:34:32.445129",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Bus Simulator 21\", \"description\": \"Otobüsünüz. Rotanız. Programınız.\", \"developer\": \"stillalive studios\", \"publisher\": \"Astragon Entertainment\", \"release_date\": \"7 Eyl 2021\", \"tags\": [\"Simulation\", \"Singleplayer\", \"3D\", \"Steam Achievements\", \"Multiplayer\", \"First-Person\"], \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-Bit\\nİşlemci: Intel Core i3-2120 / AMD Phenom II X4 830 veya eşdeğeri\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 760 (2GB VRAM) / AMD Radeon R9 280 (2GB VRAM) veya üstü\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 18 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-Bit\\nİşlemci: Intel Core i5-4440 / AMD FC-8140 veya eşdeğeri\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 1070 (8GB VRAM) / AMD Radeon RX Vega 56 (8GB VRAM) veya üstü\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 18 GB kullanılabilir alan\", \"game_size_gb\": \"6\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/84877940-a1e5-4324-ac06-870afcd3b4ac/torrents/Bus.Simulator.21-CODEX.torrent\", \"label\": \"Bus.Simulator.21-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"id\": \"84877940-a1e5-4324-ac06-870afcd3b4ac\", \"added_date\": \"2026-06-26T07:15:10.100834\", \"categories\": [\"4f49954a-5f02-4926-9584-d9ad83bd2a2c\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"ad65740a-4045-43df-9ce7-7b0adbfe3805\"], \"first_added_date\": \"2026-06-26T07:15:10.100834\", \"last_updated\": \"2026-07-11T16:25:43.177023\"}",
     "added_at": "2026-07-11T16:25:43.177023",
     "categories": [
       "4f49954a-5f02-4926-9584-d9ad83bd2a2c",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
       "ad65740a-4045-43df-9ce7-7b0adbfe3805"
     ]
   },
@@ -9521,7 +9523,7 @@
     "id": "1551581f-66e7-43e5-94e2-2fd78ecc7723",
     "title": "Farmer's Life",
     "description": "O kadar gerçekçi bir simülatör ki pislik kokuyor... Bir çiftçinin hayatı pis koku, pislik ve sıkı çalışmayla doludur. Keşmir yaşlı bir bekar, çiftçi ve alkoliktir.",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "category": "",
     "developer": "Freemind",
     "publisher": "PlayWay, FreeMind",
     "release_date": "9 Haz 2021",
@@ -9532,9 +9534,10 @@
     "size_gb": 5.0,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-08-23T23:30:14.638309",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Farmer's Life\", \"description\": \"O kadar gerçekçi bir simülatör ki pislik kokuyor... Bir çiftçinin hayatı pis koku, pislik ve sıkı çalışmayla doludur. Keşmir yaşlı bir bekar, çiftçi ve alkoliktir.\", \"developer\": \"Freemind\", \"publisher\": \"PlayWay, FreeMind\", \"release_date\": \"9 Haz 2021\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/cover.webp\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7\\nİşlemci: Intel Core i5\\nBellek: 8 MB RAM\\nEkran Kartı: NVidia GeForce GTX 750\\nDirectX: Version 10\\nSes Kartı: DirectX compatible\", \"sys_recommended\": \"İşletim Sistemi: Windows 10\\nİşlemci: Intel Core i7\\nBellek: 8 MB RAM\\nEkran Kartı: NVidia GeForce GTX 1050\\nDirectX: Version 10\\nSes Kartı: DirectX compatible\", \"game_size_gb\": \"5\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/cover.webp\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/1551581f-66e7-43e5-94e2-2fd78ecc7723/torrents/Farmers.Life.v1.0.43-P2P.torrent\", \"label\": \"Farmers.Life.v1.0.43-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"1551581f-66e7-43e5-94e2-2fd78ecc7723\", \"added_date\": \"2026-06-26T19:32:42.033728\", \"first_added_date\": \"2026-06-26T19:32:42.033728\", \"last_updated\": \"2026-08-23T23:30:14.638309\"}",
-    "added_at": "2026-08-23T23:26:01.170778"
+    "added_at": "2026-08-23T23:26:01.170778",
+    "categories": []
   },
   {
     "name": "SOMA",
@@ -14029,7 +14032,7 @@
     "id": "eeab65ae-3558-4678-8d10-b3bad8f0d9ea",
     "title": "Car For Sale Simulator 2023",
     "description": "Satılık Araba Simülatörü 2023 - Araba tutkunları için geliştirildi, farklı araba modelleri alıp satarak kendi araba satış işinizi büyütün. Satın aldığınız arabaları dilediğiniz gibi sürün, onarın, modifiye edin ve uygun fiyatlarla müşterilere satın.",
-    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "category": "",
     "developer": "Red Axe Games",
     "publisher": "Red Axe Games",
     "release_date": "1 Kas 2024",
@@ -14040,12 +14043,10 @@
     "size_gb": 2.23,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-07-12T12:14:25.315820",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Car For Sale Simulator 2023\", \"description\": \"Satılık Araba Simülatörü 2023 - Araba tutkunları için geliştirildi, farklı araba modelleri alıp satarak kendi araba satış işinizi büyütün. Satın aldığınız arabaları dilediğiniz gibi sürün, onarın, modifiye edin ve uygun fiyatlarla müşterilere satın.\", \"developer\": \"Red Axe Games\", \"publisher\": \"Red Axe Games\", \"release_date\": \"1 Kas 2024\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/library_hero.jpg\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows (64-bit) 8\\nİşlemci: Intel Core i5-2500 @ 3,3 GHz (4 CPUs)\\nBellek: 6 GB RAM\\nEkran Kartı: NVidia GeForce GTX 670 2GB\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows (64-bit) 10\\nİşlemci: Intel Core i5-6500 @ 3,2 GHz (4 CPUs)\\nBellek: 16 GB RAM\\nEkran Kartı: NVidia GeForce GTX 1060 4GB\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\", \"game_size_gb\": \"2.23\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/library_hero.jpg\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/torrents/Car-For-Sale-Simulator-v.1.3.5.1.torrent\", \"label\": \"Car-For-Sale-Simulator-v.1.3.5.1\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"eeab65ae-3558-4678-8d10-b3bad8f0d9ea\", \"added_date\": \"2026-07-12T15:07:25.676928\", \"first_added_date\": \"2026-07-12T15:07:25.676928\", \"last_updated\": \"2026-07-12T12:07:53.206862\"}",
     "added_at": "2026-07-12T12:07:53.206862",
-    "categories": [
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
-    ]
+    "categories": []
   },
   {
     "id": "fb1f715d-b473-4d09-8bd3-b9c6e18582ee",
@@ -15648,7 +15649,7 @@
     "id": "29bc557c-361f-47d8-8cf7-9ed61c58925e",
     "title": "Bus Simulator 16",
     "description": "GOLD EDITION İÇERİĞİ Bus Simulator 16 ile altın değerinde anlar yaşayın! Eksiksiz bir oyun deneyimi için tüm otobüslere ve görevlere sahip olun! Gold Edition İçeriği: Başarılı Bus Simulator 16 oyununun tam sürümüne ek olarak Gold Edition; şu an yayınlanmış olan tüm DLC'leri ve güncellemeleri de beraberinde sunar: Ek otobüsler: MAN Lion’s City A 47 M, Mercedes-Benz Citaro, Mercedes-Benz Citaro L, Mercedes-Benz Citaro G, MAN Lion’s City CNG, MAN Lion’s City L CNG, MAN Lion’s City GL CNG. Ek görevler: Wachowski Görevleri: Zengin bir hayırsever ve büyük bir otobüs tutkunu olan Tim Wachowski ile tanışın.",
-    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,ad65740a-4045-43df-9ce7-7b0adbfe3805",
+    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,ad65740a-4045-43df-9ce7-7b0adbfe3805",
     "developer": "stillalive studios",
     "publisher": "Astragon Entertainment",
     "release_date": "2 Mar 2016",
@@ -15659,13 +15660,12 @@
     "size_gb": 1.92,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:34:32.445129",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Bus Simulator 16\", \"description\": \"GOLD EDITION İÇERİĞİ Bus Simulator 16 ile altın değerinde anlar yaşayın! Eksiksiz bir oyun deneyimi için tüm otobüslere ve görevlere sahip olun! Gold Edition İçeriği: Başarılı Bus Simulator 16 oyununun tam sürümüne ek olarak Gold Edition; şu an yayınlanmış olan tüm DLC'leri ve güncellemeleri de beraberinde sunar: Ek otobüsler: MAN Lion’s City A 47 M, Mercedes-Benz Citaro, Mercedes-Benz Citaro L, Mercedes-Benz Citaro G, MAN Lion’s City CNG, MAN Lion’s City L CNG, MAN Lion’s City GL CNG. Ek görevler: Wachowski Görevleri: Zengin bir hayırsever ve büyük bir otobüs tutkunu olan Tim Wachowski ile tanışın.\", \"developer\": \"stillalive studios\", \"publisher\": \"Astragon Entertainment\", \"release_date\": \"2 Mar 2016\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/29bc557c-361f-47d8-8cf7-9ed61c58925e/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/29bc557c-361f-47d8-8cf7-9ed61c58925e/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/29bc557c-361f-47d8-8cf7-9ed61c58925e/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/d2d/d2d27486f1f9b5227335e7946a5f0715.jpg\", \"https://media.rawg.io/media/screenshots/86e/86ee420df7b00f6e940a3c8266870d25.jpg\", \"https://media.rawg.io/media/screenshots/f4b/f4b1d041fb7e3aae9ef02125c4b7bfba.jpg\", \"https://media.rawg.io/media/screenshots/078/078fc291fec4e944a1c74e487d942bb5.jpg\", \"https://media.rawg.io/media/screenshots/585/585491fb74fe8a40aedbd9a79c85a975.jpg\", \"https://media.rawg.io/media/screenshots/618/6185645c16939f467dd606fb4a6a2eff.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"5\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 7/8/10 64 bit\\nİşlemci: Intel Core i3 with 3.3 GHz / AMD Phenom II X4 96OT with 3.0 GHz or comparable processor\\nBellek: 4 GB RAM\\nEkran Kartı: GeForce GTX 470 (1 GB VRAM) or comparable graphics card\\nDirectX: Version 9.0\\nDepolama: 5 GB kullanılabilir alan\\nEk Notlar: List of unsupported graphic chips (excerpt): Intel HD 3000 / 4400 / 5500 / 6100; GeForce GT 240 / 630 / 730; GeForce GT 540M / 640M / 740M / 840M / 940M; Radeon R7 240; Radeon R9 M275; Intel Iris 6100\", \"sys_recommended\": \"İşletim Sistemi: Windows 7/8/10 64 bit\\nİşlemci: Intel Core i5 with 3.40 GHz / AMD FX-8320E with 3.2 GHz or comparable processor\\nBellek: 8 GB RAM\\nEkran Kartı: GeForce GTX 660 (2 GB VRAM) or comparable graphics card\\nDirectX: Version 9.0\\nDepolama: 5 GB kullanılabilir alan\", \"game_size_gb\": \"1.92\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/29bc557c-361f-47d8-8cf7-9ed61c58925e/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/29bc557c-361f-47d8-8cf7-9ed61c58925e/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/29bc557c-361f-47d8-8cf7-9ed61c58925e/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/d2d/d2d27486f1f9b5227335e7946a5f0715.jpg\", \"https://media.rawg.io/media/screenshots/86e/86ee420df7b00f6e940a3c8266870d25.jpg\", \"https://media.rawg.io/media/screenshots/f4b/f4b1d041fb7e3aae9ef02125c4b7bfba.jpg\", \"https://media.rawg.io/media/screenshots/078/078fc291fec4e944a1c74e487d942bb5.jpg\", \"https://media.rawg.io/media/screenshots/585/585491fb74fe8a40aedbd9a79c85a975.jpg\", \"https://media.rawg.io/media/screenshots/618/6185645c16939f467dd606fb4a6a2eff.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/29bc557c-361f-47d8-8cf7-9ed61c58925e/torrents/bus.simulator.16.hi2u.torrent\", \"label\": \"bus.simulator.16.hi2u\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"4f49954a-5f02-4926-9584-d9ad83bd2a2c\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"ad65740a-4045-43df-9ce7-7b0adbfe3805\"], \"id\": \"29bc557c-361f-47d8-8cf7-9ed61c58925e\", \"added_date\": \"2026-10-04T12:34:57.714873\", \"first_added_date\": \"2026-10-04T12:34:57.714873\", \"last_updated\": \"2026-10-04T12:35:09.743473\"}",
     "added_at": "2026-10-04T12:35:09.743473",
     "categories": [
       "4f49954a-5f02-4926-9584-d9ad83bd2a2c",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
       "ad65740a-4045-43df-9ce7-7b0adbfe3805"
     ]
   },
@@ -15673,7 +15673,7 @@
     "id": "5d9207a8-9461-4754-b7a8-03c3ada2e526",
     "title": "Bus Simulator 18",
     "description": "İster sanayi veya liman bölgesinde, ister şehir merkezinde, çevre köylerde ya da iş parkında olsun; Bus Simulator 18'de, geniş ve özgürce dolaşabileceğiniz bir şehir ortamında bir otobüs şoförünün heyecan verici günlük yaşamını yakından deneyimleyin. Mercedes-Benz, Setra, MAN ve IVECO gibi büyük markaların 8 adet orijinal lisanslı şehir içi otobüsünün direksiyonuna geçin; ister tek oyunculu modda tek başınıza, ister gerçek zamanlı çok oyunculu modda arkadaşlarınızla birlikte yolcularınızı güvenli ve zamanında varış noktalarına ulaştırın. 12 farklı bölgede görev yapan bir otobüs şoförü olarak, büyük şehir trafiğinin zorluklarıyla ve bu ortamın getirdiği her türlü durumla yüzleşeceksiniz.",
-    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,ad65740a-4045-43df-9ce7-7b0adbfe3805",
+    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,ad65740a-4045-43df-9ce7-7b0adbfe3805",
     "developer": "stillalive studios",
     "publisher": "Astragon Entertainment",
     "release_date": "13 Haz 2018",
@@ -15684,13 +15684,12 @@
     "size_gb": 3.82,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:34:32.445129",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Bus Simulator 18\", \"description\": \"İster sanayi veya liman bölgesinde, ister şehir merkezinde, çevre köylerde ya da iş parkında olsun; Bus Simulator 18'de, geniş ve özgürce dolaşabileceğiniz bir şehir ortamında bir otobüs şoförünün heyecan verici günlük yaşamını yakından deneyimleyin. Mercedes-Benz, Setra, MAN ve IVECO gibi büyük markaların 8 adet orijinal lisanslı şehir içi otobüsünün direksiyonuna geçin; ister tek oyunculu modda tek başınıza, ister gerçek zamanlı çok oyunculu modda arkadaşlarınızla birlikte yolcularınızı güvenli ve zamanında varış noktalarına ulaştırın. 12 farklı bölgede görev yapan bir otobüs şoförü olarak, büyük şehir trafiğinin zorluklarıyla ve bu ortamın getirdiği her türlü durumla yüzleşeceksiniz.\", \"developer\": \"stillalive studios\", \"publisher\": \"Astragon Entertainment\", \"release_date\": \"13 Haz 2018\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5d9207a8-9461-4754-b7a8-03c3ada2e526/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5d9207a8-9461-4754-b7a8-03c3ada2e526/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5d9207a8-9461-4754-b7a8-03c3ada2e526/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/177/177ee2713dc26497c189c7be2368ac04.jpg\", \"https://media.rawg.io/media/screenshots/c87/c87028ea42b1a5f557c239c0ea735c04.jpg\", \"https://media.rawg.io/media/screenshots/9ed/9ed6f4c2ec61bed1ec0e0e996b30629c.jpg\", \"https://media.rawg.io/media/screenshots/3f3/3f3b9a797f25eeef3bb47365cb74cb62.jpg\", \"https://media.rawg.io/media/screenshots/e66/e6699fef9b72bf4e4f0f85d956b83550.jpg\", \"https://media.rawg.io/media/screenshots/499/4998b1bebd78cdd5d0173d1f91d19263.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 8, \"hltb_hours\": \"5\", \"show_hltb\": true, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 7/8/10 64-Bit\\nİşlemci: Intel Core i3 with 3.3 GHz or AMD Phenom II X4 with 3.2 GHz\\nBellek: 6 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 750 (1GB VRAM) or AMD Radeon R7 360 (2GB VRAM) veya üstü\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 6500 MB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-Bit\\nİşlemci: Intel Core i5-4670 (4th gen.) with 3.4 GHz or AMD FX-8370 with 4 GHz veya eşdeğeri\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 970 (4GB VRAM) or AMD Radeon R9 290 (4GB VRAM) veya üstü\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 6500 MB kullanılabilir alan\", \"game_size_gb\": \"3.82\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5d9207a8-9461-4754-b7a8-03c3ada2e526/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5d9207a8-9461-4754-b7a8-03c3ada2e526/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5d9207a8-9461-4754-b7a8-03c3ada2e526/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/177/177ee2713dc26497c189c7be2368ac04.jpg\", \"https://media.rawg.io/media/screenshots/c87/c87028ea42b1a5f557c239c0ea735c04.jpg\", \"https://media.rawg.io/media/screenshots/9ed/9ed6f4c2ec61bed1ec0e0e996b30629c.jpg\", \"https://media.rawg.io/media/screenshots/3f3/3f3b9a797f25eeef3bb47365cb74cb62.jpg\", \"https://media.rawg.io/media/screenshots/e66/e6699fef9b72bf4e4f0f85d956b83550.jpg\", \"https://media.rawg.io/media/screenshots/499/4998b1bebd78cdd5d0173d1f91d19263.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5d9207a8-9461-4754-b7a8-03c3ada2e526/torrents/Bus.Simulator.18-CODEX.torrent\", \"label\": \"Bus.Simulator.18-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"4f49954a-5f02-4926-9584-d9ad83bd2a2c\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"ad65740a-4045-43df-9ce7-7b0adbfe3805\"], \"id\": \"5d9207a8-9461-4754-b7a8-03c3ada2e526\", \"added_date\": \"2026-10-04T12:44:36.290629\", \"first_added_date\": \"2026-10-04T12:44:36.290629\", \"last_updated\": \"2026-10-25T04:53:31.321643\"}",
     "added_at": "2026-10-04T12:44:48.955996",
     "categories": [
       "4f49954a-5f02-4926-9584-d9ad83bd2a2c",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
       "ad65740a-4045-43df-9ce7-7b0adbfe3805"
     ]
   },
@@ -15755,7 +15754,7 @@
     "id": "f21f3e46-53f7-4417-b334-e132d012a9d9",
     "title": "Bus Simulator 27",
     "description": "Bus Simulator 27, Simteract tarafından geliştirilen ve astragon Entertainment tarafından yayınlanan, Unreal Engine 5 tabanlı bir otobüs simülasyon oyunudur",
-    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,ad65740a-4045-43df-9ce7-7b0adbfe3805",
+    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,ad65740a-4045-43df-9ce7-7b0adbfe3805",
     "developer": "Simteract",
     "publisher": "astragon Entertainment",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/cover.jpg",
@@ -15765,13 +15764,12 @@
     "size_gb": 16.5,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:34:32.445129",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Bus Simulator 27\", \"description\": \"Bus Simulator 27, Simteract tarafından geliştirilen ve astragon Entertainment tarafından yayınlanan, Unreal Engine 5 tabanlı bir otobüs simülasyon oyunudur\", \"developer\": \"Simteract\", \"publisher\": \"astragon Entertainment\", \"release_date\": \"8 Eyl 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_06.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_07.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_08.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"16.5\", \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-Bit\\nİşlemci: Intel Core i3-2120 / AMD Phenom II X4 830 veya eşdeğeri\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 760 (2GB VRAM) / AMD Radeon R9 280 (2GB VRAM) veya üstü\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 18 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-Bit\\nİşlemci: Intel Core i5-4440 / AMD FC-8140 veya eşdeğeri\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 1070 (8GB VRAM) / AMD Radeon RX Vega 56 (8GB VRAM) veya üstü\\nDirectX: Version 12\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 18 GB kullanılabilir alan\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_06.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_07.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/screenshots/ss_08.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/f21f3e46-53f7-4417-b334-e132d012a9d9/torrents/Bus.Simulator.27.v1.12 (1).torrent\", \"label\": \"Bus.Simulator.27.v1.12 (1)\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"4f49954a-5f02-4926-9584-d9ad83bd2a2c\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"ad65740a-4045-43df-9ce7-7b0adbfe3805\"], \"id\": \"f21f3e46-53f7-4417-b334-e132d012a9d9\", \"added_date\": \"2026-10-04T13:22:12.809162\", \"first_added_date\": \"2026-10-04T13:22:12.809162\", \"last_updated\": \"2026-10-30T16:04:03.148967\"}",
     "added_at": "2026-10-04T13:22:26.170356",
     "categories": [
       "4f49954a-5f02-4926-9584-d9ad83bd2a2c",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
       "ad65740a-4045-43df-9ce7-7b0adbfe3805"
     ]
   },
@@ -15855,7 +15853,7 @@
     "id": "a644ac81-7db7-4936-8084-62fd7db864ed",
     "title": "Tourist Bus Simulator",
     "description": "Create your own bus empire on Fuerteventura now! Thanks to the economy system in the new Tourist Bus Simulator, you will be able to found your own bus company on the popular holiday island Fuerteventura. Your offer comprises scheduled routes, hotel shuttles or sightseeing tours.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,4f49954a-5f02-4926-9584-d9ad83bd2a2c",
+    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "TML-Studios, PEDEPE",
     "publisher": "Aerosoft",
     "release_date": "6 Ara 2018",
@@ -15866,13 +15864,12 @@
     "size_gb": 22.72,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:34:32.445129",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Tourist Bus Simulator\", \"description\": \"Create your own bus empire on Fuerteventura now! Thanks to the economy system in the new Tourist Bus Simulator, you will be able to found your own bus company on the popular holiday island Fuerteventura. Your offer comprises scheduled routes, hotel shuttles or sightseeing tours.\", \"developer\": \"TML-Studios, PEDEPE\", \"publisher\": \"Aerosoft\", \"release_date\": \"6 Ara 2018\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a644ac81-7db7-4936-8084-62fd7db864ed/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a644ac81-7db7-4936-8084-62fd7db864ed/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a644ac81-7db7-4936-8084-62fd7db864ed/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/206/20673ff9d7426025e3be22c78ea07538.jpg\", \"https://media.rawg.io/media/screenshots/138/1387a6b02edf63ad810147afaf18aca3.jpg\", \"https://media.rawg.io/media/screenshots/771/7716ee21a4e6a3df708bbcaac416948a.jpg\", \"https://media.rawg.io/media/screenshots/76a/76ae9fcb24743bb6db3a42407fb960e3.jpg\", \"https://media.rawg.io/media/screenshots/520/52057081a2ed44f8823f885c4e413d7f.jpg\", \"https://media.rawg.io/media/screenshots/c82/c82cf42079bf7094dae7c392e89504a0.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: 7/8/8.1/10 (only 64bit)\\nİşlemci: Intel Core i5 Quad Core Processor or similar with at least 2.8 GHz\\nBellek: 6 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 660 or similar AMD Radeon (no support for onboard cards)\\nDirectX: Version 11\\nDepolama: 25 GB kullanılabilir alan\\nSes Kartı: Yes\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: 7/8/8.1/10 (only 64bit)\\nİşlemci: Intel Core i7 Processor or similar with at least 3.5 GHz\\nEkran Kartı: Nvidia GeForce GTX 970 or similar AMD Radeon (no support for onboard cards)\\nDirectX: Version 11\\nDepolama: 25 GB kullanılabilir alan\\nSes Kartı: Yes\\nEk Notlar: Installing on SSD recomenced\", \"game_size_gb\": \"22.72\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a644ac81-7db7-4936-8084-62fd7db864ed/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a644ac81-7db7-4936-8084-62fd7db864ed/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a644ac81-7db7-4936-8084-62fd7db864ed/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/206/20673ff9d7426025e3be22c78ea07538.jpg\", \"https://media.rawg.io/media/screenshots/138/1387a6b02edf63ad810147afaf18aca3.jpg\", \"https://media.rawg.io/media/screenshots/771/7716ee21a4e6a3df708bbcaac416948a.jpg\", \"https://media.rawg.io/media/screenshots/76a/76ae9fcb24743bb6db3a42407fb960e3.jpg\", \"https://media.rawg.io/media/screenshots/520/52057081a2ed44f8823f885c4e413d7f.jpg\", \"https://media.rawg.io/media/screenshots/c82/c82cf42079bf7094dae7c392e89504a0.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a644ac81-7db7-4936-8084-62fd7db864ed/torrents/Tourist.Bus.Simulator-SKIDROW.torrent\", \"label\": \"Tourist.Bus.Simulator-SKIDROW\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"4f49954a-5f02-4926-9584-d9ad83bd2a2c\"], \"id\": \"a644ac81-7db7-4936-8084-62fd7db864ed\", \"added_date\": \"2026-10-09T12:00:06.279555\", \"first_added_date\": \"2026-10-09T12:00:06.279555\", \"last_updated\": \"2026-10-13T23:29:46.226162\"}",
     "added_at": "2026-10-09T12:00:18.056920",
     "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
-      "4f49954a-5f02-4926-9584-d9ad83bd2a2c"
+      "4f49954a-5f02-4926-9584-d9ad83bd2a2c",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
   },
   {
@@ -16424,7 +16421,7 @@
     "id": "8ca3bdfa-2559-45fc-b821-139ee1988f8a",
     "title": "Car Dealer Simulator",
     "description": "İkinci el araba satma hayalini gerçeğe dönüştür! Car Dealer Simulator’da, işlerin tuhaf sahibi Little Sam’den bir işletmeyi yönetmenin tüm inceliklerini öğreneceksin. Kendisi işleri düzene sokmakta pek başarılı değil, bu yüzden senin görevin arabaları ucuza almak, tamir edip yenilemek ve kâr ederek satmak!",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Garage Monkeys",
     "publisher": "Garage Monkeys",
     "release_date": "29 May 2025",
@@ -16435,19 +16432,18 @@
     "size_gb": 21.44,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:33:30.468258",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Car Dealer Simulator\", \"description\": \"İkinci el araba satma hayalini gerçeğe dönüştür! Car Dealer Simulator’da, işlerin tuhaf sahibi Little Sam’den bir işletmeyi yönetmenin tüm inceliklerini öğreneceksin. Kendisi işleri düzene sokmakta pek başarılı değil, bu yüzden senin görevin arabaları ucuza almak, tamir edip yenilemek ve kâr ederek satmak!\", \"developer\": \"Garage Monkeys\", \"publisher\": \"Garage Monkeys\", \"release_date\": \"29 May 2025\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/24b/24b85d7103483fb49472d48d71f2b211.jpg\", \"https://media.rawg.io/media/screenshots/63e/63ef305603ebea75efe80726d1bbf002.jpg\", \"https://media.rawg.io/media/screenshots/6c9/6c932fc0fdd7c62417f5a2c6b1952310.jpg\", \"https://media.rawg.io/media/screenshots/6b6/6b689a62c2aab0708c16480a1c5805ab.jpg\", \"https://media.rawg.io/media/screenshots/5ae/5ae229a0cdfc8e8546e101ffdd71a1e2.jpg\", \"https://media.rawg.io/media/screenshots/363/363925a6bf799d8a143eb47306e0e39c.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Microsoft Windows 10/11 64-bit\\nİşlemci: Intel Core i3 3.0 GHz or Ryzen 5 3000\\nBellek: 8 GB RAM\\nEkran Kartı: GeForce GTX 970 / Radeon RX 570\\nDirectX: Version 11\\nDepolama: 16 GB kullanılabilir alan\\nSes Kartı: DirectX compatible\\nEk Notlar: 64-bit işlemci ve işletim sistemi gerektirir\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Microsoft Windows 10/11 64-bit\\nİşlemci: Intel Core i7 3.5 Ghz or Ryzen 7 5000 veya üstü\\nBellek: 16 GB RAM\\nEkran Kartı: GeForce RTX 3070 / Radeon RX 6800\\nDirectX: Version 11\\nDepolama: 16 GB kullanılabilir alan\\nSes Kartı: DirectX compatible\\nEk Notlar: 64-bit işlemci ve işletim sistemi gerektirir\", \"game_size_gb\": \"21.44\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/24b/24b85d7103483fb49472d48d71f2b211.jpg\", \"https://media.rawg.io/media/screenshots/63e/63ef305603ebea75efe80726d1bbf002.jpg\", \"https://media.rawg.io/media/screenshots/6c9/6c932fc0fdd7c62417f5a2c6b1952310.jpg\", \"https://media.rawg.io/media/screenshots/6b6/6b689a62c2aab0708c16480a1c5805ab.jpg\", \"https://media.rawg.io/media/screenshots/5ae/5ae229a0cdfc8e8546e101ffdd71a1e2.jpg\", \"https://media.rawg.io/media/screenshots/363/363925a6bf799d8a143eb47306e0e39c.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/torrents/Car.Dealer.Simulator.v20260907-P2P.Torrent\", \"label\": \"Car.Dealer.Simulator.v20260907-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"8ca3bdfa-2559-45fc-b821-139ee1988f8a\", \"added_date\": \"2026-10-11T21:26:16.470679\", \"first_added_date\": \"2026-10-11T21:26:16.470679\", \"last_updated\": \"2026-10-11T22:13:49.414217\"}",
     "added_at": "2026-10-11T21:26:28.704103",
     "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
   },
   {
     "id": "d257c2fc-b036-45e5-89f5-609e08e1b82d",
     "title": "Car Dealership Simulator 2",
     "description": "Car Dealership Simulator 2’de gerçekçi araç alım satımı, modifikasyonlar, işletme yönetimi ve stratejiyle kendi araba galerini kur! Arabalar satın al, modifiye et, satışlarını yönet ve otomotiv pazarının zirvesine yüksel! Araba ticaretine adım at! Fırsatları değerlendir, yeni arabalar ve yeni galeriler satın alarak işini büyüt!",
-    "category": "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9,9447afc0-f5c9-478a-affa-95bd7dca5e47,d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "category": "9447afc0-f5c9-478a-affa-95bd7dca5e47,d05d2892-20d2-4e9a-a7cc-2c99d7585558,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
     "developer": "Quadfix Games",
     "publisher": "Quadfix Games",
     "release_date": "26 Eyl 2025",
@@ -16458,21 +16454,20 @@
     "size_gb": 1.79,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:33:30.468258",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Car Dealership Simulator 2\", \"description\": \"Car Dealership Simulator 2’de gerçekçi araç alım satımı, modifikasyonlar, işletme yönetimi ve stratejiyle kendi araba galerini kur! Arabalar satın al, modifiye et, satışlarını yönet ve otomotiv pazarının zirvesine yüksel! Araba ticaretine adım at! Fırsatları değerlendir, yeni arabalar ve yeni galeriler satın alarak işini büyüt!\", \"developer\": \"Quadfix Games\", \"publisher\": \"Quadfix Games\", \"release_date\": \"26 Eyl 2025\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/43e/43ea3efb0dd99198e26f4f3f62057b60.jpg\", \"https://media.rawg.io/media/screenshots/09d/09d6949f6f6f6bf523183a870a692199.jpg\", \"https://media.rawg.io/media/screenshots/6e8/6e8a84f07149fdaf72f1a9b180a70bfb.jpg\", \"https://media.rawg.io/media/screenshots/37a/37a572af1e2b44100add0e9619667af6.jpg\", \"https://media.rawg.io/media/screenshots/c70/c705b868288d3a96d51e8b123eeaebf2.jpg\", \"https://media.rawg.io/media/screenshots/0bd/0bdecdd0228359c967a64fdab08379ae.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows(64-bit)\\nİşlemci: İntel Core i5 3.0 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: NVidia GeForce GTX 1060 6GB\\nDirectX: Version 11\\nDepolama: 8 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows(64-bit)\\nİşlemci: İntel Core i7 3.5 GHz\\nBellek: 16 GB RAM\\nEkran Kartı: NVidia GeForce GTX 2060 6GB\\nDirectX: Version 11\\nDepolama: 8 GB kullanılabilir alan\", \"game_size_gb\": \"1.79\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/43e/43ea3efb0dd99198e26f4f3f62057b60.jpg\", \"https://media.rawg.io/media/screenshots/09d/09d6949f6f6f6bf523183a870a692199.jpg\", \"https://media.rawg.io/media/screenshots/6e8/6e8a84f07149fdaf72f1a9b180a70bfb.jpg\", \"https://media.rawg.io/media/screenshots/37a/37a572af1e2b44100add0e9619667af6.jpg\", \"https://media.rawg.io/media/screenshots/c70/c705b868288d3a96d51e8b123eeaebf2.jpg\", \"https://media.rawg.io/media/screenshots/0bd/0bdecdd0228359c967a64fdab08379ae.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/torrents/Car.Dealership.Simulator.2.v0.9.1.torrent\", \"label\": \"Car.Dealership.Simulator.2.v0.9.1\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"a185dacd-1bf1-4eef-b92a-c1fbd52a85c9\", \"9447afc0-f5c9-478a-affa-95bd7dca5e47\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"d257c2fc-b036-45e5-89f5-609e08e1b82d\", \"added_date\": \"2026-10-11T21:32:29.415539\", \"first_added_date\": \"2026-10-11T21:32:29.415539\", \"last_updated\": \"2026-10-12T10:35:06.313062\"}",
     "added_at": "2026-10-11T21:32:40.558824",
     "categories": [
-      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
       "9447afc0-f5c9-478a-affa-95bd7dca5e47",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9"
     ]
   },
   {
     "id": "feb02569-206f-4522-a128-6645cdce8c0e",
     "title": "Car Dealership Simulator",
     "description": "Car Dealership Simulator, son derece kapsamlı ve detaylı bir araba galerisi işletme simülasyonu oyunudur. Oyunda ayrıntılı araba alım satım mekanikleri bulunur. Arabaları satın al, fiyatlarını belirle, temizle ve satarak kâr elde et!",
-    "category": "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9,9447afc0-f5c9-478a-affa-95bd7dca5e47,d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
+    "category": "9447afc0-f5c9-478a-affa-95bd7dca5e47,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Quadfix Games, THE BARONATOR",
     "publisher": "Quadfix Games",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/cover.jpg",
@@ -16482,22 +16477,21 @@
     "size_gb": 0.47,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:33:30.468258",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Car Dealership Simulator\", \"description\": \"Car Dealership Simulator, son derece kapsamlı ve detaylı bir araba galerisi işletme simülasyonu oyunudur. Oyunda ayrıntılı araba alım satım mekanikleri bulunur. Arabaları satın al, fiyatlarını belirle, temizle ve satarak kâr elde et!\", \"developer\": \"Quadfix Games, THE BARONATOR\", \"publisher\": \"Quadfix Games\", \"release_date\": \"24 Oca 2022\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_04.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"0.47\", \"sys_min\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i5 3.0 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1050ti 4 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i7 3.5 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1660ti 6 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/torrents/9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B (2).torrent\", \"label\": \"9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B (2)\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"a185dacd-1bf1-4eef-b92a-c1fbd52a85c9\", \"9447afc0-f5c9-478a-affa-95bd7dca5e47\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\"], \"id\": \"feb02569-206f-4522-a128-6645cdce8c0e\", \"added_date\": \"2026-10-11T21:34:34.379423\", \"first_added_date\": \"2026-10-11T21:34:34.379423\", \"last_updated\": \"2026-11-01T15:09:39.068116\"}",
     "added_at": "2026-10-11T21:38:14.944720",
     "categories": [
-      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
       "9447afc0-f5c9-478a-affa-95bd7dca5e47",
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
-      "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1"
+      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
+      "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
   },
   {
     "id": "a363952b-7fa2-4ca1-ad52-fc3cdc761a9b",
     "title": "Car Dealer",
     "description": "Dünyanın en popüler araba galerisini yönet! Müşterilerin ilgisini çekecek araçları galerinde satışa sun. Galerini büyüt ve dünyanın en popüler araba galerisi hâline getir!",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "piratecat games",
     "publisher": "piratecat games",
     "release_date": "29 May 2025",
@@ -16508,12 +16502,11 @@
     "size_gb": 1.29,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:33:30.468258",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Car Dealer\", \"description\": \"Dünyanın en popüler araba galerisini yönet! Müşterilerin ilgisini çekecek araçları galerinde satışa sun. Galerini büyüt ve dünyanın en popüler araba galerisi hâline getir!\", \"developer\": \"piratecat games\", \"publisher\": \"piratecat games\", \"release_date\": \"29 May 2025\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/af3/af3275f132baa180aab999f7d772ed86.jpg\", \"https://media.rawg.io/media/screenshots/ab4/ab466fec8c01546b872c6cf45dd01411.jpg\", \"https://media.rawg.io/media/screenshots/d52/d5244f377fdc9c24872b3ed03b476983.jpg\", \"https://media.rawg.io/media/screenshots/d7f/d7fde4f91f3a1f68367565298cc620ce.jpg\", \"https://media.rawg.io/media/screenshots/84d/84d6bb02f2d427a9a4722c085a154ee0.jpg\", \"https://media.rawg.io/media/screenshots/416/41666071b1907d084d5f14c16ccfdf0b.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7\\nİşlemci: 2.0 Ghz Dual Core\\nBellek: 4 GB RAM\\nEkran Kartı: Intel HD Graphics 4000\\nDepolama: 4 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10\\nİşlemci: +3.0 GHz Dual Core\\nBellek: 4 GB RAM\\nEkran Kartı: Geforce GTX 750/Radeon RX470\\nDepolama: 5 GB kullanılabilir alan\", \"game_size_gb\": \"1.29\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/af3/af3275f132baa180aab999f7d772ed86.jpg\", \"https://media.rawg.io/media/screenshots/ab4/ab466fec8c01546b872c6cf45dd01411.jpg\", \"https://media.rawg.io/media/screenshots/d52/d5244f377fdc9c24872b3ed03b476983.jpg\", \"https://media.rawg.io/media/screenshots/d7f/d7fde4f91f3a1f68367565298cc620ce.jpg\", \"https://media.rawg.io/media/screenshots/84d/84d6bb02f2d427a9a4722c085a154ee0.jpg\", \"https://media.rawg.io/media/screenshots/416/41666071b1907d084d5f14c16ccfdf0b.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/torrents/Car.Dealer-PLAZA.torrent\", \"label\": \"Car.Dealer-PLAZA\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"a363952b-7fa2-4ca1-ad52-fc3cdc761a9b\", \"added_date\": \"2026-10-11T21:47:08.495339\", \"first_added_date\": \"2026-10-11T21:47:08.495339\", \"last_updated\": \"2026-10-13T23:49:30.475190\"}",
     "added_at": "2026-10-11T21:47:18.881909",
     "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
   },
   {
@@ -16566,7 +16559,7 @@
     "id": "2f1e7d3b-c907-4612-a60e-926f1098af89",
     "title": "Cheap Car Repair",
     "description": "Cheap Car Repair, Little Dog Games tarafından geliştirilen ve Simplicity Games ile PlayWay S.A. tarafından yayınlanan, 1990'ların Polonya kırsalında (Aşağı Bokçukuru) geçen bir otomobil tamir ve restorasyon simülasyon oyunudur.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Simplicity Games",
     "publisher": "PlayWay S.A,",
     "release_date": "28 May 2026",
@@ -16577,12 +16570,11 @@
     "size_gb": 3.35,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-10-14T22:29:35.546467",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Cheap Car Repair\", \"description\": \"Cheap Car Repair, Little Dog Games tarafından geliştirilen ve Simplicity Games ile PlayWay S.A. tarafından yayınlanan, 1990'ların Polonya kırsalında (Aşağı Bokçukuru) geçen bir otomobil tamir ve restorasyon simülasyon oyunudur.\", \"developer\": \"Simplicity Games\", \"publisher\": \"PlayWay S.A,\", \"release_date\": \"28 May 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2f1e7d3b-c907-4612-a60e-926f1098af89/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2f1e7d3b-c907-4612-a60e-926f1098af89/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2f1e7d3b-c907-4612-a60e-926f1098af89/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/7fb/7fb8c96f9a6d4e378d2b1ea5b199da78.jpg\", \"https://media.rawg.io/media/screenshots/a32/a3232123d1de24ae1db5a4101fdc87f4.jpg\", \"https://media.rawg.io/media/screenshots/c87/c87e43a2fc9891cc1d02315fd1c6fcc8.jpg\", \"https://media.rawg.io/media/screenshots/025/0259905659af1f71b9ec76e12ecedba9.jpg\", \"https://media.rawg.io/media/screenshots/da7/da765531b3443245e2f387dc11abdf4b.jpg\", \"https://media.rawg.io/media/screenshots/43f/43fe0c6ffb8e53755592876c64151e9a.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"\", \"sys_recommended\": \"\", \"game_size_gb\": \"3.35\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2f1e7d3b-c907-4612-a60e-926f1098af89/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2f1e7d3b-c907-4612-a60e-926f1098af89/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2f1e7d3b-c907-4612-a60e-926f1098af89/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/7fb/7fb8c96f9a6d4e378d2b1ea5b199da78.jpg\", \"https://media.rawg.io/media/screenshots/a32/a3232123d1de24ae1db5a4101fdc87f4.jpg\", \"https://media.rawg.io/media/screenshots/c87/c87e43a2fc9891cc1d02315fd1c6fcc8.jpg\", \"https://media.rawg.io/media/screenshots/025/0259905659af1f71b9ec76e12ecedba9.jpg\", \"https://media.rawg.io/media/screenshots/da7/da765531b3443245e2f387dc11abdf4b.jpg\", \"https://media.rawg.io/media/screenshots/43f/43fe0c6ffb8e53755592876c64151e9a.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2f1e7d3b-c907-4612-a60e-926f1098af89/torrents/Cheap.Car.Repair.v1.3.0030.torrent\", \"label\": \"Cheap.Car.Repair.v1.3.0030\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"2f1e7d3b-c907-4612-a60e-926f1098af89\", \"added_date\": \"2026-10-12T11:12:22.766614\", \"first_added_date\": \"2026-10-12T11:12:22.766614\", \"last_updated\": \"2026-10-12T11:12:37.704969\"}",
     "added_at": "2026-10-12T11:12:37.704969",
     "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
   },
   {
@@ -16865,7 +16857,7 @@
     "id": "423d44e9-bcba-45f2-a4eb-a359876c624b",
     "title": "Pure Farming 2018",
     "description": "Pure Farming 2018, Ice Code Games tarafından geliştirilen ve Techland Publishing tarafından 13 Mart 2018'de PC, PlayStation 4 ve Xbox One için yayınlanan bir modern tarım ve çiftçilik simülasyon oyunudur.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Techland, Ice Flames",
     "publisher": "Techland Publishing",
     "release_date": "13 Mar 2018",
@@ -16876,9 +16868,12 @@
     "size_gb": 3.12,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-10-13T23:21:14.151367",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Pure Farming 2018\", \"description\": \"Pure Farming 2018, Ice Code Games tarafından geliştirilen ve Techland Publishing tarafından 13 Mart 2018'de PC, PlayStation 4 ve Xbox One için yayınlanan bir modern tarım ve çiftçilik simülasyon oyunudur.\", \"developer\": \"Techland, Ice Flames\", \"publisher\": \"Techland Publishing\", \"release_date\": \"13 Mar 2018\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/423d44e9-bcba-45f2-a4eb-a359876c624b/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/423d44e9-bcba-45f2-a4eb-a359876c624b/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/423d44e9-bcba-45f2-a4eb-a359876c624b/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/9f1/9f1a415701dbdcdba753b8a5fa25123f.jpg\", \"https://media.rawg.io/media/screenshots/93a/93a3bc3a87e18a67658bce547b914c10.jpg\", \"https://media.rawg.io/media/screenshots/7dc/7dc33027b7b1623e5537168a14fe9c36.jpg\", \"https://media.rawg.io/media/screenshots/c8f/c8f8aa1b9072f8e2dc5eb747faf9c7dd.jpg\", \"https://media.rawg.io/media/screenshots/9e7/9e70dfeabe8e8e788ba3cf0cb5b4f974.jpg\", \"https://media.rawg.io/media/screenshots/59f/59f73f0dcadcbdf612c406f2a2acf6a9.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 10,8,7 (64 bit)\\nİşlemci: Intel Core I5 2,3 GHZ veya üstü\\nBellek: 4 GB RAM\\nEkran Kartı: Geforce 560 GTX 2 GB veya üstü\\nDirectX: Version 11\\nDepolama: 12 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10,8\\nİşlemci: Intel Core I7, 3,0 GHZ veya üstü\\nBellek: 8 GB RAM\\nEkran Kartı: Geforce GTX 970 4 GB veya üstü\\nDirectX: Version 11\\nDepolama: 12 GB kullanılabilir alan\", \"game_size_gb\": \"3.12\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/423d44e9-bcba-45f2-a4eb-a359876c624b/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/423d44e9-bcba-45f2-a4eb-a359876c624b/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/423d44e9-bcba-45f2-a4eb-a359876c624b/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/9f1/9f1a415701dbdcdba753b8a5fa25123f.jpg\", \"https://media.rawg.io/media/screenshots/93a/93a3bc3a87e18a67658bce547b914c10.jpg\", \"https://media.rawg.io/media/screenshots/7dc/7dc33027b7b1623e5537168a14fe9c36.jpg\", \"https://media.rawg.io/media/screenshots/c8f/c8f8aa1b9072f8e2dc5eb747faf9c7dd.jpg\", \"https://media.rawg.io/media/screenshots/9e7/9e70dfeabe8e8e788ba3cf0cb5b4f974.jpg\", \"https://media.rawg.io/media/screenshots/59f/59f73f0dcadcbdf612c406f2a2acf6a9.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/423d44e9-bcba-45f2-a4eb-a359876c624b/torrents/oyunindir.vip-Pure_Farming_2018.torrent\", \"label\": \"oyunindir.vip-Pure_Farming_2018\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"423d44e9-bcba-45f2-a4eb-a359876c624b\", \"added_date\": \"2026-10-13T12:03:52.950764\", \"first_added_date\": \"2026-10-13T12:03:52.950764\", \"last_updated\": \"2026-10-13T23:21:14.151367\"}",
-    "added_at": "2026-10-13T12:04:08.410008"
+    "added_at": "2026-10-13T12:04:08.410008",
+    "categories": [
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    ]
   },
   {
     "id": "076a9603-cbe1-4e9b-9466-1a81b2d09ffd",
@@ -17017,7 +17012,7 @@
     "id": "c48c350b-70f1-42b5-8b45-1adfa3a17bb9",
     "title": "Fernbus Simulator",
     "description": "Fernbus Simulator (veya Fernbus Coach Simulator), TML-Studios tarafından geliştirilen ve Aerosoft tarafından yayınlanan, şehirler arası otobüs sürüşü odaklı bir simülasyon oyunudur.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,4f49954a-5f02-4926-9584-d9ad83bd2a2c",
+    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "TML-Studios",
     "publisher": "Aerosoft",
     "release_date": "25 Ağu 2016",
@@ -17028,13 +17023,12 @@
     "size_gb": 4.58,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:34:32.445129",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Fernbus Simulator\", \"description\": \"Fernbus Simulator (veya Fernbus Coach Simulator), TML-Studios tarafından geliştirilen ve Aerosoft tarafından yayınlanan, şehirler arası otobüs sürüşü odaklı bir simülasyon oyunudur.\", \"developer\": \"TML-Studios\", \"publisher\": \"Aerosoft\", \"release_date\": \"25 Ağu 2016\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c48c350b-70f1-42b5-8b45-1adfa3a17bb9/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c48c350b-70f1-42b5-8b45-1adfa3a17bb9/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c48c350b-70f1-42b5-8b45-1adfa3a17bb9/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/f7d/f7d2afd6f4f04b3d1553e89138b7066a.jpg\", \"https://media.rawg.io/media/screenshots/a2b/a2ba28dddaf0e43022aa0aa88dc8219f.jpg\", \"https://media.rawg.io/media/screenshots/589/589c6fbf737f1cd6978aadab3c937115.jpg\", \"https://media.rawg.io/media/screenshots/6f5/6f56395d3db78575e52c5e32a29e6269.jpg\", \"https://media.rawg.io/media/screenshots/212/21229db3fa2416b5d6388c55c1253a72.jpg\", \"https://media.rawg.io/media/screenshots/0e6/0e61c66b80eeef7cf972c7f1a6470517.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 8, \"hltb_hours\": \"9\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: 7/8/8.1/10 (64bit only)\\nİşlemci: Intel Core i5 Processor or similar with at least 2.6 GHz\\nBellek: 6 GB RAM\\nEkran Kartı: Nvidia GeForce GTX 560 or similar AMD Radeon (no support for onboard cards)\\nDirectX: Version 11\\nDepolama: 45 GB kullanılabilir alan\\nSes Kartı: Yes\", \"sys_recommended\": \"\", \"game_size_gb\": \"4.58\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c48c350b-70f1-42b5-8b45-1adfa3a17bb9/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c48c350b-70f1-42b5-8b45-1adfa3a17bb9/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c48c350b-70f1-42b5-8b45-1adfa3a17bb9/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/f7d/f7d2afd6f4f04b3d1553e89138b7066a.jpg\", \"https://media.rawg.io/media/screenshots/a2b/a2ba28dddaf0e43022aa0aa88dc8219f.jpg\", \"https://media.rawg.io/media/screenshots/589/589c6fbf737f1cd6978aadab3c937115.jpg\", \"https://media.rawg.io/media/screenshots/6f5/6f56395d3db78575e52c5e32a29e6269.jpg\", \"https://media.rawg.io/media/screenshots/212/21229db3fa2416b5d6388c55c1253a72.jpg\", \"https://media.rawg.io/media/screenshots/0e6/0e61c66b80eeef7cf972c7f1a6470517.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/c48c350b-70f1-42b5-8b45-1adfa3a17bb9/torrents/FERNBUS.SIMULATOR-CODEPUNKS.torrent\", \"label\": \"FERNBUS.SIMULATOR-CODEPUNKS\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"4f49954a-5f02-4926-9584-d9ad83bd2a2c\"], \"id\": \"c48c350b-70f1-42b5-8b45-1adfa3a17bb9\", \"added_date\": \"2026-10-14T11:41:28.217997\", \"first_added_date\": \"2026-10-14T11:41:28.217997\", \"last_updated\": \"2026-10-14T11:41:41.251310\"}",
     "added_at": "2026-10-14T11:41:41.251310",
     "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
-      "4f49954a-5f02-4926-9584-d9ad83bd2a2c"
+      "4f49954a-5f02-4926-9584-d9ad83bd2a2c",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
   },
   {
@@ -17084,7 +17078,7 @@
     "id": "6c478a19-c606-4993-97ae-3ced98e9030e",
     "title": "Bus Driving Sim 22",
     "description": "Bus Driving Sim 22, Ovilex Software tarafından geliştirilen ve yayınlanan bir otobüs sürüş simülasyonu oyunudur.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,7e2cbc31-4e7b-46b6-af72-889492cfda97,4f49954a-5f02-4926-9584-d9ad83bd2a2c",
+    "category": "4f49954a-5f02-4926-9584-d9ad83bd2a2c,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Ovilex Software",
     "publisher": "Ovilex Software",
     "release_date": "3 Haz 2022",
@@ -17095,13 +17089,12 @@
     "size_gb": 1.94,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-03T09:34:32.445129",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Bus Driving Sim 22\", \"description\": \"Bus Driving Sim 22, Ovilex Software tarafından geliştirilen ve yayınlanan bir otobüs sürüş simülasyonu oyunudur.\", \"developer\": \"Ovilex Software\", \"publisher\": \"Ovilex Software\", \"release_date\": \"3 Haz 2022\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6c478a19-c606-4993-97ae-3ced98e9030e/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6c478a19-c606-4993-97ae-3ced98e9030e/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6c478a19-c606-4993-97ae-3ced98e9030e/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/5d7/5d72c450538998f92dcd4e6dcc8c21d8.jpg\", \"https://media.rawg.io/media/screenshots/2db/2db30f4de3bba8e8c1d044b3eb3a801d.jpg\", \"https://media.rawg.io/media/screenshots/77d/77de28c3fab0a7a034bfcca39a9342ad.jpg\", \"https://media.rawg.io/media/screenshots/c46/c46130f933b677e5dec176928657c606.jpg\", \"https://media.rawg.io/media/screenshots/bb3/bb35ade2a940bde05f13b7f55b4c2dbe.jpg\", \"https://media.rawg.io/media/screenshots/f70/f7089d81cbbc8b3080e3b3310a79be54.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 7/8/10 64-Bit\\nİşlemci: Intel Core i3 with 3.3 GHz or AMD Phenom II X4 with 3.2 GHz\\nBellek: 6 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 750 (1GB VRAM) or AMD Radeon R7 360 (2GB VRAM) veya üstü\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 12000 MB kullanılabilir alan\\nEk Notlar: Specifications may change during development.\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows 10 64-Bit\\nİşlemci: Intel Core i5-4670 (4th gen.) with 3.4 GHz or AMD FX-8350 with 4 GHz veya eşdeğeri\\nBellek: 8 GB RAM\\nEkran Kartı: NVIDIA GeForce GTX 1060 (6GB VRAM) / AMD Radeon RX 580 (8GB VRAM) veya üstü\\nDirectX: Version 11\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 12000 MB kullanılabilir alan\\nEk Notlar: Specifications may change during development.\", \"game_size_gb\": \"1.94\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6c478a19-c606-4993-97ae-3ced98e9030e/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6c478a19-c606-4993-97ae-3ced98e9030e/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6c478a19-c606-4993-97ae-3ced98e9030e/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/5d7/5d72c450538998f92dcd4e6dcc8c21d8.jpg\", \"https://media.rawg.io/media/screenshots/2db/2db30f4de3bba8e8c1d044b3eb3a801d.jpg\", \"https://media.rawg.io/media/screenshots/77d/77de28c3fab0a7a034bfcca39a9342ad.jpg\", \"https://media.rawg.io/media/screenshots/c46/c46130f933b677e5dec176928657c606.jpg\", \"https://media.rawg.io/media/screenshots/bb3/bb35ade2a940bde05f13b7f55b4c2dbe.jpg\", \"https://media.rawg.io/media/screenshots/f70/f7089d81cbbc8b3080e3b3310a79be54.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6c478a19-c606-4993-97ae-3ced98e9030e/torrents/Bus.Driving.Sim.22.Early.Access.torrent\", \"label\": \"Bus.Driving.Sim.22.Early.Access\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"4f49954a-5f02-4926-9584-d9ad83bd2a2c\"], \"id\": \"6c478a19-c606-4993-97ae-3ced98e9030e\", \"added_date\": \"2026-10-14T12:02:49.737269\", \"first_added_date\": \"2026-10-14T12:02:49.737269\", \"last_updated\": \"2026-10-14T12:03:04.452422\"}",
     "added_at": "2026-10-14T12:03:04.452422",
     "categories": [
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
-      "4f49954a-5f02-4926-9584-d9ad83bd2a2c"
+      "4f49954a-5f02-4926-9584-d9ad83bd2a2c",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
   },
   {
@@ -17620,7 +17613,7 @@
     "id": "6f6f8ac0-9c65-458c-a2be-a23834680079",
     "title": "Farming Simulator 15",
     "description": "Farming Simulator 15, Giants Software tarafından geliştirilen ve yayınlanan bir tarım ve hayvancılık simülasyonu video oyunudur.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,81e9449d-d5fa-4e0e-b044-47301c5622a0,7e2cbc31-4e7b-46b6-af72-889492cfda97,d5552220-74ec-41ac-a756-aabe6724cb3c",
+    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,81e9449d-d5fa-4e0e-b044-47301c5622a0",
     "developer": "Giants Software",
     "publisher": "Focus Home Interactive",
     "release_date": "30 Eki 2014",
@@ -17631,9 +17624,14 @@
     "size_gb": 2.74,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-02T09:04:47.173993",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Farming Simulator 15\", \"description\": \"Farming Simulator 15, Giants Software tarafından geliştirilen ve yayınlanan bir tarım ve hayvancılık simülasyonu video oyunudur.\", \"developer\": \"Giants Software\", \"publisher\": \"Focus Home Interactive\", \"release_date\": \"30 Eki 2014\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/29d/29d46556d4f5bd6bf70a4088146eb664.jpg\", \"https://media.rawg.io/media/screenshots/6c4/6c4d191b9a3dc7e069bc8bca25659052.jpg\", \"https://media.rawg.io/media/screenshots/734/734a35acebb4af0be10b53f277718641.jpg\", \"https://media.rawg.io/media/screenshots/fdb/fdbba9ef08e7fd5d5a7013da44bdd830.jpg\", \"https://media.rawg.io/media/screenshots/f56/f563bb1e9edb91f3a6f202afdb5578b5.jpg\", \"https://media.rawg.io/media/screenshots/243/2430e1c48368324216158f2b164cc476.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Microsoft Windows Vista, Windows 7 or Windows 8\\nİşlemci: 2.0 GHz Intel or equal AMD-Processor\\nBellek: 2 GB RAM\\nEkran Kartı: 512 MB OF VIDEO MEMORY ATI RADEON HD 2600/NVIDIA GEFORCE 8600 OR HIGHER\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 3 GB kullanılabilir alan\\nEk Notlar: INTERNET CONNECTION REQUIRED FOR THE ONLINE GAME\", \"sys_recommended\": \"\", \"game_size_gb\": \"2.74\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/29d/29d46556d4f5bd6bf70a4088146eb664.jpg\", \"https://media.rawg.io/media/screenshots/6c4/6c4d191b9a3dc7e069bc8bca25659052.jpg\", \"https://media.rawg.io/media/screenshots/734/734a35acebb4af0be10b53f277718641.jpg\", \"https://media.rawg.io/media/screenshots/fdb/fdbba9ef08e7fd5d5a7013da44bdd830.jpg\", \"https://media.rawg.io/media/screenshots/f56/f563bb1e9edb91f3a6f202afdb5578b5.jpg\", \"https://media.rawg.io/media/screenshots/243/2430e1c48368324216158f2b164cc476.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/torrents/Farming.Simulator.15-CODEX.torrent\", \"label\": \"Farming.Simulator.15-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"81e9449d-d5fa-4e0e-b044-47301c5622a0\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"d5552220-74ec-41ac-a756-aabe6724cb3c\"], \"id\": \"6f6f8ac0-9c65-458c-a2be-a23834680079\", \"added_date\": \"2026-11-02T09:04:35.479166\", \"first_added_date\": \"2026-11-02T09:04:35.479166\", \"last_updated\": \"2026-11-02T09:04:47.173993\"}",
-    "added_at": "2026-11-02T09:04:47.173993"
+    "added_at": "2026-11-02T09:04:47.173993",
+    "categories": [
+      "d5552220-74ec-41ac-a756-aabe6724cb3c",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0"
+    ]
   },
   {
     "id": "fcd0e33d-b861-4ece-b312-c57ff7149ec4",
