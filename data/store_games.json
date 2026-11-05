@@ -2573,74 +2573,23 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Need for Speed: Underground 2",
+    "id": "d320dc12-2ec7-49f9-85cb-12f4e3923b56",
+    "title": "Need for Speed: Underground 2",
     "description": "Modifiye kültürünün zirve yaptığı, serbest dolaşım (açık dünya) sunan efsanevi NFS oyunudur. Neon ışıkları ve unutulmaz müzikleriyle sokak yarışlarının babasıdır.",
+    "category": "6572dfce-4409-4eda-b0da-63be697847e4,d185cec6-0134-4361-b263-63f6687ebfe3,b53fc043-1aeb-409b-b320-ff1463463533,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Electronic Arts Black Box",
     "publisher": "Electronic Arts",
     "release_date": "15 Kas 2004",
-    "tags": [
-      "Racing",
-      "Arcade",
-      "Singleplayer",
-      "Multiplayer"
-    ],
-    "cover_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/cover.png?v=1782289020",
-    "banner_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/banner.jpg?v=1782289020",
-    "library_hero_image": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/library_hero.jpg?v=1782289020",
-    "screenshots": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_01.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_02.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_03.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_04.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_05.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_06.jpg?v=1782289020"
-    ],
-    "note": "",
-    "rating": 9,
-    "hltb_hours": "15",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows 98 / 2000 / XP\nİşlemci: Pentium III 933 MHz\nBellek: 256 MB RAM\nEkran Kartı: 32 MB DirectX 9.0 uyumlu\nDepolama: 2 GB",
-    "sys_recommended": "İşletim Sistemi: Windows XP / 7\nİşlemci: Pentium 4 2.0 GHz veya üzeri\nBellek: 512 MB RAM\nEkran Kartı: 64 MB DirectX 9.0c uyumlu\nDepolama: 2 GB",
-    "game_size_gb": "2",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/cover.png?v=1782289020",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/banner.jpg?v=1782289020",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/library_hero.jpg?v=1782289020",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_01.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_02.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_03.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_04.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_05.jpg?v=1782289020",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_06.jpg?v=1782289020"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/torrents/Need.For.Speed.Underground.2.torrent",
-        "label": "Need.For.Speed.Underground.2",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      },
-      {
-        "url": "http://www.gameranger.com/",
-        "label": "🔗 Doğrudan Link",
-        "type": "direct",
-        "description": "Gameranger ile online oyna",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "d320dc12-2ec7-49f9-85cb-12f4e3923b56",
-    "added_date": "2026-06-22T20:05:36.628259",
-    "categories": [
-      "6572dfce-4409-4eda-b0da-63be697847e4",
-      "d185cec6-0134-4361-b263-63f6687ebfe3",
-      "b53fc043-1aeb-409b-b320-ff1463463533",
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
-    ],
-    "first_added_date": "2026-06-22T20:05:36.628259",
-    "last_updated": "2026-10-02T19:55:08.412306",
-    "category": "6572dfce-4409-4eda-b0da-63be697847e4,d185cec6-0134-4361-b263-63f6687ebfe3,b53fc043-1aeb-409b-b320-ff1463463533,d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/cover.png",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/library_hero.jpg",
+    "rating": 9.0,
+    "size_gb": 2.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-11-05T07:08:01.018936",
+    "raw_data": "{\"name\": \"Need for Speed: Underground 2\", \"description\": \"Modifiye kültürünün zirve yaptığı, serbest dolaşım (açık dünya) sunan efsanevi NFS oyunudur. Neon ışıkları ve unutulmaz müzikleriyle sokak yarışlarının babasıdır.\", \"developer\": \"Electronic Arts Black Box\", \"publisher\": \"Electronic Arts\", \"release_date\": \"15 Kas 2004\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_01.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_02.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_03.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_04.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_05.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_06.jpg?v=1782289020\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 9, \"hltb_hours\": \"15\", \"show_hltb\": true, \"sys_min\": \"İşletim Sistemi: Windows 98 / 2000 / XP\\nİşlemci: Pentium III 933 MHz\\nBellek: 256 MB RAM\\nEkran Kartı: 32 MB DirectX 9.0 uyumlu\\nDepolama: 2 GB\", \"sys_recommended\": \"İşletim Sistemi: Windows XP / 7\\nİşlemci: Pentium 4 2.0 GHz veya üzeri\\nBellek: 512 MB RAM\\nEkran Kartı: 64 MB DirectX 9.0c uyumlu\\nDepolama: 2 GB\", \"game_size_gb\": \"2\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_01.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_02.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_03.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_04.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_05.jpg?v=1782289020\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/screenshots/ss_06.jpg?v=1782289020\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d320dc12-2ec7-49f9-85cb-12f4e3923b56/torrents/Need.For.Speed.Underground.2.torrent\", \"label\": \"Need.For.Speed.Underground.2\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"http://www.gameranger.com/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Gameranger ile online oyna\", \"browser_only\": true}, {\"url\": \"nfsu2.xyz\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Tarayıcıda online oyna!\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"6572dfce-4409-4eda-b0da-63be697847e4\", \"d185cec6-0134-4361-b263-63f6687ebfe3\", \"b53fc043-1aeb-409b-b320-ff1463463533\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\"], \"id\": \"d320dc12-2ec7-49f9-85cb-12f4e3923b56\", \"added_date\": \"2026-06-22T20:05:36.628259\", \"first_added_date\": \"2026-06-22T20:05:36.628259\", \"last_updated\": \"2026-11-05T07:08:01.018936\"}",
+    "added_at": "2026-11-05T07:08:01.018936"
   },
   {
     "name": "Need For Speed: Most Wanted",
