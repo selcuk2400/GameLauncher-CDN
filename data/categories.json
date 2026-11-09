@@ -782,5 +782,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "6df7eba0-256d-4958-a151-92037d8cbbca"
+  },
+  {
+    "id": "5c294928-b02a-49a6-b8d1-ef589ef5d1f1",
+    "name": "WE ARE FOOTBALL",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
   }
 ]
