@@ -17723,5 +17723,23 @@
       "5c294928-b02a-49a6-b8d1-ef589ef5d1f1",
       "563941bf-f212-4e05-a461-b2b887c5021e"
     ]
+  },
+  {
+    "id": "96e37b06-3e87-4112-8768-ef07d1d6e25e",
+    "title": "Don’t Play This",
+    "description": "Don’t Play This, birinci şahıs bakış açısına sahip, yürüme simülatörü türünde, kısa süreli bir bağımsız (indie) psikolojik korku oyunudur.",
+    "category": "8b3139fa-3b16-4639-81c3-c8a34c013636",
+    "developer": "Admia",
+    "publisher": "a1esska",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/cover.jpg",
+    "background_url": "",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 8.38,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-11-12T08:23:45.489165",
+    "raw_data": "{\"name\": \"Don’t Play This\", \"description\": \"Don’t Play This, birinci şahıs bakış açısına sahip, yürüme simülatörü türünde, kısa süreli bir bağımsız (indie) psikolojik korku oyunudur.\", \"developer\": \"Admia\", \"publisher\": \"a1esska\", \"release_date\": \"14 Nisan 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/cover.jpg\", \"banner_image\": \"\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/screenshots/ss_04.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"2\", \"show_hltb\": true, \"game_size_gb\": \"8.38\", \"sys_min\": \"İşletim Sistemi: Windows 10 / 11\\nİşlemci: AMD Ryzen 5 / Intel i5\\nBellek (RAM): 16 GB RAM\\nEkran Kartı: NVIDIA RTX 2060\\nDirectX: Sürüm 11\", \"sys_recommended\": \"İşletim Sistemi: Windows 10 / 11\\nİşlemci: AMD Ryzen 5 / Intel i5\\nBellek (RAM): 16 GB RAM\\nEkran Kartı: NVIDIA RTX 2070\\nDirectX: Sürüm 11\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/cover.jpg\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/96e37b06-3e87-4112-8768-ef07d1d6e25e/torrents/Dont.Play_.This-TENOKE.torrent\", \"label\": \"Dont.Play_.This-TENOKE\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"8b3139fa-3b16-4639-81c3-c8a34c013636\"], \"id\": \"96e37b06-3e87-4112-8768-ef07d1d6e25e\", \"added_date\": \"2026-11-12T08:23:17.630004\", \"first_added_date\": \"2026-11-12T08:23:17.630004\", \"last_updated\": \"2026-11-12T08:23:45.489165\"}",
+    "added_at": "2026-11-12T08:23:45.489165"
   }
 ]
