@@ -10139,67 +10139,22 @@
     "category": "141280b4-dfa5-4a70-97f1-039f907cd036,5c112b26-4d14-49b5-9aef-1a97232e8456"
   },
   {
-    "name": "Marvel's Spider-Man: Miles Morales",
+    "id": "5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4",
+    "title": "Marvel's Spider-Man: Miles Morales",
     "description": "Marvel's Spider-Man evreninin son macerasında genç Miles Morales, yeni bir Spider-Man olarak akıl hocası Peter Parker'ın izinden giderken yeni evine alışmaya çalışıyor. Ancak şiddetli bir güç mücadelesi yeni evini yok etmekle tehdit ettiğinde, kahraman olmayı arzulayan kişi, büyük gücün aynı zamanda büyük sorumluluğu da beraberinde getirmesi gerektiğini fark eder. Marvel'ın New York'unun tamamını kurtarmak için Miles'ın Örümcek Adam rolünü üstlenip ona sahip olması gerekiyor.",
+    "category": "28fc976a-525c-42cb-99c7-93e60549add6,5c112b26-4d14-49b5-9aef-1a97232e8456",
     "developer": "Insomniac Games",
     "publisher": "Sony Interactive Entertainment, PlayStation PC",
-    "release_date": "12 Kas 2020",
-    "tags": [
-      "Action",
-      "Singleplayer",
-      "Steam Achievements",
-      "Multiplayer",
-      "Exploration",
-      "Story Rich"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\59c4be412494201dbe6121b901f1e446.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\b5f32a4aa2954352b67ece9d544ce282_Y5mrZXh.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\6a3f8e5443504151a7306f2a13fae303.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\2372aa24a528d592d0bdb6d1fa0d1253.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\e2007d863194a66053c79d325401950f.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\6bb1d64822a95680a815b7a2a47e4299.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\92438137b80b2f0e74a234ee86d63153.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\91249673e4d695c1763bdcb3f8eb1bc3.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\f17a279d0fe73388fccef4072840e1f1.jpg"
-    ],
-    "note": "",
-    "rating": 8,
-    "hltb_hours": "8",
-    "show_hltb": true,
-    "sys_min": "64-bit işlemci ve işletim sistemi gerektirir İşletim Sistemi: Windows 10 64-bit 1909 İşlemci: Intel Core i3-4160, 3.6 GHz or AMD equivalent Bellek: 8 GB RAM Ekran Kartı: NVIDIA GTX 950 or AMD Radeon RX 470 DirectX: Sürüm 12 Depolama: 75 GB kullanılabilir alan",
-    "sys_recommended": "64-bit işlemci ve işletim sistemi gerektirir İşletim Sistemi: Windows 10 64-bit 1909 İşlemci: Intel Core i5-4670, 3.4 Ghz or AMD Ryzen 5 1600, 3.2 Ghz Bellek: 16 GB RAM Ekran Kartı: NVIDIA GTX 1060 6GB or AMD Radeon RX 580 8GB DirectX: Sürüm 12 Depolama: 75 GB kullanılabilir alan İlave Notlar: 75 GB SSD space Recommended",
-    "game_size_gb": "57.77",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/torrents/Marvels Spider-Man Miles Morales v.3.617.1.0 (2022).torrent",
-        "label": "Marvels Spider-Man Miles Morales v.3.617.1.0 (2022)",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4",
-    "added_date": "2026-06-27T06:50:35.387898",
-    "first_added_date": "2026-06-27T06:50:35.387898",
-    "categories": [
-      "28fc976a-525c-42cb-99c7-93e60549add6",
-      "5c112b26-4d14-49b5-9aef-1a97232e8456"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "28fc976a-525c-42cb-99c7-93e60549add6,5c112b26-4d14-49b5-9aef-1a97232e8456"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 57.77,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-11-14T11:18:04.509890",
+    "raw_data": "{\"name\": \"Marvel's Spider-Man: Miles Morales\", \"description\": \"Marvel's Spider-Man evreninin son macerasında genç Miles Morales, yeni bir Spider-Man olarak akıl hocası Peter Parker'ın izinden giderken yeni evine alışmaya çalışıyor. Ancak şiddetli bir güç mücadelesi yeni evini yok etmekle tehdit ettiğinde, kahraman olmayı arzulayan kişi, büyük gücün aynı zamanda büyük sorumluluğu da beraberinde getirmesi gerektiğini fark eder. Marvel'ın New York'unun tamamını kurtarmak için Miles'ın Örümcek Adam rolünü üstlenip ona sahip olması gerekiyor.\", \"developer\": \"Insomniac Games\", \"publisher\": \"Sony Interactive Entertainment, PlayStation PC\", \"release_date\": \"12 Kas 2020\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"8\", \"show_hltb\": true, \"game_size_gb\": \"57.77\", \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir İşletim Sistemi: Windows 10 64-bit 1909 İşlemci: Intel Core i3-4160, 3.6 GHz or AMD equivalent Bellek: 8 GB RAM Ekran Kartı: NVIDIA GTX 950 or AMD Radeon RX 470 DirectX: Sürüm 12 Depolama: 75 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir İşletim Sistemi: Windows 10 64-bit 1909 İşlemci: Intel Core i5-4670, 3.4 Ghz or AMD Ryzen 5 1600, 3.2 Ghz Bellek: 16 GB RAM Ekran Kartı: NVIDIA GTX 1060 6GB or AMD Radeon RX 580 8GB DirectX: Sürüm 12 Depolama: 75 GB kullanılabilir alan İlave Notlar: 75 GB SSD space Recommended\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4/torrents/Marvels Spider-Man Miles Morales v.3.617.1.0 (2022).torrent\", \"label\": \"Marvels Spider-Man Miles Morales v.3.617.1.0 (2022)\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://www.calypsoceviri.com/turkce-yamalar/marvels-spider-man-miles-morales-turkce-yama-indir\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Türkçe Yama\", \"browser_only\": true}, {\"url\": \"https://www.youtube.com/watch?v=pvrhGSjxDBs\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"oyununuz rusçaysa bu videodakileri yapın! (russian to english)\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"28fc976a-525c-42cb-99c7-93e60549add6\", \"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"5e02261b-dc74-47c2-bf1a-3c77eb9e4fc4\", \"added_date\": \"2026-06-27T06:50:35.387898\", \"first_added_date\": \"2026-06-27T06:50:35.387898\", \"last_updated\": \"2026-11-14T11:18:04.509890\"}",
+    "added_at": "2026-11-14T11:18:04.509890"
   },
   {
     "id": "7001e82c-4081-4ffb-a40a-a9229b3d2739",
