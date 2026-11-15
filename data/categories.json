@@ -789,5 +789,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
+  },
+  {
+    "id": "9b80faf4-2e9d-4c08-86eb-b7f26d9e063b",
+    "name": "Türk Yapımı Oyunlar",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": null
   }
 ]
