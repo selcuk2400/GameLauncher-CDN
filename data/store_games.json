@@ -18245,5 +18245,23 @@
       "dfcdff5a-5338-4dc5-ac40-b93b4ef9f950",
       "563941bf-f212-4e05-a461-b2b887c5021e"
     ]
+  },
+  {
+    "id": "7bbdd901-7580-46dc-935e-b5f3c5d0bf73",
+    "title": "Cinema Manager Simulator",
+    "description": "Cinema Manager Simulator, oyuncuların kendi sinema salonunu kurup yönettiği, Revolt Games tarafından geliştirilen ve PlayWay S.A. tarafından yayınlanan bir simülasyon oyunudur. 12 Kasım 2026 tarihinde çıkış yapmıştır.",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+    "developer": "Revolt Games",
+    "publisher": "PlayWay",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/cover.jpg",
+    "background_url": "",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 3.82,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-11-16T23:23:38.276912",
+    "raw_data": "{\"name\": \"Cinema Manager Simulator\", \"description\": \"Cinema Manager Simulator, oyuncuların kendi sinema salonunu kurup yönettiği, Revolt Games tarafından geliştirilen ve PlayWay S.A. tarafından yayınlanan bir simülasyon oyunudur. 12 Kasım 2026 tarihinde çıkış yapmıştır.\", \"developer\": \"Revolt Games\", \"publisher\": \"PlayWay\", \"release_date\": \"12 Kasım 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/cover.jpg\", \"banner_image\": \"\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/screenshots/ss_04.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"3.82\", \"sys_min\": \"\", \"sys_recommended\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/cover.jpg\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/7bbdd901-7580-46dc-935e-b5f3c5d0bf73/torrents/Cinema.Manager.Simulator.torrent\", \"label\": \"Cinema.Manager.Simulator\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"7bbdd901-7580-46dc-935e-b5f3c5d0bf73\", \"added_date\": \"2026-11-16T23:10:56.394783\", \"first_added_date\": \"2026-11-16T23:10:56.394783\", \"last_updated\": \"2026-11-16T23:23:38.276912\"}",
+    "added_at": "2026-11-16T23:23:38.276912"
   }
 ]
