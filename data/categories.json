@@ -796,5 +796,19 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+  },
+  {
+    "id": "2617f881-64d9-46f5-87c9-50de0d857701",
+    "name": "AO Tennis",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "6df7eba0-256d-4958-a151-92037d8cbbca"
+  },
+  {
+    "id": "cbb4bbb8-087e-4d2d-b52d-f8fd14ad11a4",
+    "name": "Devil May Cry",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
