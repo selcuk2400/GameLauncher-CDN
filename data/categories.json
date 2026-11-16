@@ -859,5 +859,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "563941bf-f212-4e05-a461-b2b887c5021e"
+  },
+  {
+    "id": "5da8a655-71cb-4460-b860-c239d2186a5b",
+    "name": "Hakem Simulator",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
   }
 ]
