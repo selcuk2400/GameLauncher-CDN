@@ -817,5 +817,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+  },
+  {
+    "id": "9bba15bc-acc4-4b5b-99ec-1d4e5d758c52",
+    "name": "Car Dealership Simulator",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "3fcb323d-233c-438d-88c8-d6555f92bf78"
   }
 ]
