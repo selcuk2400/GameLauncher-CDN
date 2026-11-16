@@ -13766,7 +13766,7 @@
     "id": "eeab65ae-3558-4678-8d10-b3bad8f0d9ea",
     "title": "Car For Sale Simulator 2023",
     "description": "Satılık Araba Simülatörü 2023 - Araba tutkunları için geliştirildi, farklı araba modelleri alıp satarak kendi araba satış işinizi büyütün. Satın aldığınız arabaları dilediğiniz gibi sürün, onarın, modifiye edin ve uygun fiyatlarla müşterilere satın.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
+    "category": "3fcb323d-233c-438d-88c8-d6555f92bf78,7e2cbc31-4e7b-46b6-af72-889492cfda97,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Red Axe Games",
     "publisher": "Red Axe Games",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/cover.jpg",
@@ -13776,9 +13776,15 @@
     "size_gb": 2.23,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-16T14:36:46.505054",
+    "last_updated": "2026-11-16T20:27:56.872498",
     "raw_data": "{\"name\": \"Car For Sale Simulator 2023\", \"description\": \"Satılık Araba Simülatörü 2023 - Araba tutkunları için geliştirildi, farklı araba modelleri alıp satarak kendi araba satış işinizi büyütün. Satın aldığınız arabaları dilediğiniz gibi sürün, onarın, modifiye edin ve uygun fiyatlarla müşterilere satın.\", \"developer\": \"Red Axe Games\", \"publisher\": \"Red Axe Games\", \"release_date\": \"1 Kas 2024\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_04.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"2.23\", \"sys_min\": \"İşletim Sistemi: Windows (64-bit) 8\\nİşlemci: Intel Core i5-2500 @ 3,3 GHz (4 CPUs)\\nBellek: 6 GB RAM\\nEkran Kartı: NVidia GeForce GTX 670 2GB\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows (64-bit) 10\\nİşlemci: Intel Core i5-6500 @ 3,2 GHz (4 CPUs)\\nBellek: 16 GB RAM\\nEkran Kartı: NVidia GeForce GTX 1060 4GB\\nDirectX: Version 11\\nDepolama: 5 GB kullanılabilir alan\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/eeab65ae-3558-4678-8d10-b3bad8f0d9ea/torrents/Car-For-Sale-Simulator-v.1.3.5.1.torrent\", \"label\": \"Car-For-Sale-Simulator-v.1.3.5.1\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"a185dacd-1bf1-4eef-b92a-c1fbd52a85c9\"], \"id\": \"eeab65ae-3558-4678-8d10-b3bad8f0d9ea\", \"added_date\": \"2026-07-12T15:07:25.676928\", \"first_added_date\": \"2026-07-12T15:07:25.676928\", \"last_updated\": \"2026-11-16T14:36:46.505054\"}",
-    "added_at": "2026-07-12T12:07:53.206862"
+    "added_at": "2026-07-12T12:07:53.206862",
+    "categories": [
+      "3fcb323d-233c-438d-88c8-d6555f92bf78",
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    ]
   },
   {
     "id": "fb1f715d-b473-4d09-8bd3-b9c6e18582ee",
@@ -16156,7 +16162,7 @@
     "id": "8ca3bdfa-2559-45fc-b821-139ee1988f8a",
     "title": "Car Dealer Simulator",
     "description": "İkinci el araba satma hayalini gerçeğe dönüştür! Car Dealer Simulator’da, işlerin tuhaf sahibi Little Sam’den bir işletmeyi yönetmenin tüm inceliklerini öğreneceksin. Kendisi işleri düzene sokmakta pek başarılı değil, bu yüzden senin görevin arabaları ucuza almak, tamir edip yenilemek ve kâr ederek satmak!",
-    "category": "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,d05d2892-20d2-4e9a-a7cc-2c99d7585558,3fcb323d-233c-438d-88c8-d6555f92bf78,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
     "developer": "Garage Monkeys",
     "publisher": "Garage Monkeys",
     "release_date": "29 May 2025",
@@ -16167,19 +16173,21 @@
     "size_gb": 21.44,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-08T22:25:36.131564",
+    "last_updated": "2026-11-16T20:27:56.872498",
     "raw_data": "{\"name\": \"Car Dealer Simulator\", \"description\": \"İkinci el araba satma hayalini gerçeğe dönüştür! Car Dealer Simulator’da, işlerin tuhaf sahibi Little Sam’den bir işletmeyi yönetmenin tüm inceliklerini öğreneceksin. Kendisi işleri düzene sokmakta pek başarılı değil, bu yüzden senin görevin arabaları ucuza almak, tamir edip yenilemek ve kâr ederek satmak!\", \"developer\": \"Garage Monkeys\", \"publisher\": \"Garage Monkeys\", \"release_date\": \"29 May 2025\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/24b/24b85d7103483fb49472d48d71f2b211.jpg\", \"https://media.rawg.io/media/screenshots/63e/63ef305603ebea75efe80726d1bbf002.jpg\", \"https://media.rawg.io/media/screenshots/6c9/6c932fc0fdd7c62417f5a2c6b1952310.jpg\", \"https://media.rawg.io/media/screenshots/6b6/6b689a62c2aab0708c16480a1c5805ab.jpg\", \"https://media.rawg.io/media/screenshots/5ae/5ae229a0cdfc8e8546e101ffdd71a1e2.jpg\", \"https://media.rawg.io/media/screenshots/363/363925a6bf799d8a143eb47306e0e39c.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Microsoft Windows 10/11 64-bit\\nİşlemci: Intel Core i3 3.0 GHz or Ryzen 5 3000\\nBellek: 8 GB RAM\\nEkran Kartı: GeForce GTX 970 / Radeon RX 570\\nDirectX: Version 11\\nDepolama: 16 GB kullanılabilir alan\\nSes Kartı: DirectX compatible\\nEk Notlar: 64-bit işlemci ve işletim sistemi gerektirir\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Microsoft Windows 10/11 64-bit\\nİşlemci: Intel Core i7 3.5 Ghz or Ryzen 7 5000 veya üstü\\nBellek: 16 GB RAM\\nEkran Kartı: GeForce RTX 3070 / Radeon RX 6800\\nDirectX: Version 11\\nDepolama: 16 GB kullanılabilir alan\\nSes Kartı: DirectX compatible\\nEk Notlar: 64-bit işlemci ve işletim sistemi gerektirir\", \"game_size_gb\": \"21.44\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/24b/24b85d7103483fb49472d48d71f2b211.jpg\", \"https://media.rawg.io/media/screenshots/63e/63ef305603ebea75efe80726d1bbf002.jpg\", \"https://media.rawg.io/media/screenshots/6c9/6c932fc0fdd7c62417f5a2c6b1952310.jpg\", \"https://media.rawg.io/media/screenshots/6b6/6b689a62c2aab0708c16480a1c5805ab.jpg\", \"https://media.rawg.io/media/screenshots/5ae/5ae229a0cdfc8e8546e101ffdd71a1e2.jpg\", \"https://media.rawg.io/media/screenshots/363/363925a6bf799d8a143eb47306e0e39c.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8ca3bdfa-2559-45fc-b821-139ee1988f8a/torrents/Car.Dealer.Simulator.v20260907-P2P.Torrent\", \"label\": \"Car.Dealer.Simulator.v20260907-P2P\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"8ca3bdfa-2559-45fc-b821-139ee1988f8a\", \"added_date\": \"2026-10-11T21:26:16.470679\", \"first_added_date\": \"2026-10-11T21:26:16.470679\", \"last_updated\": \"2026-10-11T22:13:49.414217\"}",
     "added_at": "2026-10-11T21:26:28.704103",
     "categories": [
-      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "3fcb323d-233c-438d-88c8-d6555f92bf78",
+      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9"
     ]
   },
   {
     "id": "d257c2fc-b036-45e5-89f5-609e08e1b82d",
     "title": "Car Dealership Simulator 2",
     "description": "Car Dealership Simulator 2’de gerçekçi araç alım satımı, modifikasyonlar, işletme yönetimi ve stratejiyle kendi araba galerini kur! Arabalar satın al, modifiye et, satışlarını yönet ve otomotiv pazarının zirvesine yüksel! Araba ticaretine adım at! Fırsatları değerlendir, yeni arabalar ve yeni galeriler satın alarak işini büyüt!",
-    "category": "9447afc0-f5c9-478a-affa-95bd7dca5e47,7e2cbc31-4e7b-46b6-af72-889492cfda97,d05d2892-20d2-4e9a-a7cc-2c99d7585558,9bba15bc-acc4-4b5b-99ec-1d4e5d758c52,3fcb323d-233c-438d-88c8-d6555f92bf78,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
+    "category": "9447afc0-f5c9-478a-affa-95bd7dca5e47,d05d2892-20d2-4e9a-a7cc-2c99d7585558,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
     "developer": "Quadfix Games",
     "publisher": "Quadfix Games",
     "release_date": "26 Eyl 2025",
@@ -16190,15 +16198,12 @@
     "size_gb": 1.79,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-16T20:23:18.144019",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Car Dealership Simulator 2\", \"description\": \"Car Dealership Simulator 2’de gerçekçi araç alım satımı, modifikasyonlar, işletme yönetimi ve stratejiyle kendi araba galerini kur! Arabalar satın al, modifiye et, satışlarını yönet ve otomotiv pazarının zirvesine yüksel! Araba ticaretine adım at! Fırsatları değerlendir, yeni arabalar ve yeni galeriler satın alarak işini büyüt!\", \"developer\": \"Quadfix Games\", \"publisher\": \"Quadfix Games\", \"release_date\": \"26 Eyl 2025\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/43e/43ea3efb0dd99198e26f4f3f62057b60.jpg\", \"https://media.rawg.io/media/screenshots/09d/09d6949f6f6f6bf523183a870a692199.jpg\", \"https://media.rawg.io/media/screenshots/6e8/6e8a84f07149fdaf72f1a9b180a70bfb.jpg\", \"https://media.rawg.io/media/screenshots/37a/37a572af1e2b44100add0e9619667af6.jpg\", \"https://media.rawg.io/media/screenshots/c70/c705b868288d3a96d51e8b123eeaebf2.jpg\", \"https://media.rawg.io/media/screenshots/0bd/0bdecdd0228359c967a64fdab08379ae.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows(64-bit)\\nİşlemci: İntel Core i5 3.0 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: NVidia GeForce GTX 1060 6GB\\nDirectX: Version 11\\nDepolama: 8 GB kullanılabilir alan\", \"sys_recommended\": \"64-bit işlemci ve işletim sistemi gerektirir\\nİşletim Sistemi: Windows(64-bit)\\nİşlemci: İntel Core i7 3.5 GHz\\nBellek: 16 GB RAM\\nEkran Kartı: NVidia GeForce GTX 2060 6GB\\nDirectX: Version 11\\nDepolama: 8 GB kullanılabilir alan\", \"game_size_gb\": \"1.79\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/43e/43ea3efb0dd99198e26f4f3f62057b60.jpg\", \"https://media.rawg.io/media/screenshots/09d/09d6949f6f6f6bf523183a870a692199.jpg\", \"https://media.rawg.io/media/screenshots/6e8/6e8a84f07149fdaf72f1a9b180a70bfb.jpg\", \"https://media.rawg.io/media/screenshots/37a/37a572af1e2b44100add0e9619667af6.jpg\", \"https://media.rawg.io/media/screenshots/c70/c705b868288d3a96d51e8b123eeaebf2.jpg\", \"https://media.rawg.io/media/screenshots/0bd/0bdecdd0228359c967a64fdab08379ae.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/d257c2fc-b036-45e5-89f5-609e08e1b82d/torrents/Car.Dealership.Simulator.2.v0.9.1.torrent\", \"label\": \"Car.Dealership.Simulator.2.v0.9.1\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"a185dacd-1bf1-4eef-b92a-c1fbd52a85c9\", \"9447afc0-f5c9-478a-affa-95bd7dca5e47\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"d257c2fc-b036-45e5-89f5-609e08e1b82d\", \"added_date\": \"2026-10-11T21:32:29.415539\", \"first_added_date\": \"2026-10-11T21:32:29.415539\", \"last_updated\": \"2026-10-12T10:35:06.313062\"}",
     "added_at": "2026-10-11T21:32:40.558824",
     "categories": [
       "9447afc0-f5c9-478a-affa-95bd7dca5e47",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-      "9bba15bc-acc4-4b5b-99ec-1d4e5d758c52",
-      "3fcb323d-233c-438d-88c8-d6555f92bf78",
       "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9"
     ]
   },
@@ -16206,7 +16211,7 @@
     "id": "feb02569-206f-4522-a128-6645cdce8c0e",
     "title": "Car Dealership Simulator",
     "description": "Car Dealership Simulator, son derece kapsamlı ve detaylı bir araba galerisi işletme simülasyonu oyunudur. Oyunda ayrıntılı araba alım satım mekanikleri bulunur. Arabaları satın al, fiyatlarını belirle, temizle ve satarak kâr elde et!",
-    "category": "9447afc0-f5c9-478a-affa-95bd7dca5e47,7e2cbc31-4e7b-46b6-af72-889492cfda97,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,9bba15bc-acc4-4b5b-99ec-1d4e5d758c52,3fcb323d-233c-438d-88c8-d6555f92bf78,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "category": "9447afc0-f5c9-478a-affa-95bd7dca5e47,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Quadfix Games, THE BARONATOR",
     "publisher": "Quadfix Games",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/cover.jpg",
@@ -16216,16 +16221,13 @@
     "size_gb": 0.47,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-16T20:23:18.144019",
+    "last_updated": "2026-11-03T10:28:57.783741",
     "raw_data": "{\"name\": \"Car Dealership Simulator\", \"description\": \"Car Dealership Simulator, son derece kapsamlı ve detaylı bir araba galerisi işletme simülasyonu oyunudur. Oyunda ayrıntılı araba alım satım mekanikleri bulunur. Arabaları satın al, fiyatlarını belirle, temizle ve satarak kâr elde et!\", \"developer\": \"Quadfix Games, THE BARONATOR\", \"publisher\": \"Quadfix Games\", \"release_date\": \"24 Oca 2022\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_04.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"0.47\", \"sys_min\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i5 3.0 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1050ti 4 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows (64-bit)\\nİşlemci: İntel Core i7 3.5 GHz\\nBellek: 8 GB RAM\\nEkran Kartı: Nvidia Geforce GTX 1660ti 6 GB\\nDirectX: Version 11\\nDepolama: 2 GB kullanılabilir alan\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/feb02569-206f-4522-a128-6645cdce8c0e/torrents/9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B (2).torrent\", \"label\": \"9AD18E1D9F14BBAE7ADB85C5F7695B0CDF23CA7B (2)\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"a185dacd-1bf1-4eef-b92a-c1fbd52a85c9\", \"9447afc0-f5c9-478a-affa-95bd7dca5e47\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\", \"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\"], \"id\": \"feb02569-206f-4522-a128-6645cdce8c0e\", \"added_date\": \"2026-10-11T21:34:34.379423\", \"first_added_date\": \"2026-10-11T21:34:34.379423\", \"last_updated\": \"2026-11-01T15:09:39.068116\"}",
     "added_at": "2026-10-11T21:38:14.944720",
     "categories": [
       "9447afc0-f5c9-478a-affa-95bd7dca5e47",
-      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
       "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
       "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
-      "9bba15bc-acc4-4b5b-99ec-1d4e5d758c52",
-      "3fcb323d-233c-438d-88c8-d6555f92bf78",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
   },
@@ -16233,7 +16235,7 @@
     "id": "a363952b-7fa2-4ca1-ad52-fc3cdc761a9b",
     "title": "Car Dealer",
     "description": "Dünyanın en popüler araba galerisini yönet! Müşterilerin ilgisini çekecek araçları galerinde satışa sun. Galerini büyüt ve dünyanın en popüler araba galerisi hâline getir!",
-    "category": "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,d05d2892-20d2-4e9a-a7cc-2c99d7585558,3fcb323d-233c-438d-88c8-d6555f92bf78,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
     "developer": "piratecat games",
     "publisher": "piratecat games",
     "release_date": "29 May 2025",
@@ -16244,12 +16246,14 @@
     "size_gb": 1.29,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-08T22:25:36.131564",
+    "last_updated": "2026-11-16T20:27:56.872498",
     "raw_data": "{\"name\": \"Car Dealer\", \"description\": \"Dünyanın en popüler araba galerisini yönet! Müşterilerin ilgisini çekecek araçları galerinde satışa sun. Galerini büyüt ve dünyanın en popüler araba galerisi hâline getir!\", \"developer\": \"piratecat games\", \"publisher\": \"piratecat games\", \"release_date\": \"29 May 2025\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/af3/af3275f132baa180aab999f7d772ed86.jpg\", \"https://media.rawg.io/media/screenshots/ab4/ab466fec8c01546b872c6cf45dd01411.jpg\", \"https://media.rawg.io/media/screenshots/d52/d5244f377fdc9c24872b3ed03b476983.jpg\", \"https://media.rawg.io/media/screenshots/d7f/d7fde4f91f3a1f68367565298cc620ce.jpg\", \"https://media.rawg.io/media/screenshots/84d/84d6bb02f2d427a9a4722c085a154ee0.jpg\", \"https://media.rawg.io/media/screenshots/416/41666071b1907d084d5f14c16ccfdf0b.jpg\"], \"note\": \"\", \"completion_note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"sys_min\": \"İşletim Sistemi: Windows 7\\nİşlemci: 2.0 Ghz Dual Core\\nBellek: 4 GB RAM\\nEkran Kartı: Intel HD Graphics 4000\\nDepolama: 4 GB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows 10\\nİşlemci: +3.0 GHz Dual Core\\nBellek: 4 GB RAM\\nEkran Kartı: Geforce GTX 750/Radeon RX470\\nDepolama: 5 GB kullanılabilir alan\", \"game_size_gb\": \"1.29\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/af3/af3275f132baa180aab999f7d772ed86.jpg\", \"https://media.rawg.io/media/screenshots/ab4/ab466fec8c01546b872c6cf45dd01411.jpg\", \"https://media.rawg.io/media/screenshots/d52/d5244f377fdc9c24872b3ed03b476983.jpg\", \"https://media.rawg.io/media/screenshots/d7f/d7fde4f91f3a1f68367565298cc620ce.jpg\", \"https://media.rawg.io/media/screenshots/84d/84d6bb02f2d427a9a4722c085a154ee0.jpg\", \"https://media.rawg.io/media/screenshots/416/41666071b1907d084d5f14c16ccfdf0b.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/a363952b-7fa2-4ca1-ad52-fc3cdc761a9b/torrents/Car.Dealer-PLAZA.torrent\", \"label\": \"Car.Dealer-PLAZA\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"7e2cbc31-4e7b-46b6-af72-889492cfda97\"], \"id\": \"a363952b-7fa2-4ca1-ad52-fc3cdc761a9b\", \"added_date\": \"2026-10-11T21:47:08.495339\", \"first_added_date\": \"2026-10-11T21:47:08.495339\", \"last_updated\": \"2026-10-13T23:49:30.475190\"}",
     "added_at": "2026-10-11T21:47:18.881909",
     "categories": [
-      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "3fcb323d-233c-438d-88c8-d6555f92bf78",
+      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9"
     ]
   },
   {
@@ -18038,7 +18042,7 @@
     "id": "8083641d-e159-48d0-aa72-2215d2c521f2",
     "title": "Car Flipper",
     "description": "Car Flipper oyununda karakterinizin kısıtlı bir bütçeyle küçük bir kasabada ikinci el araç alıp satarak sıfırdan ticari bir başarı yakalama çabası anlatılır. Oyunun merkezinde klasik bir senaryo yerine tamamen bu alım satım ve tamir süreci yer alır.",
-    "category": "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,d05d2892-20d2-4e9a-a7cc-2c99d7585558,3fcb323d-233c-438d-88c8-d6555f92bf78,a185dacd-1bf1-4eef-b92a-c1fbd52a85c9",
     "developer": "Dynyx Interactive",
     "publisher": "Dynyx Interactive",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/cover.jpg",
@@ -18048,9 +18052,15 @@
     "size_gb": 11.27,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-16T13:22:09.235372",
+    "last_updated": "2026-11-16T20:27:56.872498",
     "raw_data": "{\"name\": \"Car Flipper\", \"description\": \"Car Flipper oyununda karakterinizin kısıtlı bir bütçeyle küçük bir kasabada ikinci el araç alıp satarak sıfırdan ticari bir başarı yakalama çabası anlatılır. Oyunun merkezinde klasik bir senaryo yerine tamamen bu alım satım ve tamir süreci yer alır.\", \"developer\": \"Dynyx Interactive\", \"publisher\": \"Dynyx Interactive\", \"release_date\": \"12 Kas 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/cover.jpg\", \"banner_image\": \"\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/screenshots/ss_04.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"11.27\", \"sys_min\": \"\", \"sys_recommended\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/cover.jpg\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/8083641d-e159-48d0-aa72-2215d2c521f2/torrents/Car.Flipper.torrent\", \"label\": \"Car.Flipper\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"a185dacd-1bf1-4eef-b92a-c1fbd52a85c9\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\"], \"id\": \"8083641d-e159-48d0-aa72-2215d2c521f2\", \"added_date\": \"2026-11-16T12:59:50.053358\", \"first_added_date\": \"2026-11-16T12:59:50.053358\", \"last_updated\": \"2026-11-16T13:22:09.235372\"}",
-    "added_at": "2026-11-16T13:22:09.235372"
+    "added_at": "2026-11-16T13:22:09.235372",
+    "categories": [
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "3fcb323d-233c-438d-88c8-d6555f92bf78",
+      "a185dacd-1bf1-4eef-b92a-c1fbd52a85c9"
+    ]
   },
   {
     "id": "6436985a-9255-4736-bc12-52c3714df690",
