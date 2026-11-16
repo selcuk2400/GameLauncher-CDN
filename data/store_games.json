@@ -18215,5 +18215,23 @@
       "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ]
+  },
+  {
+    "id": "6add5807-7fc8-41bf-b6ad-69c60782f72a",
+    "title": "Football Referee Life Simulator 26",
+    "description": "Football Referee Life Simulator 26, sabit bir ana hikaye senaryosu yerine oyuncunun kendi kariyerini, itibarını ve ahlaki seçimlerini yazabildiği bir kariyer ve rol yapma (simulation) simülasyonudur.",
+    "category": "dfcdff5a-5338-4dc5-ac40-b93b4ef9f950,563941bf-f212-4e05-a461-b2b887c5021e",
+    "developer": "FIREFOL",
+    "publisher": "FIREFOL",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/cover.jpg",
+    "background_url": "",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/library_hero.jpg",
+    "rating": 0.0,
+    "size_gb": 3.52,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-11-16T23:09:08.719423",
+    "raw_data": "{\"name\": \"Football Referee Life Simulator 26\", \"description\": \"Football Referee Life Simulator 26, sabit bir ana hikaye senaryosu yerine oyuncunun kendi kariyerini, itibarını ve ahlaki seçimlerini yazabildiği bir kariyer ve rol yapma (simulation) simülasyonudur.\", \"developer\": \"FIREFOL\", \"publisher\": \"FIREFOL\", \"release_date\": \"15 Kasım 2026\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/cover.jpg\", \"banner_image\": \"\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/screenshots/ss_04.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"3.52\", \"sys_min\": \"\", \"sys_recommended\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/cover.jpg\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/screenshots/ss_04.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6add5807-7fc8-41bf-b6ad-69c60782f72a/torrents/Football.Referee.Simulator.26.torrent\", \"label\": \"Football.Referee.Simulator.26\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"dfcdff5a-5338-4dc5-ac40-b93b4ef9f950\", \"563941bf-f212-4e05-a461-b2b887c5021e\"], \"id\": \"6add5807-7fc8-41bf-b6ad-69c60782f72a\", \"added_date\": \"2026-11-16T23:05:33.373797\", \"first_added_date\": \"2026-11-16T23:05:33.373797\", \"last_updated\": \"2026-11-16T23:09:08.719423\"}",
+    "added_at": "2026-11-16T23:09:08.719423"
   }
 ]
