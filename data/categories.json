@@ -824,5 +824,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "3fcb323d-233c-438d-88c8-d6555f92bf78"
+  },
+  {
+    "id": "04c0eb75-ec07-4e00-bdcd-823f0a5a164f",
+    "name": "Çiftlik Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
   }
 ]
