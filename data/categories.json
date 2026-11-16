@@ -831,5 +831,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+  },
+  {
+    "id": "d98df607-e298-447c-8975-174ca4da84e5",
+    "name": "Farming Simulator",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "04c0eb75-ec07-4e00-bdcd-823f0a5a164f"
   }
 ]
