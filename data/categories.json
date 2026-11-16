@@ -372,7 +372,7 @@
   },
   {
     "id": "a88ad648-850b-4e2d-b406-8d360d97abaf",
-    "name": "Just Cause 2",
+    "name": "Just Cause",
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
@@ -725,7 +725,7 @@
     "name": "Farming Simulator",
     "icon": "📁",
     "is_default": false,
-    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    "parent_id": "09a9c4f7-6b16-474f-8d55-1f576c9d0483"
   },
   {
     "id": "e6c36bd3-204e-4ac9-a565-b05c8185a93b",
@@ -764,7 +764,7 @@
   },
   {
     "id": "a6b2767c-0858-47a0-ac02-adb196a65877",
-    "name": "UNCHARTED",
+    "name": "Uncharted",
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
@@ -789,5 +789,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": null
+  },
+  {
+    "id": "09a9c4f7-6b16-474f-8d55-1f576c9d0483",
+    "name": "Çiftlik Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
   }
 ]
