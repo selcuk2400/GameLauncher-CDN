@@ -810,5 +810,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "3fcb323d-233c-438d-88c8-d6555f92bf78",
+    "name": "Araç Satış Oyunları",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
   }
 ]
