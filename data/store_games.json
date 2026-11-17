@@ -6894,10 +6894,13 @@
     "added_date": "2026-06-24T07:49:19.413621",
     "first_added_date": "2026-06-24T07:49:19.413621",
     "categories": [
+      "0bda7684-739e-43e9-ad13-4f389433b499",
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "ad9e72c1-8d39-4cfc-8e6d-62ab15b91d0d",
       "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ],
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
-    "last_updated": "2026-11-03T10:28:57.783741"
+    "category": "0bda7684-739e-43e9-ad13-4f389433b499,7e2cbc31-4e7b-46b6-af72-889492cfda97,ad9e72c1-8d39-4cfc-8e6d-62ab15b91d0d,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "last_updated": "2026-11-17T17:27:59.576345"
   },
   {
     "id": "d264f13a-2244-410f-8ea1-47f05acc2bb0",
@@ -18656,7 +18659,7 @@
     "id": "874cf3f0-4d8b-443c-afad-c271478c0218",
     "title": "Car Mechanic Simulator 2015",
     "description": "Car Mechanic Simulator 2015, geleneksel bir senaryoya veya sinematik bir kurguya sahip olmayan, kendi oto tamir atölyenizi kurup büyütmeye odaklanan bir araç tamir ve yönetim simülasyonudur. 2015 yılında Red Dot Games tarafından geliştirilen yapımda temel amacınız, küçük bir dükkânı dev bir servis imparatorluğuna dönüştürmektir.",
-    "category": "",
+    "category": "0bda7684-739e-43e9-ad13-4f389433b499,7e2cbc31-4e7b-46b6-af72-889492cfda97,ad9e72c1-8d39-4cfc-8e6d-62ab15b91d0d,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "PlayWay, Red Dot Games",
     "publisher": "PlayWay, PLAYWAY SPOLKA AKCYJNA",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/cover.png",
@@ -18666,9 +18669,15 @@
     "size_gb": 1.36,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-17T17:03:38.108498",
+    "last_updated": "2026-11-17T17:27:59.576345",
     "raw_data": "{\"name\": \"Car Mechanic Simulator 2015\", \"description\": \"Car Mechanic Simulator 2015, geleneksel bir senaryoya veya sinematik bir kurguya sahip olmayan, kendi oto tamir atölyenizi kurup büyütmeye odaklanan bir araç tamir ve yönetim simülasyonudur. 2015 yılında Red Dot Games tarafından geliştirilen yapımda temel amacınız, küçük bir dükkânı dev bir servis imparatorluğuna dönüştürmektir.\", \"developer\": \"PlayWay, Red Dot Games\", \"publisher\": \"PlayWay, PLAYWAY SPOLKA AKCYJNA\", \"release_date\": \"23 Nis 2015\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/cover.png\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"3\", \"show_hltb\": true, \"game_size_gb\": \"1.36\", \"sys_min\": \"İşletim Sistemi: Windows XP SP3 / Vista / 7 / 8\\nİşlemci: Core i3 3.1 GHz or AMD Phenom II X3 2.8 GHz\\nBellek: 4 GB RAM\\nEkran Kartı: GeForce GTX 560 or Radeon HD6870 with 2GB VRAM\\nDirectX: Version 9.0c\\nDepolama: 8 GB kullanılabilir alan\\nSes Kartı: DirectX compatible\", \"sys_recommended\": \"İşletim Sistemi: Windows XP SP3 / Vista / 7 / 8\\nİşlemci: Core i5-2300 / AMD Athlon X4 760K veya üstü\\nBellek: 8 GB RAM\\nEkran Kartı: GeForce GTX 670 or Radeon HD7970 with 2 GB VRAM\\nDirectX: Version 9.0c\\nDepolama: 8 GB kullanılabilir alan\\nSes Kartı: DirectX compatible\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/cover.png\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/874cf3f0-4d8b-443c-afad-c271478c0218/torrents/Car.Mechanic.Simulator.2015-CODEX.torrent\", \"label\": \"Car.Mechanic.Simulator.2015-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [], \"id\": \"874cf3f0-4d8b-443c-afad-c271478c0218\", \"added_date\": \"2026-11-17T16:44:25.468885\", \"first_added_date\": \"2026-11-17T16:44:25.468885\", \"last_updated\": \"2026-11-17T17:03:38.108498\"}",
-    "added_at": "2026-11-17T17:03:38.108498"
+    "added_at": "2026-11-17T17:03:38.108498",
+    "categories": [
+      "0bda7684-739e-43e9-ad13-4f389433b499",
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "ad9e72c1-8d39-4cfc-8e6d-62ab15b91d0d",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    ]
   },
   {
     "id": "52013c60-62c2-4bd8-8e0a-27860a76501a",
