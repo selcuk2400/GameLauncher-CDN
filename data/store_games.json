@@ -4958,7 +4958,7 @@
     "id": "0916578d-f839-497a-9fc1-ab6a9d9fda00",
     "title": "Farming Simulator 17",
     "description": "Modern bir çiftçinin günlük hayatını deneyimlediğiniz, tarlaları ekip biçtiğiniz ve hayvancılıkla uğraştığınız sakin bir simülasyon oyunudur. 250'den fazla gerçek lisanslı araç (Massey Ferguson, Fendt vb.) ve ilk kez eklenen kadın karakter seçeneğiyle dikkat çeker.\nAna Hikaye Süresi: Hikaye Yok (Simülasyon/Sınırsız)",
-    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,b53fc043-1aeb-409b-b320-ff1463463533,81e9449d-d5fa-4e0e-b044-47301c5622a0",
+    "category": "81e9449d-d5fa-4e0e-b044-47301c5622a0,b53fc043-1aeb-409b-b320-ff1463463533,d5552220-74ec-41ac-a756-aabe6724cb3c,7e2cbc31-4e7b-46b6-af72-889492cfda97,04c0eb75-ec07-4e00-bdcd-823f0a5a164f,d98df607-e298-447c-8975-174ca4da84e5,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Focus Home Interactive, Giants Software",
     "publisher": "Focus Home Interactive",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/cover.jpg",
@@ -4968,9 +4968,18 @@
     "size_gb": 10.0,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-16T02:01:37.866678",
+    "last_updated": "2026-11-17T20:57:43.271785",
     "raw_data": "{\"name\": \"Farming Simulator 17\", \"description\": \"Modern bir çiftçinin günlük hayatını deneyimlediğiniz, tarlaları ekip biçtiğiniz ve hayvancılıkla uğraştığınız sakin bir simülasyon oyunudur. 250'den fazla gerçek lisanslı araç (Massey Ferguson, Fendt vb.) ve ilk kez eklenen kadın karakter seçeneğiyle dikkat çeker.\\nAna Hikaye Süresi: Hikaye Yok (Simülasyon/Sınırsız)\", \"developer\": \"Focus Home Interactive, Giants Software\", \"publisher\": \"Focus Home Interactive\", \"release_date\": \"24 Eki 2016\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"10\", \"sys_min\": \"İşletim Sistemi: Windows 7, Windows 8, Windows 10\\nİşlemci: 2.0 GHz Intel veya eşdeğeri AMD dual-core processor\\nBellek: 2 GB RAM\\nEkran Kartı: Nvidia Geforce GTS 450 Series, AMD Radeon HD 6770 graphics card veya üstü (min 1GB VRAM)\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 6 GB kullanılabilir alan\\nEk Notlar: INTERNET CONNECTION REQUIRED FOR THE ONLINE GAME\", \"sys_recommended\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0916578d-f839-497a-9fc1-ab6a9d9fda00/torrents/Farming.Simulator.17.v1.5.3.1-OFME.torrent\", \"label\": \"Farming.Simulator.17.v1.5.3.1-OFME\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}, {\"url\": \"https://uploads.online-fix.me:2053/uploads/Farming%20Simulator%2017/Fix%20Repair/\", \"label\": \"🔗 Doğrudan Link\", \"type\": \"direct\", \"description\": \"Online çalızmazsa bunu içine atın!\", \"browser_only\": true}], \"info_items\": [{\"key\": \"Şifre\", \"value\": \"online-fix.me\"}], \"categories\": [\"d5552220-74ec-41ac-a756-aabe6724cb3c\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"b53fc043-1aeb-409b-b320-ff1463463533\", \"81e9449d-d5fa-4e0e-b044-47301c5622a0\"], \"id\": \"0916578d-f839-497a-9fc1-ab6a9d9fda00\", \"added_date\": \"2026-06-22T22:36:01.233941\", \"first_added_date\": \"2026-06-22T22:36:01.233941\", \"last_updated\": \"2026-11-16T02:01:37.866678\"}",
-    "added_at": "2026-07-11T14:19:37.021845"
+    "added_at": "2026-07-11T14:19:37.021845",
+    "categories": [
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0",
+      "b53fc043-1aeb-409b-b320-ff1463463533",
+      "d5552220-74ec-41ac-a756-aabe6724cb3c",
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "04c0eb75-ec07-4e00-bdcd-823f0a5a164f",
+      "d98df607-e298-447c-8975-174ca4da84e5",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    ]
   },
   {
     "name": "Farming Simulator 19",
@@ -5034,14 +5043,17 @@
     "id": "86803e2b-2b20-4b2b-86ea-4667fb3a1984",
     "added_date": "2026-06-22T22:37:44.271508",
     "categories": [
-      "d5552220-74ec-41ac-a756-aabe6724cb3c",
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0",
       "b53fc043-1aeb-409b-b320-ff1463463533",
-      "81e9449d-d5fa-4e0e-b044-47301c5622a0"
+      "d5552220-74ec-41ac-a756-aabe6724cb3c",
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "04c0eb75-ec07-4e00-bdcd-823f0a5a164f",
+      "d98df607-e298-447c-8975-174ca4da84e5",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ],
     "first_added_date": "2026-06-22T22:37:44.271508",
-    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,b53fc043-1aeb-409b-b320-ff1463463533,81e9449d-d5fa-4e0e-b044-47301c5622a0",
-    "last_updated": "2026-11-03T10:28:57.783741"
+    "category": "81e9449d-d5fa-4e0e-b044-47301c5622a0,b53fc043-1aeb-409b-b320-ff1463463533,d5552220-74ec-41ac-a756-aabe6724cb3c,7e2cbc31-4e7b-46b6-af72-889492cfda97,04c0eb75-ec07-4e00-bdcd-823f0a5a164f,d98df607-e298-447c-8975-174ca4da84e5,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+    "last_updated": "2026-11-17T20:57:43.271785"
   },
   {
     "name": "PAYDAY 2",
@@ -5319,14 +5331,17 @@
     "id": "39c2efe8-faff-49ac-94af-f1e9de96dcea",
     "added_date": "2026-06-23T19:35:06.850083",
     "categories": [
-      "d5552220-74ec-41ac-a756-aabe6724cb3c",
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0",
       "b53fc043-1aeb-409b-b320-ff1463463533",
-      "81e9449d-d5fa-4e0e-b044-47301c5622a0"
+      "d5552220-74ec-41ac-a756-aabe6724cb3c",
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "04c0eb75-ec07-4e00-bdcd-823f0a5a164f",
+      "d98df607-e298-447c-8975-174ca4da84e5",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
     ],
     "first_added_date": "2026-06-23T19:35:06.850083",
-    "last_updated": "2026-11-03T10:28:57.783741",
-    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,b53fc043-1aeb-409b-b320-ff1463463533,81e9449d-d5fa-4e0e-b044-47301c5622a0"
+    "last_updated": "2026-11-17T20:57:43.271785",
+    "category": "81e9449d-d5fa-4e0e-b044-47301c5622a0,b53fc043-1aeb-409b-b320-ff1463463533,d5552220-74ec-41ac-a756-aabe6724cb3c,7e2cbc31-4e7b-46b6-af72-889492cfda97,04c0eb75-ec07-4e00-bdcd-823f0a5a164f,d98df607-e298-447c-8975-174ca4da84e5,d05d2892-20d2-4e9a-a7cc-2c99d7585558"
   },
   {
     "name": "Starfield",
@@ -17382,7 +17397,7 @@
     "id": "6f6f8ac0-9c65-458c-a2be-a23834680079",
     "title": "Farming Simulator 15",
     "description": "Farming Simulator 15, Giants Software tarafından geliştirilen ve yayınlanan bir tarım ve hayvancılık simülasyonu video oyunudur.",
-    "category": "d5552220-74ec-41ac-a756-aabe6724cb3c,d05d2892-20d2-4e9a-a7cc-2c99d7585558,81e9449d-d5fa-4e0e-b044-47301c5622a0",
+    "category": "81e9449d-d5fa-4e0e-b044-47301c5622a0,d5552220-74ec-41ac-a756-aabe6724cb3c,7e2cbc31-4e7b-46b6-af72-889492cfda97,04c0eb75-ec07-4e00-bdcd-823f0a5a164f,d98df607-e298-447c-8975-174ca4da84e5,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "Giants Software",
     "publisher": "Focus Home Interactive",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/cover.jpg",
@@ -17392,9 +17407,17 @@
     "size_gb": 2.74,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-14T14:05:10.829530",
+    "last_updated": "2026-11-17T20:57:43.271785",
     "raw_data": "{\"name\": \"Farming Simulator 15\", \"description\": \"Farming Simulator 15, Giants Software tarafından geliştirilen ve yayınlanan bir tarım ve hayvancılık simülasyonu video oyunudur.\", \"developer\": \"Giants Software\", \"publisher\": \"Focus Home Interactive\", \"release_date\": \"30 Eki 2014\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://media.rawg.io/media/screenshots/29d/29d46556d4f5bd6bf70a4088146eb664.jpg\", \"https://media.rawg.io/media/screenshots/6c4/6c4d191b9a3dc7e069bc8bca25659052.jpg\", \"https://media.rawg.io/media/screenshots/734/734a35acebb4af0be10b53f277718641.jpg\", \"https://media.rawg.io/media/screenshots/fdb/fdbba9ef08e7fd5d5a7013da44bdd830.jpg\", \"https://media.rawg.io/media/screenshots/f56/f563bb1e9edb91f3a6f202afdb5578b5.jpg\", \"https://media.rawg.io/media/screenshots/243/2430e1c48368324216158f2b164cc476.jpg\"], \"note\": \"\", \"rating\": 7, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"2.74\", \"sys_min\": \"İşletim Sistemi: Microsoft Windows Vista, Windows 7 or Windows 8\\nİşlemci: 2.0 GHz Intel or equal AMD-Processor\\nBellek: 2 GB RAM\\nEkran Kartı: 512 MB OF VIDEO MEMORY ATI RADEON HD 2600/NVIDIA GEFORCE 8600 OR HIGHER\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 3 GB kullanılabilir alan\\nEk Notlar: INTERNET CONNECTION REQUIRED FOR THE ONLINE GAME\", \"sys_recommended\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://media.rawg.io/media/screenshots/29d/29d46556d4f5bd6bf70a4088146eb664.jpg\", \"https://media.rawg.io/media/screenshots/6c4/6c4d191b9a3dc7e069bc8bca25659052.jpg\", \"https://media.rawg.io/media/screenshots/734/734a35acebb4af0be10b53f277718641.jpg\", \"https://media.rawg.io/media/screenshots/fdb/fdbba9ef08e7fd5d5a7013da44bdd830.jpg\", \"https://media.rawg.io/media/screenshots/f56/f563bb1e9edb91f3a6f202afdb5578b5.jpg\", \"https://media.rawg.io/media/screenshots/243/2430e1c48368324216158f2b164cc476.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/6f6f8ac0-9c65-458c-a2be-a23834680079/torrents/Farming.Simulator.15-CODEX.torrent\", \"label\": \"Farming.Simulator.15-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d5552220-74ec-41ac-a756-aabe6724cb3c\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"81e9449d-d5fa-4e0e-b044-47301c5622a0\"], \"id\": \"6f6f8ac0-9c65-458c-a2be-a23834680079\", \"added_date\": \"2026-11-02T09:04:35.479166\", \"first_added_date\": \"2026-11-02T09:04:35.479166\", \"last_updated\": \"2026-11-14T14:05:10.829530\"}",
-    "added_at": "2026-11-02T09:04:47.173993"
+    "added_at": "2026-11-02T09:04:47.173993",
+    "categories": [
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0",
+      "d5552220-74ec-41ac-a756-aabe6724cb3c",
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "04c0eb75-ec07-4e00-bdcd-823f0a5a164f",
+      "d98df607-e298-447c-8975-174ca4da84e5",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    ]
   },
   {
     "id": "fcd0e33d-b861-4ece-b312-c57ff7149ec4",
@@ -17527,7 +17550,7 @@
     "id": "2a98f47c-e882-4766-9bea-543bc74382d1",
     "title": "Farming Simulator 2013",
     "description": "Farming Simulator 2013, Giants Software tarafından geliştirilen ve Focus Home Interactive tarafından yayımlanan, modern çiftçilik dünyasını simüle eden popüler bir çiftlik ve tarım simülasyonu video oyunudur.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,81e9449d-d5fa-4e0e-b044-47301c5622a0",
+    "category": "81e9449d-d5fa-4e0e-b044-47301c5622a0,7e2cbc31-4e7b-46b6-af72-889492cfda97,04c0eb75-ec07-4e00-bdcd-823f0a5a164f,d98df607-e298-447c-8975-174ca4da84e5,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "GIANTS Software",
     "publisher": "Focus Home Interactive",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/cover.jpg",
@@ -17537,9 +17560,16 @@
     "size_gb": 1.51,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-05T14:39:27.226920",
+    "last_updated": "2026-11-17T20:57:43.271785",
     "raw_data": "{\"name\": \"Farming Simulator 2013\", \"description\": \"Farming Simulator 2013, Giants Software tarafından geliştirilen ve Focus Home Interactive tarafından yayımlanan, modern çiftçilik dünyasını simüle eden popüler bir çiftlik ve tarım simülasyonu video oyunudur.\", \"developer\": \"GIANTS Software\", \"publisher\": \"Focus Home Interactive\", \"release_date\": \"25 Ekim 2012\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/cover.jpg\", \"banner_image\": \"\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_05.jpg\"], \"note\": \"\", \"rating\": 3, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"1.51\", \"sys_min\": \"İşletim sistemi :Win XP 32 İşlemci :Pentium 4 2.53GHz ya da Athlon XP 2600+ RAM :1 GB Gerekli Boş Harddisk Alanı: 2 GB Ekran kartı :GeForce 8500 GT ya da Radeon HD 6320(+256MB) Direct X:DX 9\", \"sys_recommended\": \"İşletim sistemi :Win XP 32 İşlemci :Core 2 Duo E4300 1.8GHz ya da Athlon 64 X2 Dual Core 4000+ RAM : 2 GB Gerekli Boş Harddisk Alanı: 2 GB Ekran kartı : GeForce GT 330 ya da Radeon HD 6720G2(+512MB) Direct X:DX 9\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/cover.jpg\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/screenshots/ss_05.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/2a98f47c-e882-4766-9bea-543bc74382d1/torrents/Farming.Simulator.2013.torrent\", \"label\": \"Farming.Simulator.2013\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"81e9449d-d5fa-4e0e-b044-47301c5622a0\"], \"id\": \"2a98f47c-e882-4766-9bea-543bc74382d1\", \"added_date\": \"2026-11-05T14:38:26.556306\", \"first_added_date\": \"2026-11-05T14:38:26.556306\", \"last_updated\": \"2026-11-05T14:39:27.226920\"}",
-    "added_at": "2026-11-05T14:39:27.226920"
+    "added_at": "2026-11-05T14:39:27.226920",
+    "categories": [
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0",
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "04c0eb75-ec07-4e00-bdcd-823f0a5a164f",
+      "d98df607-e298-447c-8975-174ca4da84e5",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    ]
   },
   {
     "id": "fa7856d8-4ed3-41d3-9013-390f4c651fbd",
@@ -17769,7 +17799,7 @@
     "id": "5825f22b-3cb4-4def-88c4-83a4ac67b827",
     "title": "Farming Simulator 2011",
     "description": "Farming Simulator 2011, geleneksel bir senaryo yerine genç bir çiftçinin sıfırdan kendi tarım imparatorluğunu kurma mücadelesini konu alan açık uçlu bir kariyer hikayesine sahiptir. GIANTS Software tarafından geliştirilen yapımda oyuncu, kısıtlı imkanlarla devraldığı bir çiftliği büyüterek bölgenin en başarılı üreticisi olmaya çalışır.",
-    "category": "d05d2892-20d2-4e9a-a7cc-2c99d7585558,81e9449d-d5fa-4e0e-b044-47301c5622a0,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
+    "category": "7e2cbc31-4e7b-46b6-af72-889492cfda97,81e9449d-d5fa-4e0e-b044-47301c5622a0,d05d2892-20d2-4e9a-a7cc-2c99d7585558,04c0eb75-ec07-4e00-bdcd-823f0a5a164f,d98df607-e298-447c-8975-174ca4da84e5,d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1",
     "developer": "GIANTS Software",
     "publisher": "GIANTS Software",
     "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/cover.jpg",
@@ -17779,9 +17809,17 @@
     "size_gb": 0.656,
     "tags": [],
     "is_active": true,
-    "last_updated": "2026-11-14T14:00:12.180047",
+    "last_updated": "2026-11-17T20:57:43.271785",
     "raw_data": "{\"name\": \"Farming Simulator 2011\", \"description\": \"Farming Simulator 2011, geleneksel bir senaryo yerine genç bir çiftçinin sıfırdan kendi tarım imparatorluğunu kurma mücadelesini konu alan açık uçlu bir kariyer hikayesine sahiptir. GIANTS Software tarafından geliştirilen yapımda oyuncu, kısıtlı imkanlarla devraldığı bir çiftliği büyüterek bölgenin en başarılı üreticisi olmaya çalışır.\", \"developer\": \"GIANTS Software\", \"publisher\": \"GIANTS Software\", \"release_date\": \"18 Ekim 2010\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/cover.jpg\", \"banner_image\": \"\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 0, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"0.656\", \"sys_min\": \"\", \"sys_recommended\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/cover.jpg\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/5825f22b-3cb4-4def-88c4-83a4ac67b827/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://www.mediafire.com/file/z2rk2aiql9leza3/Farming.Simulator.2011.rar/file\", \"label\": \"📦 MediaFire\", \"type\": \"mediafire\", \"description\": \"\", \"browser_only\": true}], \"info_items\": [], \"categories\": [\"d05d2892-20d2-4e9a-a7cc-2c99d7585558\", \"81e9449d-d5fa-4e0e-b044-47301c5622a0\", \"d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1\"], \"id\": \"5825f22b-3cb4-4def-88c4-83a4ac67b827\", \"added_date\": \"2026-11-13T22:27:13.782147\", \"first_added_date\": \"2026-11-13T22:27:13.782147\", \"last_updated\": \"2026-11-14T14:00:12.180047\"}",
-    "added_at": "2026-11-13T22:27:50.978359"
+    "added_at": "2026-11-13T22:27:50.978359",
+    "categories": [
+      "7e2cbc31-4e7b-46b6-af72-889492cfda97",
+      "81e9449d-d5fa-4e0e-b044-47301c5622a0",
+      "d05d2892-20d2-4e9a-a7cc-2c99d7585558",
+      "04c0eb75-ec07-4e00-bdcd-823f0a5a164f",
+      "d98df607-e298-447c-8975-174ca4da84e5",
+      "d40ee6fb-2cb6-4b3a-bb3f-a26e8fa160f1"
+    ]
   },
   {
     "id": "e04ff8a6-071a-4eb2-a720-0df669559cd9",
