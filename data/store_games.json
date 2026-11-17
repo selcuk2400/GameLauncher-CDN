@@ -18543,5 +18543,23 @@
       "86ba2a76-c103-4430-b012-3996ccfba233",
       "5c112b26-4d14-49b5-9aef-1a97232e8456"
     ]
+  },
+  {
+    "id": "0f90f951-453b-4537-8c51-70eceea8b10c",
+    "title": "Tom Clancy’s Splinter Cell Blacklist",
+    "description": "Tom Clancy's Splinter Cell Blacklist, Ubisoft Toronto tarafından geliştirilen bir gizli aksiyon oyunudur. Serinin altıncı ana bölümüdür. ###Hikaye Oyun, Mahkumiyet olaylarından altı ay sonra geçiyor. Üçüncü Echelon dağıldı ve Sam Fischer özel güvenlik yüklenicisi oldu.",
+    "category": "5c112b26-4d14-49b5-9aef-1a97232e8456",
+    "developer": "Ubisoft Toronto",
+    "publisher": "Ubisoft Entertainment",
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/cover.jpg",
+    "background_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/banner.jpg",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/library_hero.jpg",
+    "rating": 8.0,
+    "size_gb": 12.55,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-11-17T16:31:43.715311",
+    "raw_data": "{\"name\": \"Tom Clancy’s Splinter Cell Blacklist\", \"description\": \"Tom Clancy's Splinter Cell Blacklist, Ubisoft Toronto tarafından geliştirilen bir gizli aksiyon oyunudur. Serinin altıncı ana bölümüdür. ###Hikaye Oyun, Mahkumiyet olaylarından altı ay sonra geçiyor. Üçüncü Echelon dağıldı ve Sam Fischer özel güvenlik yüklenicisi oldu.\", \"developer\": \"Ubisoft Toronto\", \"publisher\": \"Ubisoft Entertainment\", \"release_date\": \"20 Ağu 2013\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/cover.jpg\", \"banner_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/banner.jpg\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/screenshots/ss_03.jpg\"], \"note\": \"\", \"rating\": 8, \"hltb_hours\": \"10\", \"show_hltb\": true, \"game_size_gb\": \"12.55\", \"sys_min\": \"\", \"sys_recommended\": \"\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/cover.jpg\", \"banner_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/banner.jpg\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/screenshots/ss_03.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/0f90f951-453b-4537-8c51-70eceea8b10c/torrents/Splinter.Cell.Blacklist-RELOADED.torrent\", \"label\": \"Splinter.Cell.Blacklist-RELOADED\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5c112b26-4d14-49b5-9aef-1a97232e8456\"], \"id\": \"0f90f951-453b-4537-8c51-70eceea8b10c\", \"added_date\": \"2026-11-17T16:29:42.240999\", \"first_added_date\": \"2026-11-17T16:29:42.240999\", \"last_updated\": \"2026-11-17T16:31:43.715311\"}",
+    "added_at": "2026-11-17T16:31:43.715311"
   }
 ]
