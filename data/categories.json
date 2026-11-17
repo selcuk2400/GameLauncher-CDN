@@ -887,5 +887,26 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
+  },
+  {
+    "id": "0bda7684-739e-43e9-ad13-4f389433b499",
+    "name": "Car Mechanic Simulator",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+  },
+  {
+    "id": "ad9e72c1-8d39-4cfc-8e6d-62ab15b91d0d",
+    "name": "Car Mechanic Simulator",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+  },
+  {
+    "id": "59e62dfc-6bcb-43f8-b02f-410e13f9d745",
+    "name": "Medal of Honor",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5c112b26-4d14-49b5-9aef-1a97232e8456"
   }
 ]
