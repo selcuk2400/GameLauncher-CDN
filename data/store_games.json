@@ -9070,69 +9070,22 @@
     "last_updated": "2026-07-08T20:57:29.217091"
   },
   {
-    "name": "Construction Simulator 2015",
+    "id": "9b469461-0b79-4e4a-8ee2-58069e99bdd6",
+    "title": "Construction Simulator 2015",
     "description": "İçerik Genel Bakış Deluxe Edition içeriğiDeluxe Edition İçeriği Başarılı Construction Simulator 2015'in tam sürümüne ek olarak Deluxe Edition size şu anda piyasaya sürülen tüm DLC'leri ve inşaat araçlarını sunar: 1. DLC: Liebherr 150 EC-B 2. DLC: Liebherr LB 28 3.",
+    "category": "5aca56b7-d3d9-4984-9305-23c95edcf585,d05d2892-20d2-4e9a-a7cc-2c99d7585558",
     "developer": "astragon Entertainment, weltenbauer. Software Entwicklung",
     "publisher": "Astragon Entertainment",
-    "release_date": "18 Kas 2014",
-    "tags": [
-      "Action",
-      "Simulation",
-      "Casual",
-      "Singleplayer",
-      "Steam Achievements",
-      "Multiplayer",
-      "Steam Cloud",
-      "Co-op"
-    ],
-    "cover_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\883875b8e34d6d0c12a3ceef4f951b5b.png",
-    "banner_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\6827d4c991edfaa248ec7c1f00db982f.jpg",
-    "library_hero_image": "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\6827d4c991edfaa248ec7c1f00db982f.jpg",
-    "screenshots": [
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\45e077c7d4a7a6c0e7aae65a914e7bd5.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\30fab531cbe63e51f2f52532fab0659e.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\eb5e60c983bed6e9c3f313b3eea0ac22.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\3fb7f8eb8530d3b5ae72077df6a1b38d.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\5964fdb533c37bc6042441983c69d515.jpg",
-      "C:\\Users\\Seljuk\\AppData\\Local\\Temp\\gamelauncher_rawg_cache\\9cac2ea6c1e2b24e82aca9b15fbe66ee.jpg"
-    ],
-    "note": "",
-    "rating": 6,
-    "hltb_hours": "",
-    "show_hltb": true,
-    "sys_min": "İşletim Sistemi: Windows Vista/7/8\nİşlemci: Dual-Core Processor with 2.4 GHz\nBellek: 4 GB RAM\nEkran Kartı: DirectX 9 compatible graphics card with 1 GB VRAM (Geforce 460 veya üstü | ATI Radeon HD 57xx veya üstü)\nDirectX: Version 9.0\nAğ: Geniş bant internet bağlantısı\nDepolama: 4500 MB kullanılabilir alan",
-    "sys_recommended": "İşletim Sistemi: Windows Vista/7/8\nİşlemci: Dual or Quad-Core Processor with 3 GHz veya üstü recommended\nBellek: 4 GB RAM\nEkran Kartı: DirectX 9 compatible graphics card with 2 GB+ RAM (Geforce GTX 660 veya üstü | ATI Radeon HD 68xx, 77xx veya üstü)\nDirectX: Version 9.0\nAğ: Geniş bant internet bağlantısı\nDepolama: 4500 MB kullanılabilir alan",
-    "game_size_gb": "3",
-    "cover_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/cover.jpg",
-    "banner_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/banner.jpg",
-    "library_hero_image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/library_hero.jpg",
-    "screenshot_urls": [
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_01.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_02.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_03.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_04.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_05.jpg",
-      "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_06.jpg"
-    ],
-    "download_links": [
-      {
-        "url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/torrents/Construction.Simulator.2015-CODEX.torrent",
-        "label": "Construction.Simulator.2015-CODEX",
-        "type": "Torrent",
-        "description": "",
-        "browser_only": false
-      }
-    ],
-    "info_items": [],
-    "id": "9b469461-0b79-4e4a-8ee2-58069e99bdd6",
-    "added_date": "2026-06-26T19:10:40.568131",
-    "first_added_date": "2026-06-26T19:10:40.568131",
-    "categories": [
-      "5aca56b7-d3d9-4984-9305-23c95edcf585",
-      "d05d2892-20d2-4e9a-a7cc-2c99d7585558"
-    ],
-    "last_updated": "2026-07-08T20:57:29.217091",
-    "category": "5aca56b7-d3d9-4984-9305-23c95edcf585,d05d2892-20d2-4e9a-a7cc-2c99d7585558"
+    "image_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/cover.jpg",
+    "background_url": "",
+    "logo_url": "https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/library_hero.jpg",
+    "rating": 6.0,
+    "size_gb": 3.0,
+    "tags": [],
+    "is_active": true,
+    "last_updated": "2026-11-18T00:26:52.418170",
+    "raw_data": "{\"name\": \"Construction Simulator 2015\", \"description\": \"İçerik Genel Bakış Deluxe Edition içeriğiDeluxe Edition İçeriği Başarılı Construction Simulator 2015'in tam sürümüne ek olarak Deluxe Edition size şu anda piyasaya sürülen tüm DLC'leri ve inşaat araçlarını sunar: 1. DLC: Liebherr 150 EC-B 2. DLC: Liebherr LB 28 3.\", \"developer\": \"astragon Entertainment, weltenbauer. Software Entwicklung\", \"publisher\": \"Astragon Entertainment\", \"release_date\": \"18 Kas 2014\", \"cover_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/cover.jpg\", \"banner_image\": \"\", \"library_hero_image\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/library_hero.jpg\", \"icon_image\": \"\", \"screenshots\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_06.jpg\"], \"note\": \"\", \"rating\": 6, \"hltb_hours\": \"\", \"show_hltb\": false, \"game_size_gb\": \"3\", \"sys_min\": \"İşletim Sistemi: Windows Vista/7/8\\nİşlemci: Dual-Core Processor with 2.4 GHz\\nBellek: 4 GB RAM\\nEkran Kartı: DirectX 9 compatible graphics card with 1 GB VRAM (Geforce 460 veya üstü | ATI Radeon HD 57xx veya üstü)\\nDirectX: Version 9.0\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 4500 MB kullanılabilir alan\", \"sys_recommended\": \"İşletim Sistemi: Windows Vista/7/8\\nİşlemci: Dual or Quad-Core Processor with 3 GHz veya üstü recommended\\nBellek: 4 GB RAM\\nEkran Kartı: DirectX 9 compatible graphics card with 2 GB+ RAM (Geforce GTX 660 veya üstü | ATI Radeon HD 68xx, 77xx veya üstü)\\nDirectX: Version 9.0\\nAğ: Geniş bant internet bağlantısı\\nDepolama: 4500 MB kullanılabilir alan\", \"cover_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/cover.jpg\", \"banner_image_url\": \"\", \"library_hero_image_url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/library_hero.jpg\", \"icon_image_url\": \"\", \"screenshot_urls\": [\"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_01.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_02.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_03.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_04.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_05.jpg\", \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/screenshots/ss_06.jpg\"], \"download_links\": [{\"url\": \"https://raw.githubusercontent.com/selcuk2400/GameLauncher-CDN/main/storage/games/9b469461-0b79-4e4a-8ee2-58069e99bdd6/torrents/Construction.Simulator.2015-CODEX.torrent\", \"label\": \"Construction.Simulator.2015-CODEX\", \"type\": \"Torrent\", \"description\": \"\", \"browser_only\": false}], \"info_items\": [], \"categories\": [\"5aca56b7-d3d9-4984-9305-23c95edcf585\", \"d05d2892-20d2-4e9a-a7cc-2c99d7585558\"], \"id\": \"9b469461-0b79-4e4a-8ee2-58069e99bdd6\", \"added_date\": \"2026-06-26T19:10:40.568131\", \"first_added_date\": \"2026-06-26T19:10:40.568131\", \"last_updated\": \"2026-11-18T00:26:52.418170\"}",
+    "added_at": "2026-11-18T00:26:52.418170"
   },
   {
     "id": "870bcf6f-b7ec-476b-ad05-ef8dc1c659a0",
