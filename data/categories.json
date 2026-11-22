@@ -915,5 +915,12 @@
     "icon": "📁",
     "is_default": false,
     "parent_id": "7e2cbc31-4e7b-46b6-af72-889492cfda97"
+  },
+  {
+    "id": "62bb6a4d-3853-4f45-8a0d-33f7a4f2cf88",
+    "name": "Tekken",
+    "icon": "📁",
+    "is_default": false,
+    "parent_id": "5f38c3a3-44d1-488e-a5de-a4d95c742ab5"
   }
 ]
